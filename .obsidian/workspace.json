@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "68dc67230f03eedb",
+        "id": "edc05e20524aa391",
         "type": "tabs",
         "children": [
           {
-            "id": "a3be9935654a05f8",
+            "id": "cb4c8e7fe0cc01a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "como mover archivos de una carpeta a otra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65e55fe60a14b131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comandos basicos.md",
+                "file": "NMAP Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comandos basicos.md",
+                "file": "NMAP Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comandos basicos.md",
+                "file": "NMAP Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comandos basicos.md"
+                "file": "NMAP Cheat Sheet.md"
               }
             }
           }
@@ -159,15 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65e55fe60a14b131",
+  "active": "cb4c8e7fe0cc01a9",
   "lastOpenFiles": [
-    "como mover archivos de una carpeta a otra.md",
+    "manual de herramientas.md",
+    "NMAP Cheat Sheet.md",
+    "Rutina Matutina.md",
+    "comandos basicos nivel 2.md",
     "comandos basicos.md",
+    "inicializar base de datos de metasploit.md",
+    "como mover archivos de una carpeta a otra.md",
     "como copiar archivos de una carpeta a otra.md",
-    "como sincronizar archivos de una carpeta a otra.md",
-    "como habilitar paqueteria snap.md",
-    "como habilitar el bluetooth.md",
     "como eliminar carpeta.md",
+    "como habilitar el bluetooth.md",
+    "como habilitar paqueteria snap.md",
+    "como sincronizar archivos de una carpeta a otra.md",
     "2024-05-10.md",
     "Untitled.canvas",
     "Comandos Basicos.md"
