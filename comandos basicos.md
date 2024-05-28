@@ -1,22 +1,25 @@
 1. `ls`: Muestra la lista de archivos y directorios en el directorio actual.
-2. `cd`: Cambia el directorio de trabajo actual.
-3. `mkdir`: Crea un nuevo directorio.
-4. `rmdir`: Elimina un directorio.
-5. `mv`: Mueve un archivo.
-6. `cp`: Copia un archivo.
-7. `touch`: Crea un nuevo archivo.
-8. `grep`: Busca una palabra en un archivo.
-9. `man`: Muestra el manual de un comando.
-10. `ping`: Verifica la conexión a internet.
-11. `ifconfig`: Muestra los detalles de la interfaz de red.
-12. `wget`: Descarga un archivo.
-13. `sudo apt install`: Instala un paquete.
-14. `sudo apt remove`: Elimina un paquete.
-15. `sudo apt upgrade`: Actualiza los paquetes en el sistema.
-16. `sudo apt update`: Obtiene las actualizaciones de los paquetes.
-17. `whoami`: Muestra el nombre de usuario actual.
-18. `sudo su`: Cambia el usuario actual a super usuario o root.
-19. `pwd`: Muestra la ruta del directorio actual.
-20. `nano`: Editor de texto en la terminal.
-21. `chmod`: Cambia los permisos de un archivo o directorio.
-22. `passwd`: Cambiar contraseña.
+2. `ls -l`: Lista con formato largo, mostrando detalles como permisos, número de enlaces, propietario, grupo, tamaño y fecha de modificación.
+3. `ls -1`: Lista los archivos y directorios en una sola columna, es decir, cada nombre de archivo o directorio se muestra en una línea separada.
+4. `cd`: Cambia el directorio de trabajo actual.
+5. `mkdir`: Crea un nuevo directorio.
+6. `rmdir`: Elimina un directorio.
+7. `mv`: Mueve un archivo.
+8. `cp`: Copia un archivo.
+9. `touch`: Crea un nuevo archivo.
+10. `grep`: Busca una palabra en un archivo.
+11. `man`: Muestra el manual de un comando.
+12. `ping`: Verifica la conexión a internet.
+13. `ifconfig`: Muestra los detalles de la interfaz de red.
+14. `wget`: Descarga un archivo.
+15. `sudo apt install`: Instala un paquete.
+16. `sudo apt remove`: Elimina un paquete.
+17. `sudo apt upgrade`: Actualiza los paquetes en el sistema.
+18. `sudo apt update`: Obtiene las actualizaciones de los paquetes.
+19. `whoami`: Muestra el nombre de usuario actual.
+20. `sudo su`: Cambia el usuario actual a super usuario o root.
+21. `pwd`: Muestra la ruta del directorio actual.
+22. `nano`: Editor de texto en la terminal.
+23. `chmod`: Cambia los permisos de un archivo o directorio.
+24. `passwd`: Cambiar contraseña.
+25. `--help`: Proporciona una breve descripción de la funcionalidad de los comandos y sus opciones.

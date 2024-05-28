@@ -1,14 +1,14 @@
 ### Escaneo de IPs y Redes
 
-|Opción|Ejemplo|Descripción|
-|---|---|---|
-||nmap 192.168.50.1|Escanear una IP única|
-||nmap 192.168.50.1 192.168.2.1|Escanear IPs específicas|
-||nmap 192.168.50.1-254|Escanear un rango|
-||nmap scanme.nmap.org|Escanear un dominio|
-||nmap 192.168.50.0/24|Escanear usando notación CIDR|
-|-iL|nmap -iL targets.txt|Escanear objetivos desde un archivo|
-|--exclude|nmap --exclude 192.168.50.1|Excluir hosts listados|
+| Opción    | Ejemplo                       | Descripción                         |
+| --------- | ----------------------------- | ----------------------------------- |
+|           | nmap 192.168.50.1             | Escanear una IP única               |
+|           | nmap 192.168.50.1 192.168.2.1 | Escanear IPs específicas            |
+|           | nmap 192.168.50.1-254         | Escanear un rango                   |
+|           | nmap scanme.nmap.org          | Escanear un dominio                 |
+|           | nmap 192.168.50.0/24          | Escanear usando notación CIDR       |
+| -iL       | nmap -iL targets.txt          | Escanear objetivos desde un archivo |
+| --exclude | nmap --exclude 192.168.50.1   | Excluir hosts listados              |
 
 ### Tipos de Escaneo
 
