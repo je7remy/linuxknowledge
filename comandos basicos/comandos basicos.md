@@ -23,3 +23,6 @@
 23. `chmod`: Cambia los permisos de un archivo o directorio.
 24. `passwd`: Cambiar contraseña.
 25. `--help`: Proporciona una breve descripción de la funcionalidad de los comandos y sus opciones.
+26. `su` (Switch user): Permite cambiar a otro usuario o asumir el rol de superusuario, Ejemplo: `su nombre_usuario` o `su -` (cambia a superusuario).
+27. `who`: Muestra información sobre los usuarios que están actualmente conectados al sistema.
+28. `w`: Proporciona información más detallada sobre los usuarios que están conectados y sus actividades.
