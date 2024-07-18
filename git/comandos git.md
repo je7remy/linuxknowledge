@@ -31,3 +31,5 @@ tags:
 |`git fetch`|`git fetch origin`|Descarga información sobre ramas y commits desde un repositorio remoto.|
 |`git pull`|`git pull origin rama`|Descarga cambios desde un repositorio remoto a tu rama local y fusiona automáticamente.|
 |`git push`|`git push origin rama`|Envía cambios locales a un repositorio remoto en la rama especificada.|
+
+ - 
