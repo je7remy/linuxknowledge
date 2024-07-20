@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85ba924745f02988",
+        "id": "ff7fbe3f477efa02",
         "type": "tabs",
         "children": [
           {
-            "id": "67c2a865437420d9",
+            "id": "d40318724df575c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cracking/hoja de trucos de HASHCAT.md",
+                "file": "Python/Ejecutar archivo instalado con python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cracking/hoja de trucos de HASHCAT.md",
+                "file": "Python/Ejecutar archivo instalado con python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cracking/hoja de trucos de HASHCAT.md",
+                "file": "Python/Ejecutar archivo instalado con python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cracking/hoja de trucos de HASHCAT.md"
+                "file": "Python/Ejecutar archivo instalado con python.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67c2a865437420d9",
+  "active": "d40318724df575c9",
   "lastOpenFiles": [
+    "Python/Pip3.md",
+    "Python/Ejecutar archivo instalado con python.md",
+    "git/comandos git.md",
+    "Python",
+    "Untitled.md",
+    "cracking/hoja de trucos de HASHCAT.md",
     "comandos basicos/terminal.md",
     "comandos basicos/Gestion de Permisos Linux con Numeros.md",
     "comandos basicos/como sincronizar archivos de una carpeta a otra.md",
@@ -171,11 +177,6 @@
     "comandos basicos.md",
     "comandos basicos nivel 2.md",
     "hoja de trucos de HASHCAT.md",
-    "hoja de trucos NMAP.md",
-    "hoja de trucos de METASPLOIT.md",
-    "Untitled.canvas",
-    "manual de herramientas.md",
-    "Rutina Matutina.md",
-    "2024-05-10.md"
+    "Untitled.canvas"
   ]
 }
