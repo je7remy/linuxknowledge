@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7fbe3f477efa02",
+        "id": "4efcc9a2d238e166",
         "type": "tabs",
         "children": [
           {
-            "id": "d40318724df575c9",
+            "id": "b6a3fff0183ec340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Ejecutar archivo instalado con python.md",
+                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Ejecutar archivo instalado con python.md",
+                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Ejecutar archivo instalado con python.md",
+                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Ejecutar archivo instalado con python.md"
+                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md"
               }
             }
           }
@@ -146,37 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d40318724df575c9",
+  "active": "b6a3fff0183ec340",
   "lastOpenFiles": [
-    "Python/Pip3.md",
-    "Python/Ejecutar archivo instalado con python.md",
-    "git/comandos git.md",
-    "Python",
+    "teoria de ciberseguridad/Untitled.md",
+    "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
+    "teoria de ciberseguridad/14- Prueba de lápiz interno.md",
+    "teoria de ciberseguridad/13- Dispositivos de seguridad.md",
+    "teoria de ciberseguridad/12- Social Sharing.md",
+    "teoria de ciberseguridad/11- Proteja sus datos.md",
+    "teoria de ciberseguridad/1- Qué quieren los hackers.md",
+    "teoria de ciberseguridad/10- Configuración de privacidad.md",
+    "teoria de ciberseguridad/9- Política de uso de datos.md",
+    "teoria de ciberseguridad/8- Términos del servicio.md",
+    "teoria de ciberseguridad/7- Mantenimiento de datos.md",
+    "teoria de ciberseguridad/6- Protegiendo sus dispositivos y su red.md",
+    "teoria de ciberseguridad/5- Aprovechamiento de las vulnerabilidades de seguridad.md",
+    "teoria de ciberseguridad/4- Tiempos de craqueo.md",
+    "teoria de ciberseguridad/3- Descifrado de contraseñas de Wi-Fi.md",
+    "teoria de ciberseguridad/2- De qué color es mi sombrero.md",
+    "teoria de ciberseguridad/2.md",
+    "teoria de ciberseguridad/1.md",
     "Untitled.md",
-    "cracking/hoja de trucos de HASHCAT.md",
+    "comandos basicos/como eliminar carpeta.md",
+    "teoria de ciberseguridad",
+    "comandos basicos/comandos basicos.md",
+    "comandos basicos/Asignación de permisos en Linux.md",
+    "Extraer Metadatos de imagenes/Extraer Metadatos.md",
     "comandos basicos/terminal.md",
     "comandos basicos/Gestion de Permisos Linux con Numeros.md",
     "comandos basicos/como sincronizar archivos de una carpeta a otra.md",
-    "comandos basicos/como mover archivos de una carpeta a otra.md",
-    "comandos basicos/como eliminar carpeta.md",
-    "comandos basicos/como copiar archivos de una carpeta a otra.md",
-    "comandos basicos/comandos basicos nivel 2.md",
-    "comandos basicos/comandos basicos.md",
-    "Bases de Datos/SQL.md",
-    "activie directory/OSINT.md",
-    "redes basico/Puertos Principales.md",
+    "Extraer Metadatos de imagenes",
+    "Python",
     "redes basico",
     "Nueva carpeta",
-    "comandos basicos/Terminal.md",
-    "como sincronizar archivos de una carpeta a otra.md",
-    "como mover archivos de una carpeta a otra.md",
-    "como habilitar paqueteria snap.md",
-    "como habilitar el bluetooth.md",
-    "como eliminar carpeta.md",
-    "como copiar archivos de una carpeta a otra.md",
-    "comandos basicos.md",
-    "comandos basicos nivel 2.md",
-    "hoja de trucos de HASHCAT.md",
     "Untitled.canvas"
   ]
 }
