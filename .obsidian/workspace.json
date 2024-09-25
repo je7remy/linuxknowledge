@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
+                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
+                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
+                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md"
+                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md"
               }
             }
           }
@@ -148,13 +148,25 @@
   },
   "active": "b6a3fff0183ec340",
   "lastOpenFiles": [
-    "teoria de ciberseguridad/Untitled.md",
+    "hacking curso super completo/5- Por qué debemos seguir una metodología para las pruebas de penetración.md",
+    "hacking curso super completo/4- Actores y amenazas.md",
+    "hacking curso super completo/3- Por qué necesitamos hacer pruebas de penetración.md",
+    "hacking curso super completo/2- Descripción General.md",
+    "hacking curso super completo/1- Qué aprenderé en este curso.md",
+    "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
+    "hacking/hosts/FTP.md",
+    "Pasted image 20240807130649.png",
+    "Pasted image 20240806133131.png",
+    "Pasted image 20240806133054.png",
     "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
+    "teoria de ciberseguridad/2- De qué color es mi sombrero.md",
+    "teoria de ciberseguridad/1- Qué quieren los hackers.md",
+    "hacking curso super completo",
+    "teoria de ciberseguridad/Untitled.md",
     "teoria de ciberseguridad/14- Prueba de lápiz interno.md",
     "teoria de ciberseguridad/13- Dispositivos de seguridad.md",
     "teoria de ciberseguridad/12- Social Sharing.md",
     "teoria de ciberseguridad/11- Proteja sus datos.md",
-    "teoria de ciberseguridad/1- Qué quieren los hackers.md",
     "teoria de ciberseguridad/10- Configuración de privacidad.md",
     "teoria de ciberseguridad/9- Política de uso de datos.md",
     "teoria de ciberseguridad/8- Términos del servicio.md",
@@ -163,18 +175,10 @@
     "teoria de ciberseguridad/5- Aprovechamiento de las vulnerabilidades de seguridad.md",
     "teoria de ciberseguridad/4- Tiempos de craqueo.md",
     "teoria de ciberseguridad/3- Descifrado de contraseñas de Wi-Fi.md",
-    "teoria de ciberseguridad/2- De qué color es mi sombrero.md",
     "teoria de ciberseguridad/2.md",
     "teoria de ciberseguridad/1.md",
     "Untitled.md",
-    "comandos basicos/como eliminar carpeta.md",
     "teoria de ciberseguridad",
-    "comandos basicos/comandos basicos.md",
-    "comandos basicos/Asignación de permisos en Linux.md",
-    "Extraer Metadatos de imagenes/Extraer Metadatos.md",
-    "comandos basicos/terminal.md",
-    "comandos basicos/Gestion de Permisos Linux con Numeros.md",
-    "comandos basicos/como sincronizar archivos de una carpeta a otra.md",
     "Extraer Metadatos de imagenes",
     "Python",
     "redes basico",
