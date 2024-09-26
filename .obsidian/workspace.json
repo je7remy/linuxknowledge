@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
+                "file": "hacking curso super completo/7- Comparar metodologías de pentesting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
+                "file": "hacking curso super completo/7- Comparar metodologías de pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
+                "file": "hacking curso super completo/7- Comparar metodologías de pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md"
+                "file": "hacking curso super completo/7- Comparar metodologías de pentesting.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "b6a3fff0183ec340",
   "lastOpenFiles": [
+    "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
+    "hacking curso super completo/7- Comparar metodologías de pentesting.md",
     "hacking curso super completo/5- Por qué debemos seguir una metodología para las pruebas de penetración.md",
     "hacking curso super completo/4- Actores y amenazas.md",
     "hacking curso super completo/3- Por qué necesitamos hacer pruebas de penetración.md",
+    "hacking curso super completo/2.1- Descripción General.png",
     "hacking curso super completo/2- Descripción General.md",
+    "hacking curso super completo/1.2 Qué aprenderé en este curso.png",
+    "hacking curso super completo/1.1 Qué aprenderé en este curso.png",
     "hacking curso super completo/1- Qué aprenderé en este curso.md",
-    "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
     "hacking/hosts/FTP.md",
-    "Pasted image 20240807130649.png",
-    "Pasted image 20240806133131.png",
-    "Pasted image 20240806133054.png",
     "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
     "teoria de ciberseguridad/2- De qué color es mi sombrero.md",
     "teoria de ciberseguridad/1- Qué quieren los hackers.md",
@@ -177,7 +178,6 @@
     "teoria de ciberseguridad/3- Descifrado de contraseñas de Wi-Fi.md",
     "teoria de ciberseguridad/2.md",
     "teoria de ciberseguridad/1.md",
-    "Untitled.md",
     "teoria de ciberseguridad",
     "Extraer Metadatos de imagenes",
     "Python",
