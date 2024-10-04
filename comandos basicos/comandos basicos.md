@@ -26,3 +26,4 @@
 26. `su` (Switch user): Permite cambiar a otro usuario o asumir el rol de superusuario, Ejemplo: `su nombre_usuario` o `su -` (cambia a superusuario).
 27. `who`: Muestra información sobre los usuarios que están actualmente conectados al sistema.
 28. `w`: Proporciona información más detallada sobre los usuarios que están conectados y sus actividades.
+29. `history`: `(!his)`El **historial** de comandos le permite ver todos los comandos que ha utilizado recientemente en el mismo terminal, (Puede usar una combinación del signo de exclamación (!) y el número de historial o la cadena de comandos para repetir los comandos usados anteriormente.)

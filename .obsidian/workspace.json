@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6a3fff0183ec340",
+            "id": "88555fa659bb36a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking curso super completo/8- Construyendo mi propio laboratorio.md",
+                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hacking curso super completo/8- Construyendo mi propio laboratorio.md",
+                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hacking curso super completo/8- Construyendo mi propio laboratorio.md",
+                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hacking curso super completo/8- Construyendo mi propio laboratorio.md"
+                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md"
               }
             }
           }
@@ -146,40 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6a3fff0183ec340",
+  "active": "88555fa659bb36a9",
   "lastOpenFiles": [
-    "hacking curso super completo/7- Comparar metodologías de pentesting.md",
-    "hacking curso super completo/8- Construyendo mi propio laboratorio.md",
-    "hacking curso super completo/2.1- Descripción General.png",
-    "hacking curso super completo/3- Por qué necesitamos hacer pruebas de penetración.md",
-    "hacking curso super completo/4- Actores y amenazas.md",
-    "hacking curso super completo/5- Por qué debemos seguir una metodología para las pruebas de penetración.md",
-    "hacking curso super completo/6- Levantamiento de diferentes normas y metodologías.md",
-    "hacking curso super completo/8.3- Requisito o directriz.png",
+    "hacking intermedio/modulo 1/8- Construyendo mi propio laboratorio.md",
+    "hacking intermedio/modulo 1/8.3- Requisito o directriz.png",
+    "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
+    "hacking intermedio/modulo 1/2- Descripción General.md",
+    "hacking intermedio/modulo 2/1- Qué aprenderé en este curso.md",
+    "hacking intermedio/modulo 1/3- Por qué necesitamos hacer pruebas de penetración.md",
+    "hacking intermedio/modulo 1/2.1- Descripción General.png",
+    "hacking intermedio/modulo 1/1.2- Qué aprenderé en este curso.png",
+    "hacking intermedio/modulo 2/1.1- Qué aprenderé en este curso.png",
+    "hacking intermedio/modulo 1/1- Qué aprenderé en este curso.md",
+    "hacking intermedio/modulo 1/1.1- Qué aprenderé en este curso.png",
+    "hacking intermedio/modulo 1/Conclusiones.md",
+    "hacking intermedio/modulo 2",
+    "hacking intermedio/modulo 1/4- Actores y amenazas.md",
+    "hacking intermedio/modulo 1/8.2- Figura 1-2.png",
+    "hacking intermedio/modulo 1",
+    "hacking basico/hosts/SNMP.md",
+    "hacking basico/hosts/RDP.md",
+    "hacking basico/hosts/Oracle TNS.md",
+    "hacking basico/hosts/MySQL.md",
+    "hacking basico/hosts/FTP.md",
     "hacking basico/basico/Metasploit.md",
     "hacking basico/basico/hoja de trucos de METASPLOIT.md",
     "hacking basico/basico/escalada de privilegios.md",
     "hacking basico/basico/basic tools.md",
-    "hacking curso super completo/8.2- Figura 1-2.png",
-    "hacking curso super completo/8.1- Figura 1-1.png",
-    "hacking curso super completo/1.2- Qué aprenderé en este curso.png",
-    "hacking curso super completo/2- Descripción General.md",
-    "hacking curso super completo/1.1- Qué aprenderé en este curso.png",
-    "hacking curso super completo/1- Qué aprenderé en este curso.md",
-    "hacking basico/hosts/FTP.md",
-    "teoria de ciberseguridad/15- Enfoque de Cisco para la ciberseguridad.md",
+    "teoria de ciberseguridad/7- Mantenimiento de datos.md",
+    "teoria de ciberseguridad/6- Protegiendo sus dispositivos y su red.md",
+    "teoria de ciberseguridad/5- Aprovechamiento de las vulnerabilidades de seguridad.md",
+    "teoria de ciberseguridad/4- Tiempos de craqueo.md",
+    "teoria de ciberseguridad/3- Descifrado de contraseñas de Wi-Fi.md",
     "teoria de ciberseguridad/2- De qué color es mi sombrero.md",
     "teoria de ciberseguridad/1- Qué quieren los hackers.md",
-    "hacking curso super completo",
-    "teoria de ciberseguridad/Untitled.md",
-    "teoria de ciberseguridad/14- Prueba de lápiz interno.md",
-    "teoria de ciberseguridad/13- Dispositivos de seguridad.md",
-    "teoria de ciberseguridad/12- Social Sharing.md",
-    "teoria de ciberseguridad/11- Proteja sus datos.md",
-    "teoria de ciberseguridad/10- Configuración de privacidad.md",
-    "teoria de ciberseguridad/9- Política de uso de datos.md",
-    "teoria de ciberseguridad/8- Términos del servicio.md",
-    "teoria de ciberseguridad/7- Mantenimiento de datos.md",
+    "comandos basicos/comandos basicos.md",
+    "hacking intermedio/modulo 1/8.1- Figura 1-1.png",
+    "hacking intermedio",
     "teoria de ciberseguridad",
     "Extraer Metadatos de imagenes",
     "Python",
