@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
+                "file": "hacking intermedio/modulo 2/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 319.5
   },
   "right": {
     "id": "81c1016573cc3f98",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
+                "file": "hacking intermedio/modulo 2/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
+                "file": "hacking intermedio/modulo 2/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md"
+                "file": "hacking intermedio/modulo 2/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "88555fa659bb36a9",
   "lastOpenFiles": [
-    "hacking intermedio/modulo 2/p.md",
     "hacking intermedio/modulo 2/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
+    "hacking intermedio/modulo 2/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md",
+    "Python/Pip3.md",
+    "Python/Ejecutar archivo instalado con python.md",
+    "hacking intermedio/modulo 2/3.2- Figura 2-1.png",
+    "hacking intermedio/modulo 2/3.1- Tabla 2-3.png",
+    "hacking intermedio/modulo 2/2.1- Tabla 2-2.png",
+    "hacking intermedio/modulo 2/p.md",
     "hacking intermedio/modulo 1/8- Construyendo mi propio laboratorio.md",
     "hacking intermedio/modulo 1/7- Comparar metodologías de pentesting.md",
     "hacking intermedio/modulo 1/6- Levantamiento de diferentes normas y metodologías.md",
@@ -159,7 +165,6 @@
     "hacking intermedio/modulo 1/2.1- Descripción General.png",
     "hacking intermedio/modulo 1/2- Descripción General.md",
     "hacking intermedio/modulo 1/1- Qué aprenderé en este curso.md",
-    "hacking intermedio/modulo 2/Tabla 2-2.png",
     "hacking intermedio/modulo 1/8.3- Requisito o directriz.png",
     "hacking intermedio/modulo 2/1- Qué aprenderé en este curso.md",
     "hacking intermedio/modulo 1/1.2- Qué aprenderé en este curso.png",
@@ -180,9 +185,6 @@
     "hacking basico/basico/basic tools.md",
     "teoria de ciberseguridad/7- Mantenimiento de datos.md",
     "teoria de ciberseguridad/6- Protegiendo sus dispositivos y su red.md",
-    "teoria de ciberseguridad/5- Aprovechamiento de las vulnerabilidades de seguridad.md",
-    "teoria de ciberseguridad/4- Tiempos de craqueo.md",
-    "teoria de ciberseguridad/3- Descifrado de contraseñas de Wi-Fi.md",
     "hacking intermedio/modulo 1/8.1- Figura 1-1.png",
     "hacking intermedio",
     "teoria de ciberseguridad",

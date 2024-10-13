@@ -167,7 +167,7 @@ Como se muestra en la Tabla 2-2, los datos de la cuenta consisten en datos del t
 
 **_Tabla 2-2_** _-_ _Elementos de datos de la cuenta_
 
-![[Tabla 2-2.png]]
+![[2.1- Tabla 2-2.png]]
 
 El PAN es el factor definitorio en la aplicabilidad de los requisitos de PCI DSS. Los requisitos de PCI DSS se aplican si el PAN se almacena, procesa o transmite. Si el PAN no se almacena, procesa o transmite, los requisitos de PCI DSS no se aplican. Si el nombre del titular de la tarjeta, el código de servicio y/o la fecha de vencimiento se almacenan, procesan o transmiten con el PAN o están presentes de otro modo en el entorno de datos del titular de la tarjeta, también deben protegerse. Según los estándares, el PAN debe almacenarse en un formato ilegible (cifrado). Es posible que los datos de autenticación confidenciales nunca se almacenen después de la autorización, incluso si están cifrados.
 
