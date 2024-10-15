@@ -2,7 +2,7 @@
 
 Como sabes, la ciberseguridad es un tema importante en los negocios y la sociedad. Las regulaciones y los marcos de cumplimiento han evolucionado para guiar a las organizaciones en las medidas necesarias para minimizar el riesgo de pérdidas debido a los ataques cibernéticos. Algunas medidas son solo pautas, pero otras son legalmente obligatorias. En algunos casos, se requieren evaluaciones de seguridad independientes para que las organizaciones puedan ser aprobadas para manejar información protegida o transacciones financieras.
 
-Gran parte del trabajo que hacemos de Un **Especialista en Cumplimiento en Ciberseguridad** consiste en realizar auditorías de seguridad, pruebas de penetración y otras actividades que se requieren para certificar que las organizaciones cumplen con diferentes regulaciones. Es importante que esté familiarizado con los diferentes marcos de cumplimiento que son relevantes para nuestros diferentes clientes y que comprenda los tipos de actividades que se nos pueden pedir que realicemos para ayudar a nuestros clientes a mantener sus certificaciones de cumplimiento.
+Gran parte del trabajo que hacemos como Un **Especialista en Cumplimiento en Ciberseguridad** consiste en realizar auditorías de seguridad, pruebas de penetración y otras actividades que se requieren para certificar que las organizaciones cumplen con diferentes regulaciones. Es importante que esté familiarizado con los diferentes marcos de cumplimiento que son relevantes para nuestros diferentes clientes y que comprenda los tipos de actividades que se nos pueden pedir que realicemos para ayudar a nuestros clientes a mantener sus certificaciones de cumplimiento.
 
 En el Módulo 1, "Introducción al Hacking Ético y las Pruebas de Penetración", aprendiste sobre la importancia de un permiso escrito para atacar y los diferentes estándares y metodologías de pruebas de penetración, como el Estándar de Ejecución de Pruebas de Penetración (PTES), el Manual de Metodología de Pruebas de Seguridad de Código Abierto (OSSTMM), el Marco de Evaluación de Seguridad de Sistemas de Información (ISSAF) y diferentes documentos de orientación del Instituto Nacional de Estándares y Tecnología (NIST) y el Open Proyecto de Seguridad de Aplicaciones Web (OWASP). También aprendió sobre las diferentes consideraciones del entorno (para entornos de red, aplicaciones y nube). En esta sección, aprenderá sobre las reglas de interacción, la lista de destino/activos dentro del alcance y cómo validar el alcance de una interacción.
 
@@ -93,3 +93,78 @@ Cuando hay una mala comunicación entre las partes interesadas, incluido su clie
 La corrupción del alcance no siempre comienza como una mala situación. Por ejemplo, un cliente que está satisfecho con el trabajo que está realizando en su compromiso podría pedirle que realice pruebas adicionales o trabajo técnico. La gestión del cambio y la comunicación clara son cruciales para evitar una situación muy incómoda y mala.
 
 Si inicialmente se comprometió con su cliente después de una solicitud de propuesta (RFP) y se necesita trabajo adicional que no formaba parte de la RFP o de su SOW inicial, debe solicitar que se firme y acuerde una nueva SOW.
+
+### **Validación del alcance del compromiso**
+
+El primer paso para validar el alcance de un encargo es _interrogar al cliente y revisar los contratos_. También debe comprender quién es el público objetivo de su informe de pruebas de penetración. Debe comprender los sujetos, las unidades de negocio y cualquier otra entidad que será evaluada por dicho compromiso de prueba de penetración.
+
+**PROPINA** La gestión del tiempo es muy importante en un compromiso de pruebas de penetración. La gestión del tiempo es el proceso de planificar y organizar cómo se divide y asigna el tiempo para completar diferentes tareas durante el compromiso de las pruebas de penetración. No administrar su tiempo y aprender a priorizar tareas importantes puede dañar su efectividad y causar estrés innecesario. Los beneficios de la gestión del tiempo durante una prueba de penetración son enormes e incluyen una mayor productividad y una mayor oportunidad de encontrar vulnerabilidades adicionales en los sistemas objetivo.
+
+El módulo 9, "Informes y comunicación", cubre los informes de pruebas de penetración en detalle; A continuación, te presentamos algunos puntos clave generales que debes tener en cuenta durante la fase de preparación de tu compromiso.
+
+**Responder a las siguientes preguntas te ayudará a descubrir diferentes características de tu público objetivo.**
+
+1- ¿Cuál es la necesidad de la entidad o del individuo para el informe?  
+
+2- ¿Cuál es la posición de la persona que será el destinatario principal del informe dentro de la organización?  
+
+3- ¿Cuál es el propósito principal y el objetivo del compromiso de pruebas de penetración y, en última instancia, el propósito del informe?  
+
+4- ¿Cuál es la responsabilidad y la autoridad de la persona o unidad de negocio para tomar decisiones basadas en sus hallazgos?  
+
+5- ¿A quién se dirigirá el informe, por ejemplo, al gerente de seguridad de la información (ISM), al director de seguridad de la información (CISO), al director de información (CIO), al director técnico (CTO), a los equipos técnicos, etc.?  
+
+6- ¿Quién tendrá acceso al informe, que puede contener información confidencial que debe protegerse, y si el acceso se proporcionará en función de la necesidad de conocerlo?
+
+Siempre debes tener buenas líneas abiertas de comunicación con los clientes y las partes interesadas que te contratan.
+
+**Debe tener la documentación adecuada de las respuestas a las siguientes preguntas.**
+
+1- ¿Cuál es la información de contacto de todas las partes interesadas relevantes?  
+
+2- ¿Cómo se comunicará con las partes interesadas?  
+
+3- ¿Con qué frecuencia necesita interactuar con las partes interesadas?  
+
+4- ¿Quiénes son las personas con las que puede ponerse en contacto en cualquier momento si surge una emergencia?
+
+La Figura 2-2 proporciona un ejemplo simple de una tarjeta de contacto para su referencia.
+
+**_Figura 2-2_** _- Ejemplo de tarjeta de contacto de emergencia y partes interesadas_
+
+![[3.3- Figura 2-2.png]]
+
+Debe solicitar una forma de transferencia o almacenamiento masivo de datos seguro, como el Protocolo de copia segura (SCP) o el Protocolo seguro de transferencia de archivos (SFTP). También debe intercambiar las claves de Pretty Good Privacy (PGP) o las claves de Extensiones de correo de Internet seguras/multipropósito (S/MIME) para intercambios de correo electrónico cifrados.
+
+Las preguntas sobre el presupuesto y el retorno de la inversión (ROI) pueden surgir tanto del lado del cliente como del lado del probador en las pruebas de penetración.
+
+**Los clientes pueden hacer preguntas como estas.**
+
+1- ¿Cómo le explico a mi jefe el costo total de las pruebas de penetración?  
+
+2- ¿Por qué necesitamos pruebas de penetración si contamos con todos estos controles de seguridad, técnicos y no técnicos?  
+
+3- ¿Cómo puedo incorporar las pruebas de penetración como factor de éxito?  
+
+4- ¿Puedo hacerlo yo mismo?  
+
+5- ¿Cómo calculo el ROI para el compromiso de las pruebas de penetración?
+
+**Al mismo tiempo, el evaluador debe responder a preguntas como estas.**
+
+1- ¿Cómo contabilizo todos los elementos del compromiso de pruebas de penetración para evitar exceder el presupuesto?  
+
+2- ¿Cómo hago los precios?  
+
+3- ¿Cómo puedo mostrar claramente el ROI a mi cliente?
+
+Las respuestas a estas preguntas dependen de la eficacia con la que se defina el alcance y se comunique claramente y comprenda todos los elementos del compromiso de las pruebas de penetración. Otro factor es entender que las pruebas de penetración son una evaluación puntual. Considere, por ejemplo, la línea de tiempo ilustrada en la Figura 2-3.
+
+**_Figura 2-3_** _- Evaluación puntual_
+
+![[3.4- Figura 2-3.png]]
+
+En la Figura 2-3, se llevaron a cabo un total de tres trabajos de pruebas de penetración en un período de dos años en la misma empresa. En el primer compromiso, se evaluaron 1000 sistemas; Se descubrieron 5 vulnerabilidades críticas, 11 de alta, 32 de gravedad media y 45 de gravedad baja. Un año después, se evaluaron 1100 sistemas; Se descubrieron 3 vulnerabilidades críticas, 31 de alta, 10 de gravedad media y 7 de gravedad baja. Luego, dos años más tarde, se evaluaron 2200 sistemas; Se descubrieron 15 vulnerabilidades críticas, 22 de alta, 8 de gravedad media y 15 de gravedad baja. ¿A la empresa le va mejor o peor? ¿Las pruebas de penetración se realizan solo por un requisito de cumplimiento? ¿Cómo se pueden justificar las pruebas de penetración si se siguen encontrando vulnerabilidades una y otra vez después de cada interacción?
+
+Puede ver que es importante que tanto el cliente como el probador de penetración comprendan que las pruebas de penetración por sí solas no pueden garantizar la seguridad general de la empresa. El probador de penetración también debe incorporar estrategias de mitigación claras y alcanzables para las vulnerabilidades encontradas. Además, se debe discutir con las partes interesadas respectivas un análisis de impacto adecuado y los plazos de remediación.
+

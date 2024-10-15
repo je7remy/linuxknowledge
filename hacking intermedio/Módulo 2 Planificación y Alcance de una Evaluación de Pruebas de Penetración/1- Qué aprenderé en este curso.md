@@ -2,4 +2,4 @@
 
 Muchas cosas pueden salir mal si no se analiza y planifica adecuadamente un compromiso de pruebas de penetración. En particular, debe conocer las leyes locales y los conceptos legales relacionados con las pruebas de penetración. En este módulo, aprenderá la importancia de una buena planificación y alcance en un compromiso de pruebas de penetración o hacking ético. Aprenderá sobre varios conceptos legales clave y los diferentes aspectos de las evaluaciones basadas en el cumplimiento.
 
-![[hacking intermedio/modulo 2/1.1- Qué aprenderé en este curso.png]]
+![[hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/1.1- Qué aprenderé en este curso.png]]
