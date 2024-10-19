@@ -11,10 +11,14 @@
             "id": "490cd62db6eabcd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/5- Laboratorio - Crear un acuerdo de pentesting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "5- Laboratorio - Crear un acuerdo de pentesting"
             }
           }
         ]
@@ -158,7 +162,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "490cd62db6eabcd0",
   "lastOpenFiles": [
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4- Laboratorio - Alcance y planificación previa al compromiso.md",
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md",
