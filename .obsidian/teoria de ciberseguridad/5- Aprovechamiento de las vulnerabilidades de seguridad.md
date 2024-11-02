@@ -1,0 +1,3 @@
+- Enviar información confidencial por correo electrónico, como contraseñas en texto sin formato, es extremadamente arriesgado y es una debilidad en las prácticas de seguridad. Esta información debe, como mínimo, estar cifrada.
+- Los empleados anteriores no deben tener acceso a la información de los clientes cuando abandonan una empresa. Se trata de un problema grave de control de acceso.
+- Los nuevos usuarios deben validarse antes de que se pueda hacer cualquier otra cosa con sus datos. El uso de una dirección de correo electrónico con formato incorrecto para iniciar sesión es un error de entrada no validado.

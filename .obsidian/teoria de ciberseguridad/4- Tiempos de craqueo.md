@@ -1,0 +1,3 @@
+Llevar a cabo ataques de fuerza bruta implica que el atacante intente varias combinaciones posibles en un intento de adivinar la contraseña. Estos ataques generalmente involucran un archivo de lista de palabras, un archivo de texto que contiene una lista de palabras de un diccionario. Un programa como Ophcrack, L0phtCrack, THC Hydra, RainbowCrack o Medusa probará cada palabra y combinación común hasta que encuentre una coincidencia.
+
+Debido a que los ataques de fuerza bruta toman tiempo, las contraseñas complejas toman mucho más tiempo adivinar.
