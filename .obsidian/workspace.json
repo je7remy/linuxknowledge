@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "490cd62db6eabcd0",
+            "id": "bceab36a0f8fc6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/5- Laboratorio - Crear un acuerdo de pentesting.md",
+                "file": "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/3.1- Laboratorio - Uso de herramientas OSINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Laboratorio - Crear un acuerdo de pentesting"
+              "title": "3.1- Laboratorio - Uso de herramientas OSINT"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 538.5
   },
   "right": {
     "id": "81c1016573cc3f98",
@@ -162,46 +162,47 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "490cd62db6eabcd0",
+  "active": "87088476cafe3f48",
   "lastOpenFiles": [
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4- Laboratorio - Alcance y planificación previa al compromiso.md",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/3- Reconocimiento activo vs. reconocimiento pasivo.md",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2- Realización de reconocimiento pasivo.md",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/3.1- Laboratorio - Uso de herramientas OSINT.md",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1- Qué aprenderé en este curso.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/1- Qué aprenderé en este curso.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/7- Laboratorio - Código de Conducta Personal.md",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/6- Demostrar una mentalidad de hacking ético manteniendo el profesionalismo y la integridad.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/Conclusiones.md",
+    "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/Conclusiones.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/6.1- Demostrar una mentalidad de hacking ético.png",
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/5- Laboratorio - Crear un acuerdo de pentesting.md",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.2- Tabla de direccionamiento – Centro de datos.png",
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.4- Elementos de las Reglas de Compromiso.png",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.3- Tabla de direccionamiento – LAN.png",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.1- Topología.png",
-    "Pasted image 20241018125531.png",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3.3- Figura 2-2.png",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3.2- Figura 2-1.png",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3.1- Tabla 2-3.png",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/Untitled",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/2.1- Tabla 2-2.png",
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3.4- Figura 2-3.png",
-    "Python/Pip3.md",
-    "Python/Ejecutar archivo instalado con python.md",
-    "hacking intermedio/modulo 2/p.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/1.1- Qué aprenderé en este curso.png",
+    "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/8.1- Figura 1-1.png",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/8- Construyendo mi propio laboratorio.md",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/7- Comparar metodologías de pentesting.md",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/6- Levantamiento de diferentes normas y metodologías.md",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/5- Por qué debemos seguir una metodología para las pruebas de penetración.md",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/4- Actores y amenazas.md",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/3- Por qué necesitamos hacer pruebas de penetración.md",
+    "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/2.1- Descripción General.png",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/2- Descripción General.md",
+    "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/1.1- Qué aprenderé en este curso.png",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/1- Qué aprenderé en este curso.md",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/1- Qué aprenderé en este curso.md",
-    "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/Conclusiones.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.3- Tabla de direccionamiento – LAN.png",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.1- Topología.png",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4- Laboratorio - Alcance y planificación previa al compromiso.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3- Explicar la importancia del alcance y los requisitos de la organización o del cliente.md",
+    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/Untitled",
+    "Python/Pip3.md",
+    "Python/Ejecutar archivo instalado con python.md",
+    "hacking intermedio/modulo 2/p.md",
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración",
     "hacking basico/hosts/SNMP.md",
-    "hacking basico/hosts/RDP.md",
-    "hacking basico/hosts/Oracle TNS.md",
-    "hacking basico/hosts/MySQL.md",
-    "hacking basico/hosts/FTP.md",
-    "hacking basico/basico/Metasploit.md",
-    "hacking basico/basico/hoja de trucos de METASPLOIT.md",
-    "hacking basico/basico/escalada de privilegios.md",
     "hacking intermedio",
     "teoria de ciberseguridad",
     "Extraer Metadatos de imagenes",
