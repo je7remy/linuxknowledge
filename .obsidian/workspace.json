@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45ed6ad4f3a5fa41",
+        "id": "c88b75ba30532aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "bceab36a0f8fc6b0",
+            "id": "d725c192c88f0f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,11 +162,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "d725c192c88f0f48",
   "lastOpenFiles": [
     "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/3- Reconocimiento activo vs. reconocimiento pasivo.md",
-    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2- Realización de reconocimiento pasivo.md",
     "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/3.1- Laboratorio - Uso de herramientas OSINT.md",
+    "Blender/Comandos Basicos.md",
+    "Blender",
+    "Extraer Metadatos de imagenes/Extraer Metadatos.md",
+    "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2- Realización de reconocimiento pasivo.md",
     "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
     "hacking intermedio/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1- Qué aprenderé en este curso.md",
@@ -202,13 +205,11 @@
     "hacking intermedio/modulo 2/p.md",
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración",
     "hacking intermedio/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración",
-    "hacking basico/hosts/SNMP.md",
     "hacking intermedio",
     "teoria de ciberseguridad",
     "Extraer Metadatos de imagenes",
     "Python",
     "redes basico",
-    "Nueva carpeta",
     "Untitled.canvas"
   ]
 }
