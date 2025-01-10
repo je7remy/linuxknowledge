@@ -1,1 +1,0 @@
-cp "/home/tetta-kisaki/Escritorio/Como eliminar carpeta.md" /home/tetta-kisaki/Escritorio/linuxknowledge/
