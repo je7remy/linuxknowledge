@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/Cómo Utilizar CURL con HTTP.md",
+                "file": "Linux y Bash Scripting/Gestión de Usuarios en Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cómo Utilizar CURL con HTTP"
+              "title": "Gestión de Usuarios en Linux"
             }
           }
         ]
@@ -164,32 +164,32 @@
   },
   "active": "d725c192c88f0f48",
   "lastOpenFiles": [
+    "Linux y Bash Scripting/Terminal.md",
+    "Linux y Bash Scripting/Gestión de Usuarios en Linux.md",
+    "Linux y Bash Scripting/Gestion de Permisos Linux con Numeros.md",
     "Linux y Bash Scripting/Gestión de Paquetes – APT y DPKG.md",
-    "Linux y Bash Scripting/Transferencia de Archivos por la Red.md",
+    "Linux y Bash Scripting/Cómo Utilizar WGET.md",
     "Linux y Bash Scripting/Cómo Utilizar CURL con HTTP.md",
+    "Linux y Bash Scripting/Como Sincronizar Archivos de una Carpeta a Otra.md",
+    "Linux y Bash Scripting/Comandos de Networking en Linux.md",
     "Linux y Bash Scripting/Comandos Basicos.md",
+    "Linux y Bash Scripting/Asignación de Permisos en Linux.md",
+    "Python/Ejecutar Archivo Instalado con Python.md",
+    "Linux y Bash Scripting/Transferencia de Archivos por la Red.md",
     "Hacking Basico/Teoria de Ciberseguridad/12- Social Sharing.md",
     "Reconocimiento/Nmap/Nmap Time.md",
     "Reconocimiento/Nmap/Nmap Output.md",
     "Reconocimiento/Nmap/Nmap Firewall Evasion.md",
-    "Python/Ejecutar Archivo Instalado con Python.md",
-    "Linux y Bash Scripting/Terminal.md",
-    "Linux y Bash Scripting/Gestion de Permisos Linux con Numeros.md",
-    "Linux y Bash Scripting/Comandos de Networking en Linux.md",
-    "Linux y Bash Scripting/Asignación de Permisos en Linux.md",
     "Hacking Basico/Shells/Tipos de Shell.md",
     "Hacking Basico/Shells/Basic Shells.md",
     "Hacking Basico/Basico/Hoja de Trucos de METASPLOIT.md",
     "Hacking Basico/Basico/Escalada de Privilegios.md",
     "Cracking/Hoja de Trucos HASHCAT.md",
     "Configuracion Manual/Como Habilitar el Bluetooth.md",
-    "Linux y Bash Scripting/Como Sincronizar Archivos de una Carpeta a Otra.md",
     "Hacking Basico/Web/Protocolo HTTP.md",
     "Hacking Basico/Privilege Scalation/Python Hijacking.md",
     "Hacking Basico/Privilege Scalation/Privilege Scalation Basic.md",
     "Configuracion Manual/Como Habilitar Paqueteria Snap.md",
-    "Activie Directory/Tools.md",
-    "comandos basicos/como mover archivos de una carpeta a otra.md",
     "Blender",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
