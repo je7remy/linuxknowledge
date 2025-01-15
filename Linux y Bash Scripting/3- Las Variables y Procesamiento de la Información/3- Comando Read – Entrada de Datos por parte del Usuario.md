@@ -113,6 +113,21 @@ echo "Has introducido tu nombre: $variable y tu edad es: $edad"
         ```
 
 
+---
 
+### Uso de `Ctrl + K`
 
-
+1. **En el terminal interactivo**:
+    
+    - Si estás escribiendo una línea de texto en el terminal y presionas `Ctrl + K`, se borrará todo el contenido desde la posición actual del cursor hasta el final de la línea.
+    - Por ejemplo:
+        
+        bash
+        
+        Copiar código
+        
+        `echo "Este es un ejemplo" # Si el cursor está en "un", se borrará "un ejemplo".`
+        
+2. **En un editor de texto**:
+    
+    - Si usas un editor como Vim, Nano, o algún IDE, puedes buscar atajos equivalentes. Por ejemplo, en Nano puedes usar `Ctrl + K` para cortar la línea completa.
