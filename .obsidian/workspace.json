@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/6- Comando XARGS.md",
+                "file": "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/9- Permisos Especiales – BIt SUID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Comando XARGS"
+              "title": "9- Permisos Especiales – BIt SUID"
             }
           }
         ]
@@ -164,9 +164,14 @@
   },
   "active": "d725c192c88f0f48",
   "lastOpenFiles": [
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/5- Comando find y redirección de errores.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/6- Comando XARGS.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/7- Stdout, Stderr y Stdin.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/9- Permisos Especiales – BIt SUID.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información.md",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/4- Comprimir y Descomprimir Archivos.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/6- Comando XARGS.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/5- Comando find y redirección de errores.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/11- Ejercicio Práctico, Script Siempre en Ejecución.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/10- Ejercicio Práctico, Creamos nuestro Primer Script.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/9- Uso de Grep.md",
@@ -185,12 +190,7 @@
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/2- Gestión de Grupos.md",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/1- Gestión Básica, Detallada y con números de Permisos – Comando chmod.md",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/3.1- Laboratorio - Uso de herramientas OSINT.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/Gestión Detallada de Permisos – Comando chmod.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/Gestion de Permisos Linux con Numeros.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/Asignación de Permisos en Linux.md",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información",
-    "Linux y Bash Scripting/Gestión de Permisos y Tratamiento de la Información.md",
-    "Glosario de programación/Los 200 términos más utilizados en programación.md",
     "Glosario de programación",
     "Linux y Bash Scripting/1 - Uso Básico de Linux",
     "Blender",
@@ -209,7 +209,6 @@
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración",
     "Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración",
     "Hacking Intermedio Teoria",
-    "Hacking Basico/Teoria de Ciberseguridad",
     "Untitled.canvas"
   ]
 }
