@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/9- Permisos Especiales – BIt SUID.md",
+                "file": "Linux y Bash Scripting/4- Sentencias Condicionales/1- Sentencias Condicionales – IF, ELIF y ELSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9- Permisos Especiales – BIt SUID"
+              "title": "1- Sentencias Condicionales – IF, ELIF y ELSE"
             }
           }
         ]
@@ -164,14 +164,20 @@
   },
   "active": "d725c192c88f0f48",
   "lastOpenFiles": [
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/7- Stdout, Stderr y Stdin.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/9- Permisos Especiales – BIt SUID.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/4- Comprimir y Descomprimir Archivos.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/6- Comando XARGS.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/5- Comando find y redirección de errores.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/11- Creamos un Script para Automatizar Búsquedas en el Sistema.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales/1- Sentencias Condicionales – IF, ELIF y ELSE.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/9- Procesador de Información – SED.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/8- Procesador de Información – CUT.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/7- Procesador de Información – AWK.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/6- Procesador de Información – TR.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/5- Las variables especiales.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/4- Los Parámetros.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/3- Comando Read – Entrada de Datos por parte del Usuario.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/1- Cómo Declarar e Imprimir Variables.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/11- Ejercicio Práctico, Script Siempre en Ejecución.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/10- Ejercicio Práctico, Creamos nuestro Primer Script.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/9- Uso de Grep.md",
@@ -179,17 +185,14 @@
     "Linux y Bash Scripting/1 - Uso Básico de Linux/7- Uso de Tuberías o Pipes.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/6- Gestión de Usuarios en Linux.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/5- Cómo Utilizar WGET.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/4- Cómo Utilizar CURL con HTTP.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/3- Transferencia de Archivos por la Red.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/2- Gestión de Paquetes – APT y DPKG.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/1- Comandos Basicos.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/Como Sincronizar Archivos de una Carpeta a Otra.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/Comandos de Networking en Linux.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/Terminal.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/2- Gestión de Grupos.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/1- Gestión Básica, Detallada y con números de Permisos – Comando chmod.md",
-    "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/3.1- Laboratorio - Uso de herramientas OSINT.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/9- Permisos Especiales – BIt SUID.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/7- Stdout, Stderr y Stdin.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información.md",
+    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/4- Comprimir y Descomprimir Archivos.md",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información",
     "Glosario de programación",
     "Linux y Bash Scripting/1 - Uso Básico de Linux",
@@ -207,8 +210,6 @@
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.1- Topología.png",
     "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/Untitled",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración",
-    "Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración",
-    "Hacking Intermedio Teoria",
     "Untitled.canvas"
   ]
 }
