@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c88b75ba30532aaf",
+        "id": "9dd463d768d66547",
         "type": "tabs",
         "children": [
           {
-            "id": "d725c192c88f0f48",
+            "id": "aea2009d2273af7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/5- Bucles/3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático.md",
+                "file": "Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático"
+              "title": "6- Bucle WHILE – PARTE 2"
             }
           }
         ]
@@ -162,10 +162,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d725c192c88f0f48",
+  "active": "aea2009d2273af7e",
   "lastOpenFiles": [
-    "Linux y Bash Scripting/5- Bucles/m.md",
+    "Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
+    "Linux y Bash Scripting/5- Bucles/5- Bucle WHILE – PARTE 1.md",
+    "Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
     "Linux y Bash Scripting/5- Bucles/3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático.md",
+    "Linux y Bash Scripting/1 - Uso Básico de Linux/1- Comandos Basicos.md",
+    "Linux y Bash Scripting/5- Bucles/m.md",
     "Linux y Bash Scripting/5- Bucles/1- Bucle FOR – Parte 1.md",
     "Linux y Bash Scripting/5- Bucles/2- Bucle FOR – Parte 2.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/3- Transferencia de Archivos por la Red.md",
@@ -188,10 +192,6 @@
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/4- Los Parámetros.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/3- Comando Read – Entrada de Datos por parte del Usuario.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/1- Cómo Declarar e Imprimir Variables.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/11- Ejercicio Práctico, Script Siempre en Ejecución.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/10- Ejercicio Práctico, Creamos nuestro Primer Script.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/9- Uso de Grep.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información",
