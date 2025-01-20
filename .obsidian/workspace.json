@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
+                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Bucle WHILE – PARTE 2"
+              "title": "7- Bucle WHILE – Iterar por Líneas"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4- Laboratorio - Alcance y planificación previa al compromiso.md",
+                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4- Laboratorio - Alcance y planificación previa al compromiso"
+              "title": "Enlaces entrantes de 7- Bucle WHILE – Iterar por Líneas"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4- Laboratorio - Alcance y planificación previa al compromiso.md",
+                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4- Laboratorio - Alcance y planificación previa al compromiso"
+              "title": "Enlaces salientes de 7- Bucle WHILE – Iterar por Líneas"
             }
           },
           {
@@ -130,7 +130,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -139,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4- Laboratorio - Alcance y planificación previa al compromiso.md"
+                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4- Laboratorio - Alcance y planificación previa al compromiso"
+              "title": "Esquema de 7- Bucle WHILE – Iterar por Líneas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,24 +165,29 @@
   },
   "active": "aea2009d2273af7e",
   "lastOpenFiles": [
-    "Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales/1- Sentencias Condicionales – IF, ELIF y ELSE.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales/3- Creamos un Script para Automatizar Actualizaciones del Sistema.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales/2- Operadores Lógicos.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales/4- Control del Flujo – CASE.md",
     "Linux y Bash Scripting/5- Bucles/5- Bucle WHILE – PARTE 1.md",
     "Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/11- Creamos un Script para Automatizar Búsquedas en el Sistema.md",
+    "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
+    "Desinstalación de aplicaciones del sistema sin root utilizando ADB/Desinstalar apps del sistema sin root.md",
+    "Desinstalación de aplicaciones del sistema sin root utilizando ADB",
+    "Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
+    "Activar Office y Windows con Comandos en Cualquier Pc con Windows",
+    "Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
     "Linux y Bash Scripting/5- Bucles/3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/1- Comandos Basicos.md",
     "Linux y Bash Scripting/5- Bucles/m.md",
     "Linux y Bash Scripting/5- Bucles/1- Bucle FOR – Parte 1.md",
     "Linux y Bash Scripting/5- Bucles/2- Bucle FOR – Parte 2.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/3- Transferencia de Archivos por la Red.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales/4- Control del Flujo – CASE.md",
     "Linux y Bash Scripting/5- Bucles",
     "Linux y Bash Scripting/5- Bucles.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales/3- Creamos un Script para Automatizar Actualizaciones del Sistema.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales/2- Operadores Lógicos.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales/1- Sentencias Condicionales – IF, ELIF y ELSE.md",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/5- Las variables especiales.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/11- Creamos un Script para Automatizar Búsquedas en el Sistema.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales",
@@ -189,9 +195,6 @@
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/8- Procesador de Información – CUT.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/7- Procesador de Información – AWK.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/6- Procesador de Información – TR.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/4- Los Parámetros.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/3- Comando Read – Entrada de Datos por parte del Usuario.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información",
@@ -200,7 +203,6 @@
     "Blender",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
-    "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/6.1- Demostrar una mentalidad de hacking ético.png",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.4- Elementos de las Reglas de Compromiso.png",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/1.1- Qué aprenderé en este curso.png",
@@ -209,7 +211,6 @@
     "Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/1.1- Qué aprenderé en este curso.png",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.3- Tabla de direccionamiento – LAN.png",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/4.1- Topología.png",
-    "hacking intermedio/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/Untitled",
     "Untitled.canvas"
   ]
 }
