@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
+                "file": "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7- Bucle WHILE – Iterar por Líneas"
+              "title": "2- Listado de Colores"
             }
           }
         ]
@@ -163,8 +163,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "aea2009d2273af7e",
+  "active": "87088476cafe3f48",
   "lastOpenFiles": [
+    "Linux y Bash Scripting/7- Colores en mi Script/1- Añadimos Colores a Nuestro Script.md",
+    "Linux y Bash Scripting/6- Funciones/2- Variables Locales y Globales en las Funciones.md",
+    "Linux y Bash Scripting/6- Funciones/1- Declarar Funciones en Bash.md",
+    "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
+    "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
+    "Linux y Bash Scripting/7- Colores en mi Script",
+    "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
+    "Linux y Bash Scripting/6- Funciones",
+    "Linux y Bash Scripting/6- Funciones.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales/1- Sentencias Condicionales – IF, ELIF y ELSE.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales/3- Creamos un Script para Automatizar Actualizaciones del Sistema.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales/2- Operadores Lógicos.md",
@@ -172,7 +181,6 @@
     "Linux y Bash Scripting/5- Bucles/5- Bucle WHILE – PARTE 1.md",
     "Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/11- Creamos un Script para Automatizar Búsquedas en el Sistema.md",
-    "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
     "Desinstalación de aplicaciones del sistema sin root utilizando ADB/Desinstalar apps del sistema sin root.md",
     "Desinstalación de aplicaciones del sistema sin root utilizando ADB",
     "Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
@@ -188,19 +196,11 @@
     "Linux y Bash Scripting/5- Bucles.md",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/5- Las variables especiales.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/9- Procesador de Información – SED.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/8- Procesador de Información – CUT.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/7- Procesador de Información – AWK.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/6- Procesador de Información – TR.md",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información",
     "Glosario de programación",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux",
-    "Blender",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/6.1- Demostrar una mentalidad de hacking ético.png",
