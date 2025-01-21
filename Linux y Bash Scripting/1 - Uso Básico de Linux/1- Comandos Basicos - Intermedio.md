@@ -193,3 +193,34 @@ tags:
 | **pipes** \|             | ```comando1 \| comando2```                                                                             | Canaliza la salida de un comando a otro.               |
 | **redirección**          | `comando > archivo.txt`                                                                                | Redirige la salida estándar a un archivo.              |
 | **condicional ternario** | ```bash edad=20; resultado=$((edad >= 18 ? "Mayor de edad" : "Menor de edad"))```                      | Operador ternario para condicionales.                  |
+
+
+# Systemctl
+
+**`systemctl`** es una herramienta de línea de comandos en sistemas basados en Linux que interactúa con **systemd**, el gestor de sistemas y servicios más comúnmente usado en las distribuciones modernas de Linux. Permite a los usuarios administrar servicios, controlar el sistema de inicio, monitorear el estado de los servicios y más.
+
+### **Definición**
+
+`systemctl` es una herramienta que actúa como interfaz principal para **systemd**, permitiendo realizar operaciones como iniciar, detener, habilitar, deshabilitar, recargar o reiniciar servicios.
+
+### Como Habilitar el Bluetooth
+
+habilitar servicio:
+sudo systemctl enable bluetooth
+
+iniciar servicio:
+sudo systemctl start bluetooth 
+
+detener sevicio:
+sudo systemctl stop bluetooth
+
+### Como Habilitar Paqueteria Snap
+
+habilitar servicio:
+sudo systemctl enable snapd
+
+reiniciar servicio:
+sudo systemctl restart snapd
+
+verificar estado del sevicio:
+sudo systemctl status snapd
