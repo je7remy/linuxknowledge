@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
+                "file": "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/3- Gestión y Automatización de Servidores FTP – PARTE 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Listado de Colores"
+              "title": "3- Gestión y Automatización de Servidores FTP – PARTE 1"
             }
           }
         ]
@@ -163,12 +163,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "aea2009d2273af7e",
   "lastOpenFiles": [
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/2- Cómo Crear un Servidor FTP con VSFTPD.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/3- Gestión y Automatización de Servidores FTP – PARTE 1.md",
+    "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash",
     "Linux y Bash Scripting/7- Colores en mi Script/1- Añadimos Colores a Nuestro Script.md",
     "Linux y Bash Scripting/6- Funciones/2- Variables Locales y Globales en las Funciones.md",
     "Linux y Bash Scripting/6- Funciones/1- Declarar Funciones en Bash.md",
-    "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento.md",
     "Linux y Bash Scripting/7- Colores en mi Script",
     "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
@@ -193,14 +197,10 @@
     "Linux y Bash Scripting/5- Bucles/2- Bucle FOR – Parte 2.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/3- Transferencia de Archivos por la Red.md",
     "Linux y Bash Scripting/5- Bucles",
-    "Linux y Bash Scripting/5- Bucles.md",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/5- Las variables especiales.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información",
-    "Glosario de programación",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/6.1- Demostrar una mentalidad de hacking ético.png",
