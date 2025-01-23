@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd463d768d66547",
+        "id": "89aa11396b79c3d2",
         "type": "tabs",
         "children": [
+          {
+            "id": "7be4bcf045d582f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux y Bash Scripting/1 - Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1- Comandos Basicos - Intermedio"
+            }
+          },
           {
             "id": "caf9fe748d5587b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/6- Acceso Automatizado SSH Importando Clave Pública.md",
+                "file": "Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Acceso Automatizado SSH Importando Clave Pública"
+              "title": "3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,32 +180,33 @@
   },
   "active": "caf9fe748d5587b5",
   "lastOpenFiles": [
-    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/5- Cómo Crear un Servidor SSH con OPENSSH.md",
-    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/4- Gestión y Automatización de Servidores FTP – PARTE 2.md",
-    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/3- Gestión y Automatización de Servidores FTP – PARTE 1.md",
-    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/6- Acceso Automatizado SSH Importando Clave Pública.md",
+    "Linux y Bash Scripting/9- Ejercicios Prácticos/2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web.md",
+    "Linux y Bash Scripting/9- Ejercicios Prácticos/1- Comando echo en Detalle, Preparación para las Clases Prácticas.md",
+    "Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/Configuracion Manual/Como Habilitar Paqueteria Snap.md",
-    "Linux y Bash Scripting/1 - Uso Básico de Linux/Configuracion Manual/Como Habilitar el Bluetooth.md",
-    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/2- Cómo Crear un Servidor FTP con VSFTPD.md",
-    "Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales/4- Control del Flujo – CASE.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales/1- Sentencias Condicionales – IF, ELIF y ELSE.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/7- Automatización de Copias de Seguridad en Servidor SSH.md",
     "Linux y Bash Scripting/4- Sentencias Condicionales/3- Creamos un Script para Automatizar Actualizaciones del Sistema.md",
-    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso.md",
-    "Linux y Bash Scripting/6- Funciones/2- Variables Locales y Globales en las Funciones.md",
-    "Linux y Bash Scripting/6- Funciones/1- Declarar Funciones en Bash.md",
-    "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
+    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
+    "Linux y Bash Scripting/9- Ejercicios Prácticos",
     "Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
     "Linux y Bash Scripting/5- Bucles/5- Bucle WHILE – PARTE 1.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/11- Creamos un Script para Automatizar Búsquedas en el Sistema.md",
+    "Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
     "Linux y Bash Scripting/5- Bucles/3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático.md",
     "Linux y Bash Scripting/5- Bucles/2- Bucle FOR – Parte 2.md",
     "Linux y Bash Scripting/5- Bucles/1- Bucle FOR – Parte 1.md",
-    "Linux y Bash Scripting/4- Sentencias Condicionales/2- Operadores Lógicos.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/9- Procesador de Información – SED.md",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/8- Procesador de Información – CUT.md",
+    "Linux y Bash Scripting/6- Funciones/1- Declarar Funciones en Bash.md",
+    "Linux y Bash Scripting/6- Funciones/2- Variables Locales y Globales en las Funciones.md",
+    "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/2- Cómo Crear un Servidor FTP con VSFTPD.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/3- Gestión y Automatización de Servidores FTP – PARTE 1.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/4- Gestión y Automatización de Servidores FTP – PARTE 2.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/5- Cómo Crear un Servidor SSH con OPENSSH.md",
+    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/6- Acceso Automatizado SSH Importando Clave Pública.md",
+    "Reconocimiento/Nmap/Nmap Comands.md",
+    "Linux y Bash Scripting/1 - Uso Básico de Linux/Configuracion Manual/Como Habilitar Paqueteria Snap.md",
+    "Linux y Bash Scripting/1 - Uso Básico de Linux/Configuracion Manual/Como Habilitar el Bluetooth.md",
+    "Linux y Bash Scripting/4- Sentencias Condicionales/4- Control del Flujo – CASE.md",
     "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash",
     "Linux y Bash Scripting/7- Colores en mi Script",
     "Linux y Bash Scripting/6- Funciones",
@@ -200,7 +216,6 @@
     "Linux y Bash Scripting/4- Sentencias Condicionales",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
-    "Linux y Bash Scripting/2 - Gestión de Permisos y Tratamiento de la Información",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
     "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/6.1- Demostrar una mentalidad de hacking ético.png",
