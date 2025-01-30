@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/9- Ejercicios Prácticos/10- Detector de Sistemas Operativos – PARTE 2.md",
+                "file": "Linux y Bash Scripting/9- Ejercicios Prácticos/11- Automatizar la Gestión de Usuarios en Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- Detector de Sistemas Operativos – PARTE 2"
+              "title": "11- Automatizar la Gestión de Usuarios en Linux"
             }
           }
         ]
@@ -165,8 +165,16 @@
   },
   "active": "caf9fe748d5587b5",
   "lastOpenFiles": [
-    "Linux y Bash Scripting/9- Ejercicios Prácticos/9- Detector de Sistemas Operativos – PARTE 1.md",
+    "README.md",
+    "Linux y Bash Scripting/9- Ejercicios Prácticos/5- Análisis de la Red con Bash – PARTE 3.md",
+    "Linux y Bash Scripting/9- Ejercicios Prácticos/11- Automatizar la Gestión de Usuarios en Linux.md",
+    "Linux y Bash Scripting/1 - Uso Básico de Linux/6- Gestión de Usuarios en Linux.md",
+    "Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
+    "Desinstalación de aplicaciones del sistema en Android sin root utilizando ADB/Desinstalar apps del sistema sin root.md",
     "Linux y Bash Scripting/9- Ejercicios Prácticos/10- Detector de Sistemas Operativos – PARTE 2.md",
+    "Linux y Bash Scripting/9- Ejercicios Prácticos/9- Detector de Sistemas Operativos – PARTE 1.md",
+    "Readme del Repositorio LinuxKnowledge en Markdown/Markdown Cybersecurity Knowledge Hub.md",
+    "Readme del Repositorio LinuxKnowledge en Markdown",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/3- Transferencia de Archivos por la Red.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
     "Linux y Bash Scripting/9- Ejercicios Prácticos/2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web.md",
@@ -175,7 +183,6 @@
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
     "Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
     "Linux y Bash Scripting/9- Ejercicios Prácticos/6- Análisis de Red con TCPdump y WireShark – PARTE 1.md",
-    "Linux y Bash Scripting/9- Ejercicios Prácticos/5- Análisis de la Red con Bash – PARTE 3.md",
     "Linux y Bash Scripting/9- Ejercicios Prácticos/4- Análisis de la Red con Bash – PARTE 2.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/2- Gestión de Paquetes – APT y DPKG.md",
     "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
@@ -186,20 +193,13 @@
     "Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
     "Linux y Bash Scripting/5- Bucles/5- Bucle WHILE – PARTE 1.md",
     "Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
-    "Linux y Bash Scripting/5- Bucles/3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático.md",
-    "Linux y Bash Scripting/5- Bucles/2- Bucle FOR – Parte 2.md",
-    "Linux y Bash Scripting/5- Bucles/1- Bucle FOR – Parte 1.md",
-    "Linux y Bash Scripting/6- Funciones/1- Declarar Funciones en Bash.md",
-    "Linux y Bash Scripting/6- Funciones/2- Variables Locales y Globales en las Funciones.md",
-    "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso.md",
     "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash",
     "Linux y Bash Scripting/7- Colores en mi Script",
     "Linux y Bash Scripting/6- Funciones",
-    "Desinstalación de aplicaciones del sistema sin root utilizando ADB",
+    "Desinstalación de aplicaciones del sistema en Android sin root utilizando ADB",
     "Activar Office y Windows con Comandos en Cualquier Pc con Windows",
     "Linux y Bash Scripting/5- Bucles",
     "Linux y Bash Scripting/4- Sentencias Condicionales",
-    "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",

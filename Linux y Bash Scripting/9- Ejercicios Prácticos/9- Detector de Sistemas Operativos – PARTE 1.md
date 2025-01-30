@@ -9,8 +9,11 @@ El objetivo de estos scripts es realizar un ping a una dirección IP dada y, dep
 # Ojo
 
 **Limitaciones Clave a Considerar**:  
-⚠️ **Firewalls en Windows**:  
-Si el equipo Windows tiene el firewall activado (configuración predeterminada), **bloqueará las solicitudes ICMP** (ping), resultando en:  
+
+⚠️ **Firewalls en Windows**: 
+
+Si el equipo Windows tiene el firewall activado (configuración predeterminada), **bloqueará las solicitudes ICMP** (ping), resultando en:
+
 - **Paquetes perdidos** (`Request timed out`)  
 - **Imposibilidad de detectar el TTL**  
 - Falsos negativos en la identificación del OS
@@ -50,11 +53,13 @@ grep ttl=128 ping.log -c
     
     - Ejecuta un ping a la dirección IP `192.168.0.111` con un solo paquete (`-c 1`).
     - La salida del comando se redirige al archivo `ping.log`.
-2. `grep ttl=64 ping.log -c`:
+    
+1. `grep ttl=64 ping.log -c`:
     
     - Busca en `ping.log` si hay alguna línea con `ttl=64`.
     - Devuelve el número de coincidencias.
-3. `grep ttl=128 ping.log -c`:
+    
+1. `grep ttl=128 ping.log -c`:
     
     - Busca en `ping.log` si hay alguna línea con `ttl=128`.
     - Devuelve el número de coincidencias.

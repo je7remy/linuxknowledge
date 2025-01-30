@@ -41,14 +41,16 @@ Este script determina si un host es accesible mediante `ping` y, basándose en e
     ```
     
     - Define colores para resaltar el texto en la terminal.
-2. **Entrada del usuario:**
+    
+1. **Entrada del usuario:**
     
     ```bash
     read -p "Introduce la direccion IP:  " IP
     ```
     
     - Solicita al usuario que introduzca una dirección IP.
-3. **Verificación de conectividad:**
+    
+1. **Verificación de conectividad:**
     
     ```bash
     if ping -c 1 $IP > /dev/null; then
@@ -56,7 +58,8 @@ Este script determina si un host es accesible mediante `ping` y, basándose en e
     ```
     
     - Comprueba si el host responde al `ping`. Si no responde, muestra un mensaje de error.
-4. **Obtención del TTL:**
+    
+1. **Obtención del TTL:**
     
     ```bash
     TTL=$(ping -c 1 $IP | grep "ttl=" | awk '{print $6}' | tr -d "ttl=")
@@ -64,7 +67,8 @@ Este script determina si un host es accesible mediante `ping` y, basándose en e
     ```
     
     - Extrae el valor del TTL del resultado del comando `ping`.
-5. **Identificación del sistema operativo:**
+    
+1. **Identificación del sistema operativo:**
     
     ```bash
     if [ $TTL -gt 60 ] && [ $TTL -lt 70 ]; then
@@ -77,10 +81,12 @@ Este script determina si un host es accesible mediante `ping` y, basándose en e
     ```
     
     - Analiza el TTL para determinar el sistema operativo.
+    
         - **Linux/Unix:** TTL típico entre 64 y 70.
         - **Windows:** TTL típico entre 128 y 140.
         - **Otros:** Muestra un mensaje indicando que no se puede determinar.
-6. **Manejo de errores:**
+    
+1. **Manejo de errores:**
     
     ```bash
     else
@@ -143,31 +149,41 @@ fi
 ---
 
 **Flujo de ejecución:**
+
 1. Establece colores para la salida
 2. Pide al usuario una dirección IP
 3. Realiza un ping de prueba
+
    - Si falla: muestra error en rojo
+
    - Si funciona:
+   
       - Extrae el valor TTL de la respuesta
+      
       - Compara el valor numérico:
+      
         * 61-69 → Linux/Unix
         * 101-139 → Windows
         * Otros valores → Indeterminado
 
 **Consideraciones importantes:**
+
 1. Los valores TTL pueden verse afectados por:
+
    - Dispositivos de red intermedios (routers)
    - Configuraciones personalizadas del sistema
    - Distancia de red (número de saltos)
 
-2. Valores TTL típicos desde origen:
+3. Valores TTL típicos desde origen:
+
    - Linux/Unix: 64
    - Windows: 128
    - Routers Cisco: 255
 
-3. El script asume que hay solo 1 salto de red (lo cual es poco común en redes reales)
+5. El script asume que hay solo 1 salto de red (lo cual es poco común en redes reales)
 
 **Mejoras posibles:**
+
 - Realizar múltiples intentos de ping para mayor precisión
 - Considerar el número de saltos de red
 - Agregar detección para otros sistemas operativos
