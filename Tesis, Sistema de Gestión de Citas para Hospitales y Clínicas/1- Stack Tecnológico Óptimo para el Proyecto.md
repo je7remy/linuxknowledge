@@ -2288,3 +2288,138 @@ graph LR
     E -->|Envía email| F[Resend] 
     F --> G[Paciente/Doctor]
 ```
+
+
+
+
+Cambiar el 1 👍👍
+
+**Documento de Tesis Modificado (Simplificado para 4 Meses):**
+
+---
+
+### **Título del proyecto**:  
+"Desarrollo de un Sistema de Gestión de Citas para Clínicas Pequeñas y Consultorios Médicos"
+
+---
+
+### **Problemática**:  
+En clínicas pequeñas y consultorios médicos, la gestión manual de citas genera problemas como:  
+- Largas esperas y conflictos en asignación de turnos.  
+- Duplicación de récords médicos y errores en la programación.  
+- Interrupciones a profesionales y atención a pacientes sin cita previa.  
+- Falta de sincronización con calendarios digitales y notificaciones ineficientes.  
+
+---
+
+### **Objetivo General**:  
+Desarrollar un sistema de gestión de citas **centrado en Tryton ERP**, que optimice la organización de agendas médicas, reduzca errores y mejore la experiencia de pacientes y profesionales, con una implementación realista en **4 meses**.
+
+---
+
+### **Objetivos Específicos**:  
+1. Implementar un módulo de agendas médicas en **Tryton ERP** para evitar conflictos de horarios.  
+2. Integrar validación automática de datos para minimizar errores y duplicación de registros.  
+3. Priorizar citas programadas mediante reglas de negocio en Tryton.  
+4. Desarrollar una interfaz en **React** para reserva de citas en línea y visualización con *react-big-calendar*.  
+5. Garantizar seguridad mediante roles nativos de Tryton (`web_user`) y JWT para comunicación frontend-backend.  
+
+---
+
+### **Descripción del Proyecto**:  
+El sistema se centrará en **Tryton ERP** como núcleo único para gestionar modelos de datos, reglas de negocio y seguridad. Se desarrollará un frontend en **React** conectado a Tryton mediante **FastAPI**, que actuará como adaptador para traducir solicitudes HTTP a llamadas de la API de Tryton.  
+
+**Tecnología Utilizada**:  
+| **Componente**       | **Tecnología**                  | **Razón**                                                                 |  
+|-----------------------|----------------------------------|---------------------------------------------------------------------------|  
+| **Núcleo del Sistema**| Tryton ERP (Python)             | Gestiona agendas médicas, reglas de negocio y seguridad de forma nativa. |  
+| **Adaptador de API**  | FastAPI                         | Puente ligero entre React y Tryton (mismo lenguaje: Python).             |  
+| **Frontend**          | React + react-big-calendar      | Interfaz intuitiva para pacientes y médicos.                             |  
+| **Base de Datos**     | PostgreSQL                      | Almacenamiento confiable de datos médicos.                               |  
+| **Notificaciones**    | Resend (Email)                  | Envío básico de recordatorios por correo electrónico.                    |  
+| **Despliegue**        | Render.com (Servicio único)     | Hosting simplificado con Tryton, FastAPI y React en un solo entorno.     |  
+
+**Duración del Proyecto**: 4 meses (etapas ajustadas):  
+6. **Mes 1**: Configuración de Tryton + modelos básicos (citas, pacientes, médicos).  
+7. **Mes 2**: Desarrollo de la API en FastAPI y conexión con Tryton.  
+8. **Mes 3**: Frontend en React con calendario y formularios de reserva.  
+9. **Mes 4**: Integración de notificaciones por email y despliegue en Render.com.  
+
+**Alcance Geográfico**: Clínicas y consultorios en La Vega (implementación piloto).  
+
+---
+
+### **Alcance del Sistema**:  
+**Funcionalidades Principales (MVP)**:  
+10. **Agendas Médicas Dinámicas**:  
+   - Asignación de citas sin conflictos de horarios (reglas en Tryton).  
+11. **Reserva en Línea**:  
+   - Formulario simplificado para pacientes en React.  
+12. **Notificaciones Automáticas**:  
+   - Recordatorios por email (Resend) 24h antes de la cita.  
+13. **Historial de Citas**:  
+   - Visualización básica para médicos y pacientes.  
+14. **Seguridad**:  
+   - Roles de usuario (médico/paciente) gestionados por Tryton.  
+
+**Funcionalidades Postergadas** (para futuras iteraciones):  
+- Integración con Google Calendar/Outlook.  
+- Notificaciones por SMS/WhatsApp (Twilio).  
+- Sincronización con sistemas EMR externos.  
+
+---
+
+### **Diagrama de Arquitectura Simplificada**:  
+```mermaid
+graph TD
+    subgraph Núcleo
+        A[Tryton ERP] -->|Gestiona agendas y reglas| B[(PostgreSQL)]
+    end
+    subgraph Frontend
+        C[React] -->|Solicitudes HTTP| D[FastAPI]
+    end
+    subgraph Adaptador
+        D -->|Llamadas a modelos Tryton| A
+        D -->|Envía emails| E[Resend]
+    end
+    subgraph Despliegue
+        F[Render.com] -->|Hosting| C
+        F -->|Servicio único| A
+        F -->|Base de datos| B
+    end
+```
+
+---
+
+### **Ejemplo de Flujo Simplificado**:  
+```mermaid
+sequenceDiagram
+    Paciente->>React: Reserva cita
+    React->>FastAPI: POST /citas (token JWT)
+    FastAPI->>Tryton: medical.appointment.create(datos)
+    Tryton->>PostgreSQL: Valida y guarda cita
+    Tryton-->>FastAPI: Confirmación
+    FastAPI->>Resend: Envía email
+    Resend-->>FastAPI: OK
+    FastAPI-->>React: Éxito
+    React-->>Paciente: Muestra confirmación
+```
+
+---
+
+### **Cambios Clave Respecto a la Versión Original**:  
+15. **Reducción de Complejidad**:  
+   - Eliminación de microservicios (Todo en un solo servicio en Render.com).  
+   - Integraciones externas limitadas a Resend para emails.  
+16. **Foco en Tryton ERP**:  
+   - Toda la lógica de negocio y seguridad delegada a Tryton.  
+   - FastAPI como adaptador, no como backend principal.  
+17. **Cronograma Realista**:  
+   - 4 meses con hitos claros y funcionalidades prioritarias.  
+18. **Tecnologías Simplificadas**:  
+   - Eliminación de Flask, Twilio y sincronización con calendarios (para el MVP).  
+
+---
+
+**Nota Final**:  
+Este enfoque garantiza un **MVP funcional en 4 meses** con recursos limitados, priorizando lo esencial y aprovechando las fortalezas de Tryton ERP. Las funcionalidades avanzadas podrán añadirse en futuras etapas.

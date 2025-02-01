@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/1- Stack Tecnológico Óptimo para el Proyecto.md",
+                "file": "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Stack Tecnológico Óptimo para el Proyecto"
+              "title": "2- Protección del Protocolo FTP"
             }
           }
         ]
@@ -167,6 +167,7 @@
   "active": "52a1662114f1f1e8",
   "lastOpenFiles": [
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/1- Protección del Protocolo SSH.md",
+    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
     "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/1- Stack Tecnológico Óptimo para el Proyecto.md",
     "Activie Directory/Tools.md",
     "Activie Directory/OSINT.md",
@@ -194,7 +195,6 @@
     "Linux y Bash Scripting/9- Ejercicios Prácticos/6- Análisis de Red con TCPdump y WireShark – PARTE 1.md",
     "Linux y Bash Scripting/9- Ejercicios Prácticos/4- Análisis de la Red con Bash – PARTE 2.md",
     "Linux y Bash Scripting/1 - Uso Básico de Linux/2- Gestión de Paquetes – APT y DPKG.md",
-    "Linux y Bash Scripting/7- Colores en mi Script/2- Listado de Colores.md",
     "Linux y Bash Scripting/9- Ejercicios Prácticos",
     "Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash",
     "Linux y Bash Scripting/7- Colores en mi Script",
