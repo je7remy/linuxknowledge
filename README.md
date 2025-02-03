@@ -93,4 +93,3 @@ Este proyecto está bajo licencia [MIT](LICENSE).
 
 [![Visitas](https://komarev.com/ghpvc/?username=je7remy&label=Visitas%20al%20Repo&color=blueviolet)](https://github.com/je7remy/linuxknowledge)
 [![Linux](https://img.shields.io/badge/Powered%20by-Linux-FCC624?style=flat&logo=linux)](https://www.linux.org/)
-```
