@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/3- Securización de Servidores Web Apache – PARTE 1.md",
+                "file": "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/4- Securización de Servidores Web Apache – PARTE 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Securización de Servidores Web Apache – PARTE 1"
+              "title": "4- Securización de Servidores Web Apache – PARTE 2"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#google",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,20 +166,24 @@
   },
   "active": "52a1662114f1f1e8",
   "lastOpenFiles": [
+    "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)/Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021).md",
+    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/4- Securización de Servidores Web Apache – PARTE 2.md",
+    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/3- Securización de Servidores Web Apache – PARTE 1.md",
+    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
+    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/1- Protección del Protocolo SSH.md",
+    "Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
+    "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)",
     "Pasted image 20250202175210.png",
     "Pasted image 20250202172945.png",
     "Pasted image 20250202164456.png",
     "Pasted image 20250202164212.png",
     "Pasted image 20250202162407.png",
-    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/3- Securización de Servidores Web Apache – PARTE 1.md",
     "Pasted image 20250202155526.png",
     "Pasted image 20250202155443.png",
-    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/k.md",
     "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/3- Idea 2 sin Tryton ERP.md",
     "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/2- Idea 1 con Tryton ERP.md",
     "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/1- Stack Tecnológico Óptimo para el Proyecto.md",
-    "Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
     "Pasted image 20250201232232.png",
     "Redes Basico/Puertos Principales.md",
     "Redes Basico/Modelo OSI.md",
@@ -197,8 +201,6 @@
     "Hacking Basico/Privilege Scalation/Python Hijacking.md",
     "Hacking Basico/Privilege Scalation/Privilege Scalation Basic.md",
     "Hacking Basico/Hosts/SSH.md",
-    "Hacking Basico/Hosts/FTP.md",
-    "Hacking Basico/Basico/Metasploit.md",
     "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas",
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)",
     "Readme del Repositorio LinuxKnowledge en Markdown",
@@ -208,10 +210,8 @@
     "Linux y Bash Scripting/6- Funciones",
     "Desinstalación de aplicaciones del sistema en Android sin root utilizando ADB",
     "Activar Office y Windows con Comandos en Cualquier Pc con Windows",
-    "Linux y Bash Scripting/5- Bucles",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
-    "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/6.1- Demostrar una mentalidad de hacking ético.png",
     "Untitled.canvas"
   ]
 }

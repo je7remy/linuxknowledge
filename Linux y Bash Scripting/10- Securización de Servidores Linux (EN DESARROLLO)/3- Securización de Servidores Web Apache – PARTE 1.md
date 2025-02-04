@@ -22,7 +22,7 @@ ls
 - Se cambió al directorio `/var/www/html/`, que es la raíz de Apache.
 - `ls` mostró los archivos disponibles, donde se encuentra **index.html**, la página por defecto del servidor.
 
-Después de esto, editaste el **index.html**, cambiando su contenido para que refleje la personalización.
+Después de esto, edite el **index.html**, cambiando su contenido para que refleje la personalización.
 
 ---
 
