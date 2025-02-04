@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/4- Securización de Servidores Web Apache – PARTE 2.md",
+                "file": "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Securización de Servidores Web Apache – PARTE 2"
+              "title": "6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4"
             }
           }
         ]
@@ -166,9 +166,11 @@
   },
   "active": "52a1662114f1f1e8",
   "lastOpenFiles": [
-    "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)/Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021).md",
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/4- Securización de Servidores Web Apache – PARTE 2.md",
+    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3.md",
+    "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4.md",
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/3- Securización de Servidores Web Apache – PARTE 1.md",
+    "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)/Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021).md",
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/1- Protección del Protocolo SSH.md",
     "Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
@@ -199,8 +201,6 @@
     "Hacking Basico/Shells/Tipos de Shell.md",
     "Hacking Basico/Shells/Basic Shells.md",
     "Hacking Basico/Privilege Scalation/Python Hijacking.md",
-    "Hacking Basico/Privilege Scalation/Privilege Scalation Basic.md",
-    "Hacking Basico/Hosts/SSH.md",
     "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas",
     "Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)",
     "Readme del Repositorio LinuxKnowledge en Markdown",
