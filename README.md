@@ -93,15 +93,3 @@ Este proyecto está bajo licencia [MIT](LICENSE).
 
 [![Visitas](https://komarev.com/ghpvc/?username=je7remy&label=Visitas%20al%20Repo&color=blueviolet)](https://github.com/je7remy/linuxknowledge)
 [![Linux](https://img.shields.io/badge/Powered%20by-Linux-FCC624?style=flat&logo=linux)](https://www.linux.org/)
-```
-
-Este diseño incluye:
-- Badges dinámicos para mostrar actividad
-- Secciones interactivas con bloques de código
-- Tablas organizadas
-- Diagrama de roadmap
-- Elementos visuales (emojis, shields.io)
-- Instrucciones claras para contribuir
-- Estadísticas de visitas
-
-Puedes personalizar los colores, añadir más screenshots, o incluir una sección de "Últimos Commits" dinámica usando la GitHub API si lo deseas.
