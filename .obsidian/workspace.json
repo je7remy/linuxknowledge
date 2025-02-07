@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/6- Los Diccionarios.md",
+                "file": "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/9- Bucle FOR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Los Diccionarios"
+              "title": "9- Bucle FOR"
             }
           }
         ]
@@ -164,15 +164,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "187eec339e5b1444",
   "lastOpenFiles": [
+    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/8- Sentencias Condicionales.md",
+    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/7- Los Operadores Lógicos.md",
+    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/9- Bucle FOR.md",
+    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/6- Los Diccionarios.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/5- Entrada de Información por parte del Usuario (Argumentos).md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/4- Entrada de Información por parte del Usuario.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/6- Los Diccionarios.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/3- Las Tuplas.md",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/2- Las Listas.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/1- Qué son y cómo Declarar Variables.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
     "Activie Directory/OSINT.md",
@@ -194,9 +197,6 @@
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/4- Securización de Servidores Web Apache – PARTE 2.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/3- Securización de Servidores Web Apache – PARTE 1.md",
-    "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)/Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021).md",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/1- Protección del Protocolo SSH.md",
     "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)",
     "Pasted image 20250202175210.png",
     "Pasted image 20250202172945.png",
