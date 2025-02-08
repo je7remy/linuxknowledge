@@ -139,8 +139,7 @@ sudo systemctl status ssh
 
 ### **4. Volver a escanear con Nmap**
 
-```bash
-nmap -p- -sS -sC -sV --min-rate=5000 -n -vvv -Pn 192.168.0.108
+```bnmap -p- -sS -sC -sV --min-rate=5000 -n -vvv -Pn 192.168.0.108
 ```
 
 - SSH **ya no estará en el puerto 22**, sino en **111**.
