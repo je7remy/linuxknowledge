@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d0630b9f638fd3",
+        "id": "d9523dbdd13a6a61",
         "type": "tabs",
         "children": [
           {
-            "id": "cb969c00a563dc36",
+            "id": "d7c445471a0acd67",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Python3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,15 +180,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cb969c00a563dc36",
+  "active": "d7c445471a0acd67",
   "lastOpenFiles": [
-    "git/comandos git.md",
-    "Readme del Repositorio LinuxKnowledge en Markdown/1- Markdown Cybersecurity Knowledge Hub.md",
     "README.md",
+    "Excalidraw/Drawing 2025-02-11 09.07.21.excalidraw.md",
+    "LICENSE.md",
+    "LICENSE",
+    "Readme del Repositorio LinuxKnowledge en Markdown/1- Markdown Cybersecurity Knowledge Hub.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/5- Análisis de la Red con Bash – PARTE 3.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/7- Automatización de Copias de Seguridad en Servidor SSH.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/10- Detector de Sistemas Operativos – PARTE 2.md",
+    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/10- Bucle WHILE.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/3- Transferencia de Archivos por la Red.md",
+    "Excalidraw",
+    "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)/Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021).md",
+    "Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/8.2- Figura 1-2.png",
+    "Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3.1- Tabla 2-3.png",
+    "git/comandos git.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/c.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/6- Acceso Automatizado SSH Importando Clave Pública.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/11- Automatizar la Gestión de Usuarios en Linux.md",
@@ -202,12 +211,6 @@
     "hacking basico/web/Protocolo http.md",
     "redes basico/Puertos Principales.md",
     "redes basico/Modelo OSI.md",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/4- Cómo Utilizar CURL con HTTP.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/6- Los Diccionarios.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/5- Entrada de Información por parte del Usuario (Argumentos).md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/3- Las Tuplas.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/2- Las Listas.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/10- Bucle WHILE.md",
     "Sin título.canvas",
     "scripts",
     "Hacking Intermedio",
@@ -218,8 +221,6 @@
     "lab",
     "tools",
     "El Compendio del Hacker Legendario 📖🏆",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad",
-    "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)",
     "Pasted image 20250202175210.png",
     "Pasted image 20250202172945.png",
     "Pasted image 20250202164456.png",
@@ -227,8 +228,6 @@
     "Pasted image 20250202162407.png",
     "Pasted image 20250202155526.png",
     "Pasted image 20250202155443.png",
-    "Pasted image 20250201232232.png",
-    "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
-    "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png"
+    "Pasted image 20250201232232.png"
   ]
 }
