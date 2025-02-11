@@ -1,3 +1,10 @@
+
+---
+
+#Linux #SysAdmin #Bash #ShellScripting #AdministraciónLinux #PermisosLinux #UsuariosLinux #SeguridadInformática #DevOps #IT #ComandosLinux #HackingÉtico #GNU #GestiónDeGrupos
+
+---
+
 Analicemos paso a paso lo que ocurrió en el flujo de comandos y los posibles problemas que llevaron a la situación actual:
 
 ---
@@ -107,3 +114,9 @@ sudo groupdel profesores
 - Se eliminó el grupo **profesores** del sistema.
 
 ---
+
+
+**[[11- Automatizar la Gestión de Usuarios en Linux]]**
+**[[6- Gestión de Usuarios en Linux]]**
+**[[1- Protección del Protocolo SSH]]**
+

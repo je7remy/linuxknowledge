@@ -1,3 +1,9 @@
+
+---
+
+#Pentesting #CyberSecurity #HackingÉtico #Linux #KaliLinux #Tcpdump #Wireshark #Sniffing #EthicalHacking #InfoSec #CTF #RedTeam #BlueTeam #SeguridadInformática #ForenseDigital #SysAdmin #DevSecOps #CapturaDeTráfico #AnálisisDeRed #FTP #ProtocolosInseguros
+
+---
 ### **1. `tcpdump -I eth0`**
 
 Este comando intenta habilitar **modo monitor** en la interfaz de red `eth0`. El modo monitor permite capturar paquetes en redes inalámbricas sin necesidad de estar conectado a ellas.
@@ -223,3 +229,12 @@ En Wireshark, al filtrar por `ftp`, deberías ver paquetes como:
 - `PASS <contraseña>`
 
 Este tráfico confirma que `tcpdump` capturó correctamente la sesión FTP. Puedes analizar más detalles sobre archivos transferidos o comandos ejecutados durante la sesión.
+
+
+[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]
+[[4- Análisis de la Red con Bash – PARTE 2]]
+[[5- Análisis de la Red con Bash – PARTE 3]]
+**[[Hoja de trucos NMAP]]**
+**[[nmap firewall evasion]]**
+**[[nmap output]]**
+

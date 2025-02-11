@@ -1,8 +1,9 @@
 
-------------------------
+---
 
+#RDP #RemoteDesktop #Ciberseguridad #Pentesting #HackingEtico #SeguridadInformática #Nmap #EscaneoRDP #AdministraciónRemota #SeguridadWindows #Redes #Hacking #CiberAtaques #PruebasDePenetración #EthicalHacking
 
---------------
+---
 ## RDP
 
 El Protocolo de escritorio remoto (en inglés: [Remote Desktop Protocol](https://docs.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol)) es un protocolo desarrollado por Microsoft para el acceso remoto a un equipo que ejecuta el sistema operativo Windows. Este protocolo permite que los comandos de visualización y control se transmitan a través de la GUI cifrados a través de redes IP. RDP funciona en la capa de aplicación en el modelo de referencia TCP/IP, normalmente utilizando el puerto TCP 3389 como protocolo de transporte. Sin embargo, el protocolo UDP sin conexión también puede utilizar el puerto 3389 para la administración remota.`RDP`
@@ -328,3 +329,6 @@ Impacket v0.9.22 - Copyright 2020 SecureAuth Corporation
 [*] SMBv3.0 dialect used
 ILF-SQL-01
 ```
+
+
+**[[Microsoft Activation Scripts master]]**

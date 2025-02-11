@@ -1,3 +1,10 @@
+
+---
+
+#PowerShell ⚡ #WindowsActivation 🖥️ #MicrosoftActivationScripts 🔑 #MAS #KMS38 #HWID #Windows #Office #SysAdmin 🛠️ #CyberSecurity 🔒 #SecurityAwareness ⚠️ #Scripting #InvokeRestMethod #InvokeExpression #EthicalHacking #Infosec #WindowsTips #TechSecurity 🚀
+
+---
+
 El comando `irm https://get.activated.win | iex` está diseñado para descargar y ejecutar un script de PowerShell que forma parte de los **Microsoft Activation Scripts (MAS)**, una herramienta de código abierto destinada a activar productos de Microsoft como Windows y Office.
 
 [massgrave.dev](https://massgrave.dev/?utm_source=chatgpt.com)
@@ -40,3 +47,4 @@ notepad script.ps1
 
 Si el script es malicioso, **no lo ejecutes** en tu máquina principal. Usa una máquina virtual o un entorno aislado para pruebas.
 
+**[[Windows Hosts]]**

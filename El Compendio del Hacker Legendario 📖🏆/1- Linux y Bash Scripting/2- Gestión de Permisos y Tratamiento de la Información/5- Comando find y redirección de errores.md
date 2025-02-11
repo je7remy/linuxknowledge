@@ -1,3 +1,9 @@
+
+---
+
+#Linux #FileSearch #FindCommand #DirectorySearch #FileManagement #SysAdmin #CommandLine
+
+---
 ### Explicación paso a paso de los comandos `find`
 
 #### 1. `find nombres`
@@ -68,3 +74,8 @@
 
 ---
 
+
+
+[[6- Comando XARGS]]
+[[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]
+[[9- Uso de Grep]]

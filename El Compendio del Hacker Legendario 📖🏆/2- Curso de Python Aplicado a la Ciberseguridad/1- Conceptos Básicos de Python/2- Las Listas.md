@@ -1,3 +1,9 @@
+
+---
+
+#Python #Listas #EstructurasDeDatos #ManipulaciónDeListas #Programación #AprenderPython 🚀
+
+---
 Las listas en Python son estructuras de datos ordenadas y mutables que pueden contener elementos de diferentes tipos, como cadenas, enteros y otros objetos. 
 
 ---
@@ -109,3 +115,10 @@ else:
 ✅ **Esto evita el error `IndexError` al verificar si el índice aún existe antes de acceder a él.**
 
 ---
+
+
+
+
+[[3- Las Tuplas]]
+[[5- Entrada de Información por parte del Usuario (Argumentos)]]
+[[6- Los Diccionarios]]

@@ -1,3 +1,9 @@
+
+---
+
+#Python #Diccionarios #ManejoDeErrores #EstructurasDeDatos #Programación
+
+---
 ### **Código 1**
 
 ```python
@@ -156,3 +162,12 @@ print(diccionario.get('Profesion', 'Clave no encontrada'))
 ```
 
 Esto imprimirá el valor si la clave existe o `"Clave no encontrada"` si no existe.
+
+
+
+
+
+
+[[2- Las Listas]]
+[[3- Las Tuplas]]
+[[5- Entrada de Información por parte del Usuario (Argumentos)]]

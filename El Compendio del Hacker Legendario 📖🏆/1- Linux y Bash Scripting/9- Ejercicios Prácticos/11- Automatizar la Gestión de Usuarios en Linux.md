@@ -1,3 +1,10 @@
+
+---
+
+#Linux #Bash #ShellScripting #SysAdmin #Automatización #ComandosLinux #AdministraciónLinux #SeguridadInformática #DevOps #Scripting #IT #HackingÉtico #GNU #UsuariosLinux
+
+---
+
 ### **Parte 1: Comandos Iniciales**
 
 #### **1️⃣ Comando `su jeremy`**
@@ -307,3 +314,9 @@ done
 5. El typo en `elecion` hará que siempre caiga en "*Opción no válida*" a menos que el usuario escriba mal la opción
 
 Este script es un menú interactivo básico para gestión de usuarios, pero necesitaría mejoras para uso en producción.
+
+**[[6- Gestión de Usuarios en Linux]]**
+**[[2- Gestión de Grupos]]**
+**[[1- Protección del Protocolo SSH]]** 
+[[7- Automatización de Copias de Seguridad en Servidor SSH]]
+[[6- Acceso Automatizado SSH Importando Clave Pública]]

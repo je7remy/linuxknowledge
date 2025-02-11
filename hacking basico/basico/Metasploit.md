@@ -1,3 +1,9 @@
+
+---
+
+#Metasploit #MSFConsole #EthicalHacking #CyberSecurity #Pentesting #InfoSec #RedTeam #ExploitDevelopment #VulnerabilityScanning #NetworkSecurity #CyberAttack #Meterpreter #PrivilegeEscalation #ReverseShell #PenetrationTesting #BugBounty #SecurityTesting #Exploit #RCE #HackingTools #OSINT #CyberSecCommunity #CTF #ThreatHunting #BlackBoxTesting #SecurityResearch #HackThePlanet #BruteForce #ShellAccess
+
+---
 ## MSFconsole Commands
 
 | **Command**                                     | **Description**                                                                                                                                   |
@@ -85,3 +91,8 @@
 |`clearev`|Clear the event log on the target machine.|
 |`timestomp`|Change file attributes, such as creation date (antiforensics measure).|
 |`reboot`|Reboot the target machine.|
+
+
+
+**[[hoja de trucos de METASPLOIT]]**
+**[[basic tools]]**

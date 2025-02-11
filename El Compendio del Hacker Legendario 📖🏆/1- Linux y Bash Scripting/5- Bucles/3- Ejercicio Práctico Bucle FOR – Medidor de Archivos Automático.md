@@ -1,3 +1,9 @@
+
+---
+
+#Bash #ShellScripting #AutomatizacionDeArchivos #GestionDeArchivos #ScriptingLinux #ComandosLinux #EliminarArchivos #TrabajoConArchivos #SeguridadEnSistemas #AutomatizacionDeTareas #BuenasPracticasLinux #FindCommand #ScriptingEficiente #ConfirmacionDeEliminacion #RegistrosDeArchivos #AuditoriaDeArchivos #AutomatizacionLinux #BackupDeArchivos
+
+---
 ### **Script 1: Mostrar tamaño de archivos**
 
 Este script itera sobre los archivos del directorio actual y muestra cuánto espacio ocupa cada archivo en bytes.
@@ -138,3 +144,11 @@ echo "Proceso completo. Revisa $log para ver los detalles."
 5. **Probar el script en un entorno seguro** antes de usarlo en datos importantes.
 
 Con estos ajustes, evitarás errores con nombres de archivos largos y tendrás mayor control sobre el proceso.
+
+
+
+
+
+[[1- Bucle FOR – Parte 1]]
+[[2- Bucle FOR – Parte 2]]
+[[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]

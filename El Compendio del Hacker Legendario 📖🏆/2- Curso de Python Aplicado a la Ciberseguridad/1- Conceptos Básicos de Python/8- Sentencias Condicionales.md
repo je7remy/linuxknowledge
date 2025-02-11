@@ -1,3 +1,9 @@
+
+---
+
+#Python #Condicionales #IF #ELIF #ELSE #Programación #EjemplosPython #Código #AprenderPython #Lógica #Automatización
+
+---
 ### **Definición de Sentencias Condicionales**
 
 Las **sentencias condicionales** en programación permiten ejecutar diferentes bloques de código dependiendo de si una condición se evalúa como `True` o `False`. Estas condiciones suelen ser expresiones lógicas que comparan valores y devuelven un resultado booleano.
@@ -161,3 +167,9 @@ else:
 |`"(829) 522-1765" in texto`|-|`True`|`"El numero de telefono esta presente en el texto"`|
 |`input("Inserta tu contraseña: ")`|`"password1"`|`"password1" in "La contraseña es password1"` → `True`|`"Contraseña correcta, puedes pasar"`|
 |`input("Inserta tu contraseña: ")`|`"clave123"`|`"clave123" in "La contraseña es password1"` → `False`|`"Contraseña incorrecta, no puedes pasar"`|
+
+
+
+[[7- Los Operadores Lógicos]]
+[[9- Bucle FOR]]
+[[10- Bucle WHILE]]

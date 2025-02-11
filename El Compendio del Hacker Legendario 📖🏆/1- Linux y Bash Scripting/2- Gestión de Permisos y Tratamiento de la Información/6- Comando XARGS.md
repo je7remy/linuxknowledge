@@ -1,6 +1,11 @@
 
+---
+
+#ComandoFind #Xargs #UnixLinux #ComandosLinux #RenombrarArchivos #MoverArchivos #GestiónDeArchivos #Bash #Terminal #AutomatizaciónLinux #ScriptingLinux #AdministraciónDeSistemas #ShellScripting #GestiónDeDirectorios
 
 ---
+
+**`xargs`** es un comando que toma la salida de otro comando y la utiliza como entrada para otro comando, permitiendo realizar operaciones sobre cada elemento de esa salida. Es útil cuando el número de elementos encontrados es muy grande, ya que evita los problemas con límites de longitud de comando.
 
 ### 1. **`find . -name "*.txt" | xargs rm`**
 
@@ -61,3 +66,8 @@
 3. `mv {} backup_{}`: Para cada archivo listado, el comando `mv` lo renombra agregando `backup_` al inicio del nombre original.
 
 ---
+
+
+[[5- Comando find y redirección de errores]]
+[[6- Comando XARGS]]
+[[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]

@@ -1,3 +1,9 @@
+
+---
+
+#BashScripting #Linux #Programación #DesarrolloWeb #Automatización #Tecnología #AprenderBash #EvoluciónDeScripts #AutomatizaciónDeTareas #MejoresPrácticasBash #DocumentaciónTécnica #ScriptsDeBash #ComandosLinux #EducaciónTecnológica #CompartirConocimientos #TutorialesDeBash
+
+---
 A continuación observaremos una evolución progresiva en el uso de comandos y variables en un script de Bash. Aquí está la explicación y desarrollo de cada etapa:
 
 ---
@@ -138,3 +144,8 @@ echo $scripts
 5. **Eficiencia:** Filtrar archivos `.sh` directamente con `ls *.sh`.
 
 Esta progresión muestra una evolución hacia scripts más útiles, claros y eficientes en la automatización de tareas con Bash.
+
+
+
+[[10- Creamos un Script que Automatice el Tratamiento de la Información]]
+[[11- Creamos un Script para Automatizar Búsquedas en el Sistema]]

@@ -1,3 +1,9 @@
+
+---
+
+#Python #OperadoresLógicos #Programación #Código #Booleanos #Condicionales #AND #OR #NOT #EjemplosPython #AprenderPython
+
+---
 ### **Definición de Operadores Lógicos en Python**
 
 Los **operadores lógicos** en Python son utilizados para combinar condiciones y evaluar expresiones booleanas (`True` o `False`). Permiten realizar operaciones de lógica booleana para la toma de decisiones en el código.
@@ -116,3 +122,10 @@ print(not numero > 5)
 | `not verdadero`              | `not True`       | `False`   |
 | `not numero > 5`             | `not True`       | `False`   |
 
+
+
+
+
+[[8- Sentencias Condicionales]]
+[[9- Bucle FOR]]
+[[10- Bucle WHILE]]

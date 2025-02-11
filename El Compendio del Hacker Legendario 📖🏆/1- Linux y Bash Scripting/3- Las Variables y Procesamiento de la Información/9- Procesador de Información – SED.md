@@ -1,3 +1,9 @@
+
+---
+
+#ComandoSed #AWK #TraducciónDeTexto #BashScripting #LinuxCommands #TextProcessing #ComandosLinux #ShellScripting #AutomatizaciónLinux #LinuxTools #TextoTransformado #ModificaciónDeArchivos #ReemplazosDeTexto #ScriptingEnLinux #EdiciónDeTexto #ProcesamientoDeArchivos #ComandoTr
+
+---
 ### Explicación de los Pasos y Comandos Usados
 
 1. **Contenido inicial del archivo (`cat texto.txt`)**:
@@ -84,3 +90,9 @@
 - **`tr`**: Comando usado para traducir caracteres.
     - `tr '.' ','`: Reemplaza todos los puntos por comas.
 - **`-i` en `sed`**: Habilita la edición directa del archivo (sin crear una copia intermedia).
+
+
+
+[[6- Procesador de Información – TR]]
+[[7- Procesador de Información – AWK]]
+[[8- Procesador de Información – CUT]]

@@ -1,5 +1,13 @@
 
+---
+
+#Python #ServidorWeb #HTTPServer #Linux #Python3 #WebDevelopment #SysAdmin #Networking #Bash #DevOps
+
+---
+
+```python
 python3 -m http.server 80
+```
 
 El comando `python3 -m http.server 80` se utiliza para iniciar un servidor web HTTP simple en el puerto 80 utilizando Python. A continuación, desgloso cada parte del comando:
 
@@ -28,3 +36,9 @@ Cuando ejecutas este comando:
 
 1. **Inicia un servidor web** en el directorio actual.
 2. Los archivos y subdirectorios del directorio actual estarán disponibles públicamente a través del navegador web en la dirección `http://<tu-ip-o-hostname>:80/`.
+
+
+**[[5- Cómo Utilizar WGET]]**
+**[[4- Cómo Utilizar CURL con HTTP]]**
+**[[3- Securización de Servidores Web Apache – PARTE 1]]**
+**[[4- Gestión y Automatización de Servidores FTP – PARTE 2]]**.

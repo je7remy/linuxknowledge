@@ -1,3 +1,10 @@
+
+---
+
+#Linux #Wget #Descargas #Terminal #ComandosLinux #SysAdmin #Networking #Automatización #Bash #DevOps
+
+---
+
 `wget` es un acrónimo de **"World Wide Web GET"**.
 
 Se refiere a su función principal: obtener (GET) archivos desde la web.
@@ -16,3 +23,9 @@ Se refiere a su función principal: obtener (GET) archivos desde la web.
 - **`wget -r http://192.168.43.137/`**  
     Descarga recursivamente todo el contenido del servidor especificado.
 
+
+**[[3- Transferencia de Archivos por la Red]]** 
+**[[4- Cómo Utilizar CURL con HTTP]]**
+**[[Protocolo http]]**
+**[[3- Securización de Servidores Web Apache – PARTE 1]]**
+**[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**

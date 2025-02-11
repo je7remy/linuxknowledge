@@ -1,6 +1,8 @@
 
 ----------
 
+#HTTP #WebSecurity #CyberSecurity #Networking #InfoSec #Pentesting #EthicalHacking #Redes #WebDevelopment #URL #DNS #HackTheBox #WebRequests #HTTPFlow #Security #SysAdmin #DevSecOps #WebScraping #NetworkingBasics #HackingÉtico
+
 --------------
 
 
@@ -46,4 +48,10 @@ En este caso, el contenido de es leído y devuelto por el servidor web como una 
 
 
 
+[[Modelo OSI]]
+[[Puertos Principales]]
+**[[4- Cómo Utilizar CURL con HTTP]]**
+**[[5- Cómo Utilizar WGET]]**
+**[[3- Securización de Servidores Web Apache – PARTE 1]]**
+**[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**
 

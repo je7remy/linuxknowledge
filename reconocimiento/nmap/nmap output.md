@@ -1,5 +1,6 @@
 
 -----------
+
 #nmap
 
 ---------
@@ -133,3 +134,10 @@ Si ahora abrimos el archivo HTML en nuestro navegador, vemos una presentación c
 ![imagen](https://academy.hackthebox.com/storage/modules/19/nmap-report.png)
 
 Puede encontrar más información sobre los formatos de salida en: [https://nmap.org/book/output.html](https://nmap.org/book/output.html)
+
+[[1- Comandos Basicos - Intermedio]]
+**[[4- Análisis de la Red con Bash – PARTE 2]]** 
+**[[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]**
+**[[Hoja de trucos NMAP]]**
+**[[nmap firewall evasion]]**
+**[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]**

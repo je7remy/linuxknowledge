@@ -1,3 +1,9 @@
+
+---
+
+#Python #WhileLoop #CicloWhile #BucleInfinito #ControlDeFlujo #Programación #EjemplosPython #Automatización #AprenderPython 🚀
+
+---
 ### **Definición de Bucle `while` en Python**
 
 Un **bucle `while`** es una estructura de control en Python que permite ejecutar un bloque de código **mientras una condición sea verdadera (`True`)**.
@@ -189,3 +195,10 @@ Después de imprimir `9`, el bucle se detiene sin mostrar `10`.
 - **Cuarto bloque:** **Bucle infinito** (`while True` nunca cambia).
 - **Quinto bloque:** Bucle con **parada manual cuando `contador == 10`**.
 - **Sexto bloque:** Igual que el quinto, pero **no imprime cuando `contador == 10`**.
+
+
+
+
+[[7- Los Operadores Lógicos]]
+[[8- Sentencias Condicionales]]
+[[9- Bucle FOR]]

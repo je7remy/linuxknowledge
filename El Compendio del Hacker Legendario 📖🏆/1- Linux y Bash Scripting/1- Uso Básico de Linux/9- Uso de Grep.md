@@ -1,3 +1,10 @@
+
+---
+
+#grep #Linux #Unix #Regex #CommandLine #ShellScripting #Terminal #Bash #Scripting #ComandosLinux
+
+---
+
 El comando **`grep`** es una herramienta poderosa en Linux/UNIX utilizada para buscar texto en archivos o en la salida de otros comandos, basándose en patrones. Aquí te detallo cómo usarlo y sus opciones más comunes:
 
 ---
@@ -122,3 +129,7 @@ root:x:0:0:root:/root:/bin/bash
 ```
 
 ---
+
+[[1- Comandos Basicos - Intermedio]]
+[[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]
+[[5- Comando find y redirección de errores]]

@@ -1,4 +1,10 @@
 
+---
+
+#Pentesting #Hacking #CyberSecurity #RedTeam #BlueTeam #Nmap #PortScanning #NetworkSecurity #Reconnaissance #Metasploit #Exploits #PrivilegeEscalation #ReverseShell #LinuxTools #Tmux #Vim #SSH #FTP #Gobuster #SNMP #SMB #OSINT #ExifTool #Metadata #Forensics
+
+---
+
 |scanning options|descripcion|
 |---|---|
 |`-sn`|Disables port scanning.|
@@ -49,10 +55,10 @@
 |`-T <0-5>`|Specifies the specific timing template.|
 
 
-## Host && Port scan states
 
-![[Pasted image 20231206181101.png]]
-
-## script categories
-
-![[Pasted image 20231206194010.png]]
+**[[Extraer Metadatos]]**
+**[[OSINT]]**
+**[[tools]]**
+[[Hoja de trucos NMAP]]
+[[nmap scripts]]
+[[nmap firewall evasion]]

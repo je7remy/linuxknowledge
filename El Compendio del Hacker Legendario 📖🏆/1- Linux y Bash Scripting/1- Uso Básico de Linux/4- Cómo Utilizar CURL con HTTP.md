@@ -1,3 +1,10 @@
+
+---
+
+#Linux #Curl #HTTP #Descargas #Automatización #Terminal #ComandosLinux #SysAdmin #Networking #DevOps
+
+---
+
 ### **CURL: Información básica**
 
 - **Siglas:**  
@@ -75,3 +82,11 @@ curl -fsS https://dl.brave.com/install.sh | sh
     - `sh` es el intérprete de comandos de shell que ejecuta el script descargado. En este caso, ejecutará el archivo `install.sh` que contiene los comandos necesarios para instalar el navegador Brave en tu sistema.
 
 En resumen, este comando descarga un script de instalación de Brave y lo ejecuta directamente en tu terminal para instalar el navegador de manera automática.
+
+
+
+**[[3- Transferencia de Archivos por la Red]]** 
+**[[Protocolo http]]**
+**[[5- Cómo Utilizar WGET]]**
+**[[3- Securización de Servidores Web Apache – PARTE 1]]**
+**[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**

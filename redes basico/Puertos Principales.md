@@ -1,5 +1,6 @@
 
 -------------
+
 #puertos #linux #servicios
 
 ------------------
@@ -18,3 +19,6 @@
 | `443` (TCP)     | `SSL`/`TLS` (`HTTPS`) |
 | `445` (TCP)     | `SMB`                 |
 | `3389` (TCP)    | `RDP`                 |
+
+[[Modelo OSI]]
+[[Protocolo http]]

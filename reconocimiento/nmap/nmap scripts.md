@@ -1,4 +1,6 @@
+
 ---------
+
 #nmap #enumeration #scripts
 
 ---------
@@ -163,3 +165,9 @@ PORT   STATE SERVICE VERSION
 |`--script vuln`|Utiliza todos los scripts relacionados de la categoría especificada.|
 
 Los scripts utilizados para el último escaneo interactúan con el servidor web y su aplicación web para obtener más información sobre sus versiones y verificar varias bases de datos para ver si hay vulnerabilidades conocidas. Más información sobre los scripts NSE y las categorías correspondientes la podemos encontrar en: [https://nmap.org/nsedoc/index.html](https://nmap.org/nsedoc/index.html)
+
+
+**[[OSINT]]**
+[[Hoja de trucos NMAP]]
+[[nmap comands]]
+[[nmap firewall evasion]]

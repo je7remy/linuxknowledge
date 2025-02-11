@@ -1,3 +1,9 @@
+
+---
+
+#Bash #ShellScripting #ComandosLinux #AutomatizacionDeTareas #ScriptsDeBash #AdministracionDeSistemas #ComandosBash #TrabajoConArchivos #TrabajoConDirectorios #ExtensionesDeArchivos #CompresionDeArchivos #ZippingFiles #ServidorHTTP #PythonHTTPServer #RedLocal #DireccionIP #ComandoHostname #ScriptingLinux #AutomatizacionDeArchivos #ManejoDeArchivosEnLinux #ProgramacionLinux #ScriptsDeAutomatizacion #ScriptingDeArchivos
+
+---
 ### **Comando inicial**:
 
 ```bash
@@ -114,3 +120,10 @@ cd servidor/ && python3 -m http.server 80
     4. Inicia un servidor HTTP en el puerto 80 usando `python3 -m http.server`, sirviendo el contenido del directorio `servidor/`.
 
 **Resultado**: El archivo ZIP estará disponible para descarga en la red local accediendo a la dirección IP y puerto indicados en el navegador.
+
+
+
+
+[[1- Bucle FOR – Parte 1]]
+[[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]
+[[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]

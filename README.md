@@ -41,12 +41,12 @@ Repositorio activo que documenta mi jornada en:
 
 ## 🧪 Laboratorios & Scripts
 
-| Herramienta | Descripción | Última Actualización |
-|-------------|-------------|----------------------|
-| [Detector de SO](lab/detector-so) | Identifica sistemas operativos en red | Ene 2025 |
-| [Fuzzing Web](scripts/web-fuzzer) | Script para descubrir directorios ocultos | Ene 2025 |
-| [Auto Backup SSH](tools/ssh-backup) | Sistema automatizado de copias seguras | Ene 2025 |
-| [Analizador de Red](lab/network-analyzer) | Kit de herramientas para análisis de tráfico | Dic 2024 |
+| Herramienta                                                                                                                                                                                                                                                                                                              | Descripción                                  | Última Actualización |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------------------- |
+| [Detector de SO](obsidian://open?vault=linuxknowledge&file=El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86%2F1-%20Linux%20y%20Bash%20Scripting%2F9-%20Ejercicios%20Pr%C3%A1cticos%2F10-%20Detector%20de%20Sistemas%20Operativos%20%E2%80%93%20PARTE%202)                                           | Identifica sistemas operativos en red        | Ene 2025             |
+| [Fuzzing Web](obsidian://open?vault=linuxknowledge&file=El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86%2F1-%20Linux%20y%20Bash%20Scripting%2F9-%20Ejercicios%20Pr%C3%A1cticos%2F2-%20Bash%20Scripting%20Aplicado%20a%20Ciberseguridad%20%E2%80%93%20Script%20para%20Hacer%20Fuzzing%20Web)        | Script para descubrir directorios ocultos    | Ene 2025             |
+| [Auto Backup SSH](obsidian://open?vault=linuxknowledge&file=El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86%2F1-%20Linux%20y%20Bash%20Scripting%2F8-%20Gesti%C3%B3n%20de%20Servidores%20con%20Scripts%20de%20Bash%2F7-%20Automatizaci%C3%B3n%20de%20Copias%20de%20Seguridad%20en%20Servidor%20SSH) | Sistema automatizado de copias seguras       | Ene 2025             |
+| [Analizador de Red](obsidian://open?vault=linuxknowledge&file=El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86%2F1-%20Linux%20y%20Bash%20Scripting%2F9-%20Ejercicios%20Pr%C3%A1cticos%2F5-%20An%C3%A1lisis%20de%20la%20Red%20con%20Bash%20%E2%80%93%20PARTE%203)                                    | Kit de herramientas para análisis de tráfico | Dic 2024             |
 
 ## 📅 Historial de Desarrollo
 

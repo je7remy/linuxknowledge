@@ -1,4 +1,10 @@
 
+---
+
+#OrganizaciónDeArchivos #AutomatizaciónBash #ScriptsBash #GestiónDeArchivos #ProgramaciónBash #LinuxScripts #ManejoDeArchivos #Automatización #AdministraciónDeArchivos #BashScripting #OrganizaciónDeDatos #TrabajoEficiente #ScriptingParaLinux
+
+---
+
 ```bash
 #!/bin/bash
 
@@ -116,3 +122,10 @@ Aquí está el paso a paso explicado:
     - Finaliza el bloque `case` con `esac` y el bucle con `done`.
 
 Este script organiza archivos en carpetas según sus extensiones y proporciona retroalimentación para cada operación.
+
+
+
+
+[[1- Bucle FOR – Parte 1]]
+[[2- Bucle FOR – Parte 2]]
+[[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]

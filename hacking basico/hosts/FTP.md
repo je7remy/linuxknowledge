@@ -1,5 +1,7 @@
+
 ------------
-#ftp 
+
+#ftp #FTP #TFTP #vsFTPd #FTPServer #FTPConfig #FileTransfer #Ciberseguridad #Pentesting #Nmap #NSE #Enumeracion #AnonymousFTP #NetworkSecurity #Vulnerabilidades #OpenSSL #Telnet #Netcat
 
 ----------
 ## TFTP
@@ -560,3 +562,6 @@ MIIENTCCAx2gAwIBAgIUD+SlFZAWzX5yLs2q3ZcfdsRQqMYwDQYJKoZIhvcNAQEL
 ```
 
 Esto se debe a que el certificado SSL nos permite reconocer el , por ejemplo, y en la mayoría de los casos también un para la organización o empresa. Además, si la empresa tiene varias ubicaciones en todo el mundo, también se pueden crear certificados para ubicaciones específicas, que también se pueden identificar mediante el certificado SSL.`hostname``email address`
+
+
+**[[SQL]]**

@@ -1,3 +1,10 @@
+
+---
+
+#Linux #Procesos #GestiónDeProcesos #Bash #Terminal #SysAdmin #ComandosLinux #Unix #ShellScripting #DevOps
+
+---
+
 La **gestión de procesos** es una función del sistema operativo que se encarga de crear, planificar, ejecutar y finalizar los procesos que se ejecutan en un sistema. Implica la asignación de recursos (CPU, memoria, E/S), el manejo de estados de los procesos (nuevo, listo, ejecutando, bloqueado, terminado) y la coordinación entre procesos para garantizar eficiencia y estabilidad en el sistema:
 
 ---
@@ -97,3 +104,6 @@ La **gestión de procesos** es una función del sistema operativo que se encarga
 - **`12:00`**: Hora en que inició el proceso.
 - **`0:02`**: Tiempo acumulado en ejecución.
 - **`/usr/lib/firefox/firefox`**: Ruta completa del ejecutable.
+
+
+[[1- Comandos Basicos - Intermedio]]

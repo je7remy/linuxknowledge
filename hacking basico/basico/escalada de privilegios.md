@@ -1,4 +1,6 @@
+
 ----------
+
 #privilegeescalation #comandos 
 
 --------
@@ -14,3 +16,6 @@
 |`ssh-keygen -f key`|Crear una nueva clave SSH|
 |`echo "ssh-rsa AAAAB...SNIP...M= user@parrot" >> /root/.ssh/authorized_keys`|Agregar la clave pública generada al usuario|
 |`ssh root@10.10.10.10 -i key`|SSH al servidor con la clave privada generada|
+
+**[[privilege scalation basic]]**
+**[[python hijacking]]**

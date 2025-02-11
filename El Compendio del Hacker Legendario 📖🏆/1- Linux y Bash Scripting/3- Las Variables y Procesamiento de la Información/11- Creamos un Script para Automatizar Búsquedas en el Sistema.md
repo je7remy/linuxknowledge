@@ -1,3 +1,9 @@
+
+---
+
+#Bash #Linux #ShellScripting #ScriptDeBash #Automatización #BusquedaDeArchivos #ComandosDeSistema #find #tr #awk #LinuxTips #ManejoDeArchivos #ProgramaciónEnLinux #SistemaOperativo #ProcesamientoDeTextos #AutomatizaciónDeTareas #ComandosShell #AdministraciónDeSistemas #ScriptDeBusqueda #TareasAutomatizadas
+
+---
 Este script es un ejemplo funcional de cómo automatizar la búsqueda de archivos en un sistema Linux, utilizando herramientas básicas de shell scripting. A continuación, detallo cada parte del proceso y lo que ocurre en cada paso.
 
 ---
@@ -129,3 +135,9 @@ El archivo encontrado es: ---> swapfile
 ### Conclusión
 
 Este script demuestra cómo usar herramientas básicas de Bash como `find`, `tr` y `awk` para buscar y procesar archivos en un sistema Linux. Aunque funcional, puede mejorarse para manejar escenarios más complejos, como múltiples resultados o la ausencia de archivos coincidentes.
+
+
+
+
+[[2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables]]
+[[10- Creamos un Script que Automatice el Tratamiento de la Información]]

@@ -1,3 +1,9 @@
+
+---
+
+#JohnTheRipper #PasswordCracking #EthicalHacking #CyberSecurity #Pentesting #InfoSec #HackingÉtico #BruteForce #DictionaryAttack #CyberDefense #SecurityTools #CrackingHashes #RedTeam #CyberAttack #Linux #SysAdmin #SecurityTesting #HackThePlanet #HashBreaking #PenetrationTesting #CTF #CyberSecCommunity #Forensics #DataSecurity #RockYou #PasswordRecovery
+
+---
 ### 1️⃣ **Explicación del Código**
 
 El script recibe dos argumentos:
@@ -103,3 +109,7 @@ chmod +x script.sh
 ```
 
 ---
+
+**[[Hoja de Trucos HASHCAT]]**
+**[[12- Herramienta para hacer cracking de contraseñas]]**
+[[14- Prueba de lápiz interno]]

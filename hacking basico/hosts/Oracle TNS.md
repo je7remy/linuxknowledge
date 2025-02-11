@@ -1,6 +1,7 @@
 
 ------------
-#databases #oracle #sql 
+
+#databases #oracle #sql #Oracle #ODAT #SQL #TNS #SID #Nmap #Metasploit #SQLplus #Hydra #SQLInjection #PrivilegeEscalation #BaseDeDatos #OracleRDBMS #SeguridadInformática #EthicalHacking #Ciberseguridad #Pentesting #Exploits #WebShell #PasswordHashing 
 
 -----------------
 
@@ -287,3 +288,6 @@ zunderrubb@htb[/htb]$ ./odat.py utlfile -s 10.129.204.235 -d XE -U scott -P tige
 ```
 
 Finalmente, podemos probar si el enfoque de carga de archivos funcionó con . Por lo tanto, utilizaremos una solicitud, o podemos visitar a través del navegador.`curl``GET http://<IP>`
+
+
+**[[SQL]]**

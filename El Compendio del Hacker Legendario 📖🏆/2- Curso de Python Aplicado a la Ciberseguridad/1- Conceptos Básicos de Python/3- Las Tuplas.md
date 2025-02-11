@@ -1,3 +1,9 @@
+
+---
+
+#Python #Tuplas #EstructurasDeDatos #Inmutabilidad #Optimización #AprenderPython 🚀
+
+---
 ### **¿Qué son las tuplas en Python?**
 
 Las **tuplas** en Python son estructuras de datos **ordenadas e inmutables** que pueden contener diferentes tipos de datos. A diferencia de las listas, las tuplas **no pueden ser modificadas** una vez creadas, es decir, no se pueden agregar, eliminar o cambiar elementos después de su creación.
@@ -126,3 +132,11 @@ print(tuplas)  # ('jeremy', 5, 'informatico')
 - 🚨 **Intentar modificar una tupla provoca errores.**
 
 ---
+
+
+
+
+
+[[2- Las Listas]]
+[[5- Entrada de Información por parte del Usuario (Argumentos)]]
+[[6- Los Diccionarios]]

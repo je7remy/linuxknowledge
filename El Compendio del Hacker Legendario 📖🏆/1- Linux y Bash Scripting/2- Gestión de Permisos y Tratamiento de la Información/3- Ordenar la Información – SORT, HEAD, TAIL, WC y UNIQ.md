@@ -1,3 +1,9 @@
+
+---
+
+#Linux #ShellCommands #FileManipulation #Sort #Head #Tail #Cat #Uniq #WC #CommandLine #SysAdmin #Scripting
+
+---
 Los comandos están relacionados con la manipulación de archivos en Linux utilizando herramientas básicas como `sort`, `head`, `tail`, `cat`, `uniq`, y `wc`.
 
 ---
@@ -96,3 +102,8 @@ Los comandos están relacionados con la manipulación de archivos en Linux utili
 - **`head` y `tail`** muestran las primeras o últimas líneas de un archivo.
 - **`wc`** se utiliza para contar líneas, palabras y caracteres en archivos.
 - **`uniq`** elimina duplicados consecutivos, mientras que **`cat`** concatena y muestra contenido de archivos.
+
+[[9- Uso de Grep]]
+[[5- Comando find y redirección de errores]]
+[[6- Comando XARGS]]
+[[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]

@@ -1,12 +1,8 @@
 
 ---
-tags:
-  - bbdd
-  - sql
-  - comandos
-  - tabla
----
 
+#bbdd #sql #comandos #tabla #SQL #ComandosSQL #BaseDeDatos #ConsultasSQL #FiltrarDatos #JOIN #GROUPBY #HAVING #ORDERBY #INSERT #UPDATE #DELETE #CREATE #INDEX #DISTINCT #WHERE #AND #OR #LIKE
+  
 ---
 
 | Comando SQL      | Ejemplo                                                                               | Descripción                                                                          |
@@ -27,3 +23,10 @@ tags:
 | **WHERE**        | `SELECT columna FROM tabla WHERE condición;`                                          | Filtra filas basadas en una condición dada.                                          |
 | **AND** / **OR** | `SELECT columna FROM tabla WHERE condición1 AND condición2;`                          | Combina múltiples condiciones en una consulta.                                       |
 | **LIKE**         | `SELECT columna FROM tabla WHERE columna LIKE 'patrón%';`                             | Filtra filas basadas en un patrón de texto.                                          |
+
+ **[[MySQL]]**
+ **[[MSSQL]]** 
+ **[[Oracle TNS]]**
+ **[[FTP]]**
+ **[[SMB]]**
+ **[[SSH]]**

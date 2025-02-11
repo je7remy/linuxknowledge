@@ -1,6 +1,7 @@
 
 ------------
 
+#SSH #OpenSSH #sshd_config #X11Forwarding #ConfiguracionPeligrosa #SSHAudit #Rsync #TransferenciaDeArchivos #RemoteAdministration #RServices #RCommands #HostsEquiv #PenTesting #Ciberseguridad #InfoSec
 
 --------------
 
@@ -317,3 +318,6 @@ htb-student     10.0.17.5:console          Dec 2 19:57     2:25
 ```
 
 Como podemos ver, los servicios R se utilizan con menos frecuencia hoy en día debido a sus fallos de seguridad inherentes y a la disponibilidad de protocolos más seguros como SSH. Para ser un profesional completo de la seguridad de la información, debemos tener un conocimiento amplio y profundo de muchos sistemas, aplicaciones, protocolos, etc. Por lo tanto, archiva este conocimiento sobre los servicios R porque nunca se sabe cuándo puedes encontrarlos.
+
+
+**[[SQL]]**

@@ -224,3 +224,9 @@ sudo systemctl restart snapd
 
 verificar estado del sevicio:
 sudo systemctl status snapd
+
+
+**[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]**
+**[[9- Uso de Grep]]**
+**[[7- Uso de Tuberías o Pipes]]**
+**[[8- Gestión de Procesos]]**

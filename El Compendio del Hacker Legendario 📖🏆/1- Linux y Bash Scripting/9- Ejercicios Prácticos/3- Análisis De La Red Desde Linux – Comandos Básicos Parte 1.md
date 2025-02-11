@@ -1,4 +1,10 @@
-[[1- Comandos Basicos - Intermedio]]
+
+---
+
+#hostname #ip #ifconfig #arpscan #nmap #NetworkRecon #Redes #Reconocimiento #Seguridad #Pentesting #ComandosBásicos
+
+---
+
 
 2. **`hostname -I`**:
     
@@ -39,3 +45,12 @@
 
 Cada paso implica una fase del reconocimiento o análisis de una red o dispositivo, una práctica común en auditorías de seguridad. En este caso, comenzamos por identificar la IP del dispositivo (con `hostname -I` o `ip a`), luego obtenemos información de dispositivos conectados (con `arp-scan`) y pasamos a identificar servicios y puertos abiertos en un objetivo específico (`nmap`). Esto forma parte de las fases de reconocimiento y escaneo, fundamentales en un análisis ético de vulnerabilidades.
 
+
+
+[[1- Comandos Basicos - Intermedio]]
+[[4- Análisis de la Red con Bash – PARTE 2]]
+[[5- Análisis de la Red con Bash – PARTE 3]]
+[[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]
+**[[Hoja de trucos NMAP]]**
+**[[nmap firewall evasion]]**
+**[[nmap output]]**

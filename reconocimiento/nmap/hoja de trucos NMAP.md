@@ -1,3 +1,9 @@
+
+---
+
+#Nmap #Pentesting #CyberSecurity #HackingÉtico #EthicalHacking #InfoSec #RedTeam #BlueTeam #SeguridadInformática #EscaneoDeRedes #OSINT #Networking #SysAdmin #DevSecOps #PortScanning #NetworkSecurity #CTF #Redes #Ciberseguridad
+
+---
 ### Escaneo de IPs y Redes
 
 | Opción    | Ejemplo                       | Descripción                         |
@@ -77,3 +83,14 @@
 | -T3    | nmap 192.168.50.1 -T3 | Normal (3) que es la velocidad predeterminada                                                     |
 | -T4    | nmap 192.168.50.1 -T4 | Agresivo (4) acelera los escaneos; asume que estás en una red razonablemente rápida y confiable   |
 | -T5    | nmap 192.168.50.1 -T5 | Insano (5) acelera los escaneos; asume que estás en una red extraordinariamente rápida            |
+
+
+
+[[1- Comandos Basicos - Intermedio]]
+**[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]**
+**[[4- Análisis de la Red con Bash – PARTE 2]]** 
+**[[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]**
+**[[nmap firewall evasion]]**
+**[[nmap output]]**
+[[nmap comands]]
+[[nmap scripts]]

@@ -1,3 +1,9 @@
+
+---
+
+#Python #Argparse #Automatización #CLI #Programación
+
+---
 ## **Primer Fragmento: Uso de `argparse` para Capturar Argumentos**
 
 Código:
@@ -109,3 +115,12 @@ El resultado es: 15
 ```
 
 Este código es útil cuando queremos manejar argumentos desde la terminal en lugar de usar `input()`, permitiendo automatizar procesos y evitar la interacción manual.
+
+
+
+
+
+
+[[2- Las Listas]]
+[[3- Las Tuplas]]
+[[6- Los Diccionarios]]

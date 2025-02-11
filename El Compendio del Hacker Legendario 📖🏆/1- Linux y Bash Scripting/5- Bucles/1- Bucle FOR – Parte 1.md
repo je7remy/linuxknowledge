@@ -1,3 +1,9 @@
+
+---
+
+#Bash #ShellScripting #ScriptingLinux #Automatización #BucleFor #ComandosBash #CreacionDeArchivos #EliminacionDeArchivos #ComandosDeSistema #ManejoDeArchivos #BusquedaDeArchivos #ProgramacionLinux #LinuxTips #ProcesamientoDeTextos #ScriptDeBash #AdministracionDeSistemas #ScriptsDeBash #EjecucionDeComandos #AutomatizacionDeTareas #ComandosLinux #TrabajoConArchivos #TrabajoConDirectorios #ManejoDeArchivosEnBash #CodificacionLinux #ScriptsDeAutomatizacion
+
+---
 1. **Primer script:**
 
 ```bash
@@ -276,3 +282,11 @@ done
 - En el caso de tu ejemplo, las palabras `mario`, `luis`, etc., se procesaron y mostraron como resultado.
 
 **Nota importante**: Para que el contenido de `recorrerlineas.txt` se interprete correctamente por línea, deberías usar `while read` en lugar de `for`.
+
+
+
+
+
+[[2- Bucle FOR – Parte 2]]
+[[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]
+[[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]

@@ -1,3 +1,8 @@
+
+---
+
+#CyberSecurity #HackingÉtico #Linux #KaliLinux #Ubuntu #SSH #Fail2Ban #Pentesting #EthicalHacking #InfoSec #CTF #RedTeam #BlueTeam #SeguridadInformática #ForenseDigital #SysAdmin #DevSecOps #Redes #Nmap #Hydra #Hardening
+
 ----
 # **🔹 Laboratorio: Ataque y Defensa de SSH con Kali Linux y Ubuntu Server**
 
@@ -254,3 +259,11 @@ sudo fail2ban-client status
 ---
 
 🎯 **¡Servidor más seguro!** Ahora tienes un **entorno bien protegido** contra ataques básicos de fuerza bruta. 🚀🔐
+
+
+
+**[[2- Gestión de Grupos]]**
+[[2- Protección del Protocolo FTP]]
+[[5- Cómo Crear un Servidor SSH con OPENSSH]]
+**[[6- Gestión de Usuarios en Linux]]**
+**[[11- Automatizar la Gestión de Usuarios en Linux]]**

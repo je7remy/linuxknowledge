@@ -1,4 +1,10 @@
 
+---
+
+#Hashcat #CyberSecurity #PasswordCracking #EthicalHacking #InfoSec #Pentesting #HackingÉtico #MD5 #NTLM #BruteForce #DictionaryAttack #CyberDefense #SecurityTools #CrackingHashes #RedTeam #CyberAttack #Forensics #Linux #SysAdmin #SecurityTesting #HackThePlanet
+
+---
+
 | Comando                 | Propósito                                            |
 | ----------------------- | ---------------------------------------------------- |
 | **hashcat**             | El programa que estamos usando                       |
@@ -13,3 +19,7 @@
 - `--show`: Esta opción indica a hashcat que muestre los hashes descifrados.
 - `../password-hashes`: Es la ruta al archivo que contiene los hashes que quieres descifrar.
 - `../wordlist-intro.txt`: Es la ruta al archivo de la lista de palabras que hashcat utilizará como diccionario para intentar descifrar las contraseñas.
+
+
+  **[[12- Herramienta para hacer cracking de contraseñas]]**
+  **[[13- Automatización de Cracking de Contraseñas]]**

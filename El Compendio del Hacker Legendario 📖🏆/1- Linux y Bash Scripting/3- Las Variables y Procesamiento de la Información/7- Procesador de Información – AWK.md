@@ -1,3 +1,9 @@
+
+---
+
+#ComandoAWK #BashScripting #UnixLinux #ComandosLinux #ManipulaciónDeTexto #AWK #AutomatizaciónLinux #AdministraciónDeSistemas #ShellScripting #LinuxCommands #ComandosBash #ProcesamientoDeDatos #Terminal #AWKTricks #GestiónDeArchivos
+
+---
 ### Explicación de los comandos y pasos
 
 1. **`nano datos.txt`**
@@ -75,3 +81,8 @@
     
 - **Campos con varias palabras**: Los campos con varias palabras pueden causar desalineación a menos que estén procesados correctamente o rodeados por comillas.
 
+
+
+[[6- Procesador de Información – TR]]
+[[8- Procesador de Información – CUT]]
+[[9- Procesador de Información – SED]]

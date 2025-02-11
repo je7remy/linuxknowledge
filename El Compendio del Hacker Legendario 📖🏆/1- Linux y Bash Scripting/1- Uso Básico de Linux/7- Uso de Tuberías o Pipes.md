@@ -1,3 +1,10 @@
+
+---
+
+#Linux #Unix #ComandosLinux #Tuberías #Pipes #ShellScripting #Bash #Terminal #SysAdmin #DevOps #LinuxTips
+
+---
+
 Las **tuberías** o **pipes** son una funcionalidad poderosa en sistemas operativos tipo UNIX, como Linux, que permite **conectar la salida de un comando con la entrada de otro**. Esto facilita encadenar múltiples comandos para realizar operaciones complejas de forma sencilla y eficiente.
 
 ---
@@ -73,3 +80,5 @@ Las **tuberías** o **pipes** son una funcionalidad poderosa en sistemas operati
 3. Se realizan conteos de líneas (`wc -l`) o transformaciones como ordenar (`sort`) y eliminar duplicados (`uniq`).
 4. Las tuberías (`|`) conectan los comandos para procesar datos en cadena.
 
+
+[[1- Comandos Basicos - Intermedio]]

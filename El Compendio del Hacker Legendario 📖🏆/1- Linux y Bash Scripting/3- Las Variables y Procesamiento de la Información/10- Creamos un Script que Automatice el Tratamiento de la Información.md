@@ -1,4 +1,9 @@
 
+---
+
+#Bash #Script #Linux #ComandosBash #Variables #Automatización #EspacioEnDisco #du #awk #shell #Programación #Terminal #Sistema #AdministradorDeSistemas #EspacioDeAlmacenamiento #TareasAutomatizadas #LinuxTips #ComandosDeSistema #TareasEnLinux
+
+---
 El propósito del script es obtener el tamaño de un archivo o directorio y mostrarlo en un mensaje. A continuación, se describe cada paso:
 
 ---
@@ -112,3 +117,7 @@ El peso del archivo es 4.0K
 ```
 
 
+
+
+[[2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables]]
+[[11- Creamos un Script para Automatizar Búsquedas en el Sistema]]

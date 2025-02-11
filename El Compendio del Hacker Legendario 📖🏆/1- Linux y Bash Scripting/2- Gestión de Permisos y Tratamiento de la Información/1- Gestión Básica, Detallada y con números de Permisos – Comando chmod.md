@@ -1,4 +1,9 @@
 
+---
+
+#Linux #chmod #PermisosLinux #ComandosLinux #SeguridadLinux #AdministraciónDeSistemas #LinuxTips #SistemasUnix #AdministraciónDeArchivos #SeguridadInformática #ComandosBash #LinuxCommands #TerminalLinux #LinuxSysAdmin #PermisosDeArchivos #PermisosDeCarpetas #LinuxSecurity #GestiónDePermisos
+
+---
 `chmod` es un comando en sistemas Unix/Linux que sirve para cambiar los **permisos** de archivos o carpetas. Define quién puede **leer (r)**, **escribir (w)** o **ejecutar (x)**.
 
 ---
@@ -193,6 +198,7 @@ En cada paso, puedes observar cómo cambian los permisos de la carpeta ejecutand
 
 
 -----------
+
 #bash
 
 -------------
@@ -344,5 +350,8 @@ En cada paso, puedes observar cómo cambian los permisos de la carpeta ejecutand
     ```bash
     drwxrwx-w-  2 user group 4096 Jan 12 10:00 carpeta
     ```
-    
 
+
+
+[[8- Permisos Especiales – Sticky Bit]]
+[[9- Permisos Especiales – BIt SUID]] 

@@ -1,4 +1,6 @@
+
 ----------
+
 #privilegeescalation  
 
 -----------
@@ -231,3 +233,7 @@ root@remotehost#
 ```
 
 Como podemos ver, ahora podemos ssh en el usuario . Los módulos [Escalada de privilegios de Linux](https://academy.hackthebox.com/module/details/51) y Escalada de [privilegios de Windows](https://academy.hackthebox.com/module/details/67) ofrecen más detalles sobre cómo usar cada uno de estos métodos para la escalada de privilegios y muchos otros.`root`
+
+
+**[[escalada de privilegios]]**
+**[[python hijacking]]**

@@ -1,3 +1,10 @@
+
+---
+
+#Linux #Apache #ServidorWeb #SeguridadInformática #SysAdmin #WebSecurity #EthicalHacking #Pentesting #Ciberseguridad #DevOps
+
+---
+
 ### 1️⃣ Instalación y ejecución de Apache
 
 ```bash
@@ -96,3 +103,13 @@ Cualquier usuario con acceso a la URL podría ver el archivo **password.txt**. E
 - Evitar la exposición de archivos sensibles.
 - Implementar reglas en Apache para reforzar la seguridad.
 
+
+
+
+**[[3- Transferencia de Archivos por la Red]]** 
+**[[4- Cómo Utilizar CURL con HTTP]]**
+**[[5- Cómo Utilizar WGET]]**
+**[[Protocolo http]]**
+[[4- Securización de Servidores Web Apache – PARTE 2]]
+[[5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3]]
+**[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**

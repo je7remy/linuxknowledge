@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ade4623526bab094",
+        "id": "e6d0630b9f638fd3",
         "type": "tabs",
         "children": [
           {
-            "id": "187eec339e5b1444",
+            "id": "cb969c00a563dc36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/10- Bucle WHILE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10- Bucle WHILE"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -61,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
+                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 7- Bucle WHILE – Iterar por Líneas"
+              "title": "Backlinks for 1- Comandos Basicos - Intermedio"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md",
+                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 7- Bucle WHILE – Iterar por Líneas"
+              "title": "Outgoing links from 1- Comandos Basicos - Intermedio"
             }
           },
           {
@@ -128,10 +124,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -140,10 +138,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux y Bash Scripting/5- Bucles/7- Bucle WHILE – Iterar por Líneas.md"
+                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 7- Bucle WHILE – Iterar por Líneas"
+              "title": "Outline of 1- Comandos Basicos - Intermedio"
+            }
+          },
+          {
+            "id": "00cbc2f822f3be5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           }
         ],
@@ -156,45 +171,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "187eec339e5b1444",
+  "active": "cb969c00a563dc36",
   "lastOpenFiles": [
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/9- Bucle FOR.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/10- Bucle WHILE.md",
+    "git/comandos git.md",
+    "Readme del Repositorio LinuxKnowledge en Markdown/1- Markdown Cybersecurity Knowledge Hub.md",
+    "README.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/5- Análisis de la Red con Bash – PARTE 3.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/7- Automatización de Copias de Seguridad en Servidor SSH.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/10- Detector de Sistemas Operativos – PARTE 2.md",
+    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/c.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/6- Acceso Automatizado SSH Importando Clave Pública.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/11- Automatizar la Gestión de Usuarios en Linux.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/4- Securización de Servidores Web Apache – PARTE 2.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/3- Securización de Servidores Web Apache – PARTE 1.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/5- Cómo Crear un Servidor SSH con OPENSSH.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
     "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/1- Protección del Protocolo SSH.md",
-    "hacking basico/hosts/FTP.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/8- Sentencias Condicionales.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/7- Los Operadores Lógicos.md",
+    "hacking basico/web/Protocolo http.md",
+    "redes basico/Puertos Principales.md",
+    "redes basico/Modelo OSI.md",
+    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/4- Cómo Utilizar CURL con HTTP.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/6- Los Diccionarios.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/5- Entrada de Información por parte del Usuario (Argumentos).md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/4- Entrada de Información por parte del Usuario.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/3- Las Tuplas.md",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/2- Las Listas.md",
-    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/1- Qué son y cómo Declarar Variables.md",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+    "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/10- Bucle WHILE.md",
+    "Sin título.canvas",
+    "scripts",
+    "Hacking Intermedio",
+    "Linux",
+    "Windows",
+    "Untitled.canvas",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
-    "Activie Directory/OSINT.md",
-    "Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/5- Por qué debemos seguir una metodología para las pruebas de penetración.md",
-    "lab/detector-so.md",
-    "Hacking Basico/Privilege Scalation/Python Hijacking.md",
-    "lab/network-analyzer.md",
     "lab",
-    "Reconocimiento/Nmap/Nmap Comands.md",
-    "tools/ssh-backup.md",
     "tools",
-    "README.md",
-    "Readme del Repositorio LinuxKnowledge en Markdown/1- Markdown Cybersecurity Knowledge Hub.md",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/11- Ejercicio Práctico, Script Siempre en Ejecución.md",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/2- Gestión de Paquetes – APT y DPKG.md",
     "El Compendio del Hacker Legendario 📖🏆",
     "El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad",
     "Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)",
@@ -206,12 +228,7 @@
     "Pasted image 20250202155526.png",
     "Pasted image 20250202155443.png",
     "Pasted image 20250201232232.png",
-    "Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)",
-    "Readme del Repositorio LinuxKnowledge en Markdown",
-    "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos",
     "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
-    "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png",
-    "Untitled.canvas"
+    "Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/1.1- Qué aprenderé en este curso.png"
   ]
 }

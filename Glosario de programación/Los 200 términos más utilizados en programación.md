@@ -727,4 +727,5 @@
     
 - **Zip**  
     Formato de compresión que permite reducir el tamaño de archivos y carpetas para facilitar su almacenamiento y transmisión.
-    
+
+

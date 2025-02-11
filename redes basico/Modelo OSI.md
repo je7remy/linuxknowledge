@@ -1,3 +1,9 @@
+
+---
+
+#Ciberseguridad #Redes #ModeloOSI #TCPIP #Networking #SeguridadInformática #Protocolos #HackingÉtico #IngenieríaDeRedes #Tecnología #IT #AdministraciónDeRedes #InfraestructuraTI #SeguridadEnRedes #Pentesting #Internet #Conectividad
+
+---
 El modelo OSI (Open Systems Interconnection) es un modelo conceptual que estandariza las funciones de un sistema de telecomunicaciones o de computación en siete capas distintas. Este modelo fue desarrollado por la Organización Internacional de Normalización (ISO) y ayuda a entender y diseñar sistemas de red que puedan interoperar y ser compatibles entre diferentes fabricantes y tecnologías.
 
 ### Las siete capas del modelo OSI
@@ -49,3 +55,9 @@ El modelo OSI no se utiliza directamente en la mayoría de las redes actuales, q
 | 7. Capa de Aplicación (Application Layer) | 4. Capa de Aplicación (Application Layer) |
 
 En el modelo TCP/IP, las funciones de las capas de Sesión, Presentación y Aplicación del modelo OSI están combinadas en una sola capa llamada Capa de Aplicación. La Capa de Acceso a la Red del modelo TCP/IP combina las funciones de las capas Física y de Enlace de Datos del modelo OSI.
+
+
+
+
+[[Puertos Principales]]
+[[Protocolo http]]

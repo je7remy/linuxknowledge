@@ -1,5 +1,9 @@
 
+---
 
+#CyberSecurity #Pentesting #EthicalHacking #HackingTools #Nmap #Metasploit #ReverseShell #PrivilegeEscalation #WebEnumeration #LinuxSecurity #InfoSec #NetworkSecurity #BugBounty #CTF #RedTeam #ExploitDevelopment #ShellScripting #VulnerabilityScanning #SecurityTesting #OSINT
+
+---
 ## Basic Tools
 
 | **Command**              | **Description**                      |     |
@@ -91,3 +95,9 @@
 | `base64 shell -w 0`                                                                   | Convert a file to `base64`                                            |
 | `echo f0VMR...SNIO...InmDwU \| base64 -d > shell`                                     | Convert a file from `base64` back to its orig                         |
 | `md5sum shell`                                                                        | Check the file's `md5sum` to ensure it converted correctly            |
+
+
+
+
+**[[hoja de trucos de METASPLOIT]]**
+**[[Metasploit]]**

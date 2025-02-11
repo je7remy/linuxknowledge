@@ -1,3 +1,9 @@
+
+---
+
+#SSH #Seguridad #Redes #ConexiónSegura #AdministraciónRemota #OpenSSH #Linux #ComandosLinux #Ciberseguridad #SeguridadInformática #ConexiónRemota #ConfiguraciónSSH #Servidores #Ubuntu #RedesSeguras #Privacidad #Autenticación
+
+---
 **Definición y explicación de comandos:**
 
 - **SSH (Secure Shell):**  
@@ -43,3 +49,6 @@
     **Nota:** Se te pedirá una contraseña para autenticarte si no se han configurado claves públicas/privadas.
 
 
+
+[[1- Protección del Protocolo SSH]]
+[[2- Protección del Protocolo FTP]]

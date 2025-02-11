@@ -1,3 +1,10 @@
+
+---
+
+#ComandoCut #BashScripting #LinuxCommands #ProcesamientoDeTexto #AdministraciónDeSistemas #ComandosLinux #ManipulaciónDeDatos #LinuxTips #ShellScripting #TextProcessing #LinuxTools #TerminalCommands #AutomatizaciónLinux #ExtracciónDeDatos #ComandosDeTexto
+
+---
+
 CUT:
 
 ---
@@ -102,3 +109,9 @@ limon,manzana,melocoton
 - `-f` selecciona campos específicos basados en el delimitador.
 
 Estos comandos son muy útiles para procesar textos y extraer datos en Linux.
+
+
+
+[[6- Procesador de Información – TR]]
+[[7- Procesador de Información – AWK]]
+[[9- Procesador de Información – SED]]

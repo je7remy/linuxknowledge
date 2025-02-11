@@ -1,3 +1,9 @@
+
+---
+
+#BitSUID #PermisosLinux #SeguridadLinux #AdministraciónDeSistemas #ComandosLinux #UnixSecurity #Comandochmod #SUID #PermisosElevados #SeguridadInformática #AuditoríaLinux #Linux #AccesoRoot #VulnerabilidadesLinux #RiesgosDeSeguridad #PrivilegiosElevados #LinuxTips #Comandofind #PermisosDeArchivos #AdministraciónDeArchivos
+
+---
 El **bit SUID (Set User ID)** es un permiso especial en sistemas Unix/Linux que permite que un archivo se ejecute con los privilegios del propietario del archivo en lugar de con los del usuario que lo ejecuta. Este mecanismo es especialmente útil para ejecutar programas que necesitan permisos elevados en tareas específicas, como cambiar contraseñas o realizar operaciones críticas en el sistema.
 
 ---
@@ -114,3 +120,9 @@ El bit SUID es una herramienta poderosa y debe usarse con responsabilidad para m
 - **Bit SUID**: Permite que un archivo se ejecute con los permisos de su propietario en lugar del usuario que lo ejecuta. Es común en programas como `passwd`.
 - **Riesgos**: Activar el bit SUID en un archivo como `/bin/bash` es muy peligroso. Permite a cualquier usuario obtener acceso como `root`, lo cual puede comprometer la seguridad del sistema.
 - **Uso Ético**: Este tipo de modificaciones solo debe hacerse en entornos de prueba y con fines educativos o de auditoría bajo autorización.
+
+
+
+
+[[8- Permisos Especiales – Sticky Bit]]
+[[1- Gestión Básica, Detallada y con números de Permisos – Comando chmod]]

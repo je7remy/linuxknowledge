@@ -47,3 +47,4 @@ Un **script** es un conjunto de instrucciones que se escriben en un archivo de t
 
 
 
+[[11- Ejercicio Práctico, Script Siempre en Ejecución]] 

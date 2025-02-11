@@ -1,3 +1,10 @@
+
+---
+
+#Linux #SysAdmin #UsuariosLinux #GestiónDeUsuarios #Bash #ComandosLinux #AdministraciónLinux #SeguridadInformática #GruposLinux #PermisosLinux #DevOps #ShellScripting #IT #HackingÉtico
+
+---
+
 La gestión de usuarios en Linux incluye comandos para agregar, modificar, eliminar y consultar usuarios y grupos en el sistema. Aquí tienes una lista de comandos comunes junto con su descripción:
 
 ---
@@ -176,3 +183,7 @@ Verifica que el proceso ya no está en ejecución con:
 `ps -p 1609`
 
 Si el comando no muestra resultados, significa que el proceso se cerró correctamente.
+
+**[[11- Automatizar la Gestión de Usuarios en Linux]]**
+**[[2- Gestión de Grupos]]**
+**[[1- Protección del Protocolo SSH]]** 

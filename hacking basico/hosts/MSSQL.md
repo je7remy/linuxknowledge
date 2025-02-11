@@ -1,6 +1,8 @@
 
 ------------
 
+#MSSQL #Networking #Nmap #Metasploit #SQLInjection #DatabaseSecurity #Pentesting #SQLServer #TSQL #Impacket #MSSQLPing #NamedPipes #MSSQLInfo #Scanning #HuellasDeServicio #VulnerabilidadesSQL #SeguridadInformática #EthicalHacking #RedTeam
+
 ---------
 
 ## Huella del servicio
@@ -113,3 +115,6 @@ msdb
 
 Transactions    
 ```
+
+
+**[[SQL]]**

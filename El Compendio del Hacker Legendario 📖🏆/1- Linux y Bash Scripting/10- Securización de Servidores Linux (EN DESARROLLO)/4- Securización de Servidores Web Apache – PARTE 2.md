@@ -1,3 +1,9 @@
+
+---
+
+#Apache #SeguridadWeb #Linux #ServidorWeb #ConfiguraciónApache #Ciberseguridad #SecurizaciónDeServidores #DocumentRoot #ConfiguraciónDeApache #SeguridadDeArchivos #ApacheSecurity #LinuxCommands #ServidorSeguro #ProtecciónWeb #ConfiguraciónServidor #Apache2 #AdministraciónDeServidores
+
+---
 #### **1. Configuración Inicial**
 
 Primero, accedí al servidor web y realicé algunos cambios en la estructura de archivos:
@@ -103,3 +109,13 @@ Volví a abrir `http://localhost` en el navegador y esta vez **solo se mostraba 
 ### ✅ **Conclusión**
 
 El problema era que Apache seguía accediendo a `password.txt` en su `DocumentRoot` original. Eliminé el archivo, deshabilité `Indexes` y reinicié el servicio para asegurarme de que solo sirviera el contenido de `public/`. Ahora todo funciona correctamente.
+
+
+
+
+
+
+
+[[3- Securización de Servidores Web Apache – PARTE 1]]
+[[5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3]]
+[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]

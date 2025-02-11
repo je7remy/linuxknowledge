@@ -1,3 +1,10 @@
+
+---
+
+#Bash #ShellScript #Automatización #Linux #FTP #SeguridadInformática #SysAdmin #Backup #Ciberseguridad #Curl
+
+---
+
 ### Análisis del Script
 
 ```bash
@@ -185,3 +192,6 @@ curl -u "$usuario:$clave" -T "$ruta_archivo_local" ftp://$servidor/$archivo_remo
 
 ---
 
+
+
+**[[3- Transferencia de Archivos por la Red]]** 

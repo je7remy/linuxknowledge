@@ -1,6 +1,13 @@
-Comandos `tr` 
+
 ---
 
+#ComandoTr #UnixCommands #LinuxScripting #AutomatizaciónEnLinux #TraducciónDeCaracteres #ShellScripting #ProcesamientoDeArchivos #ArchivosTextuales #TransformaciónDeTexto #LinuxTools #Tr #ComandoTrEnLinux #ScriptingBash #ProcesamientoDeDatos #UnixCommands
+
+---
+
+Comandos `tr` 
+
+---
 ### Uso de `tr`:
 
 1. **Definición**:
@@ -94,3 +101,8 @@ fi
     
 
 Esto te dará la salida combinada en una sola línea si el archivo `prueba.txt` existe en el mismo directorio.
+
+
+[[7- Procesador de Información – AWK]]
+[[8- Procesador de Información – CUT]]
+[[9- Procesador de Información – SED]]

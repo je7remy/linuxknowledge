@@ -1,3 +1,9 @@
+
+---
+
+#Ciberseguridad #FTP #Hydra #Fail2Ban #KaliLinux #UbuntuServer #AtaquesDeFuerzaBruta #SeguridadDeRed #PenetrationTesting #EthicalHacking #Linux #Nmap #SeguridadEnRed #SSH #vsftpd #ProtecciónDeServidor #CiberseguridadPráctica #FuerzaBruta #SeguridadInformática #AtaqueYDefensa
+
+---
 # **🔹 Laboratorio: Ataque y Defensa de FTP con Kali Linux y Ubuntu Server**
 
 ### **1️⃣ Configuración del Servidor FTP en Ubuntu**
@@ -290,6 +296,7 @@ Este proceso mejora la seguridad del servidor FTP al ocultarlo en un puerto no e
 
 
 
-
+[[1- Protección del Protocolo SSH]]
+[[5- Cómo Crear un Servidor SSH con OPENSSH]]
 
 

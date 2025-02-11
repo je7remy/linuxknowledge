@@ -1,3 +1,9 @@
+
+---
+
+#Python #ForLoop #CicloFor #Iteraciones #Listas #Cadenas #Programación #EjemplosPython #Automatización #AprenderPython 🚀
+
+---
 ### Definición del ciclo `for` en Python
 
 En Python, el ciclo `for` se usa para iterar sobre una secuencia, como listas, cadenas de texto, tuplas, diccionarios o rangos. En cada iteración, una variable toma el valor del siguiente elemento de la secuencia hasta que se recorren todos los elementos.
@@ -196,3 +202,10 @@ En cada vuelta la variable numero valdrá: 2
 ---
 
 Estos ejemplos muestran cómo funciona el `for` en Python para recorrer distintos tipos de datos. 🚀
+
+
+
+
+[[7- Los Operadores Lógicos]]
+[[8- Sentencias Condicionales]]
+[[10- Bucle WHILE]]

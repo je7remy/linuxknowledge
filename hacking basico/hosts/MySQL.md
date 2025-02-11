@@ -1,5 +1,6 @@
 
 -----------
+
 #sql #servicios #databases
 
 ---------
@@ -181,3 +182,6 @@ Algunos de los comandos que debemos recordar y anotar para trabajar con bases de
 |`select * from <table> where <column> = "<string>";`|Busque needed en la tabla deseada.`string`|
 
 Debemos saber interactuar con diferentes bases de datos. Por lo tanto, recomendamos instalar y configurar un servidor MySQL en una de nuestras máquinas virtuales para experimentar. También hay una sección de [problemas de seguridad](https://dev.mysql.com/doc/refman/8.0/en/general-security-issues.html) ampliamente cubierta en el manual de referencia que cubre las mejores prácticas para proteger los servidores MySQL. Deberíamos usar esto al configurar nuestro servidor MySQL para comprender mejor por qué algo podría no funcionar.
+
+
+**[[SQL]]**

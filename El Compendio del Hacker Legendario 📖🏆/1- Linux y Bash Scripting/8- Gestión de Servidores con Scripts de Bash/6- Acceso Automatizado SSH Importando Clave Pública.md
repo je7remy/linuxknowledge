@@ -1,3 +1,9 @@
+
+---
+
+#SSH #Automatización #AccesoSinContraseña #ClaveSSH #Seguridad #Ciberseguridad #Linux #AutomatizaciónLinux #GestiónDeSistemas #AdministraciónDeSistemas #ClavePública #AccesoRemoto #ComandosLinux #SSHKey #AutenticaciónSegura
+
+---
 Para automatizar el acceso SSH utilizando claves públicas, puedes usar `ssh-keygen` para generar claves y `ssh-copy-id` para transferir la clave pública al servidor remoto.
 
 ### Comandos Explicados
@@ -32,3 +38,10 @@ ssh-copy-id usuario@servidor
 - **jeremyserver:** Usuario del servidor remoto.
 - **192.168.1.106:** Dirección IP del servidor remoto.
 - **Función:** Agrega la clave pública al archivo `~/.ssh/authorized_keys` del usuario remoto, permitiendo acceso SSH sin contraseña.
+
+
+
+
+
+[[7- Automatización de Copias de Seguridad en Servidor SSH]]
+[[11- Automatizar la Gestión de Usuarios en Linux]]

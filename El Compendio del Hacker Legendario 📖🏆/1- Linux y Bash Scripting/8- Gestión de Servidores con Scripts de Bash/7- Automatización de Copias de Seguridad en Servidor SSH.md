@@ -1,3 +1,9 @@
+
+---
+
+#SCP #TransferenciaDeArchivos #Automatización #BashScript #Ciberseguridad #SSH #AdministraciónDeSistemas #Linux #BackupAutomatizado #ScriptDeBash #GestiónDeArchivos #ComandosLinux #CopiasDeSeguridad #AutomatizaciónLinux #ComandosDeSistemas
+
+---
 ### **Comando SCP**
 
 `scp script.sh jeremyserver@192.168.43.106:/home/jeremyserver/Desktop`
@@ -96,3 +102,12 @@ rm "$zip_file"
 
 
 
+
+
+
+
+
+
+[[7- Automatización de Copias de Seguridad en Servidor SSH]]
+[[11- Automatizar la Gestión de Usuarios en Linux]]
+[[6- Acceso Automatizado SSH Importando Clave Pública]]

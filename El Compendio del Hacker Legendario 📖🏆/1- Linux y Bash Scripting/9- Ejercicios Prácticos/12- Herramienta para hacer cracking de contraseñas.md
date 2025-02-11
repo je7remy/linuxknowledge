@@ -1,3 +1,9 @@
+
+---
+
+#Hashcat #CyberSecurity #PasswordCracking #EthicalHacking #InfoSec #Pentesting #HackingÉtico #MD5 #NTLM #BruteForce #DictionaryAttack #CyberDefense #SecurityTools #CrackingHashes #RedTeam #CyberAttack #Forensics #Linux #SysAdmin #SecurityTesting #HackThePlanet #HashBreaking #PenetrationTesting #CTF #CyberSecCommunity
+
+---
 ### **1. Recuperación de contraseñas de archivos ZIP**
 
 #### **Generar el hash del archivo ZIP**
@@ -118,5 +124,9 @@ Este proceso es útil para recuperar contraseñas olvidadas de archivos protegid
     ```bash
     john --fork=4 --wordlist=rockyou.txt hash
     ```
-    
 
+
+
+**[[Hoja de Trucos HASHCAT]]**
+[[13- Automatización de Cracking de Contraseñas]]
+[[14- Prueba de lápiz interno]]

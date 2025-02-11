@@ -1,3 +1,9 @@
+
+---
+
+#SeguridadWeb #ProtecciónDeDatos #Apache #ArchivoEnv #Ciberseguridad #ApacheSecurity #ProtecciónDeCredenciales #SeguridadServidor #SistemasSeguros #AdministraciónDeServidores #SeguridadLinux #ConfiguraciónApache #BuenasPrácticas #AuditoríaDeSeguridad #Hardening #ProtecciónDeArchivos
+
+---
 # **Reporte de Seguridad: Protección del Archivo `.env`**
 
 ## **Pasos Realizados**
@@ -97,3 +103,13 @@
 ---
 
 **✅ Implementar estas medidas mejora significativamente la seguridad del servidor y protege la información sensible.**
+
+
+
+
+
+
+
+[[3- Securización de Servidores Web Apache – PARTE 1]]
+[[4- Securización de Servidores Web Apache – PARTE 2]]
+[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]

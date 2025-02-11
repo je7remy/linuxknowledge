@@ -1,11 +1,10 @@
 
 ---
-tags:
-  - git
-  - tabla
-  - comandos
----
 
+  #git
+  #tabla
+  #comandos 
+  
 ---
 
 

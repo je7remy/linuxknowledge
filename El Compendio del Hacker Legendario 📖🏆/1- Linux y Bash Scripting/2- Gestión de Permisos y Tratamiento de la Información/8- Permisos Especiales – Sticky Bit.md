@@ -1,3 +1,9 @@
+
+---
+
+#StickyBit #PermisosLinux #SistemasUnix #SeguridadLinux #AdministraciónDeSistemas #ComandosLinux #SeguridadInformática #Linux #PermisosDeArchivos #Unix #ComandosBash #LinuxSecurity #AdministraciónDeArchivos #PermisosEspeciales #LinuxTips #SistemaDeArchivos #Comandochmod #DirectoriosCompartidos #AccesosSeguros
+
+---
 El **Sticky Bit** es un permiso especial que se aplica a directorios en sistemas tipo Unix/Linux. Cuando se activa, asegura que solo el propietario de un archivo dentro del directorio (o el usuario root) pueda eliminar o modificar ese archivo, incluso si otros usuarios tienen permisos de escritura en el directorio.
 
 ---
@@ -85,3 +91,8 @@ El carácter `t` en lugar de `x` al final indica que el Sticky Bit está activad
 
 Si el Sticky Bit no estuviera activado, cualquier usuario con permisos de escritura en el directorio podría eliminar o modificar archivos de otros usuarios, lo cual puede ser riesgoso en entornos compartidos.
 
+
+
+
+[[1- Gestión Básica, Detallada y con números de Permisos – Comando chmod]]
+[[9- Permisos Especiales – BIt SUID]]
