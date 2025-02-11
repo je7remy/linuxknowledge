@@ -1,3 +1,0 @@
-Para proteger su privacidad en las redes sociales, es importante compartir la menor cantidad de información personal posible. Debe verificar las configuraciones de sus redes sociales para permitir que solo las personas que conoce vean sus actividades o participen en sus conversaciones.
-
-Mientras más información personal comparta en línea, más fácil será para alguien crear un perfil sobre usted y aprovecharse de usted en linea o fuera de ella.

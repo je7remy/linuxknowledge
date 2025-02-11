@@ -1,4 +1,0 @@
-- Un **IPS** puede bloquear o denegar el tráfico según una regla positiva o una coincidencia de firma.
-- Un **IDS** analiza los datos en una base de datos de reglas o firmas de ataques en busca de tráfico malicioso.
-- Un **sistema DLP** está diseñado para evitar que se roben o escapen datos confidenciales de una red. 
-- El sistema **SIEM** recopila y analiza alertas de seguridad, registros y otros datos históricos y en tiempo real de los dispositivos de seguridad de la red.
