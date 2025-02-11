@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "965375fb93a52f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2b3c88a1973164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add7a5b5a05d5a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b02ed16575750bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d683912fff0f336f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87088476cafe3f48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "41e4754de5be8ff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Python3",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e880ff8b71b2b8cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 510.5
+  },
+  "right": {
+    "id": "81c1016573cc3f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "709c6b301e6e5d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ff12479c15ba106",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1- Comandos Basicos - Intermedio"
+            }
+          },
+          {
+            "id": "4cb4786eed173df2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1- Comandos Basicos - Intermedio"
+            }
+          },
+          {
+            "id": "8ffbe210465e2a15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3553c48cc33dccae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1- Comandos Basicos - Intermedio"
+            }
+          },
+          {
+            "id": "00cbc2f822f3be5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "add7a5b5a05d5a9b",
+  "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/5- Análisis de la Red con Bash – PARTE 3.md",
+    "README.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/7- Automatización de Copias de Seguridad en Servidor SSH.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/10- Detector de Sistemas Operativos – PARTE 2.md",
+    "05-Recursos/git/comandos git.md",
+    "03-Desarrollo/1- Bases de Datos/SQL.md",
+    "01-Sistemas-Operativos/Linux/2- Redes Basico/1- Modelo OSI.md",
+    "01-Sistemas-Operativos/Linux/2- Redes Basico/2- Puertos Principales.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/1- FTP.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/4- MSSQL.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/5- MySQL.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/8- RDP.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/9- SMB.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/12- Windows Hosts.md",
+    "02-Ciberseguridad/3- hacking basico/5- shells/2- tipos de shell.md",
+    "02-Ciberseguridad/3- hacking basico/5- shells/1- basic shells.md",
+    "02-Ciberseguridad/5- reconocimiento/nmap/3- nmap firewall evasion.md",
+    "02-Ciberseguridad/5- reconocimiento/nmap/4- nmap output.md",
+    "02-Ciberseguridad/5- reconocimiento/nmap/6- nmap Time.md",
+    "03-Desarrollo/2- Python/2- Pip3.md",
+    "03-Desarrollo/2- Python/1- Ejecutar archivo instalado con python.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/6- NFS.md",
+    "05-Recursos/Android",
+    "05-Recursos",
+    "04-Laboratorios",
+    "03-Desarrollo",
+    "02-Ciberseguridad",
+    "01-Sistemas-Operativos/Linux",
+    "01-Sistemas-Operativos/L.md",
+    "01-Sistemas-Operativos/Windows",
+    "01-Sistemas-Operativos",
+    "02-Ciberseguridad/1- Cracking/Hoja de Trucos HASHCAT.md",
+    "Readme del Repositorio LinuxKnowledge en Markdown/1- Markdown Cybersecurity Knowledge Hub.md",
+    "LICENSE",
+    "Excalidraw",
+    "02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/8.2- Figura 1-2.png",
+    "02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3.1- Tabla 2-3.png",
+    "Sin título.canvas",
+    "Untitled.canvas",
+    "Pasted image 20250202175210.png",
+    "Pasted image 20250202172945.png",
+    "Pasted image 20250202164456.png",
+    "Pasted image 20250202164212.png",
+    "Pasted image 20250202162407.png",
+    "Pasted image 20250202155526.png",
+    "Pasted image 20250202155443.png",
+    "Pasted image 20250201232232.png"
+  ]
+}
