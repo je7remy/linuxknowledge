@@ -105,7 +105,7 @@ Registre su propio código personal de conducta ética a continuación:
 
 10. **Actuar con integridad y respeto profesional**: Mostrar respeto por los demás y actuar con integridad en todas las interacciones y resultados, ganando así la confianza y el respeto en la industria.
 
-**Firma:** [Jeremy José De La Cruz Pérez]
+**Firma:** [Jeremy José de la Cruz Pérez]
 
 # Preguntas de reflexión
 

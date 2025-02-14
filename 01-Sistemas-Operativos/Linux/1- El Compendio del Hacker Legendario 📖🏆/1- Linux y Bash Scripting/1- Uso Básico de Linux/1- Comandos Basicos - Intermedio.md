@@ -195,6 +195,25 @@ tags:
 | **condicional ternario** | ```bash edad=20; resultado=$((edad >= 18 ? "Mayor de edad" : "Menor de edad"))```                      | Operador ternario para condicionales.                  |
 
 
+```bash
+cat /etc/issue
+```
+
+se utiliza en sistemas basados en Linux para mostrar el mensaje de bienvenida del sistema antes de iniciar sesión. Este archivo generalmente contiene información sobre la distribución del sistema operativo.
+
+Si lo ejecutas en una terminal, podrías ver algo como:
+
+```plaintext
+Ubuntu 22.04 LTS \n \l
+```
+
+o en otras distribuciones:
+
+```plaintext
+Debian GNU/Linux 12 \n \l
+```
+
+Si tienes acceso a un sistema Linux, puedes probarlo directamente.
 # Systemctl
 
 **`systemctl`** es una herramienta de línea de comandos en sistemas basados en Linux que interactúa con **systemd**, el gestor de sistemas y servicios más comúnmente usado en las distribuciones modernas de Linux. Permite a los usuarios administrar servicios, controlar el sistema de inicio, monitorear el estado de los servicios y más.
