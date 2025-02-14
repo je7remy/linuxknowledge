@@ -244,6 +244,45 @@ sudo systemctl restart snapd
 verificar estado del sevicio:
 sudo systemctl status snapd
 
+----
+
+# Comandos de arch (Athena OS)
+
+```bash
+sudo pacman -Syyu
+```
+
+El comando `sudo pacman -Syyu` en Arch Linux y sus derivados (como Manjaro) hace lo siguiente:
+
+1. **`sudo`**: Ejecuta el comando con privilegios de superusuario.
+2. **`pacman`**: Es el gestor de paquetes de Arch Linux.
+3. **`-S`**: Indica que se quiere sincronizar e instalar paquetes.
+4. **`-yy`**: Fuerza la actualización de la base de datos de paquetes desde los repositorios, incluso si ya está actualizada.
+5. **`-u`**: Actualiza todos los paquetes del sistema a sus versiones más recientes disponibles en los repositorios.
+
+### ⚠️ Precaución:
+
+- Usar `-yy` innecesariamente puede aumentar la carga en los servidores espejo.
+- Antes de actualizar, es recomendable verificar el [sitio de Arch Linux](https://archlinux.org/) para asegurarte de que no haya problemas recientes con paquetes críticos.
+- Si hay una actualización importante del sistema, puede ser necesario revisar el [Arch Linux News](https://archlinux.org/news/) para instrucciones adicionales.
+
+Si quieres una actualización más segura y controlada, puedes simplemente usar:
+
+```bash
+sudo pacman -Syu
+```
+
+Si tienes dudas sobre dependencias o posibles conflictos, ejecuta:
+
+```bash
+sudo pacman -Syu --ask 4
+```
+
+Esto te pedirá confirmación antes de cada paso.
+
+
+
+
 
 **[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]**
 **[[9- Uso de Grep]]**

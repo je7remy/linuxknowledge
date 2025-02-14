@@ -106,4 +106,4 @@ Los comandos están relacionados con la manipulación de archivos en Linux utili
 [[9- Uso de Grep]]
 [[5- Comando find y redirección de errores]]
 [[6- Comando XARGS]]
-[[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]
+

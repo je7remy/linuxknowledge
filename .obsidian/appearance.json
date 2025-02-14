@@ -1,5 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "Things",
-  "theme": "obsidian"
+  "accentColor": "#b22222",
+  "cssTheme": "GitHub Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ]
 }
