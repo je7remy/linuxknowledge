@@ -1,3 +1,9 @@
+
+---
+
+#Python #Funciones #Programación #Código #Desarrollo #PythonBasics #Dev #Programador #CodingTips #AprenderPython 🚀
+
+---
 ### **Definición de Funciones en Python**
 
 En Python, una **función** es un bloque de código reutilizable que realiza una tarea específica. Se define con la palabra clave `def`, seguida del nombre de la función y paréntesis `()`, que pueden contener parámetros opcionales. El código dentro de la función se ejecuta cuando esta es llamada.
