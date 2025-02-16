@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e18db31a6406fad5",
+        "id": "e19e080823f045b5",
         "type": "tabs",
         "children": [
           {
-            "id": "d3282025b84521ae",
+            "id": "7842cdce2f8c1619",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/1- Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1- Introducción"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 510.5,
+    "collapsed": true
   },
   "right": {
     "id": "81c1016573cc3f98",
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1- Comandos Basicos - Intermedio"
+              "title": "Enlaces entrantes de 1- Manipulación de Ficheros con Python"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1- Comandos Basicos - Intermedio"
+              "title": "Enlaces salientes de 1- Manipulación de Ficheros con Python"
             }
           },
           {
@@ -133,7 +129,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1- Comandos Basicos - Intermedio"
+              "title": "Esquema de 1- Manipulación de Ficheros con Python"
             }
           },
           {
@@ -166,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,15 +179,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d3282025b84521ae",
+  "active": "7842cdce2f8c1619",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/1.1- PT-Process.webp",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/1- Introducción.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/2- Tipos de pruebas de penetración.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/2.1- Pruebas Unitarias.jpg",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/3- Creación y Gestión de Entornos Virtuales.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/4- Entrada de Información por parte del Usuario.md",
+    "05-Recursos/Fundamentos de Python/Guía rápida de fundamentos en Python.md",
+    "05-Recursos/git/2- Cómo Editar un Commit que ya se Subio a GitHub.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/5- Bucles/6- Bucle WHILE – PARTE 2.md",
+    "05-Recursos/git/1- Comandos Git.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/1.1- PT-Process.webp",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/2- Instalación de Módulos Externos.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/1- Introducción a los Módulos.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/5- Entrada de Información por parte del Usuario (Argumentos).md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/4- Entrada de Información por parte del Usuario.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/3- Las Tuplas.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/2- Las Listas.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/1- Qué son y cómo Declarar Variables.md",
@@ -199,7 +203,6 @@
     "03-Desarrollo/2- Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/3- Idea 2 sin Tryton ERP.md",
     "03-Desarrollo/2- Python/1- Ejecutar archivo instalado con python.md",
     "03-Desarrollo/2- Python/2- Pip3.md",
-    "05-Recursos/Fundamentos de Python/Guía rápida de fundamentos en Python.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/11- Las Funciones.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/6- Funciones/2- Variables Locales y Globales en las Funciones.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/6- Funciones/1- Declarar Funciones en Bash.md",
@@ -208,19 +211,13 @@
     "05-Recursos/Fundamentos de Python",
     "01-Sistemas-Operativos/Windows/0- Trucos de Sistema/1- BYPASS del UAC de WINDOWS.md",
     "01-Sistemas-Operativos/Windows/0- Trucos de Sistema",
-    "01-Sistemas-Operativos/Windows/Sin título.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/1- Introducción a la Academia/1- Conectarse a HTB Academy VPN.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/1- Introducción a la Academia",
-    "README.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/9- Bucle FOR.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/8- Sentencias Condicionales.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/6- Introducción al Hacking Web",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/5- Curso de Docker Aplicado a la Ciberseguridad",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/4-  Preparación para la Certificación del eJPTv2",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/3- Introducción a Splunk",
     "02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades/2.1- Ilustracion de Sun Tzu.jpg",
     "02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/8.2- Figura 1-2.png",
     "02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/3.1- Tabla 2-3.png",
@@ -230,7 +227,6 @@
     "Pasted image 20250202172945.png",
     "Pasted image 20250202164456.png",
     "Pasted image 20250202164212.png",
-    "Pasted image 20250202162407.png",
-    "Pasted image 20250202155526.png"
+    "Pasted image 20250202162407.png"
   ]
 }

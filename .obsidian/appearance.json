@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Colored Sidebar Items"
-  ]
+  ],
+  "nativeMenus": true
 }

@@ -63,8 +63,6 @@ El proceso de pruebas de penetración sigue una serie de etapas:
 
 Las empresas utilizan _pentesting_ para prevenir ataques antes de que ocurran, asegurando el cumplimiento de normativas y fortaleciendo la confianza de los clientes en sus sistemas.
 
-![[1.1- PT-Process.webp]]
-
 ---
 
 ## **Objetivos de las Pruebas de Penetración**
@@ -91,6 +89,16 @@ Los objetivos principales del _pentesting_ se dividen en tres grandes categoría
 - **Concientización en Seguridad**: Sensibiliza a la gerencia, personal de TI y usuarios finales sobre riesgos cibernéticos.
 - **Evaluación de Nuevas Tecnologías**: Probar nuevos sistemas o aplicaciones antes de su implementación en producción.
 - **Línea Base para Mejoras de Seguridad**: Permite medir el progreso en la mitigación de vulnerabilidades a lo largo del tiempo.
+
+## **Herramientas Utilizadas en el Pentesting**
+
+Algunas herramientas comunes en las pruebas de penetración incluyen:
+
+- **Nmap**: Para escaneo de redes y detección de hosts.
+- **Metasploit**: Plataforma para pruebas de penetración automatizadas.
+- **Burp Suite**: Para análisis y pruebas de seguridad en aplicaciones web.
+- **Wireshark**: Para análisis de tráfico de red.
+- **John the Ripper**: Para pruebas de fuerza bruta en contraseñas.
 
 **Nota:** El _pentesting_ es una herramienta poderosa, pero solo proporciona una instantánea de la seguridad en un momento determinado. Para garantizar la protección continua, es fundamental realizar pruebas periódicas y combinarlo con prácticas de seguridad permanentes.
 
