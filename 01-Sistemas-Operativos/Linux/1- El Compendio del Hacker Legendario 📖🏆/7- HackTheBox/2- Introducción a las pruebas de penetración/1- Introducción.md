@@ -63,6 +63,8 @@ El proceso de pruebas de penetración sigue una serie de etapas:
 
 Las empresas utilizan _pentesting_ para prevenir ataques antes de que ocurran, asegurando el cumplimiento de normativas y fortaleciendo la confianza de los clientes en sus sistemas.
 
+![[1.1- PT-Process.webp]]
+
 ---
 
 ## **Objetivos de las Pruebas de Penetración**
