@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/3- Áreas y dominios de prueba.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/4- Beneficios de las pruebas de penetración.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Áreas y dominios de prueba"
+              "title": "4- Beneficios de las pruebas de penetración"
             }
           }
         ]
@@ -187,8 +187,17 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "🔒🐧Hub.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/3- Uso Básico de SHUTIL.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/4- Beneficios de las pruebas de penetración.md",
+    "01-Sistemas-Operativos/Windows/1- Instalacion de Sistemas Operativos con Ventoy/1- 📌 Guía para Instalación de Sistemas Operativos con Ventoy.md",
+    "01-Sistemas-Operativos/Windows/0- Trucos de Sistema/1- BYPASS del UAC de WINDOWS.md",
+    "01-Sistemas-Operativos/Windows/2- Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
+    "01-Sistemas-Operativos/Windows/3- Activie Directory/tools.md",
+    "01-Sistemas-Operativos/Windows/1- Instalacion de Sistemas Operativos con Ventoy",
+    "01-Sistemas-Operativos/Windows/3- Activie Directory/OSINT.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/3- Áreas y dominios de prueba.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/2- Uso Básico del Módulo OS.md",
+    "🔒🐧Hub.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/2- Tipos de pruebas de penetración.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/1- Introducción.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/1.1- PT-Process.webp",
@@ -201,7 +210,6 @@
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "Pasted image 20250217221648.jpg",
     "Pasted image 20250217221731.jpg",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/2- Uso Básico del Módulo OS.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
     "README.md",
     "02-Ciberseguridad/3- hacking basico/1- Teoria de Ciberseguridad/14- Prueba de lápiz interno.md",
@@ -220,18 +228,11 @@
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/1- Introducción a los Módulos.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/5- Entrada de Información por parte del Usuario (Argumentos).md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/3- Las Tuplas.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/2- Las Listas.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/1- Qué son y cómo Declarar Variables.md",
-    "03-Desarrollo/2- Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/1- Stack Tecnológico Óptimo para el Proyecto.md",
-    "03-Desarrollo/2- Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/3- Idea 2 sin Tryton ERP.md",
-    "03-Desarrollo/2- Python/1- Ejecutar archivo instalado con python.md",
-    "03-Desarrollo/2- Python/2- Pip3.md",
     "05-Recursos/Fundamentos de Python",
     "01-Sistemas-Operativos/Windows/0- Trucos de Sistema",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/1- Introducción a la Academia",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
