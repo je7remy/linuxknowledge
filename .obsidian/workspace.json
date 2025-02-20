@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/4- Ejercicio Práctico con OS y SHUTIL.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/1- Instalar Base de datos MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Ejercicio Práctico con OS y SHUTIL"
+              "title": "1- Instalar Base de datos MySQL"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -175,18 +175,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/1- Instalar Base de datos MySQL.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python",
+    "02-Ciberseguridad/3- hacking basico/2- basico/2- escalada de privilegios.md",
+    "02-Ciberseguridad/3- hacking basico/2- basico/1- basic tools.md",
+    "02-Ciberseguridad/3- hacking basico/2- basico/3- hoja de trucos de METASPLOIT.md",
+    "02-Ciberseguridad/3- hacking basico/2- basico/4- Metasploit.md",
+    "02-Ciberseguridad/5- reconocimiento/2- Shodan/1- Guía Completa - Cómo Usar Shodan para Explorar la Red.md",
+    "02-Ciberseguridad/5- reconocimiento/2- Shodan",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/4- Ejercicio Práctico con OS y SHUTIL.md",
     "05-Recursos/Fundamentos de Python/Guía rápida de fundamentos en Python.md",
     "🔒🐧Hub.md",
@@ -196,8 +204,6 @@
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/3- Uso Básico de SHUTIL.md",
     "03-Desarrollo/2- Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/4- Idea 3, Proyecto de investigación.md",
     "prueba.md",
-    "02-Ciberseguridad/3- hacking basico/2- basico/1- basic tools.md",
-    "02-Ciberseguridad/3- hacking basico/2- basico/3- hoja de trucos de METASPLOIT.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración/4- Beneficios de las pruebas de penetración.md",
     "02-Ciberseguridad/2- Extraer Metadatos de imagenes/Extraer Metadatos.md",
     "01-Sistemas-Operativos/Windows/1- Instalacion de Sistemas Operativos con Ventoy/1- 📌 Guía para Instalación de Sistemas Operativos con Ventoy.md",
@@ -220,19 +226,13 @@
     "Pasted image 20250217221648.jpg",
     "Pasted image 20250217221731.jpg",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
-    "02-Ciberseguridad/3- hacking basico/1- Teoria de Ciberseguridad/14- Prueba de lápiz interno.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/1- Uso Básico de Linux/2- Gestión de Paquetes – APT y DPKG.md",
     "Bienvenida/startup.js",
     "Bienvenida",
     "Nueva carpeta",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/3- Creación y Gestión de Entornos Virtuales.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/4- Entrada de Información por parte del Usuario.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo",
     "05-Recursos/Fundamentos de Python",
     "01-Sistemas-Operativos/Windows/0- Trucos de Sistema",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/1- Introducción a la Academia",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP",
     "Sin título.canvas",
     "Untitled.canvas"
   ]

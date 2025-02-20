@@ -41,7 +41,7 @@
                     "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
-                  "title": "Explorador de archivos"
+                  "title": "Files"
                 }
               },
               {
@@ -173,28 +173,20 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "homepage:Open homepage": false,
-          "switcher:Abrir selector rápido": false,
-          "graph:Abrir vista gráfica": false,
-          "canvas:Crear nuevo lienzo": false,
-          "daily-notes:Abrir la nota de hoy": false,
-          "templates:Insertar plantilla": false,
-          "command-palette:Abrir paleta de comandos": false,
-          "workspaces:Gestionar disposiciones de espacio de trabajo": false
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "homepage:Open homepage": false
         }
       },
       "active": "b3d49f1a0b73715c",
-      "mtime": "2025-02-17T08:55:25-04:00",
+      "mtime": "2025-02-19T22:23:24-04:00",
       "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "01-Sistemas-Operativos",
-          "01-Sistemas-Operativos/Linux",
-          "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆",
-          "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad",
-          "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo",
-          "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox",
-          "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/7- HackTheBox/2- Introducción a las pruebas de penetración"
-        ]
+        "explorerFoldState": []
       }
     }
   },
