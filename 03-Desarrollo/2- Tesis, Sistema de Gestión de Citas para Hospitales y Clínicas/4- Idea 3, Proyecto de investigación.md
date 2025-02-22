@@ -1,3 +1,4 @@
+
 ### **Proyecto de Tesis: "Innovación y Personalización en la Educación: Un Enfoque de Libre Mercado para la Modernización de las Estructuras de Aprendizaje"**
 ### **1. Introducción**
 
