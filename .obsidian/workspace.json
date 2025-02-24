@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/2- Insertar Información a la Base de Datos desde Python.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/3- Consultas a la Base de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Insertar Información a la Base de Datos desde Python"
+              "title": "3- Consultas a la Base de Datos"
             }
           }
         ]
@@ -187,13 +187,14 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/3- Consultas a la Base de Datos.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/2- Insertar Información a la Base de Datos desde Python.md",
     "01-Sistemas-Operativos/Windows/0- BYPASS del UAC de WINDOWS/1- BYPASS del UAC de WINDOWS.md",
     "01-Sistemas-Operativos/Windows/2- Descargar ISO de Windows desde la web de Microsoft/Descargar ISO de Windows desde la web de Microsoft.md",
     "01-Sistemas-Operativos/Windows/2- Descargar ISO de Windows desde la web de Microsoft",
     "Untitled",
     "05-Recursos/git/2- Cómo Editar un Commit que ya se Subio a GitHub.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/1- Instalar Base de datos MySQL.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/2- Insertar Información a la Base de Datos desde Python.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/2- Instalación de Módulos Externos.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/1- Introducción a los Módulos.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/3- Creación y Gestión de Entornos Virtuales.md",
