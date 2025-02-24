@@ -180,3 +180,7 @@ Conexión cerrada
 ---
 
 Con esto, habrás configurado y probado la conexión entre **Python y MySQL en Windows 11** correctamente. 🚀
+
+
+
+ **[[5- MySQL]]**

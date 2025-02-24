@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/3- Consultas a la Base de Datos.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/4- Consultar a la Base de Datos + Sentencias Condicionales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Consultas a la Base de Datos"
+              "title": "4- Consultar a la Base de Datos + Sentencias Condicionales"
             }
           }
         ]
@@ -188,13 +188,16 @@
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/3- Consultas a la Base de Datos.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/4- Consultar a la Base de Datos + Sentencias Condicionales.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/14.1- Antes.png",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/2- Insertar Información a la Base de Datos desde Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/1- Instalar Base de datos MySQL.md",
+    "03-Desarrollo/1- Bases de Datos/SQL.md",
     "01-Sistemas-Operativos/Windows/0- BYPASS del UAC de WINDOWS/1- BYPASS del UAC de WINDOWS.md",
     "01-Sistemas-Operativos/Windows/2- Descargar ISO de Windows desde la web de Microsoft/Descargar ISO de Windows desde la web de Microsoft.md",
     "01-Sistemas-Operativos/Windows/2- Descargar ISO de Windows desde la web de Microsoft",
     "Untitled",
     "05-Recursos/git/2- Cómo Editar un Commit que ya se Subio a GitHub.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/1- Instalar Base de datos MySQL.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/2- Instalación de Módulos Externos.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/1- Introducción a los Módulos.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP/3- Creación y Gestión de Entornos Virtuales.md",
@@ -212,11 +215,7 @@
     "03-Desarrollo/2- Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/5- Nueva idea de tesis.md",
     "03-Desarrollo/2- Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/4- Idea 3, Proyecto de investigación.md",
     "03-Desarrollo/2- Tesis, Sistema de Gestión de Citas para Hospitales y Clínicas/3- Idea 2 sin Tryton ERP.md",
-    "02-Ciberseguridad/3- hacking basico/5- shells/2- tipos de shell.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/14- Informe Solución Error Barra Kali Linux VirtualBox 21-02-2025.md",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
     "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/14.2- Despues.png",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/1- Linux y Bash Scripting/9- Ejercicios Prácticos/14.1- Antes.png",
     "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 980868.crdownload",
     "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 542174.crdownload",
     "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 767790.crdownload",

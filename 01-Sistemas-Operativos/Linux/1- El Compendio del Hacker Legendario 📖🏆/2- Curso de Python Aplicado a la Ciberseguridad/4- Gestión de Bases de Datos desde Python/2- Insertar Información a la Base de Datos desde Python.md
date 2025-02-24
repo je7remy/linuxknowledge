@@ -238,3 +238,8 @@ crear_tabla()
 
 5. **Uso del plugin de autenticación:**
    - El parámetro `auth_plugin="mysql_native_password"` es necesario si el usuario 'kali' está configurado para usar ese plugin de autenticación en MySQL. Esto debe coincidir con la configuración del servidor MySQL.
+
+
+
+
+ **[[5- MySQL]]**
