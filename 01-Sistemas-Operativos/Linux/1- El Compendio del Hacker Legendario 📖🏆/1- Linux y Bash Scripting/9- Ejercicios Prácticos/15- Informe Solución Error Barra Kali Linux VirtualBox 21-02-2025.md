@@ -19,9 +19,9 @@ Durante el uso de Kali Linux 2024.1 ejecutándose en una máquina virtual Oracle
 
 **Imagen Antes y Después (Espacio para Capturas):**  
 
-![[14.1- Antes.png]]
+![[15.1- Antes.png]]
 
-![[14.2- Despues.png]]
+![[15.2- Despues.png]]
 
 **Pasos Realizados para la Solución:**  
 1. **Análisis Inicial:**  
