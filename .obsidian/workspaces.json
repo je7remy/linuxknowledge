@@ -75,7 +75,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 510.5,
+        "width": 647.5,
         "collapsed": true
       },
       "right": {
@@ -184,7 +184,7 @@
         }
       },
       "active": "b3d49f1a0b73715c",
-      "mtime": "2025-02-19T22:23:24-04:00",
+      "mtime": "2025-02-25T18:51:41-04:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": []
       }

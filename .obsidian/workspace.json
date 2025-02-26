@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c08f3ac42c44e49f",
+            "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/1- Introducción a las Interfaces Gráficas con Python.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/2- Widgets de Tipo Button y Label.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Introducción a las Interfaces Gráficas con Python"
+              "title": "2- Widgets de Tipo Button y Label"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5
+    "width": 647.5
   },
   "right": {
     "id": "81c1016573cc3f98",
@@ -185,10 +185,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/0- Orden Optimizado/Orden.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/1- Introducción a las Interfaces Gráficas con Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/2- Widgets de Tipo Button y Label.md",
+    "02-Ciberseguridad/3- hacking basico/6- web/Protocolo http.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3.md",
+    "🔒🐧Hub.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/0- Orden Optimizado/Orden.md",
     "01-Sistemas-Operativos/Linux/2- Redes Basico/2- Puertos Principales.md",
     "01-Sistemas-Operativos/Linux/2- Redes Basico/1- Modelo OSI.md",
     "04-Laboratorios/2- Laboratorios de Python.md",
@@ -215,12 +220,7 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/6- Análisis de Red con TCPdump y WireShark – PARTE 1.md",
     "6- Análisis de Red con TCPdump y WireShark.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/4- Análisis de la Red con Bash – PARTE 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/4- Consultar a la Base de Datos + Sentencias Condicionales.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/3- Consultas a la Base de Datos.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/2- Insertar Información a la Base de Datos desde Python.md",
     "01-Sistemas-Operativos/Windows/2- Descargar ISO de Windows desde la web de Microsoft",
     "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 980868.crdownload",
     "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 542174.crdownload",
