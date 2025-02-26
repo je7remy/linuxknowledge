@@ -190,4 +190,13 @@ crear_tabla()
 
 
 
- **[[5- MySQL]]**
+
+
+**[[5- MySQL]]**
+[[SQL]]
+**[[5- MySQL]]**
+**[[4- MSSQL]]** 
+**[[7- Oracle TNS]]**
+**[[1- FTP]]**
+**[[9- SMB]]**
+**[[11- SSH]]**

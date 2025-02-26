@@ -182,5 +182,12 @@ Conexión cerrada
 Con esto, habrás configurado y probado la conexión entre **Python y MySQL en Windows 11** correctamente. 🚀
 
 
+[[SQL]]
+**[[5- MySQL]]**
+**[[4- MSSQL]]** 
+**[[7- Oracle TNS]]**
+**[[1- FTP]]**
+**[[9- SMB]]**
+**[[11- SSH]]**
 
- **[[5- MySQL]]**
+

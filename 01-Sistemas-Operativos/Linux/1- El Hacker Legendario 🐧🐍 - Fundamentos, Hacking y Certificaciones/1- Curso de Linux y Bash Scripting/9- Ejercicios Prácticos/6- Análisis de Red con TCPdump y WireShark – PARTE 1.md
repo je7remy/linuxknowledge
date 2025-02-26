@@ -237,4 +237,3 @@ Este tráfico confirma que `tcpdump` capturó correctamente la sesión FTP. Pued
 **[[1- Hoja de trucos NMAP]]**
 **[[3- nmap firewall evasion]]**
 **[[4- nmap output]]**
-

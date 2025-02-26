@@ -185,3 +185,7 @@ Debemos saber interactuar con diferentes bases de datos. Por lo tanto, recomenda
 
 
 **[[SQL]]**
+[[1- Instalar Base de datos MySQL]]
+[[2- Insertar Información a la Base de Datos desde Python]]
+[[3- Consultas a la Base de Datos]]
+[[4- Consultar a la Base de Datos + Sentencias Condicionales]]

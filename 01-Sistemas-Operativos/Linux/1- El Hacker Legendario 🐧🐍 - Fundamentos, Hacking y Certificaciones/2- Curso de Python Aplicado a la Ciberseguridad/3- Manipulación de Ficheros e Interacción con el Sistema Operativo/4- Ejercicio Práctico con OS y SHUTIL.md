@@ -165,3 +165,6 @@ print("se ha terminado la openracion")
   - No maneja casos como extensiones en mayúsculas (e.g., `.JPG`) o conflictos de nombres en el destino.
 - **Resultado:** El script organiza eficientemente archivos en el directorio actual en cuatro carpetas según su tipo, asumiendo que las extensiones coinciden y que no hay errores como permisos denegados o nombres duplicados.
 
+
+
+[[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]

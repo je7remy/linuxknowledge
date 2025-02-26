@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/2- Widgets de Tipo Button y Label.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/3- Widgets de Tipo Entry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Widgets de Tipo Button y Label"
+              "title": "3- Widgets de Tipo Entry"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -187,39 +187,39 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/1- Introducción a las Interfaces Gráficas con Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15- Informe Solución Error Barra Kali Linux VirtualBox 21-02-2025.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/5- Análisis de la Red con Bash – PARTE 3.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/4- Análisis de la Red con Bash – PARTE 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/6- Análisis de Red con TCPdump y WireShark – PARTE 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/7- Análisis de Red con TCPdump y WireShark – PARTE 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/13- Automatización de Cracking de Contraseñas.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/2- Widgets de Tipo Button y Label.md",
-    "02-Ciberseguridad/3- hacking basico/6- web/Protocolo http.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3.md",
-    "🔒🐧Hub.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/0- Orden Optimizado/Orden.md",
-    "01-Sistemas-Operativos/Linux/2- Redes Basico/2- Puertos Principales.md",
-    "01-Sistemas-Operativos/Linux/2- Redes Basico/1- Modelo OSI.md",
-    "04-Laboratorios/2- Laboratorios de Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/3- Widgets de Tipo Entry.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/4- Ejercicio Práctico con OS y SHUTIL.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/11- Creamos un Script para Automatizar Búsquedas en el Sistema.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
+    "03-Desarrollo/1- Bases de Datos/SQL.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/5- MySQL.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/4- MSSQL.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/7- Oracle TNS.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/1- FTP.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/9- SMB.md",
+    "02-Ciberseguridad/3- hacking basico/3- hosts/11- SSH.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/1- Instalar Base de datos MySQL.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/2- Insertar Información a la Base de Datos desde Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/4- Consultar a la Base de Datos + Sentencias Condicionales.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/3- Consultas a la Base de Datos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/0- Orden Optimizado",
-    "04-Laboratorios/3- Laboratorios de Herramientas.md",
-    "04-Laboratorios/1- Laboratorios de Bash.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Curso de Splunk Introductorio/Proximamente....md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/5- Curso de Docker Aplicado a la Ciberseguridad/Proximamente....md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/6- Introducción al Hacking Web/Proximamente....md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/4- Preparación para la Certificación del eJPTv2/Proximamente....md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/6- Introducción al Hacking Web",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/5- Curso de Docker Aplicado a la Ciberseguridad",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/4- Preparación para la Certificación del eJPTv2",
-    "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/Untitled.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Curso de Splunk Introductorio",
-    "04-Laboratorios/0- Laboratorios Hacker Ético Teoría.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/7- Automatización de Copias de Seguridad en Servidor SSH.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/10- Detector de Sistemas Operativos – PARTE 2.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/13- Automatización de Cracking de Contraseñas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15- Informe Solución Error Barra Kali Linux VirtualBox 21-02-2025.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15.2- Despues.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15.1- Antes.png",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/6- Análisis de Red con TCPdump y WireShark – PARTE 1.md",
-    "6- Análisis de Red con TCPdump y WireShark.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas",
     "01-Sistemas-Operativos/Windows/2- Descargar ISO de Windows desde la web de Microsoft",
     "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 980868.crdownload",

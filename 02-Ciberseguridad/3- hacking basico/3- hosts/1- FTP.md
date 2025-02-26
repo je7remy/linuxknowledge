@@ -565,3 +565,7 @@ Esto se debe a que el certificado SSL nos permite reconocer el , por ejemplo, y 
 
 
 **[[SQL]]**
+[[1- Instalar Base de datos MySQL]]
+[[2- Insertar Información a la Base de Datos desde Python]]
+[[3- Consultas a la Base de Datos]]
+[[4- Consultar a la Base de Datos + Sentencias Condicionales]]

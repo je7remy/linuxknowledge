@@ -2,6 +2,7 @@
 ---
 
 ### **Puntos Débiles del Orden Original**  
+
 1. **Docker después de eJPTv2**:  
    - **Problema**: La certificación eJPTv2 requiere practicar en laboratorios (ej. máquinas vulnerables como Metasploitable). Sin Docker, dependerás de VirtualBox, que es más pesado y menos flexible.  
    - **Solución**: Aprender Docker antes del eJPTv2 para crear entornos aislados rápidamente.  
@@ -16,6 +17,7 @@
 ---
 
 ### **Orden Optimizado (Base Neutral)**  
+
 Si tu objetivo es **tener una base general para luego elegir especialización**, este orden es más eficiente:  
 
 1. **Curso de Linux y Bash Scripting** *(Fundamento universal)*  
@@ -28,6 +30,7 @@ Si tu objetivo es **tener una base general para luego elegir especialización**,
 ---
 
 ### **Ventajas del Nuevo Orden**  
+
 - **Flexibilidad**:  
   - Si luego te inclinas por **Red Team**, ya tendrás Docker para laboratorios y Hacking Web para explotación.  
   - Si prefieres **Blue Team**, usarás Docker para desplegar Splunk y Python para analizar logs.  
@@ -37,6 +40,7 @@ Si tu objetivo es **tener una base general para luego elegir especialización**,
 ---
 
 ### **¿Por qué es mejor este ajuste?**  
+
 - **Docker temprano**:  
   - Podrás crear laboratorios ligeros para practicar *sin depender de máquinas virtuales pesadas*.  
   - Ejemplo: Usar contenedores con OWASP Juice Shop (Hacking Web) o Metasploitable (eJPTv2).  
@@ -48,6 +52,7 @@ Si tu objetivo es **tener una base general para luego elegir especialización**,
 ---
 
 ### **Conclusión**  
+
 El orden original es viable, pero **no aprovecha las sinergias entre herramientas**. Con el ajuste propuesto:  
 - Tendrás una **base técnica más robusta**.  
 - **Explorarás ambos mundos** (Red/Blue Team) de forma práctica.  

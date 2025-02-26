@@ -30,3 +30,7 @@
  **[[1- FTP]]**
  **[[9- SMB]]**
  **[[11- SSH]]**
+[[1- Instalar Base de datos MySQL]]
+[[2- Insertar Información a la Base de Datos desde Python]]
+[[3- Consultas a la Base de Datos]]
+[[4- Consultar a la Base de Datos + Sentencias Condicionales]]

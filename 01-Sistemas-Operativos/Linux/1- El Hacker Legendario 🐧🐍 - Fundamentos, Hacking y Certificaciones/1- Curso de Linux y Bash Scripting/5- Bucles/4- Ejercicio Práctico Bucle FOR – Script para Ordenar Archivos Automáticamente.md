@@ -129,3 +129,4 @@ Este script organiza archivos en carpetas según sus extensiones y proporciona r
 [[1- Bucle FOR – Parte 1]]
 [[2- Bucle FOR – Parte 2]]
 [[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]
+[[4- Ejercicio Práctico con OS y SHUTIL]]
