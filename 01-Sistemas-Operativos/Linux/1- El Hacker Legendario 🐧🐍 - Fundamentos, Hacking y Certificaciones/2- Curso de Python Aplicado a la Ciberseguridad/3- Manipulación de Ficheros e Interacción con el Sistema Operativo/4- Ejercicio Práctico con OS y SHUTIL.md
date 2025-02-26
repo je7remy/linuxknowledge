@@ -168,3 +168,4 @@ print("se ha terminado la openracion")
 
 
 [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]
+[[6- Ejercicio Práctico con Interfaces Gráficas]]
