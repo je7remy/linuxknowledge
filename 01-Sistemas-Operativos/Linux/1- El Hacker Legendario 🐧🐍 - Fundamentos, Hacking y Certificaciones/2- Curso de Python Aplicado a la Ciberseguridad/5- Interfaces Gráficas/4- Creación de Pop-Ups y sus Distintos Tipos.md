@@ -86,7 +86,7 @@ ventana.mainloop()
 
 ---
 
-## **Código Final
+## **Código Final**
 
 ```python
 import tkinter as tk
