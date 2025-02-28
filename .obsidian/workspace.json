@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/7- Personalización y Estética de nuestras Aplicaciones Gráficas.md",
+                "file": "01-Sistemas-Operativos/Windows/3- Guía de Instalación Office Lite 2016/Guía de Instalación Office Lite 2016.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7- Personalización y Estética de nuestras Aplicaciones Gráficas"
+              "title": "Guía de Instalación Office Lite 2016"
             }
           }
         ]
@@ -185,13 +185,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b3d49f1a0b73715c",
+  "active": "87088476cafe3f48",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/7- Personalización y Estética de nuestras Aplicaciones Gráficas.md",
+    "01-Sistemas-Operativos/Windows/4- Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master.md",
+    "01-Sistemas-Operativos/Windows/3- Guía de Instalación Office Lite 2016/Guía de Instalación Office Lite 2016.md",
+    "01-Sistemas-Operativos/Windows/2- Instalacion de Sistemas Operativos con Ventoy/📌 Guía para Instalación de Sistemas Operativos con Ventoy.md",
+    "01-Sistemas-Operativos/Windows/3- Guía de Instalación Office Lite 2016",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/6- Manejo de Excepciones/1- Introducción a las Excepciones en Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/6- Ejercicio Práctico con Interfaces Gráficas.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/7- Personalización y Estética de nuestras Aplicaciones Gráficas.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/5- Creación de Menús Desplegables.md",
+    "README.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/6- Manejo de Excepciones",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/4- Ejercicio Práctico con OS y SHUTIL.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/5- Creación de Menús Desplegables.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/4- Creación de Pop-Ups y sus Distintos Tipos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/3- Widgets de Tipo Entry.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux.md",
@@ -208,11 +215,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/10- Creamos un Script que Automatice el Tratamiento de la Información.md",
     "03-Desarrollo/1- Bases de Datos/SQL.md",
     "02-Ciberseguridad/3- hacking basico/3- hosts/5- MySQL.md",
-    "02-Ciberseguridad/3- hacking basico/3- hosts/4- MSSQL.md",
-    "02-Ciberseguridad/3- hacking basico/3- hosts/7- Oracle TNS.md",
-    "02-Ciberseguridad/3- hacking basico/3- hosts/1- FTP.md",
-    "02-Ciberseguridad/3- hacking basico/3- hosts/9- SMB.md",
-    "02-Ciberseguridad/3- hacking basico/3- hosts/11- SSH.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/0- Orden Optimizado",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/6- Introducción al Hacking Web",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/5- Curso de Docker Aplicado a la Ciberseguridad",
@@ -221,10 +223,8 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15.2- Despues.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15.1- Antes.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas",
-    "01-Sistemas-Operativos/Windows/2- Descargar ISO de Windows desde la web de Microsoft",
+    "01-Sistemas-Operativos/Windows/1- Descargar ISO de Windows desde la web de Microsoft",
     "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 980868.crdownload",
-    "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 542174.crdownload",
-    "02-Ciberseguridad/3- hacking basico/5- shells/Sin confirmar 767790.crdownload",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/1.1- PT-Process.webp",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.1- Infraestructura de Red.jpg",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.2- Aplicaciones Web.jpg",

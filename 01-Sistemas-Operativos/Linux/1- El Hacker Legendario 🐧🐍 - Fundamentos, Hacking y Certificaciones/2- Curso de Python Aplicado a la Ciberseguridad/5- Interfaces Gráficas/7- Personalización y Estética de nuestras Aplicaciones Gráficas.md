@@ -232,19 +232,23 @@ ventana.mainloop()
 ---
 ### **Código Completo**
 ```python
-import customtkinter as ctk
-from tkinter import messagebox
-import os
-import shutil
+import customtkinter as ctk  # Librería para crear interfaces modernas con Tkinter
+from tkinter import messagebox  # Para mostrar mensajes emergentes
+import os  # Para operaciones con el sistema de archivos
+import shutil  # Para mover archivos entre carpetas
+
+# Definir nombres de carpetas de destino
 
 documento_carpeta = "documentos"
 foto_carpeta = "fotos"
 video_carpeta = "videos"
 musica_carpeta = "musica"
 
+# Crear las carpetas si no existen
 for carpeta in [documento_carpeta, foto_carpeta, video_carpeta, musica_carpeta]:
     os.makedirs(carpeta, exist_ok=True)
 
+# Definir las extensiones de archivos para cada tipo de categoría
 extensiones = {
     "documentos": (".pdf", ".doc", ".docx", ".txt", ".xls", ".xlsx", ".ppt", ".pptx"),
     "fotos": (".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff"),
@@ -253,27 +257,42 @@ extensiones = {
 }
 
 def mover_archivos(tipo, carpeta_destino):
+    """
+    Mueve archivos de un tipo específico a la carpeta correspondiente.
+    :param tipo: Clave del diccionario de extensiones que indica el tipo de archivo.
+    :param carpeta_destino: Nombre de la carpeta de destino donde se moverán los archivos.
+    """
+    # Filtrar archivos en la carpeta actual que coincidan con las extensiones dadas
     archivos = [f for f in os.listdir() if os.path.isfile(f) and f.lower().endswith(extensiones[tipo])]
+    
+    # Mover archivos encontrados a la carpeta correspondiente
     for archivo in archivos:
         shutil.move(archivo, carpeta_destino)
+    
+    # Mostrar mensaje de confirmación o aviso si no hay archivos para mover
     if archivos:
         messagebox.showinfo("Información", f"{tipo.capitalize()} organizados correctamente")
     else:
         messagebox.showinfo("Información", f"No se encontraron {tipo} para organizar")
 
-ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("blue")
+# Configuración de la interfaz gráfica con CustomTkinter
+ctk.set_appearance_mode("dark")  # Modo oscuro
+ctk.set_default_color_theme("blue")  # Tema de color azul
 
+# Crear la ventana principal
 ventana = ctk.CTk()
-ventana.title("Organizador de Archivos")
-ventana.geometry("400x300")
+ventana.title("Organizador de Archivos")  # Título de la ventana
+ventana.geometry("400x300")  # Tamaño de la ventana
 
+# Crear un marco para contener los elementos
 frame = ctk.CTkFrame(ventana)
 frame.pack(pady=20, padx=20, fill="both", expand=True)
 
+# Etiqueta de título dentro del marco
 label = ctk.CTkLabel(frame, text="Organizar Archivos", font=("Arial", 18, "bold"))
 label.pack(pady=10)
 
+# Lista de botones con sus respectivos tipos y carpetas de destino
 botones = [
     ("Documentos", "documentos", documento_carpeta),
     ("Fotos", "fotos", foto_carpeta),
@@ -281,11 +300,14 @@ botones = [
     ("Música", "musica", musica_carpeta)
 ]
 
+# Crear botones dinámicamente para organizar cada tipo de archivo
 for texto, tipo, carpeta in botones:
     boton = ctk.CTkButton(frame, text=f"Organizar {texto}", command=lambda t=tipo, c=carpeta: mover_archivos(t, c))
     boton.pack(pady=5, padx=20, fill="x")
 
+# Ejecutar el bucle principal de la interfaz gráfica
 ventana.mainloop()
+
 ```
 
 ---
