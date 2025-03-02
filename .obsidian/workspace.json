@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!/Canales de YouTube de Ciberseguridad y Hacking Ético!.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Canales de YouTube de Ciberseguridad y Hacking Ético!"
+              "title": "README"
             }
           }
         ]
@@ -185,12 +185,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!/Canales de YouTube de Ciberseguridad y Hacking Ético!.md",
-    "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!",
+    "🔒🐧Hub.md",
+    "README.md",
+    "Untitled.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/1- Configuración de Servidor FTP en Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/2- Cómo Crear un Servidor FTP con VSFTPD.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso.md",
+    "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!/Canales de YouTube de Ciberseguridad y Hacking Ético!.md",
+    "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/4- Gestión y Automatización de Servidores FTP – PARTE 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/5- Cómo Crear un Servidor SSH con OPENSSH.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/3- Gestión y Automatización de Servidores FTP – PARTE 1.md",
@@ -206,7 +210,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/6- Ejercicio Práctico con Interfaces Gráficas.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/7- Personalización y Estética de nuestras Aplicaciones Gráficas.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/5- Creación de Menús Desplegables.md",
-    "README.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/6- Manejo de Excepciones",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/4- Ejercicio Práctico con OS y SHUTIL.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/5- Bucles/4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente.md",
@@ -214,9 +217,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/3- Widgets de Tipo Entry.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15- Informe Solución Error Barra Kali Linux VirtualBox 21-02-2025.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/4- Análisis de la Red con Bash – PARTE 2.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/6- Análisis de Red con TCPdump y WireShark – PARTE 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/0- Orden Optimizado",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/6- Introducción al Hacking Web",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/5- Curso de Docker Aplicado a la Ciberseguridad",

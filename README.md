@@ -4,12 +4,13 @@ Repositorio especializado en administración de sistemas Linux, scripting avanza
 
 ## 📌 Sobre este Proyecto
 
-Repositorio activo que documenta mi jornada en:
-- Administración profesional de sistemas Linux
-- Automatización con Bash scripting
-- Técnicas de hacking ético y pentesting
-- Desarrollo de herramientas de seguridad
-- Laboratorios prácticos de redes y seguridad
+Este repositorio es un centro de conocimiento integral que documenta mi aprendizaje y proyectos en:
+
+- **Administración de Sistemas**: Enfocado en Linux y Windows, con guías sobre scripting, automatización y gestión de servidores.
+- **Ciberseguridad**: Técnicas de hacking ético, pentesting, análisis de red y herramientas de seguridad.
+- **Desarrollo**: Proyectos prácticos como bases de datos y un sistema de gestión de citas médicas.
+- **Laboratorios Prácticos**: Ejercicios en Bash, Python y herramientas de red para reforzar habilidades técnicas.
+- **Recursos Adicionales**: Guías rápidas sobre Android, Blender, Git, Python y un glosario de programación.
 
 ![Linux Terminal](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-Pentesting-red) ![Tools](https://img.shields.io/badge/Herramientas-TCPdump%20|%20Wireshark%20|%20Nmap-orange)
 
@@ -48,6 +49,11 @@ Repositorio activo que documenta mi jornada en:
 | [Auto Backup SSH](obsidian://open?vault=linuxknowledge&file=El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86%2F1-%20Linux%20y%20Bash%20Scripting%2F8-%20Gesti%C3%B3n%20de%20Servidores%20con%20Scripts%20de%20Bash%2F7-%20Automatizaci%C3%B3n%20de%20Copias%20de%20Seguridad%20en%20Servidor%20SSH): [💾 Auto Backup SSH](https://github.com/je7remy/linuxknowledge/blob/main/01-Sistemas-Operativos/Linux/1-%20El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86/1-%20Linux%20y%20Bash%20Scripting/8-%20Gesti%C3%B3n%20de%20Servidores%20con%20Scripts%20de%20Bash/7-%20Automatizaci%C3%B3n%20de%20Copias%20de%20Seguridad%20en%20Servidor%20SSH.md) | Sistema automatizado de copias seguras       | Ene 2025             |
 | [Analizador de Red](obsidian://open?vault=linuxknowledge&file=El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86%2F1-%20Linux%20y%20Bash%20Scripting%2F9-%20Ejercicios%20Pr%C3%A1cticos%2F5-%20An%C3%A1lisis%20de%20la%20Red%20con%20Bash%20%E2%80%93%20PARTE%203): [📡 Analizador de Red](https://github.com/je7remy/linuxknowledge/blob/main/01-Sistemas-Operativos/Linux/1-%20El%20Compendio%20del%20Hacker%20Legendario%20%F0%9F%93%96%F0%9F%8F%86/1-%20Linux%20y%20Bash%20Scripting/9-%20Ejercicios%20Pr%C3%A1cticos/5-%20An%C3%A1lisis%20de%20la%20Red%20con%20Bash%20%E2%80%93%20PARTE%203.md)                                                                       | Kit de herramientas para análisis de tráfico | Dic 2024             |
 
+| Sección          | Herramienta/Script                                                                                                           | Descripción                            | Ubicación                                                                                                   |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Laboratorios** | [Laboratorios de Bash](https://github.com/je7remy/linuxknowledge/blob/main/04-Laboratorios/1-%20Laboratorios%20de%20Bash.md) | Ejercicios prácticos en Bash scripting | [Ver](https://github.com/je7remy/linuxknowledge/blob/main/04-Laboratorios/1-%20Laboratorios%20de%20Bash.md) |
+| **Recursos**     | [Guía de Git](https://github.com/je7remy/linuxknowledge/blob/main/05-Recursos/git/1-%20Comandos%20Git.md)                    | Comandos esenciales de Git             | [Ver](https://github.com/je7remy/linuxknowledge/blob/main/05-Recursos/git/1-%20Comandos%20Git.md)           |
+
 ## 📅 Historial de Desarrollo
 
 ### 2025
@@ -71,6 +77,16 @@ D --> F[Forensia Digital]
 G[DevOps] --> H[CI/CD]
 G --> I[Infraestructura como Código]
 ```
+
+## 📚 Recursos Adicionales
+
+Este repositorio incluye recursos valiosos para aprendizaje y referencia:
+- **Android**: Guías para instalar Google Play en tablets Amazon y desinstalar apps sin root.
+- **Blender**: Comandos básicos para modelado 3D.
+- **Canales de YouTube**: Recomendaciones sobre ciberseguridad y hacking ético.
+- **Fundamentos de Python**: Guía rápida para principiantes.
+- **Git**: Comandos esenciales y edición de commits.
+- **Glosario de Programación**: Los 200 términos más utilizados.
 
 ## 🤝 Cómo Contribuir
 
