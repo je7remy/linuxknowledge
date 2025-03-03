@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "links": [
+      {
+        "href": "/hub",
+        "name": "Inicio"
+      },
+      {
+        "href": "/01-sistemas-operativos",
+        "name": "Sistemas Operativos"
+      },
+      {
+        "href": "/02-ciberseguridad",
+        "name": "Ciberseguridad"
+      },
+      {
+        "href": "/03-desarrollo",
+        "name": "Desarrollo"
+      },
+      {
+        "href": "/04-laboratorios",
+        "name": "Laboratorios"
+      },
+      {
+        "href": "/05-recursos",
+        "name": "Recursos"
+      }
+    ]
+  },
+  "showSidebar": true
+}
