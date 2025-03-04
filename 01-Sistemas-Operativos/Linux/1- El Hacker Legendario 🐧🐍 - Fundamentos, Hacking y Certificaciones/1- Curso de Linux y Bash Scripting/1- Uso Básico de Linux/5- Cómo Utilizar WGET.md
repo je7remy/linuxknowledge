@@ -26,6 +26,6 @@ Se refiere a su función principal: obtener (GET) archivos desde la web.
 
 **[[3- Transferencia de Archivos por la Red]]** 
 **[[4- Cómo Utilizar CURL con HTTP]]**
-**[[Protocolo http]]**
+**[[1- Protocolo HTTP]]**
 **[[3- Securización de Servidores Web Apache – PARTE 1]]**
 **[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**

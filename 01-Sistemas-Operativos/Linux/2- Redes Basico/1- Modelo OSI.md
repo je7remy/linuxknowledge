@@ -60,4 +60,4 @@ En el modelo TCP/IP, las funciones de las capas de Sesión, Presentación y Apli
 
 
 [[2- Puertos Principales]]
-[[Protocolo http]]
+[[1- Protocolo HTTP]]

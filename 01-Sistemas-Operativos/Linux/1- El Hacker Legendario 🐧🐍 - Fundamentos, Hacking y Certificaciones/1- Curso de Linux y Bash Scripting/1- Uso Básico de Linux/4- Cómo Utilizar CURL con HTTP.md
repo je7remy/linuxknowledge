@@ -86,7 +86,7 @@ En resumen, este comando descarga un script de instalación de Brave y lo ejecut
 
 
 **[[3- Transferencia de Archivos por la Red]]** 
-**[[Protocolo http]]**
+**[[1- Protocolo HTTP]]**
 **[[5- Cómo Utilizar WGET]]**
 **[[3- Securización de Servidores Web Apache – PARTE 1]]**
 **[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**

@@ -121,7 +121,7 @@ Definitivamente, `mod_evasive` es una herramienta útil para reforzar la segurid
 
 
 
-**[[Protocolo http]]**
+**[[1- Protocolo HTTP]]**
 **[[4- Cómo Utilizar CURL con HTTP]]**
 **[[5- Cómo Utilizar WGET]]**
 [[3- Securización de Servidores Web Apache – PARTE 1]]
