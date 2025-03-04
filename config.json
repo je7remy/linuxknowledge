@@ -1,5 +1,5 @@
 {
   "showSidebar": true,
-  "darkMode": true,
-  "logoVisible": false
+  "themeMode": "dark",
+  "displayLogo": false
 }
