@@ -1,6 +1,3 @@
-¡Claro que sí! Entiendo que necesitas un proyecto más fácil, que se pueda hacer en 4 meses y que no requiera conocer las tecnologías de antemano. Te voy a proponer algo sencillo, práctico y perfecto para una tesis informática, con pasos claros para que aprendas mientras lo haces. ¡Vamos a hacerlo fácil y manejable!
-
----
 
 ### **Propuesta: Dashboard Predictivo para Ventas Minoristas**
 **¿Qué es?**  
