@@ -1,3 +1,4 @@
+
 El script Bash utiliza el comando `curl` para subir un archivo local llamado `log.txt` al servidor FTP con la IP `192.168.1.109`, usando las credenciales del usuario `jeremyserver`. A continuación, detallo lo que hace cada sección del script y los posibles resultados:
 
 1. **Configuración de variables:**
