@@ -36,3 +36,10 @@ archivo_remoto="/home/jeremyserver/log.txt"
 
 curl -u $usuario -T "$ruta_archivo_local" ftp://$servidor/$archivo_remoto
 ```
+
+
+
+
+
+**[[3- Transferencia de Archivos por la Red]]** 
+[[3- Automatizar Copias de Seguridad FTP con Python]]

@@ -195,3 +195,4 @@ curl -u "$usuario:$clave" -T "$ruta_archivo_local" ftp://$servidor/$archivo_remo
 
 
 **[[3- Transferencia de Archivos por la Red]]** 
+[[3- Automatizar Copias de Seguridad FTP con Python]]
