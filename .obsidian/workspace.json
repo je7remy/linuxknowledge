@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/5- Automatizar conexión SSH y Ejecución de Comandos con Python.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/6- Enviar Archivos por SCP desde Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Automatizar conexión SSH y Ejecución de Comandos con Python"
+              "title": "6- Enviar Archivos por SCP desde Python"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,12 +188,13 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/2- Gestión de Permisos y Tratamiento de la Información/7- Stdout, Stderr y Stdin.md",
+    "01-Sistemas-Operativos/Linux/0- Configuracion inicial/Configuración Básica de Máquina Virtual Kali Linux.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/6- Enviar Archivos por SCP desde Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/5- Automatizar conexión SSH y Ejecución de Comandos con Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/2- Gestión de Permisos y Tratamiento de la Información/7- Stdout, Stderr y Stdin.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/11- Automatizar la Gestión de Usuarios en Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/7- Automatización de Copias de Seguridad en Servidor SSH.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/6- Acceso Automatizado SSH Importando Clave Pública.md",
-    "01-Sistemas-Operativos/Linux/0- Configuracion inicial/Configuración Básica de Máquina Virtual Kali Linux.md",
     "01-Sistemas-Operativos/Linux/0- Configuracion inicial",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/4- Configuración de Servidor SSH en Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/3- Automatizar Copias de Seguridad FTP con Python.md",
@@ -215,7 +216,6 @@
     "03-Desarrollo/2- Propuestas de Tesis/2- Propuesta, Sistema de Gestión de Citas para Hospitales y Clínicas.md",
     "02-Ciberseguridad/6- Forense Digital",
     "02-Ciberseguridad/3- hacking basico/6- Web/Sin título.md",
-    "02-Ciberseguridad/3- hacking basico/Sin título.md",
     "02-Ciberseguridad/3- hacking basico/7- Peritaje e Informática Forense",
     "config.json",
     "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!",
