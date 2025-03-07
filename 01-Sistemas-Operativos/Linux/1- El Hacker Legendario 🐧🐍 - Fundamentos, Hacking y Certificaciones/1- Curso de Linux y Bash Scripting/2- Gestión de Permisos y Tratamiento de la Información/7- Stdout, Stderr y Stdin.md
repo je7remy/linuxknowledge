@@ -83,3 +83,10 @@ echo "Juan" | ./example.sh
 ```
 
 Esto envía "Juan" como entrada estándar al script.
+
+
+
+
+
+
+[[5- Automatizar conexión SSH y Ejecución de Comandos con Python]]

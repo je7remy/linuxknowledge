@@ -101,3 +101,5 @@ bye
 
 [[1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso]]
 [[2- Cómo Crear un Servidor FTP con VSFTPD]]
+[[2- Puertos Principales]]
+[[2- Protección del Protocolo FTP]]

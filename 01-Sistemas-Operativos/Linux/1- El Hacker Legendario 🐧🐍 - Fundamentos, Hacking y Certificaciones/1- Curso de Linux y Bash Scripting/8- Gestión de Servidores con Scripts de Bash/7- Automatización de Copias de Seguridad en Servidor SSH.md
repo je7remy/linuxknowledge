@@ -107,7 +107,6 @@ rm "$zip_file"
 
 
 
-
-[[7- Automatización de Copias de Seguridad en Servidor SSH]]
-[[11- Automatizar la Gestión de Usuarios en Linux]]
 [[6- Acceso Automatizado SSH Importando Clave Pública]]
+[[5- Automatizar conexión SSH y Ejecución de Comandos con Python]]
+[[11- Automatizar la Gestión de Usuarios en Linux]]

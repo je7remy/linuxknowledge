@@ -240,3 +240,9 @@ sudo systemctl restart vsftpd
 ---
 
 Estos comandos configuran el servidor FTP, habilitan la escritura, y permiten la transferencia de archivos entre sistemas.
+
+
+
+
+[[1- Configuración de Servidor FTP en Linux]]
+[[2- Puertos Principales]]
