@@ -21,5 +21,6 @@
 - `../wordlist-intro.txt`: Es la ruta al archivo de la lista de palabras que hashcat utilizará como diccionario para intentar descifrar las contraseñas.
 
 
+
   **[[12- Herramienta para hacer cracking de contraseñas]]**
   **[[13- Automatización de Cracking de Contraseñas]]**
