@@ -90,6 +90,16 @@ Este repositorio incluye recursos valiosos para aprendizaje y referencia:
 
 ## 🤝 Cómo Contribuir
 
+## Configuración inicial para usuarios de Windows
+
+Si trabajas en Windows, te recomendamos ejecutar el siguiente comando en tu terminal **antes** de clonar el repositorio, para evitar problemas con rutas de archivos largas:
+
+```bash
+git config --global core.longpaths true
+```
+
+Este comando habilita la opción `core.longpaths` en Git, lo que permite manejar rutas de archivos que excedan el límite de 260 caracteres en Windows.
+
 1. Clona el repositorio
 ```bash
 git clone https://github.com/je7remy/linuxknowledge.git
