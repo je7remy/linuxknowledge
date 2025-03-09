@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Ciberseguridad/7- Cifrado y Criptografía en Python/1- Cifrado y Descifrado de Contraseñas con Fernet en Python.md",
+                "file": "01-Sistemas-Operativos/Windows/2- Instalacion de Sistemas Operativos con Ventoy/2- Saltar conexión Wi-Fi Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Cifrado y Descifrado de Contraseñas con Fernet en Python"
+              "title": "2- Saltar conexión Wi-Fi Windows"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -175,26 +175,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "flowershow:Publish with Flowershow": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false
     }
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "02-Ciberseguridad/6- Forense Digital/3- Introducción Práctica y Demostración Parte 2.md",
+    "01-Sistemas-Operativos/Windows/2- Instalacion de Sistemas Operativos con Ventoy/1- 📌 Guía para Instalación de Sistemas Operativos con Ventoy.md",
+    "01-Sistemas-Operativos/Windows/2- Instalacion de Sistemas Operativos con Ventoy/2- Saltar conexión Wi-Fi Windows.md",
+    "01-Sistemas-Operativos/Windows/1- Descargar ISO de Windows desde la web de Microsoft/Descargar ISO de Windows desde la web de Microsoft.md",
     "02-Ciberseguridad/7- Cifrado y Criptografía en Python/1- Cifrado y Descifrado de Contraseñas con Fernet en Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/9- Interacción con Servicios Web/1- Uso Básico de la Librería Requests.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/8- Automatizar Copias de Seguridad SSH con Python.md",
+    "02-Ciberseguridad/6- Forense Digital/3- Introducción Práctica y Demostración Parte 2.md",
     "02-Ciberseguridad/6- Forense Digital/2- Introducción Práctica y Demostración.md",
     "02-Ciberseguridad/1- Cracking/Hoja de Trucos HASHCAT.md",
     "02-Ciberseguridad/7- Cifrado y Criptografía en Python",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/9- Interacción con Servicios Web/1- Uso Básico de la Librería Requests.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/8- Automatizar Copias de Seguridad SSH con Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/1- Configuración de Servidor FTP en Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/2- Conexión y Subida de Archivos a Servidor FTP.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/3- Automatizar Copias de Seguridad FTP con Python.md",
@@ -214,9 +217,6 @@
     "02-Ciberseguridad/6- Forense Digital/1- Investigación de Spear Phishing - Caso Luxury Design JFK.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/5- Cómo Crear un Servidor SSH con OPENSSH.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/2- Cómo Crear un Servidor FTP con VSFTPD.md",
-    "01-Sistemas-Operativos/Linux/2- Redes Basico/1- Modelo OSI.md",
-    "01-Sistemas-Operativos/Linux/2- Redes Basico/2- Puertos Principales.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso.md",
     "02-Ciberseguridad/6- Forense Digital",
     "02-Ciberseguridad/3- hacking basico/7- Peritaje e Informática Forense",
     "config.json",
