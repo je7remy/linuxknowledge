@@ -88,27 +88,40 @@ Este repositorio incluye recursos valiosos para aprendizaje y referencia:
 - **Git**: Comandos esenciales y edición de commits.
 - **Glosario de Programación**: Los 200 términos más utilizados.
 
+
 ## 🤝 Cómo Contribuir
 
-## Configuración inicial para usuarios de Windows
+### Configuración inicial para usuarios de Windows
 
-Si trabajas en Windows, te recomendamos ejecutar el siguiente comando en tu terminal **antes** de clonar el repositorio, para evitar problemas con rutas de archivos largas:
+1. **Agregar el repositorio a las exclusiones de tu antivirus (opcional pero recomendado)**  
+    Antes de clonar el repositorio, asegúrate de que tu antivirus (por ejemplo, **Microsoft Defender**) no elimine archivos que puedan considerarse sospechosos pero que en realidad sean **scripts didácticos**.
+    
+    - Para ello, ve a **Seguridad de Windows** > **Protección contra virus y amenazas** > **Administrar la configuración** > **Agregar o quitar exclusiones**.
+    - Agrega una exclusión para la carpeta en la que vayas a clonar este repositorio.
+    - De este modo, evitarás que el antivirus bloquee o elimine contenido valioso para el aprendizaje.
+2. **Habilitar rutas largas en Git**  
+    Si trabajas en Windows, te recomendamos ejecutar el siguiente comando en tu terminal **antes** de clonar el repositorio, para evitar problemas con rutas de archivos largas:
+    
+    ```bash
+    git config --global core.longpaths true
+    ```
+    
+3. **Clona el repositorio**
+    
+    ```bash
+    git clone https://github.com/je7remy/linuxknowledge.git
+    ```
+    
+4. **Crea una rama para tu contribución**
+    
+    ```bash
+    git checkout -b feature/nueva-funcionalidad
+    ```
+    
+5. **Envía tu Pull Request**  
+    Envía tu _Pull Request_ con una descripción detallada de los cambios que hiciste.
+    
 
-```bash
-git config --global core.longpaths true
-```
-
-Este comando habilita la opción `core.longpaths` en Git, lo que permite manejar rutas de archivos que excedan el límite de 260 caracteres en Windows.
-
-1. Clona el repositorio
-```bash
-git clone https://github.com/je7remy/linuxknowledge.git
-```
-2. Crea una rama para tu contribución
-```bash
-git checkout -b feature/nueva-funcionalidad
-```
-3. Envía tu Pull Request detallando los cambios
 
 ## 📜 Licencia
 
