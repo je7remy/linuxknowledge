@@ -380,3 +380,116 @@ Hay varias opciones populares para trabajar de forma asíncrona en Python. Puede
     
 
 ---
+
+# Resumiendo en breves palabras todo lo que hemos visto anteriormente
+
+## **1. Funcionamiento de los LLMs**
+
+Los LLMs son modelos de machine learning de gran escala diseñados para comprender y generar lenguaje natural. La diapositiva explica su operación de forma clara, destacando dos procesos fundamentales:
+
+- **Tokenización**: El texto de entrada (por ejemplo, "Hablaremos de LLMs") se descompone en unidades más pequeñas llamadas tokens. Estos tokens son procesados por el modelo para entender el significado y la estructura del lenguaje.
+- **Generación de texto**: Los LLMs predicen la siguiente palabra o token basándose en el contexto previo, expandiendo iterativamente el texto para producir respuestas coherentes. Este proceso se basa en probabilidades calculadas a partir de su entrenamiento masivo con grandes volúmenes de datos.
+
+Esta explicación desmitifica cómo los LLMs logran entender y responder preguntas, haciéndolo accesible incluso para quienes no tienen experiencia previa en IA. Además, se enfatiza que su capacidad para manejar contexto depende de su tamaño y del volumen de datos con los que fueron entrenados.
+
+**Puntos clave:**
+- La tokenización es el primer paso para que los LLMs procesen lenguaje natural.
+- La generación iterativa basada en contexto permite respuestas fluidas y relevantes.
+
+---
+
+## **2. Opciones de modelos**
+
+La diapositiva presenta una comparación práctica entre dos tipos principales de LLMs según su despliegue:
+
+- **Modelos gestionados (hosted)**: Estos son ofrecidos por plataformas como OpenAI, Azure AI y GitHub Models. Se accede a ellos mediante APIs, lo que elimina la necesidad de infraestructura local. Son ideales para prototipos rápidos o experimentación, aunque pueden implicar costos asociados. Un punto destacado es que GitHub Models ofrece acceso gratuito, lo cual es una ventaja para desarrolladores con recursos limitados.
+- **Modelos locales**: Ejemplificados por herramientas como Ollama, estos modelos se ejecutan en hardware propio, ofreciendo mayor control, privacidad y personalización. Sin embargo, requieren más recursos computacionales, como GPUs potentes, lo que puede ser una barrera para algunos usuarios.
+
+Esta sección equilibra las ventajas y desventajas de cada enfoque, ayudando a los usuarios a elegir según sus necesidades específicas, como presupuesto, infraestructura o requisitos de seguridad.
+
+**Puntos clave:**
+- Los modelos gestionados son fáciles de usar pero pueden generar costos.
+- Los modelos locales ofrecen autonomía a cambio de mayores demandas técnicas.
+
+---
+
+## **3. Uso de LLMs desde Python**
+
+Uno de los aspectos más valiosos de la diapositiva es su enfoque práctico sobre cómo integrar LLMs en Python. Se incluyen ejemplos de código que cubren:
+
+- **Autenticación**: Varía según el proveedor. Por ejemplo, OpenAI requiere una API key, mientras que Azure AI puede usar autenticación sin clave en algunos casos. Se recomienda almacenar credenciales en variables de entorno para mantener la seguridad.
+- **Interacción básica**: Se muestra cómo realizar una solicitud simple de "chat completion" para obtener respuestas del modelo.
+- **Streaming**: Se explica cómo implementar respuestas en tiempo real, mejorando la experiencia en aplicaciones interactivas.
+
+Los ejemplos son claros y están acompañados de buenas prácticas, como la configuración segura de credenciales y el manejo eficiente de respuestas. Esto hace que la sección sea especialmente útil para desarrolladores que buscan implementar LLMs en sus proyectos.
+
+**Puntos clave:**
+- La autenticación depende del proveedor y debe configurarse cuidadosamente.
+- El streaming optimiza la interacción en aplicaciones en tiempo real.
+
+---
+
+## **4. Mejora de los resultados del LLM**
+
+Dado que las respuestas de los LLMs pueden ser impredecibles o no alinearse perfectamente con las expectativas, la diapositiva aborda técnicas para optimizarlas:
+
+- **Prompt engineering**: Consiste en diseñar instrucciones claras y específicas para guiar al modelo hacia el tono, estilo o formato deseado. Por ejemplo, un prompt como "Responde como un profesor formal" cambia el estilo de la respuesta.
+- **Few-shot examples**: Proporcionar ejemplos dentro del prompt (por ejemplo, "Dado A, responde B") permite al modelo aprender patrones sin necesidad de reentrenamiento.
+- **Técnicas avanzadas**: Se mencionan conceptos como **llamadas encadenadas** (combinar múltiples solicitudes) y **RAG** (Recuperación Aumentada por Generación), aunque se indica que se explorarán en detalle más adelante.
+
+Estas estrategias son accesibles y no requieren conocimientos avanzados, lo que las hace ideales para principiantes y expertos por igual. Los ejemplos prácticos refuerzan su utilidad.
+
+**Puntos clave:**
+- El prompt engineering es una técnica simple pero efectiva para controlar las respuestas.
+- Los few-shot examples ajustan el comportamiento del modelo con mínima intervención.
+
+---
+
+## **5. Librerías LLM**
+
+La diapositiva enumera y describe librerías populares de Python para trabajar con LLMs, facilitando su integración en proyectos más complejos:
+
+- **LangChain**: Ideal para orquestar flujos de trabajo complejos, como combinar LLMs con bases de datos externas.
+- **LlamaIndex**: Enfocada en indexar y recuperar información para aplicaciones basadas en búsqueda.
+- **Pydantic AI**: Aunque podría ser un error tipográfico (posiblemente refiriéndose a Pandas AI u otra), se asume que ofrece herramientas para estructurar datos en proyectos de IA.
+
+Se proporcionan ejemplos de código para conectar estas librerías a modelos como los de GitHub Models, junto con criterios para elegir la más adecuada según el caso de uso (por ejemplo, compatibilidad, funcionalidades específicas). Esto ayuda a los desarrolladores a tomar decisiones informadas.
+
+**Puntos clave:**
+- Cada librería tiene fortalezas únicas, desde orquestación hasta integración de datos.
+- La elección depende de los objetivos y la complejidad del proyecto.
+
+---
+
+## **6. Creación de aplicaciones basadas en LLMs**
+
+La diapositiva culmina con un ejemplo práctico: una aplicación de chat con capacidades de visión. Este caso demuestra cómo los LLMs pueden combinarse con otras tecnologías (como el procesamiento de imágenes) para crear soluciones innovadoras. Algunos detalles incluyen:
+
+- **Framework**: Se usa Quart, un framework asíncrono, para manejar múltiples solicitudes eficientemente.
+- **Arquitectura**: Se ilustra de forma sencilla, mostrando la interacción entre el frontend, el backend y el modelo.
+- **Recursos**: Se proporcionan enlaces a ejemplos adicionales, incentivando la experimentación.
+
+Este enfoque práctico inspira a los desarrolladores a ir más allá de las interacciones básicas y explorar aplicaciones escalables y multifuncionales.
+
+**Puntos clave:**
+- Los LLMs pueden integrarse con visión y otros tipos de datos para aplicaciones avanzadas.
+- Los frameworks asíncronos mejoran el rendimiento en entornos de alta demanda.
+
+---
+
+
+
+
+[[Guía rápida de fundamentos en Python]]
+[[2- Laboratorios de Python]]
+[[1- Qué son y cómo Declarar Variables]]
+[[2- Las Listas]]
+[[3- Las Tuplas]]
+[[4- Entrada de Información por parte del Usuario]]
+[[5- Entrada de Información por parte del Usuario (Argumentos)]]
+[[6- Los Diccionarios]]
+[[7- Los Operadores Lógicos]]
+[[8- Sentencias Condicionales]]
+[[9- Bucle FOR]]
+[[10- Bucle WHILE]]
+[[11- Las Funciones]]
