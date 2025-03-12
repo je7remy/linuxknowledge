@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Windows/5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador/Cómo Instalar Aplicaciones de Android en Windows Sin Emulador.md",
+                "file": "05-Recursos/IA/1- Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python, Primera Sesión de la Serie sobre Python e Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cómo Instalar Aplicaciones de Android en Windows Sin Emulador"
+              "title": "1- Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python, Primera Sesión de la Serie sobre Python e Inteligencia Artificial"
             }
           }
         ]
@@ -188,6 +188,18 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "05-Recursos/IA/1.9- Porque Quart 2.png",
+    "05-Recursos/IA/1- Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python, Primera Sesión de la Serie sobre Python e Inteligencia Artificial.md",
+    "05-Recursos/IA/1.8- Porque Quart.png",
+    "05-Recursos/IA/1.7- Quart.png",
+    "05-Recursos/IA/1.5- Librerias.png",
+    "05-Recursos/IA/1.6- APP Arquitectura.png",
+    "05-Recursos/IA/1.4- Demo Ollama.png",
+    "05-Recursos/IA/1.3- Flujo de LLM.png",
+    "05-Recursos/IA/1.2- Contexto.png",
+    "05-Recursos/IA/1.1- Tokenizacion.png",
+    "05-Recursos/IA",
+    "Sin título.md",
     "01-Sistemas-Operativos/Windows/5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador/Cómo Instalar Aplicaciones de Android en Windows Sin Emulador.md",
     "01-Sistemas-Operativos/Windows/5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/9- Interacción con Servicios Web/3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1.md",
@@ -214,9 +226,6 @@
     "02-Ciberseguridad/1- Cracking/Hoja de Trucos HASHCAT.md",
     "02-Ciberseguridad/7- Cifrado y Criptografía en Python",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/1- Configuración de Servidor FTP en Linux.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/2- Conexión y Subida de Archivos a Servidor FTP.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/3- Automatizar Copias de Seguridad FTP con Python.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/4- Configuración de Servidor SSH en Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/9- Interacción con Servicios Web",
     "01-Sistemas-Operativos/Linux/0- Configuracion inicial",
     "02-Ciberseguridad/6- Forense Digital",
@@ -224,16 +233,6 @@
     "config.json",
     "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python",
-    "01-Sistemas-Operativos/Windows/3- Guía de Instalación Office Lite 2016",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15.2- Despues.png",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/15.1- Antes.png",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/1.1- PT-Process.webp",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.1- Infraestructura de Red.jpg",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.2- Aplicaciones Web.jpg",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.4- Infraestructura en la Nube.jpg",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.3- Aplicaciones Móviles.jpg",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
