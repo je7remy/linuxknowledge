@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Recursos/Fundamentos de Python/Guía rápida de fundamentos en Python.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guía rápida de fundamentos en Python"
+              "title": "3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "05-Recursos/Fundamentos de JavaScript/Guía rápida de fundamentos en JavaScript.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/2- Ejercicio Práctico Librería Requests.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/3- Comando Read – Entrada de Datos por parte del Usuario.md",
     "05-Recursos/Fundamentos de Python/Guía rápida de fundamentos en Python.md",
+    "05-Recursos/Fundamentos de JavaScript/Guía rápida de fundamentos en JavaScript.md",
     "05-Recursos/IA/2- Embeddings Vectoriales.md",
     "05-Recursos/Fundamentos de JavaScript",
     "05-Recursos/IA/1- Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python, Primera Sesión de la Serie sobre Python e Inteligencia Artificial.md",
@@ -200,12 +203,10 @@
     "01-Sistemas-Operativos/Linux/2- Redes Basico/1- Modelo OSI.md",
     "01-Sistemas-Operativos/Linux/2- Redes Basico/2- Puertos Principales.md",
     "01-Sistemas-Operativos/Linux/0- Configuracion inicial/Configuración Básica de Máquina Virtual Kali Linux.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1.md",
     "02-Ciberseguridad/6- Forense Digital/4- Caso Practico, Un hacker entró a mi equipo.md",
     "02-Ciberseguridad/6- Forense Digital/4- Caso Practico, Un hacker entró a mi equipo",
     "02-Ciberseguridad/7- Cifrado y Criptografía en Python/1- Cifrado y Descifrado de Contraseñas con Fernet en Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/1- Uso Básico de la Librería Requests.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/2- Ejercicio Práctico Librería Requests.md",
     "05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!/Canales de YouTube de Ciberseguridad y Hacking Ético!.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/2- Curso de Python Aplicado a la Ciberseguridad.md",
     "🔒🐧Hub.md",
@@ -225,7 +226,6 @@
     "05-Recursos/IA/1.1- Tokenizacion.png",
     "05-Recursos/IA",
     "Sin título.md",
-    "01-Sistemas-Operativos/Windows/5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador/Cómo Instalar Aplicaciones de Android en Windows Sin Emulador.md",
     "01-Sistemas-Operativos/Windows/5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/3.1- Jenkins.png",
     "02-Ciberseguridad/7- Cifrado y Criptografía en Python",
