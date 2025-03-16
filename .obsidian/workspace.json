@@ -11,17 +11,27 @@
             "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "95090b1b2ba31c38",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1.md",
+                "file": "CODE_OF_CONDUCT.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1"
+              "title": "CODE_OF_CONDUCT.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +196,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b3d49f1a0b73715c",
+  "active": "95090b1b2ba31c38",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/2- Ejercicio Práctico Librería Requests.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Curso de Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/3- Comando Read – Entrada de Datos por parte del Usuario.md",
@@ -225,7 +236,6 @@
     "05-Recursos/IA/1.2- Contexto.png",
     "05-Recursos/IA/1.1- Tokenizacion.png",
     "05-Recursos/IA",
-    "Sin título.md",
     "01-Sistemas-Operativos/Windows/5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/3.1- Jenkins.png",
     "02-Ciberseguridad/7- Cifrado y Criptografía en Python",

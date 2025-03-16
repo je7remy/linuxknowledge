@@ -1,7 +1,7 @@
 
 ---
 
-#Hacking #CyberSecurity #Pentesting #EthicalHacking #Jenkins #BurpSuite #Python #RockYou #BruteForce #CyberAttack #InfoSec #SecurityTesting
+#Jenkins #Docker #SeguridadInformática #KaliLinux #BurpSuite #Python #Automatización #Vulnerabilidades #Dockerlabs #HackingÉtico #PruebasDePenetración #Scripts #Ciberseguridad #FuerzaBruta #Rockyou #Proxy #InterceptaciónHTTP #Login #Credenciales #AnálisisDeTráfico
 
 ---
 
