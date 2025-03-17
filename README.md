@@ -117,8 +117,18 @@ Este repositorio incluye recursos valiosos para aprendizaje y referencia:
     ```bash
     git checkout -b feature/nueva-funcionalidad
     ```
+
+5. **Copiar el contenido del repositorio (solo para usuarios de Windows)**  
+    Si eres usuario de Windows y deseas copiar el contenido del repositorio a otra ubicación para trabajar en él o hacer una copia de seguridad, usa el siguiente comando en una terminal (como **PowerShell** o el **Símbolo del sistema**) en lugar del explorador de archivos. Esto evita problemas con directorios largos o archivos bloqueados:
     
-5. **Envía tu Pull Request**  
+    ```bash
+    robocopy "C:\linuxknowledge" "C:\repos\linuxknowledge" /E /COPYALL /XJ /R:3 /W:5 /MT:16
+    ```
+    
+    - Ajusta las rutas `"C:\linuxknowledge"` (origen) y `"C:\repos\linuxknowledge"` (destino) según la ubicación de tu repositorio y la carpeta donde deseas copiarlo.
+    - Este comando asegura una copia completa y confiable del contenido.
+
+6. **Envía tu Pull Request**  
     Envía tu _Pull Request_ con una descripción detallada de los cambios que hiciste.
     
 
