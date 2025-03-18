@@ -11,10 +11,14 @@
             "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "03-Desarrollo/2- Propuestas de Tesis/Sistema de Gestión de Citas para Hospital Regional Dr. Luís Morillo King.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema de Gestión de Citas para Hospital Regional Dr. Luís Morillo King"
             }
           }
         ]
@@ -184,6 +188,9 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "03-Desarrollo/2- Propuestas de Tesis/Sistema de Gestión de Inventario y Ventas para Eternity Perfumes.md",
+    "03-Desarrollo/2- Propuestas de Tesis/Sistema de Gestión de Citas para Hospital Regional Dr. Luís Morillo King.md",
+    "CODE_OF_CONDUCT.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- CompTIA Security+ (SY0-701) Complete Course & Exam/01 - Introduction/002 Consejos para el Examen.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- CompTIA Security+ (SY0-701) Complete Course & Exam/01 - Introduction/001 Objetivos del Examen CompTIA Security+ SY0-701 (Versión 5.0).md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- CompTIA Security+ (SY0-701) Complete Course & Exam/01 - Introduction/001 Plan de Estudio para Security+ 701.md",
@@ -199,9 +206,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- CompTIA Security+ (SY0-701) Complete Course & Exam",
     "🔒🐧Hub.md",
     "README.md",
-    "CODE_OF_CONDUCT.md",
-    "03-Desarrollo/2- Propuestas de Tesis/Sistema de Gestión de Inventario y Ventas para Eternity Perfumes.md",
-    "03-Desarrollo/2- Propuestas de Tesis/Sistema de Gestión de Citas para Hospital Regional Dr. Luís Morillo King.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/2- Ejercicio Práctico Librería Requests.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/3- Las Variables y Procesamiento de la Información/3- Comando Read – Entrada de Datos por parte del Usuario.md",
     "05-Recursos/Fundamentos de Python/Guía rápida de fundamentos en Python.md",
