@@ -83,7 +83,7 @@ http://172.17.0.2:8080/
 ```
 
 
-![[3.1- Jenkins.png]]
+![[01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/3.1- Jenkins.png]]
 
 
 Inmediatamente, Burp Suite interceptó la solicitud GET enviada por el navegador. En la pestaña **Intercept**, vi los detalles de la solicitud, incluyendo la línea `GET / HTTP/1.1`, las cabeceras HTTP y el host `172.17.0.2:8080`. Revisé rápidamente la información y luego hice clic en **Forward** para permitir que la solicitud continuara. La página de login de Jenkins se cargó en Firefox como esperaba, confirmando que mi configuración era correcta.
@@ -273,5 +273,4 @@ En este proceso, descargué y desplegué la máquina "strongjenkins" usando Dock
 [[11- SSH]]
 [[12- Herramienta para hacer cracking de contraseñas]]
 [[13- Automatización de Cracking de Contraseñas]]
-
 
