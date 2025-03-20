@@ -71,3 +71,549 @@ Esta lista está diseñada para guiarte en tu camino hacia el dominio del hackin
 | 62     | xerosec               | [OSCP \| OSWP \| eCPPT \| eJPT] ¡Hola! Soy David, técnico de #Ciberseguridad Red Team y docente de #hacking ético. En este canal comparto mis conocimientos técnicos, experiencias y consejos sobre este mundillo de la Ciberseguridad Ofensiva. ¡Únete a nuestra comunidad de hackers! :) Aquí encontrarás walkthroughs en español de plataformas como TryHackMe y HackTheBox, pequeños vídeos de tips sobre hacking, sistemas operativos, herramientas, certificaciones... y a veces también cuento mis experiencias intentando aportar consejos sobre cosas que he ido aprendiendo en mi camino.                                                                                                                                                                                                                                     | https://www.youtube.com/@xerosec               |
 | 63     | yanivhoffman          | I am an IT and Cyber Security professional, which has had a lifelong passion for computers since the 1980s. I began coding at just 13 and went on to earn a bachelor's degree in computer science, starting a successful career in the hi-tech industry. My mission is clear: to empower others with cybersecurity knowledge. I firmly believe that anyone, with the right information and guidance, can make significant progress in the industry.                                                                                                                                                                                                                                                                                                                                                                                     | https://www.youtube.com/@yanivhoffman          |
 | 64     | zunderrub             | Canal sobre información y curiosidades sobre hacking ético y ciberseguridad. ⭕Os dejo mis redes sociales a continuación: 🟣Enlace al servidor de discord https://discord.gg/PH6KFQRaCQ ⚫Enlace a TIKTOK https://www.tiktok.com/@zunderrub 🔵Enlace a Instagram https://www.instagram.com/zunderrub/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | https://www.youtube.com/@zunderrub             |
+
+
+## Script en Python que monitorea los canales de YouTube sin necesidad de una cuenta, usando RSS feeds:
+
+````python
+import requests
+
+from bs4 import BeautifulSoup
+
+import feedparser
+
+import json
+
+import time
+
+from pathlib import Path
+
+from plyer import notification
+
+  
+
+# Configuración
+
+DATA_FILE = 'youtube_subs.json'
+
+CHECK_INTERVAL = 3600  # Verificar cada 1 hora
+
+  
+
+# Lista completa de 64 canales
+
+CHANNEL_URLS = [
+
+    "https://www.youtube.com/@3nh4ck3",
+
+    "https://www.youtube.com/@4k4m1m3",
+
+    "https://www.youtube.com/@_JohnHammond",
+
+    "https://www.youtube.com/@_overtips_",
+
+    "https://www.youtube.com/@afsh4ck",
+
+    "https://www.youtube.com/@anormalix",
+
+    "https://www.youtube.com/@aprendizpentest",
+
+    "https://www.youtube.com/@Ben1B3astt",
+
+    "https://www.youtube.com/@Ben1B3astt_Machiness",
+
+    "https://www.youtube.com/@Br0ncosec",
+
+    "https://www.youtube.com/@cafeypizza",
+
+    "https://www.youtube.com/@CondorHacks",
+
+    "https://www.youtube.com/@ContandoBits",
+
+    "https://www.youtube.com/@CuriosidadesDeHackers",
+
+    "https://www.youtube.com/@ElPinguinoDeMario",
+
+    "https://www.youtube.com/@elpinguinodemariolive",
+
+    "https://www.youtube.com/@elrincondelhacker",
+
+    "https://www.youtube.com/@elysianwaresshop",
+
+    "https://www.youtube.com/@Epical-q",
+
+    "https://www.youtube.com/@fast_byte_informatica",
+
+    "https://www.youtube.com/@FirebelleyGames",
+
+    "https://www.youtube.com/@gentlemanprogramming",
+
+    "https://www.youtube.com/@GSMPrimeNext",
+
+    "https://www.youtube.com/@GSMArenaOfficial",
+
+    "https://www.youtube.com/@h4cking-pro",
+
+    "https://www.youtube.com/@Hackavis",
+
+    "https://www.youtube.com/@hackermentor3811",
+
+    "https://www.youtube.com/@HackingyMas",
+
+    "https://www.youtube.com/@hackn3t",
+
+    "https://www.youtube.com/@hacknotcrime",
+
+    "https://www.youtube.com/@henkosec",
+
+    "https://www.youtube.com/@Hixec",
+
+    "https://www.youtube.com/@ippsec",
+
+    "https://www.youtube.com/@jackie0x17",
+
+    "https://www.youtube.com/@jecarheas",
+
+    "https://www.youtube.com/@JulioUreña",
+
+    "https://www.youtube.com/@LAWRENCESYSTEMS",
+
+    "https://www.youtube.com/@LinuxChad",
+
+    "https://www.youtube.com/@LinuxerOSSystems",
+
+    "https://www.youtube.com/@LiveOverflow",
+
+    "https://www.youtube.com/@LordDraugr",
+
+    "https://www.youtube.com/@m4strock242",
+
+    "https://www.youtube.com/@MatthewMoniz",
+
+    "https://www.youtube.com/@MikeOBrienMedia",
+
+    "https://www.youtube.com/@mouredev",
+
+    "https://www.youtube.com/@mouredevtv",
+
+    "https://www.youtube.com/@NetworkChuck",
+
+    "https://www.youtube.com/@PrimeS21",
+
+    "https://www.youtube.com/@profix9911",
+
+    "https://www.youtube.com/@rinkutech_",
+
+    "https://www.youtube.com/@rubenbezos",
+
+    "https://www.youtube.com/@S4viOnLive",
+
+    "https://www.youtube.com/@s4vitar",
+
+    "https://www.youtube.com/@stuffy24",
+
+    "https://www.youtube.com/@SupraPixel",
+
+    "https://www.youtube.com/@Tecnonauta",
+
+    "https://www.youtube.com/@THackeo",
+
+    "https://www.youtube.com/@TheGoodHacker",
+
+    "https://www.youtube.com/@ThePrimeTimeagen",
+
+    "https://www.youtube.com/@TheSuperTeacher",
+
+    "https://www.youtube.com/@TopesdeGama",
+
+    "https://www.youtube.com/@xerosec",
+
+    "https://www.youtube.com/@yanivhoffman",
+
+    "https://www.youtube.com/@zunderrub"
+
+]
+
+  
+
+def cargar_datos():
+
+    try:
+
+        with open(DATA_FILE, 'r') as f:
+
+            return json.load(f)
+
+    except FileNotFoundError:
+
+        return {}
+
+  
+
+def guardar_datos(data):
+
+    with open(DATA_FILE, 'w') as f:
+
+        json.dump(data, f, indent=2)
+
+  
+
+def obtener_id_canal(url):
+
+    try:
+
+        response = requests.get(url, timeout=10)
+
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        # Buscar el ID del canal en los metadatos
+
+        canonical_link = soup.find('link', {'rel': 'canonical'})['href']
+
+        return canonical_link.split('/')[-1]
+
+    except Exception as e:
+
+        print(f"Error obteniendo ID para {url}: {str(e)}")
+
+        return None
+
+  
+
+def obtener_ultimo_video(rss_url):
+
+    feed = feedparser.parse(rss_url)
+
+    if not feed.entries:
+
+        return None
+
+    ultimo = feed.entries[0]
+
+    return {
+
+        'id': ultimo.id,
+
+        'titulo': ultimo.title,
+
+        'enlace': ultimo.link,
+
+        'fecha': ultimo.published
+
+    }
+
+  
+
+def notificar(titulo, mensaje):
+
+    notification.notify(
+
+        title=titulo,
+
+        message=mensaje,
+
+        app_name='YouTube Notifier',
+
+        timeout=10
+
+    )
+
+  
+
+def main():
+
+    datos = cargar_datos()
+
+    # Inicializar nuevos canales
+
+    for url in CHANNEL_URLS:
+
+        if url not in datos:
+
+            datos[url] = {'id_canal': None, 'ultimo_video': None}
+
+    # Obtener IDs de canal faltantes
+
+    for url in CHANNEL_URLS:
+
+        entrada = datos[url]
+
+        if not entrada['id_canal']:
+
+            print(f"Obteniendo ID para {url}...")
+
+            canal_id = obtener_id_canal(url)
+
+            if canal_id:
+
+                entrada['id_canal'] = canal_id
+
+                print(f"ID encontrado: {canal_id}")
+
+    # Verificar actualizaciones
+
+    for url in CHANNEL_URLS:
+
+        entrada = datos[url]
+
+        if not entrada['id_canal']:
+
+            continue
+
+        rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={entrada['id_canal']}"
+
+        print(f"Revisando {url}...")
+
+        try:
+
+            video = obtener_ultimo_video(rss_url)
+
+            if not video:
+
+                continue
+
+            if entrada['ultimo_video'] != video['id']:
+
+                print(f"NUEVO VIDEO: {video['titulo']}")
+
+                notificar(video['titulo'], video['enlace'])
+
+                entrada['ultimo_video'] = video['id']
+
+        except Exception as e:
+
+            print(f"Error revisando {url}: {str(e)}")
+
+    guardar_datos(datos)
+
+  
+
+if __name__ == '__main__':
+
+    while True:
+
+        main()
+
+        time.sleep(CHECK_INTERVAL)
+````
+
+
+---
+
+## Paso 1: Importación de bibliotecas
+
+```python
+import requests
+from bs4 import BeautifulSoup
+import feedparser
+import json
+import time
+from pathlib import Path
+from plyer import notification
+```
+
+- `requests`: Para hacer peticiones HTTP a YouTube
+- `BeautifulSoup`: Para analizar el HTML de las páginas
+- `feedparser`: Para leer los feeds RSS de YouTube
+- `json`: Para guardar y cargar datos en formato JSON
+- `time`: Para manejar los intervalos de tiempo entre verificaciones
+- `Path`: Para manejar rutas de archivos
+- `notification`: Para mostrar notificaciones en el sistema
+
+## Paso 2: Configuración inicial
+
+```python
+DATA_FILE = 'youtube_subs.json'
+CHECK_INTERVAL = 3600  # Verificar cada 1 hora
+```
+
+- `DATA_FILE`: Archivo donde se almacenarán los datos de los canales y los últimos videos
+- `CHECK_INTERVAL`: Intervalo de tiempo (en segundos) entre cada verificación
+
+## Paso 3: Lista de canales a monitorear
+
+```python
+CHANNEL_URLS = [
+    "https://www.youtube.com/@3nh4ck3",
+    "https://www.youtube.com/@4k4m1m3",
+    # ... (64 canales en total)
+]
+```
+
+Esta lista contiene las URLs de 64 canales de YouTube que el script va a monitorear.
+
+## Paso 4: Funciones auxiliares
+
+### Cargar datos existentes
+
+```python
+def cargar_datos():
+    try:
+        with open(DATA_FILE, 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {}
+```
+
+Esta función intenta cargar los datos guardados previamente. Si el archivo no existe, retorna un diccionario vacío.
+
+### Guardar datos
+
+```python
+def guardar_datos(data):
+    with open(DATA_FILE, 'w') as f:
+        json.dump(data, f, indent=2)
+```
+
+Guarda los datos actualizados en el archivo JSON.
+
+### Obtener ID del canal
+
+```python
+def obtener_id_canal(url):
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Buscar el ID del canal en los metadatos
+        canonical_link = soup.find('link', {'rel': 'canonical'})['href']
+        return canonical_link.split('/')[-1]
+    except Exception as e:
+        print(f"Error obteniendo ID para {url}: {str(e)}")
+        return None
+```
+
+Esta función:
+
+1. Hace una petición GET a la URL del canal
+2. Parsea el HTML recibido
+3. Busca el enlace canónico que contiene el ID real del canal
+4. Extrae y devuelve el ID del canal
+5. Maneja cualquier error que pueda ocurrir
+
+### Obtener último video
+
+```python
+def obtener_ultimo_video(rss_url):
+    feed = feedparser.parse(rss_url)
+    if not feed.entries:
+        return None
+    
+    ultimo = feed.entries[0]
+    return {
+        'id': ultimo.id,
+        'titulo': ultimo.title,
+        'enlace': ultimo.link,
+        'fecha': ultimo.published
+    }
+```
+
+Esta función:
+
+1. Parsea el feed RSS del canal
+2. Si no hay entradas, retorna None
+3. Toma la primera entrada (el video más reciente)
+4. Retorna un diccionario con la información del video
+
+### Mostrar notificación
+
+```python
+def notificar(titulo, mensaje):
+    notification.notify(
+        title=titulo,
+        message=mensaje,
+        app_name='YouTube Notifier',
+        timeout=10
+    )
+```
+
+Muestra una notificación en el sistema operativo con el título y mensaje dados.
+
+## Paso 5: Función principal
+
+```python
+def main():
+    datos = cargar_datos()
+    
+    # Inicializar nuevos canales
+    for url in CHANNEL_URLS:
+        if url not in datos:
+            datos[url] = {'id_canal': None, 'ultimo_video': None}
+    
+    # Obtener IDs de canal faltantes
+    for url in CHANNEL_URLS:
+        entrada = datos[url]
+        if not entrada['id_canal']:
+            print(f"Obteniendo ID para {url}...")
+            canal_id = obtener_id_canal(url)
+            if canal_id:
+                entrada['id_canal'] = canal_id
+                print(f"ID encontrado: {canal_id}")
+    
+    # Verificar actualizaciones
+    for url in CHANNEL_URLS:
+        entrada = datos[url]
+        if not entrada['id_canal']:
+            continue
+        
+        rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={entrada['id_canal']}"
+        print(f"Revisando {url}...")
+        
+        try:
+            video = obtener_ultimo_video(rss_url)
+            if not video:
+                continue
+            
+            if entrada['ultimo_video'] != video['id']:
+                print(f"NUEVO VIDEO: {video['titulo']}")
+                notificar(video['titulo'], video['enlace'])
+                entrada['ultimo_video'] = video['id']
+        except Exception as e:
+            print(f"Error revisando {url}: {str(e)}")
+    
+    guardar_datos(datos)
+```
+
+La función principal hace lo siguiente:
+
+1. Carga los datos guardados anteriormente
+2. Inicializa entradas para nuevos canales que no estén ya en los datos
+3. Obtiene los IDs de canal para aquellos que no los tengan
+4. Para cada canal con ID válido:
+    - Construye la URL del feed RSS
+    - Obtiene información del último video
+    - Si es un video nuevo (distinto al último registrado):
+        - Muestra un mensaje en consola
+        - Muestra una notificación
+        - Actualiza el ID del último video
+5. Guarda todos los datos actualizados
+
+## Paso 6: Ejecución principal
+
+```python
+if __name__ == '__main__':
+    while True:
+        main()
+        time.sleep(CHECK_INTERVAL)
+```
+
+Este bloque:
+
+1. Ejecuta el programa en un bucle infinito
+2. Llama a la función principal
+3. Espera el intervalo de tiempo configurado (1 hora por defecto)
+4. Repite el proceso
+
+## Resumen del funcionamiento
+
+1. El script carga datos previos o inicializa un nuevo archivo de datos
+2. Para cada canal en la lista, obtiene su ID real (solo una vez)
+3. Verifica periódicamente si hay nuevos videos en los canales
+4. Cuando encuentra un nuevo video, muestra una notificación
+5. Guarda el estado actual para la próxima ejecución
+6. Espera el tiempo configurado y repite el proceso
+
+Este script es útil para personas que quieren estar al día con las publicaciones de varios canales de YouTube sin tener que verificarlos manualmente.
