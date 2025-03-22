@@ -58,9 +58,11 @@ Si la página no carga correctamente, debemos hacer algunos ajustes en la config
     172.17.0.2    escolares.dl
     ```
     
-3. **Guardamos y cerramos** (CTRL + X → Y → ENTER).
+3. **Guardamos y cerramos** (CTRL + O → ENTER → CTRL + X → ENTER).
 
 Ahora la página debería cargar correctamente.
+
+![[6.1- Panel de login, wordpress.png]]
 
 ---
 
@@ -147,6 +149,8 @@ Si la configuración es correcta, ahora veremos el mensaje:
 ```
 Error: El nombre de usuario admin no está registrado en este sitio.
 ```
+
+![[6.1- Panel de login, wordpress.png]]
 
 Este mensaje es importante porque nuestro **script en Python** lo utilizará para detectar si un intento de acceso fue exitoso o no.
 
