@@ -63,6 +63,8 @@
 
 import csv
 
+import signal
+
 from datetime import datetime, timedelta
 
   
@@ -78,6 +80,8 @@ class GODSystem:
         self.level = 1
 
         self.daily_logs = []
+
+        self.certificaciones_progreso = {"Google": 0, "CompTIA": 0, "eJPTv2": 0}
 
         self.load_history()  # Cargar historial al iniciar
 
@@ -99,11 +103,9 @@ class GODSystem:
 
                     return  # No hay datos aún
 
-                # Saltar la línea de separadores (primera línea si existe)
+                # Saltar encabezados y separadores (primeras dos líneas)
 
-                start_index = 1 if lines[0].startswith('| -') else 0
-
-                for line in lines[start_index:]:
+                for line in lines[2:]:
 
                     if line.strip():
 
@@ -111,37 +113,43 @@ class GODSystem:
 
                         if len(parts) == 10:
 
-                            try:
+                            self.daily_logs.append({
 
-                                fecha = datetime.strptime(parts[0], "%d/%m/%Y")
+                                "Fecha": datetime.strptime(parts[0], "%d/%m/%Y"),
 
-                                self.daily_logs.append({
+                                "No Alcohol (0%)": parts[1],
 
-                                    "Fecha": fecha,
+                                "No Media (0%)": parts[2],
 
-                                    "No Alcohol (0%)": parts[1],
+                                "No Porno (0%)": parts[3],
 
-                                    "No Media (0%)": parts[2],
+                                "8H Descanso (100%)": parts[4],
 
-                                    "No Porno (0%)": parts[3],
+                                "Meditación (min)": int(parts[5]) if parts[5] else 0,
 
-                                    "8H Descanso (100%)": parts[4],
+                                "Buen Círculo (100%)": parts[6],
 
-                                    "Meditación (min)": int(parts[5]) if parts[5] else 0,
+                                "Ejercicio (5:30-5:50 PM)": parts[7],
 
-                                    "Buen Círculo (100%)": parts[6],
+                                "Horario GOD": parts[8],
 
-                                    "Ejercicio (5:30-5:50 PM)": parts[7],
+                                "Certificaciones Avanzadas": parts[9]
 
-                                    "Horario GOD": parts[8],
+                            })
 
-                                    "Certificaciones Avanzadas": parts[9]
+                            # Actualizar progreso acumulado en certificaciones
 
-                                })
+                            certs = parts[9].split()
 
-                            except ValueError:
+                            for cert in certs:
 
-                                print(f"⚠️ Advertencia: La línea '{line.strip()}' no tiene una fecha válida y será ignorada.")
+                                if ':' in cert:
+
+                                    nombre, porcentaje = cert.split(':')
+
+                                    if nombre in self.certificaciones_progreso:
+
+                                        self.certificaciones_progreso[nombre] += int(porcentaje.strip('%'))
 
         except FileNotFoundError:
 
@@ -255,6 +263,10 @@ class GODSystem:
 
   
 
+        # Guardar certificaciones con progreso
+
+        cert_str = " ".join([f"{k}:{v}%" for k, v in certificaciones.items() if v > 0])
+
         self.daily_logs.append({
 
             "Fecha": fecha,
@@ -275,31 +287,27 @@ class GODSystem:
 
             "Horario GOD": horario_god,
 
-            "Certificaciones Avanzadas": certificaciones
+            "Certificaciones Avanzadas": cert_str
 
         })
 
   
 
-        self.save_to_file(fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, certificaciones)
+        self.save_to_file(fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, cert_str)
 
   
 
-    def save_to_file(self, fecha, *args):
+    def save_to_file(self, fecha, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, certificaciones):
 
-        """Guarda la entrada en 'historial_god.md' con formato Markdown limpio."""
+        """Guarda la entrada en 'historial_god.md' con el formato exacto."""
 
-        # Lista de valores para la fila
-
-        columns = [fecha] + list(args)
-
-        # Construir la fila sin espacios adicionales
+        columns = [fecha, no_alcohol, no_media, no_porno, descanso_8h, str(minutos_meditacion), buen_circulo, ejercicio, horario_god, certificaciones]
 
         row = "| " + " | ".join(map(str, columns)) + " |\n"
 
         with open('historial_god.md', 'a', encoding='utf-8') as f:
 
-            if f.tell() == 0:  # Archivo vacío, escribir encabezados y separadores
+            if f.tell() == 0:  # Archivo vacío, escribir encabezados
 
                 headers = "| Fecha | No Alcohol (0%) | No Media (0%) | No Porno (0%) | 8H Descanso (100%) | Meditación (min) | Buen Círculo (100%) | Ejercicio (5:30-5:50 PM) | Horario GOD | Certificaciones Avanzadas |\n"
 
@@ -343,13 +351,17 @@ class GODSystem:
 
   
 
-def get_valid_input(prompt, expected_type=str, allow_spaces=False):
+def get_valid_input(prompt, expected_type=str, allow_spaces=False, allow_volver=False):
 
-    """Obtiene una entrada válida del usuario, sin espacios si allow_spaces es False."""
+    """Obtiene una entrada válida del usuario, con opción de 'volver'."""
 
     while True:
 
         value = input(prompt).strip()
+
+        if allow_volver and value.lower() == "volver":
+
+            return "volver"
 
         if not allow_spaces and ' ' in value:
 
@@ -379,6 +391,18 @@ def main():
 
   
 
+    # Manejador de Ctrl+C
+
+    def signal_handler(sig, frame):
+
+        print("\n¡Hasta luego!")
+
+        exit(0)
+
+    signal.signal(signal.SIGINT, signal_handler)
+
+  
+
     while True:
 
         print("\n--- Menú ---")
@@ -395,7 +419,55 @@ def main():
 
         if option == '1':
 
-            fecha_str = get_valid_input("Ingresa la fecha (dd/mm/yyyy): ", allow_spaces=False)
+            preguntas = [
+
+                ("Ingresa la fecha (dd/mm/yyyy): ", str, False),
+
+                ("¿Te abstuviste de alcohol? (✓/x): ", str, False),
+
+                ("¿Evitaste redes sociales y contenido multimedia? (✓/x): ", str, False),
+
+                ("¿Te abstuviste de pornografía? (✓/x): ", str, False),
+
+                ("¿Dormiste 8 horas? (✓/x): ", str, False),
+
+                ("¿Cuántos minutos meditaste?: ", int, False),
+
+                ("¿Te rodeaste de un buen círculo? (✓/x): ", str, False),
+
+                ("¿Hiciste ejercicio? (✓/x): ", str, False),
+
+                ("¿Seguiste tu horario GOD? (✓/x): ", str, False),
+
+            ]
+
+            respuestas = []
+
+            i = 0
+
+            while i < len(preguntas):
+
+                prompt, expected_type, allow_spaces = preguntas[i]
+
+                value = get_valid_input(prompt, expected_type, allow_spaces, allow_volver=True)
+
+                if value == "volver":
+
+                    if i > 0:
+
+                        i -= 1
+
+                    continue
+
+                respuestas.append(value)
+
+                i += 1
+
+  
+
+            fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god = respuestas
+
+  
 
             try:
 
@@ -415,27 +487,37 @@ def main():
 
                 continue
 
-            print("\n¡Hola! Vamos a registrar tu progreso de hoy. Recuerda, cada pequeño paso cuenta. 🌟\n")
+  
 
-            print("\nRegistra tu progreso (usa ✓ o x, sin espacios):\n")
+            # Preguntar por progreso en certificaciones
 
-            no_alcohol = get_valid_input("¿Te abstuviste de alcohol? (✓/x): ", allow_spaces=False)
+            certificaciones = {}
 
-            no_media = get_valid_input("¿Evitaste redes sociales y contenido multimedia? (✓/x): ", allow_spaces=False)
+            for cert in god_system.certificaciones_progreso:
 
-            no_porno = get_valid_input("¿Te abstuviste de pornografía? (✓/x): ", allow_spaces=False)
+                while True:
 
-            descanso_8h = get_valid_input("¿Dormiste 8 horas? (✓/x): ", allow_spaces=False)
+                    progreso = get_valid_input(f"Ingresa el progreso en {cert} (0-100%): ", int, allow_spaces=False)
 
-            minutos_meditacion = get_valid_input("¿Cuántos minutos meditaste?: ", expected_type=int, allow_spaces=False)
+                    if 0 <= progreso <= 100:
 
-            buen_circulo = get_valid_input("¿Te rodeaste de un buen círculo? (✓/x): ", allow_spaces=False)
+                        if progreso > 0:
 
-            ejercicio = get_valid_input("¿Hiciste ejercicio? (✓/x): ", allow_spaces=False)
+                            certificaciones[cert] = progreso
 
-            horario_god = get_valid_input("¿Seguiste tu horario GOD? (✓/x): ", allow_spaces=False)
+                        break
 
-            certificaciones = get_valid_input("Avance en certificaciones (ej: Google:0% CompTIA:0% eJPTv2:25%): ", allow_spaces=True)
+                    else:
+
+                        print("⚠️ El progreso debe estar entre 0 y 100.")
+
+  
+
+            # Sumar progreso acumulado
+
+            for cert, prog in certificaciones.items():
+
+                god_system.certificaciones_progreso[cert] += prog
 
   
 

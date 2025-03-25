@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Tablero de Control Personal/1- Tablero de Control Personal.md",
+                "file": "03-Desarrollo/3- Tablero de Control Personal/historial_god.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Tablero de Control Personal"
+              "title": "historial_god"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "03-Desarrollo/3- Tablero de Control Personal/historial_god.md",
     "03-Desarrollo/3- Tablero de Control Personal/1- Tablero de Control Personal.md",
+    "03-Desarrollo/3- Tablero de Control Personal/historial_god.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/9- Explicación de cómo Enumerar Plugins de WordPress de forma Manual.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/8- Fuerza Bruta XMLRPC desde Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/6- Inicio de Sesión en WordPress desde Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/7- Explicación XMLRPC en WordPress.md",
@@ -224,7 +225,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/6- Enviar Archivos por SCP desde Python.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/5- Automatizar conexión SSH y Ejecución de Comandos con Python.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/4- Configuración de Servidor SSH en Linux.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/3- Automatizar Copias de Seguridad FTP con Python.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/1- Introducción a la Academia",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web",
