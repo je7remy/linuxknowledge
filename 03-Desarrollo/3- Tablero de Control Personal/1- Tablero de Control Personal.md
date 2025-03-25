@@ -20,19 +20,22 @@
 ## 7 misiones diarias: SNS (modo batalla) y SNP (modo zen) 
 
 - **Lunes – Misión “Sprint de Adrenalina” (SNS):**  
-    Inicia la semana con energía. Realiza una sesión de ejercicio intenso o enfócate en un desafío laboral que requiera decisiones rápidas para activar tu SNS.
+    Inicia la semana con energía. Realiza una sesión de ejercicio intenso o enfócate en un desafío laboral que requiera decisiones rápidas para activar tu SNS. 
+    ###### **(HIIT (High-Intensity Interval Training))**
     
 - **Martes – Misión “Descanso Zen” (SNP):**  
     Dedica al menos 15 minutos a una meditación guiada o práctica de respiración profunda. Este día, elige actividades relajantes para fomentar la recuperación y reducir el estrés.
     
 - **Miércoles – Misión “Combate contra el Dragón” (SNS):**  
     Enfrenta un reto inesperado o una situación estresante (puede ser en el trabajo o estudio) con enfoque y determinación, activando tu SNS para disparar tu alerta y concentración.
+    ###### **Burpees**
     
 - **Jueves – Misión “Oasis de Calma” (SNP):**  
     Programa una pausa prolongada: sal a caminar al aire libre, escucha música relajante o disfruta de un momento de lectura. El objetivo es activar tu SNP y restaurar la calma interna.
     
 - **Viernes – Misión “Modo Superhéroe” (SNS):**  
     Acepta un desafío que requiera acción y liderazgo: presenta una idea, afronta una tarea complicada o realiza una actividad que te saque de tu zona de confort para activar tu SNS y sentirte imparable.
+    ###### **Mountain Climbers**
     
 - **Sábado – Misión “Tiempo de Reconexión” (SNP):**  
     Dedica tiempo a una actividad creativa o de ocio sin presiones (como pintar, escribir o disfrutar de un hobby), enfocándote en la relajación y conexión interior, activando tu SNP.
@@ -50,32 +53,10 @@
 - **✓** si seguiste todos los bloques del horario (6:30 AM – 10:00 PM) sin interrupciones.  
 - x si no cumpliste en absoluto.
 
-| Fecha      | No Alcohol (0%) | No Media (0%) | No Porno (0%) | 8H Descanso (100%) | Meditación (min) | Buen Círculo (100%) | Ejercicio (5:30-5:50 PM) | Horario GOD | Certificaciones Avanzadas Google: 0%          CompTIA: 0% eJPTv2: 25% | Actividades SNS/SNP (Misiones) | Notas/Reflexiones |
-| ---------- | :-------------: | :-----------: | :-----------: | :----------------: | :--------------: | :-----------------: | :----------------------: | :---------: | :-------------------------------------------------------------------: | :----------------------------: | :---------------: |
-| 23/03/2025 |        ✓        |       x       |       x       |         ✓          |        0         |          x          |            x             |      x      |                                   0                                   |               NA               |        NA         |
-| 24/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 25/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 26/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 27/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 28/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 29/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 30/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 31/03/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 01/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 02/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 03/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 04/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 05/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 06/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 07/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-| 08/04/2025 |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-|            |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-|            |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-|            |                 |               |               |                    |                  |                     |                          |             |                                                                       |                                |                   |
-
+[[historial_god]]
 
 ---
-## Sistema de recompensas:
+## Programa del Tablero de Control Personal:
 
 
 ````python
@@ -114,13 +95,15 @@ class GODSystem:
 
                 lines = f.readlines()
 
-                if len(lines) < 2:
+                if len(lines) < 1:
 
                     return  # No hay datos aún
 
-                # Saltar encabezados y separador (primeras dos líneas)
+                # Saltar la línea de separadores (primera línea si existe)
 
-                for line in lines[2:]:
+                start_index = 1 if lines[0].startswith('| -') else 0
+
+                for line in lines[start_index:]:
 
                     if line.strip():
 
@@ -128,29 +111,37 @@ class GODSystem:
 
                         if len(parts) == 10:
 
-                            self.daily_logs.append({
+                            try:
 
-                                "Fecha": datetime.strptime(parts[0], "%d/%m/%Y"),
+                                fecha = datetime.strptime(parts[0], "%d/%m/%Y")
 
-                                "No Alcohol (0%)": parts[1],
+                                self.daily_logs.append({
 
-                                "No Media (0%)": parts[2],
+                                    "Fecha": fecha,
 
-                                "No Porno (0%)": parts[3],
+                                    "No Alcohol (0%)": parts[1],
 
-                                "8H Descanso (100%)": parts[4],
+                                    "No Media (0%)": parts[2],
 
-                                "Meditación (min)": int(parts[5]) if parts[5] else 0,
+                                    "No Porno (0%)": parts[3],
 
-                                "Buen Círculo (100%)": parts[6],
+                                    "8H Descanso (100%)": parts[4],
 
-                                "Ejercicio (5:30-5:50 PM)": parts[7],
+                                    "Meditación (min)": int(parts[5]) if parts[5] else 0,
 
-                                "Horario GOD": parts[8],
+                                    "Buen Círculo (100%)": parts[6],
 
-                                "Certificaciones Avanzadas": parts[9]
+                                    "Ejercicio (5:30-5:50 PM)": parts[7],
 
-                            })
+                                    "Horario GOD": parts[8],
+
+                                    "Certificaciones Avanzadas": parts[9]
+
+                                })
+
+                            except ValueError:
+
+                                print(f"⚠️ Advertencia: La línea '{line.strip()}' no tiene una fecha válida y será ignorada.")
 
         except FileNotFoundError:
 
@@ -296,17 +287,21 @@ class GODSystem:
 
     def save_to_file(self, fecha, *args):
 
-        """Guarda la entrada en 'historial_god.md' con el formato exacto."""
+        """Guarda la entrada en 'historial_god.md' con formato Markdown limpio."""
+
+        # Lista de valores para la fila
 
         columns = [fecha] + list(args)
+
+        # Construir la fila sin espacios adicionales
 
         row = "| " + " | ".join(map(str, columns)) + " |\n"
 
         with open('historial_god.md', 'a', encoding='utf-8') as f:
 
-            if f.tell() == 0:  # Archivo vacío, escribir encabezados
+            if f.tell() == 0:  # Archivo vacío, escribir encabezados y separadores
 
-                headers = "| Fecha      | No Alcohol (0%) | No Media (0%) | No Porno (0%) | 8H Descanso (100%) | Meditación (min) | Buen Círculo (100%) | Ejercicio (5:30-5:50 PM) | Horario GOD | Certificaciones Avanzadas Google: 0% CompTIA: 0% eJPTv2: 25% |\n"
+                headers = "| Fecha | No Alcohol (0%) | No Media (0%) | No Porno (0%) | 8H Descanso (100%) | Meditación (min) | Buen Círculo (100%) | Ejercicio (5:30-5:50 PM) | Horario GOD | Certificaciones Avanzadas |\n"
 
                 separator = "| ---------- | :-------------: | :-----------: | :-----------: | :----------------: | :--------------: | :-----------------: | :----------------------: | :---------: | :-------------------------------------------------------------------: |\n"
 
@@ -481,5 +476,4 @@ if __name__ == "__main__":
     main()
 
 `````
-
 
