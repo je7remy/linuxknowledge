@@ -199,8 +199,6 @@ class GODSystem:
 
         self.streak = current_streak
 
-  
-
     def calculate_daily_score(self, fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, certificaciones):
 
         """Calcula puntos y actualiza la racha para un nuevo registro."""
@@ -263,9 +261,23 @@ class GODSystem:
 
   
 
-        # Guardar certificaciones con progreso
+        # Actualizar el progreso acumulado de las certificaciones
 
-        cert_str = " ".join([f"{k}:{v}%" for k, v in certificaciones.items() if v > 0])
+        for cert, prog in certificaciones.items():
+
+            if cert in self.certificaciones_progreso:
+
+                self.certificaciones_progreso[cert] += prog  # Sumar el progreso diario al acumulado
+
+  
+
+        # Crear el string con el progreso acumulado para el historial
+
+        cert_str = " ".join([f"{k}:{self.certificaciones_progreso[k]}%" for k in self.certificaciones_progreso if self.certificaciones_progreso[k] > 0])
+
+  
+
+        # Guardar en el historial
 
         self.daily_logs.append({
 
@@ -293,7 +305,11 @@ class GODSystem:
 
   
 
+        # Si tienes una función save_to_file, actualízala con el cert_str acumulado
+
         self.save_to_file(fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, cert_str)
+
+  
 
   
 
@@ -517,7 +533,7 @@ def main():
 
             for cert, prog in certificaciones.items():
 
-                god_system.certificaciones_progreso[cert] += prog
+                god_system.certificaciones_progreso[cert] += prog -1
 
   
 
