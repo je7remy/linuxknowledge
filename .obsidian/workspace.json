@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Tablero de Control Personal/1- Tablero de Control Personal.md",
+                "file": "05-Recursos/Microsoft Reactor Python + IA/5- Python + IA, Llamadas a funciones y salidas estructuradas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Tablero de Control Personal"
+              "title": "5- Python + IA, Llamadas a funciones y salidas estructuradas"
             }
           }
         ]
@@ -188,9 +188,10 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "03-Desarrollo/3- Tablero de Control Personal/historial_god.md",
-    "03-Desarrollo/3- Tablero de Control Personal/1- Tablero de Control Personal.md",
     "05-Recursos/Microsoft Reactor Python + IA/5- Python + IA, Llamadas a funciones y salidas estructuradas.md",
+    "05-Recursos/Microsoft Reactor Python + IA/PDF/pdfhandler5.ashx.pdf",
+    "03-Desarrollo/3- Tablero de Control Personal/1- Tablero de Control Personal.md",
+    "03-Desarrollo/3- Tablero de Control Personal/historial_god.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/9- Explicación de cómo Enumerar Plugins de WordPress de forma Manual.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/8- Fuerza Bruta XMLRPC desde Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/6- Inicio de Sesión en WordPress desde Python.md",
@@ -224,7 +225,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/8- Automatizar Copias de Seguridad SSH con Python.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/7- Descargar Archivos por SCP desde Python.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/6- Enviar Archivos por SCP desde Python.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/5- Automatizar conexión SSH y Ejecución de Comandos con Python.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/1- Introducción a la Academia",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web",
@@ -233,7 +233,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/2- Introducción a los Módulos y uso de PIP",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
