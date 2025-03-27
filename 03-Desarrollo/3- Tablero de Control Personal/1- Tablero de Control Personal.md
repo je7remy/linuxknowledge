@@ -81,7 +81,7 @@ class GODSystem:
 
         self.daily_logs = []
 
-        self.certificaciones_progreso = {"Google": 0, "CompTIA": 0, "eJPTv2": 0}
+        self.certificaciones_horas = {"Google": 0.0, "CompTIA": 0.0, "eJPTv2": 0.0}
 
         self.load_history()  # Cargar historial al iniciar
 
@@ -91,7 +91,9 @@ class GODSystem:
 
     def load_history(self):
 
-        """Carga los registros pasados desde 'historial_god.md'."""
+        """Carga los registros pasados desde 'historial_god.md' y calcula las horas acumuladas."""
+
+        self.certificaciones_horas = {"Google": 0.0, "CompTIA": 0.0, "eJPTv2": 0.0}  # Reiniciar horas acumuladas
 
         try:
 
@@ -137,7 +139,7 @@ class GODSystem:
 
                             })
 
-                            # Actualizar progreso acumulado en certificaciones
+                            # Sumar horas diarias al acumulado
 
                             certs = parts[9].split()
 
@@ -145,11 +147,13 @@ class GODSystem:
 
                                 if ':' in cert:
 
-                                    nombre, porcentaje = cert.split(':')
+                                    nombre, horas_str = cert.split(':')
 
-                                    if nombre in self.certificaciones_progreso:
+                                    if nombre in self.certificaciones_horas:
 
-                                        self.certificaciones_progreso[nombre] += int(porcentaje.strip('%'))
+                                        horas = float(horas_str.strip('h'))
+
+                                        self.certificaciones_horas[nombre] += horas
 
         except FileNotFoundError:
 
@@ -199,9 +203,11 @@ class GODSystem:
 
         self.streak = current_streak
 
-    def calculate_daily_score(self, fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, certificaciones):
+  
 
-        """Calcula puntos y actualiza la racha para un nuevo registro."""
+    def calculate_daily_score(self, fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, certificaciones_horas):
+
+        """Calcula puntos, actualiza la racha y las horas acumuladas para un nuevo registro."""
 
         fecha = datetime.strptime(fecha_str, "%d/%m/%Y")
 
@@ -261,23 +267,23 @@ class GODSystem:
 
   
 
-        # Actualizar el progreso acumulado de las certificaciones
+        # Actualizar las horas acumuladas de las certificaciones
 
-        for cert, prog in certificaciones.items():
+        for cert, horas in certificaciones_horas.items():
 
-            if cert in self.certificaciones_progreso:
+            if cert in self.certificaciones_horas:
 
-                self.certificaciones_progreso[cert] += prog  # Sumar el progreso diario al acumulado
-
-  
-
-        # Crear el string con el progreso acumulado para el historial
-
-        cert_str = " ".join([f"{k}:{self.certificaciones_progreso[k]}%" for k in self.certificaciones_progreso if self.certificaciones_progreso[k] > 0])
+                self.certificaciones_horas[cert] += horas
 
   
 
-        # Guardar en el historial
+        # Crear el string con las horas DIARIAS para el historial
+
+        daily_cert_str = " ".join([f"{k}:{horas}h" for k, horas in certificaciones_horas.items() if horas > 0])
+
+  
+
+        # Guardar en daily_logs
 
         self.daily_logs.append({
 
@@ -299,17 +305,15 @@ class GODSystem:
 
             "Horario GOD": horario_god,
 
-            "Certificaciones Avanzadas": cert_str
+            "Certificaciones Avanzadas": daily_cert_str
 
         })
 
   
 
-        # Si tienes una función save_to_file, actualízala con el cert_str acumulado
+        # Guardar en el archivo
 
-        self.save_to_file(fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, cert_str)
-
-  
+        self.save_to_file(fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, daily_cert_str)
 
   
 
@@ -353,13 +357,21 @@ class GODSystem:
 
     def view_history(self):
 
-        """Muestra el historial completo en la consola."""
+        """Muestra el historial completo en la consola y las horas acumuladas."""
 
         try:
 
             with open('historial_god.md', 'r', encoding='utf-8') as f:
 
                 print(f.read())
+
+            print("\nHoras acumuladas en certificaciones:")
+
+            for cert, horas in self.certificaciones_horas.items():
+
+                if horas > 0:
+
+                    print(f"  {cert}: {horas} horas")
 
         except FileNotFoundError:
 
@@ -385,7 +397,17 @@ def get_valid_input(prompt, expected_type=str, allow_spaces=False, allow_volver=
 
             continue
 
-        if expected_type == int:
+        if expected_type == float:
+
+            try:
+
+                return float(value)
+
+            except ValueError:
+
+                print("⚠️ Debes ingresar un número (puede ser decimal). Intenta nuevamente.")
+
+        elif expected_type == int:
 
             try:
 
@@ -393,7 +415,7 @@ def get_valid_input(prompt, expected_type=str, allow_spaces=False, allow_volver=
 
             except ValueError:
 
-                print("⚠️ Debes ingresar un número. Intenta nuevamente.")
+                print("⚠️ Debes ingresar un número entero. Intenta nuevamente.")
 
         else:
 
@@ -505,39 +527,31 @@ def main():
 
   
 
-            # Preguntar por progreso en certificaciones
+            # Preguntar por horas dedicadas a certificaciones
 
-            certificaciones = {}
+            certificaciones_horas = {}
 
-            for cert in god_system.certificaciones_progreso:
+            for cert in god_system.certificaciones_horas:
 
                 while True:
 
-                    progreso = get_valid_input(f"Ingresa el progreso en {cert} (0-100%): ", int, allow_spaces=False)
+                    horas = get_valid_input(f"Ingresa las horas dedicadas a {cert} hoy (puede ser decimal): ", float, allow_spaces=False)
 
-                    if 0 <= progreso <= 100:
+                    if horas >= 0:
 
-                        if progreso > 0:
+                        if horas > 0:
 
-                            certificaciones[cert] = progreso
+                            certificaciones_horas[cert] = horas
 
                         break
 
                     else:
 
-                        print("⚠️ El progreso debe estar entre 0 y 100.")
+                        print("⚠️ Las horas deben ser un número positivo.")
 
   
 
-            # Sumar progreso acumulado
-
-            for cert, prog in certificaciones.items():
-
-                god_system.certificaciones_progreso[cert] += prog -1
-
-  
-
-            god_system.calculate_daily_score(fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, certificaciones)
+            god_system.calculate_daily_score(fecha_str, no_alcohol, no_media, no_porno, descanso_8h, minutos_meditacion, buen_circulo, ejercicio, horario_god, certificaciones_horas)
 
   
 
@@ -546,6 +560,14 @@ def main():
             print(f"Racha actual: {god_system.streak}")
 
             print(f"Nivel: {god_system.level}")
+
+            print("Horas acumuladas en certificaciones:")
+
+            for cert, horas in god_system.certificaciones_horas.items():
+
+                if horas > 0:
+
+                    print(f"  {cert}: {horas} horas")
 
   
 
