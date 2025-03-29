@@ -1,0 +1,10 @@
+{
+  "workspaces-plus:save-workspace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
+}

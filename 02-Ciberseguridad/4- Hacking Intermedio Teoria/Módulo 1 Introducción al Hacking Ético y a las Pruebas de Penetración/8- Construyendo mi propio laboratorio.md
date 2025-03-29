@@ -1,0 +1,44 @@
+Cuando se trata de pruebas de penetración, es muy importante un entorno de laboratorio adecuado. El aspecto de este entorno depende del tipo de prueba que se realice. Los tipos de herramientas utilizadas en un laboratorio también varían en función de diferentes factores. Discutimos las herramientas con más detalle en el Módulo 10, "Herramientas y análisis de código". Aquí solo mencionamos algunos de los tipos de herramientas utilizadas en las pruebas de penetración. Ya sea que esté realizando pruebas de penetración en la red de un cliente, en su propia red o en un dispositivo específico, siempre necesita algún tipo de entorno de laboratorio para usar para las pruebas. Por ejemplo, al probar una red de clientes, lo más probable es que realice la mayoría de las pruebas en los entornos de producción o ensayo del cliente, ya que estos son los entornos que a un cliente le suele preocupar proteger correctamente. Debido a que este podría ser un entorno de red crítico, debe estar seguro de que sus herramientas estén probadas y sean verdaderas, y aquí es donde entra en juego su entorno de pruebas de laboratorio. Siempre debe probar sus herramientas y técnicas en su entorno de laboratorio antes de ejecutarlas en una red de clientes. No hay garantía de que las herramientas que utilice no rompan algo. De hecho, muchas herramientas están diseñadas para romper cosas. Por lo tanto, debe saber qué esperar antes de dar rienda suelta a las herramientas en una red de clientes. Al probar un dispositivo o solución específica que solo se encuentra en un entorno de laboratorio, hay menos preocupación por romper cosas. Con este tipo de pruebas, normalmente se utiliza una red cerrada que se puede revertir fácilmente si es necesario.
+
+Hay muchas distribuciones de Linux diferentes que incluyen herramientas y recursos de pruebas de penetración, como Kali Linux (kali.org), Parrot OS (parrotsec.org) y BlackArch (blackarch.org). Estas distribuciones de Linux le brindan un entorno muy conveniente para comenzar a aprender sobre las diferentes herramientas y metodologías de seguridad utilizadas en las pruebas de penetración. Puede implementar un laboratorio básico de pruebas de penetración utilizando solo un par de máquinas virtuales en entornos de virtualización como Virtual Box (virtualbox.org) o VMware Workstation/Fusion (vmware.com).
+
+
+En la figura 1-1 se muestran dos máquinas virtuales (una que ejecuta Parrot OS y otra que ejecuta un sistema Microsoft Windows vulnerable). Las dos máquinas virtuales están conectadas a través de una configuración de conmutador virtual y una "red de solo host". Este tipo de configuración le permite realizar diferentes ataques y enviar paquetes IP entre máquinas virtuales sin que esos paquetes salgan del sistema físico (sin sistema operativo).
+
+**_Figura 1-1_** _-_ _Entorno básico de laboratorio de pruebas de penetración con dos máquinas virtuales_
+
+![[8.1- Figura 1-1.png]]
+
+**PROPINA** Puede iniciar un laboratorio de aprendizaje básico con una sola máquina virtual. Por ejemplo, Omar Santos creó un entorno de aprendizaje gratuito llamado WebSploit Labs que se puede implementar en una sola máquina virtual. Incluye numerosos recursos de ciberseguridad, herramientas y varias aplicaciones intencionalmente vulnerables que se ejecutan en contenedores Docker. WebSploit Labs incluye más de 450 ejercicios diferentes que puedes completar para practicar tus habilidades en un entorno seguro. Puede obtener más información sobre WebSploit Labs en websploit.org. La máquina virtual que descargue en el laboratorio más adelante en este tema es una versión personalizada del entorno de laboratorio de Omar Santos.
+
+
+La Figura 1-2 muestra una topología más elaborada para un entorno de laboratorio de pruebas de penetración.
+
+**Figura 1-2** - _Entorno de laboratorio de pruebas de penetración más elaborado_
+
+![[8.2- Figura 1-2.png]]
+
+
+### **Requisitos y directrices para los laboratorios de ensayos de penetración**
+
+Ahora profundicemos un poco más en cómo podría ser un entorno de laboratorio de pruebas de penetración y algunas de las mejores prácticas para configurar un laboratorio de este tipo. La tabla siguiente contiene una lista de requisitos y directrices para un entorno típico de pruebas de penetración.
+
+![[8.3- Requisito o directriz.png]]
+
+### **¿Qué herramientas debe utilizar en su laboratorio?**
+
+El módulo 10 está dedicado a las herramientas de pruebas de penetración. Por lo tanto, esta sección solo araña la superficie. Básicamente, las herramientas que se utilizan en las pruebas de penetración dependen del tipo de pruebas que se realicen. Si está realizando pruebas en el entorno de un cliente, es probable que evalúe varias superficies de ataque, como la infraestructura de red, la infraestructura inalámbrica, los servidores web, los servidores de bases de datos, los sistemas Windows o los sistemas Linux, por ejemplo.
+
+Las herramientas basadas en la infraestructura de red pueden incluir herramientas para rastrear o manipular el tráfico, inundar los dispositivos de red y eludir firewalls e IPS. Con fines de pruebas inalámbricas, puede usar herramientas para descifrar el cifrado inalámbrico, desautorizar dispositivos de red y realizar ataques en ruta (también denominados ataques de intermediario).
+
+Al probar aplicaciones y servicios web, puede encontrar una serie de herramientas automatizadas creadas específicamente para escanear y detectar vulnerabilidades web, así como herramientas de prueba manuales, como proxies de interceptación. Algunas de estas mismas herramientas se pueden usar para probar vulnerabilidades de bases de datos (como vulnerabilidades de inyección SQL).
+
+Para probar las plataformas de servidor y cliente en un entorno, puede utilizar una serie de herramientas de **_análisis de vulnerabilidades_** automatizadas para identificar cosas como software obsoleto y configuraciones incorrectas. Con una gran cantidad de desarrollo dirigido a plataformas móviles, existe una necesidad cada vez mayor de probar estas aplicaciones y los servidores que las admiten. Para este tipo de pruebas, necesita otro conjunto de herramientas específicas para probar aplicaciones móviles y las API de back-end con las que normalmente se comunican. Y no hay que olvidarse de las herramientas de fuzzing, que normalmente se utilizan para probar la robustez de los protocolos.
+
+**PROPINA** Omar Santos creó un repositorio de GitHub que incluye numerosos recursos de ciberseguridad. Hay una sección dedicada a proporcionar orientación sobre cómo crear diferentes laboratorios de pruebas de penetración y dónde obtener aplicaciones, servidores y herramientas vulnerables para practicar sus habilidades en un entorno seguro. Puedes acceder al repositorio en [_https://h4cker.org/github_](https://h4cker.org/github). Puedes acceder directamente a la sección "Construyendo tu propio laboratorio de ciberseguridad y Cyber Range" en [_https://github.com/The-Art-of-Hacking/h4cker/tree/master/build_your_own_lab_](https://github.com/The-Art-of-Hacking/h4cker/tree/master/build_your_own_lab) .
+
+### **¿Qué pasa si rompes algo?**
+
+Ser capaz de recuperar el entorno de laboratorio es importante por muchas razones. Como se mencionó anteriormente, al hacer pruebas de penetración, romperá cosas; A veces, cuando rompes cosas, no se recuperan por sí solas. Por ejemplo, cuando está probando aplicaciones web, algunos de los ataques que envía ingresarán datos falsos en los campos del formulario, y es probable que esos datos terminen en la base de datos, por lo que su base de datos se llenará con esos datos falsos. Obviamente, en un entorno de producción, esto no es algo bueno. Los datos que se introducen también pueden ser de naturaleza maliciosa, como scripting y ataques de inyección. Esto también puede causar daños en la base de datos. Por supuesto, sabe que esto sería un problema en un entorno de producción. También es un problema en un entorno de laboratorio si no tiene una manera fácil de recuperarse. Sin un método de recuperación rápida, es probable que se quede atascado reconstruyendo su sistema bajo prueba. Esto puede llevar mucho tiempo y, si lo haces para un cliente, puede afectar a tu cronograma general.
+
+Lo ideal es utilizar algún tipo de entorno virtual, ya que ofrece funciones de instantáneas y restauración del estado del sistema. Sin embargo, a veces esto no es posible. Por ejemplo, puede estar probando un sistema que no se puede virtualizar. En tal caso, es necesario tener una copia de seguridad completa del sistema o entorno. De esta manera, puede volver a ponerse en marcha rápidamente y probar si algo se rompe, porque lo más probable es que lo haga. Después de todo, estás haciendo pruebas de penetración.

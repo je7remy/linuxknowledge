@@ -1,0 +1,9 @@
+{
+  "accentColor": "#b22222",
+  "cssTheme": "GitHub Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "nativeMenus": true
+}

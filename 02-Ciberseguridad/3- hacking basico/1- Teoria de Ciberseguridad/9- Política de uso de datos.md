@@ -1,0 +1,1 @@
+Si bien usted es el propietario del contenido, la empresa podría reutilizar cualquier contenido que haya compartido para cualquier propósito.

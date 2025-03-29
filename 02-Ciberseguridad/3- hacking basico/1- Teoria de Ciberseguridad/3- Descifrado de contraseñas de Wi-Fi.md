@@ -1,0 +1,3 @@
+Este colega podría estar llevando a cabo un ataque de ingeniería social, manipulándolo para que proporcione la contraseña utilizada para proteger la red inalámbrica privada de la organización. Nunca puedes ser demasiado cuidadoso y, por responder correctamente, has ganado algunos puntos de defensor. ¡Bien hecho!
+
+Los hackers tienen otras técnicas bajo la manga. Algunos usan ataques de **fuerza bruta**, probando posibles combinaciones de contraseñas para intentar adivinar una contraseña. Otros pueden identificar contraseñas sin cifrar escuchando y capturando los paquetes enviados en la red. Esto se denomina rastreo de **red**. Si la contraseña está cifrada, el atacante aún puede revelarla mediante una herramienta de decodificación de contraseñas.

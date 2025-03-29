@@ -1,0 +1,288 @@
+/* styles.scss */
+.workspace-tabs .workspace-leaf-content.beautitab {
+  color: #dadada;
+  container-type: size;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .view-header {
+  background: transparent;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 40px;
+  height: 40px;
+  justify-content: space-between;
+  align-items: center;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .view-header .view-header-nav-buttons,
+.workspace-tabs .workspace-leaf-content.beautitab .view-header .view-header-title-container {
+  display: none;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .view-header .view-action {
+  --icon-color: currentColor;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .view-header div {
+  margin-left: auto;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .view-content {
+  background-color: transparent;
+  padding: 0;
+  overflow: hidden;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root {
+  height: 100%;
+  width: 100%;
+  text-shadow: rgba(0, 0, 0, .1) 0px 1px 5px;
+  background: var(--background);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root.beautitab-root--transparent,
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root.beautitab-root--transparent .beautitab-wrapper,
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root.beautitab-root--transparent .beautitab-wrapper .beautitab-top,
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root.beautitab-root--transparent .beautitab-wrapper .beautitab-quote,
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root.beautitab-root--transparentWithShadows {
+  background: transparent;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background:
+    radial-gradient(
+      circle,
+      #0009 0% 20%,
+      #0000);
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-top {
+  flex: 1;
+  background:
+    linear-gradient(
+      to bottom,
+      #0009,
+      #0000);
+  width: 100%;
+  height: 60px;
+  padding: 10px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-top .beautitab-iconbutton {
+  opacity: .8;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-top .beautitab-iconbutton:hover {
+  opacity: 1;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-top .beautitab-iconbutton svg {
+  width: 22px;
+  height: 22px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-center {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-center .beautitab-time {
+  font-size: 1050%;
+  line-height: 1;
+}
+@container (max-width: 520px) {
+  .workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-center .beautitab-time {
+    font-size: 30cqw;
+  }
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-center .beautitab-greeting {
+  font-size: 3rem;
+}
+@container (max-width: 520px) {
+  .workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-center .beautitab-greeting {
+    font-size: 8cqw;
+  }
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-search {
+  width: 50%;
+  min-width: 500px;
+}
+@container (max-width: 520px) {
+  .workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-search {
+    width: 90%;
+    min-width: auto;
+  }
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-search .beautitab-search-wrapper {
+  height: 60px;
+  border-radius: 60px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  backdrop-filter: blur(5px);
+  background: #ffffff1a;
+  box-shadow: 0 4px 30px #00000026;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: inherit;
+  line-height: 1;
+  padding-left: 20px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-search .beautitab-search-wrapper .beautitab-search-text {
+  font-size: 28px;
+  opacity: .8;
+  padding-left: 20px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-search .beautitab-search-wrapper .beautitab-icon svg {
+  height: 26px;
+  width: 26px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-recentlyedited {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-y: auto;
+  width: 100%;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-recentlyedited .beautitab-recentlyedited-file {
+  color: inherit;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-recentlyedited .beautitab-recentlyedited-file:hover {
+  backdrop-filter: blur(5px);
+  background: #ffffff1a;
+  box-shadow: 0 4px 30px #00000026;
+  border-radius: 10px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-recentlyedited .beautitab-recentlyedited-file .beautitab-icon {
+  display: block;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-recentlyedited .beautitab-recentlyedited-file .beautitab-icon svg {
+  width: 24px;
+  height: 24px;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-bottom .beautitab-recentlyedited .beautitab-recentlyedited-file .beautitab-recentlyedited-file-name {
+  display: block;
+  font-size: 12px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-quote {
+  width: 100%;
+  min-height: 60px;
+  padding-bottom: 10px;
+  background:
+    linear-gradient(
+      to bottom,
+      #0000,
+      #0006 60%,
+      #0009);
+  text-align: center;
+}
+@container (max-width: 599px) {
+  .workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-quote {
+    padding-bottom: 80px;
+  }
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-quote .beautitab-quote-content {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+@container (max-width: 600px) {
+  .workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-quote .beautitab-quote-content {
+    font-size: .8rem;
+  }
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-root .beautitab-wrapper .beautitab-quote .beautitab-quote-author {
+  font-size: .9rem;
+  opacity: .7;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-iconbutton {
+  text-decoration: none;
+  color: inherit;
+}
+.workspace-tabs .workspace-leaf-content.beautitab .beautitab-iconbutton .beautitab-iconbutton-text {
+  position: absolute;
+  left: -9999999px;
+}
+.customQuotesTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+.customQuotesTable thead tr th {
+  border-bottom: 2px solid var(--background-modifier-border);
+  text-align: left;
+  font-size: .8em;
+  padding: 8px;
+}
+.customQuotesTable tbody tr {
+  border-bottom: 2px solid var(--background-modifier-border);
+}
+.customQuotesTable tbody tr td {
+  padding: 8px;
+  vertical-align: top;
+}
+.customQuotesTable tbody tr td:nth-child(2) {
+  width: 60%;
+  height: 100px;
+}
+.customQuotesTable tbody tr td textarea {
+  width: 100%;
+  height: 100%;
+}
+.customQuotesTable tbody tr td input,
+.customQuotesTable tbody tr td button {
+  width: 100%;
+}
+.beautitabsettings-localbackgrounds {
+  display: flex;
+  gap: 8px;
+}
+.beautitabsettings-localbackgrounds .beautitabsettings-localbackgrounds-background {
+  position: relative;
+}
+.beautitabsettings-localbackgrounds .beautitabsettings-localbackgrounds-background img {
+  width: 100px;
+  height: 100px;
+}
+.beautitabsettings-localbackgrounds .beautitabsettings-localbackgrounds-background .beautitabsettings-localbackgrounds-background-delete {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: transparent;
+  border: none;
+  padding: 2px 4px;
+  margin: 0;
+  height: auto;
+  box-shadow: none;
+  line-height: 1;
+  font-size: 1em;
+  cursor: pointer;
+  text-shadow: rgba(0, 0, 0, .5) 0px 1px 5px;
+  font-weight: 700;
+}
+.beautitabsettings-localbackgrounds .beautitabsettings-localbackgrounds-background .beautitabsettings-localbackgrounds-background-delete:hover {
+  color: red;
+}
+.setting-item.search-provider .setting-item-control input {
+  width: 100%;
+  border: none;
+  background: none;
+  outline: none;
+  box-shadow: none;
+  text-align: right;
+}
