@@ -1,1 +1,0 @@
-Cuando mueve un archivo a la papelera de reciclaje y lo elimina de manera permanente, no se puede acceder al archivo solo desde el sistema operativo. Cualquier persona con las herramientas forenses adecuadas puede recuperar el archivo debido al rastro magnético que deja en el disco duro.

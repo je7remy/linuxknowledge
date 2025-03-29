@@ -1,5 +1,0 @@
-
-----------
-#ldap #hosts #enumeration 
-
---------

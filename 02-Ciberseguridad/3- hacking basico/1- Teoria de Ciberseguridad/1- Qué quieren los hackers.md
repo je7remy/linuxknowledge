@@ -1,7 +1,0 @@
-Entonces, con toda esta información sobre usted disponible en línea, ¿qué quieren los hackers? Por supuesto, ellos quieren su dinero.
-
-¿Se le ocurre un ejemplo que haya experimentado usted mismo o del que haya oído o leído, en el que los ciberdelincuentes hayan accedido o intentado acceder a información financiera en línea?
-
-Un ciberdelincuente puede aprovecharse de sus relaciones, acceder a sus cuentas en línea y apelar a su buena naturaleza para tratar de engañarlo para que transfiera dinero a sus amigos o familiares en un momento de necesidad. Por ejemplo, se han reportado muchos casos de piratas informáticos que se hacen pasar por miembros de la familia y envían mensajes que indican que necesitan dinero transferido para llegar a casa desde el extranjero después de perder sus billeteras.
-
-Y si bien puede pensar que sus millas aéreas de viajero frecuente no son valiosas para los ciberdelincuentes,  piénselo de nuevo. En 2015, los ciberdelincuentes hackearon aproximadamente 10,000 cuentas de American Airlines y United, reservando vuelos gratuitos y actualizaciones con credenciales robadas. Aunque los kilómetros de viajero frecuente fueron devueltos a los clientes por las aerolíneas, esto demuestra el valor de las credenciales de inicio de sesión.
