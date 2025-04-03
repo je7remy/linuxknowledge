@@ -1,110 +1,190 @@
 
-# Anteproyecto: Desarrollo de un Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch
+---
 
-## 1. Introducción
+# Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, El Pino, La Vega, República Dominicana, Período 2025
 
-El Hospital Traumatológico y Quirúrgico Prof. Juan Bosch es una institución de salud esencial en la región, dedicada a la atención de emergencias y procedimientos quirúrgicos. Sin embargo, enfrenta problemas críticos en la gestión de citas médicas debido a procesos manuales que generan ineficiencias operativas y afectan la calidad del servicio ofrecido a los pacientes. Entre las principales dificultades se encuentran las largas demoras en la atención, la duplicación de registros médicos, los conflictos en la asignación de turnos y la pérdida de citas por errores administrativos. Estos inconvenientes no solo incrementan la carga laboral del personal, sino que también comprometen la experiencia y seguridad de los pacientes.
+## Introducción
 
-El propósito de este proyecto es desarrollar un **Sistema Web de Gestión de Citas** que modernice y optimice la programación de turnos en el hospital. Dirigido exclusivamente a secretarias y médicos, el sistema ofrecerá una plataforma centralizada para programar, editar, cancelar y consultar citas, permitiendo a las secretarias gestionar los turnos de manera eficiente y a los médicos consultar y administrar sus agendas en tiempo real. Esta solución busca reducir los tiempos de espera, minimizar errores y mejorar la coordinación interdepartamental, contribuyendo a una atención médica más eficiente y segura.
+El **Hospital Traumatológico y Quirúrgico Prof. Juan Bosch**, ubicado en El Pino, La Vega, República Dominicana, es un centro clave para la atención de servicios de salud especializados, particularmente en traumatología y cirugía. Este hospital atiende a un volumen significativo de pacientes, lo que hace imprescindible optimizar sus procesos internos para garantizar una atención médica eficiente y de calidad.
 
-## 2. Justificación del Problema
+Actualmente, la gestión de citas médicas se realiza mediante métodos manuales, como registros en papel, llamadas telefónicas y coordinación verbal. Este enfoque genera ineficiencias operativas, tales como demoras prolongadas para los pacientes, errores en la asignación de turnos, duplicación de esfuerzos y problemas de comunicación entre el personal administrativo y médico. Para abordar estas dificultades, se propone el desarrollo de un **Sistema Web de Gestión de Citas**, una herramienta tecnológica diseñada para optimizar la programación médica. Este sistema será utilizado exclusivamente por personal autorizado (secretarias y médicos) a través de la intranet del hospital, ofreciendo una plataforma centralizada y segura para gestionar citas, mejorar la organización de las agendas y optimizar el flujo de atención a los pacientes.
 
-La gestión actual de citas en el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch depende de procesos manuales que generan múltiples inconvenientes. Las secretarias enfrentan dificultades para coordinar las agendas de los médicos, lo que resulta en superposiciones de turnos y cancelaciones frecuentes. Los médicos, por su parte, carecen de una herramienta que les permita visualizar sus horarios actualizados de manera rápida y confiable. Estos problemas se traducen en largas esperas para los pacientes, errores administrativos y una atención fragmentada, afectando tanto la eficiencia operativa como la satisfacción de los usuarios.
+---
 
-La implementación de un sistema web de gestión de citas es una solución necesaria para abordar estas deficiencias. Al automatizar la programación y centralizar la información, se reducirán los errores humanos, se optimizará el uso de los recursos disponibles y se facilitará la comunicación entre departamentos. Dado el rol crítico del hospital en la región, esta modernización no solo mejorará los procesos internos, sino que también elevará los estándares de calidad en la atención médica, justificando plenamente la relevancia de este proyecto.
+## Planteamiento del Problema
 
-## 3. Planteamiento del Problema
+La dependencia de procesos manuales para la gestión de citas en el hospital ha generado múltiples inconvenientes que afectan tanto su operatividad como la experiencia del paciente. Los problemas identificados incluyen:
 
-El Hospital Traumatológico y Quirúrgico Prof. Juan Bosch enfrenta desafíos significativos en la administración de citas médicas, derivados de la falta de un sistema automatizado. Los principales problemas identificados son:
+- **Ineficiencia en la Programación:** La falta de visibilidad en tiempo real de la disponibilidad de los médicos resulta en tiempos de espera prolongados y una asignación ineficiente de citas, afectando la atención oportuna.
+- **Errores Administrativos:** Los métodos manuales aumentan el riesgo de errores humanos, como duplicación de citas, asignación incorrecta de especialistas o pérdida de solicitudes, lo que genera inconvenientes para pacientes y personal médico.
+- **Falta de Coordinación:** La comunicación ineficaz entre secretarias y médicos, especialmente entre turnos o áreas, provoca agendas desactualizadas o conflictivas, reduciendo la eficiencia operativa.
+- **Sobrecarga del Personal:** Las tareas manuales de agendamiento consumen un tiempo significativo del personal administrativo, limitando su capacidad para enfocarse en otras prioridades de atención al paciente.
+- **Experiencia Negativa del Paciente:** Las largas esperas para programar citas, la incertidumbre sobre confirmaciones y las reprogramaciones imprevistas deterioran la percepción del servicio.
 
-- **Largas demoras en la atención:** La programación ineficiente de citas genera esperas prolongadas para los pacientes.
-- **Duplicación de registros médicos:** La gestión manual provoca registros múltiples para un mismo paciente, causando confusión y errores.
-- **Conflictos en la asignación de turnos:** La ausencia de una plataforma centralizada lleva a superposiciones en las agendas de los médicos.
-- **Pérdidas de citas por errores administrativos:** Los procesos manuales incrementan el riesgo de omisiones o asignaciones incorrectas.
-- **Dificultad en la coordinación interdepartamental:** Sin una herramienta compartida, la comunicación entre secretarias y médicos es limitada, afectando la planificación.
+### Formulación del Problema Central
+¿Cómo puede el desarrollo e implementación de un sistema web interno para la gestión de citas optimizar los procesos de programación, reducir los errores administrativos y mejorar la coordinación entre secretarias y médicos en el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch?
 
-Estos problemas sobrecargan al personal y comprometen la calidad del servicio. La implementación de un sistema web es esencial para optimizar la gestión de citas, reducir los tiempos de espera y garantizar una atención más segura y eficiente.
+---
 
-## 4. Marco Teórico
+## Descripción de la Propuesta
 
-### 4.1 Marco Conceptual
+El proyecto propone la creación de un **Sistema Web de Gestión de Citas** para el hospital, con el propósito de optimizar la programación de consultas médicas y fortalecer la coordinación entre secretarias y médicos. Las principales características del sistema incluyen:
 
-- **Gestión de Citas:** Proceso de programar, editar, cancelar y dar seguimiento a turnos médicos, con el objetivo de optimizar la atención y los recursos hospitalarios.
-- **Sistema Web:** Aplicación accesible mediante un navegador, diseñada para interactuar con una base de datos y facilitar operaciones específicas desde dispositivos conectados.
-- **Intranet:** Red privada dentro del hospital que asegura el acceso seguro a la información y aplicaciones internas.
-- **Base de Datos:** Conjunto organizado de datos almacenados electrónicamente, gestionado en este caso con SQLite para registrar pacientes, médicos y citas.
-- **Interfaz de Usuario:** Componente del sistema diseñado para ser intuitivo, permitiendo a secretarias y médicos realizar sus tareas de manera eficiente.
+- **Gestión en Tiempo Real:** Permite la asignación, modificación y cancelación de citas de forma inmediata, minimizando errores y reduciendo tiempos de espera.
+- **Módulo para Médicos:** Facilita el registro de consultas por parte de los médicos, mejorando el seguimiento de los pacientes.
+- **Reportes Automáticos:** Ofrece herramientas para generar informes que apoyen la toma de decisiones administrativas.
+- **Seguridad:** Incorpora un sistema de autenticación basado en roles (secretaria, médico) para proteger la información sensible.
 
-### 4.2 Marco Metodológico
+Esta solución busca agilizar la gestión de citas, optimizar los recursos hospitalarios y elevar la calidad de la experiencia del paciente.
 
-El desarrollo del sistema se realizará bajo la metodología ágil **Scrum**, que favorece la flexibilidad y la entrega incremental de funcionalidades. Este enfoque incluye:
+---
 
-- **Sprints:** Ciclos de dos semanas para implementar características específicas, priorizando las más críticas.
-- **Reuniones Diarias:** Encuentros breves para coordinar avances y resolver obstáculos.
-- **Revisión y Retrospectiva:** Evaluación al final de cada sprint para ajustar el plan según retroalimentación.
+## Justificación
 
-Esta metodología garantiza la colaboración con los usuarios finales (secretarias y médicos), integrando sus necesidades a lo largo del desarrollo y asegurando un sistema funcional y adaptado a sus requerimientos.
+La implementación de este sistema web mejorará la **eficiencia operativa** del hospital al reducir tiempos de espera y errores administrativos. Además, optimizará la **coordinación entre secretarias y médicos**, facilitando una planificación más efectiva. Al garantizar un servicio ágil y seguro, con capacidad para registrar consultas y proteger la información médica, el sistema contribuirá a una gestión hospitalaria más eficiente y a una mejor percepción del servicio por parte de los pacientes.
 
-## 5. Presupuesto del Proyecto
+---
 
-El presupuesto estimado para el desarrollo e implementación del sistema es el siguiente:
+## Motivación
 
-- **Desarrollo del Sistema:** $10,000  
-  - Diseño, programación, pruebas y despliegue.
-- **Equipos:** $5,000  
-  - Servidor local para alojar la aplicación y base de datos.  
-  - Computadoras adicionales (si se requieren).
-- **Otros Gastos:** $2,000  
-  - Capacitación del personal.  
-  - Documentación y materiales de soporte.
+El avance tecnológico ha revolucionado la gestión de procesos en el sector salud, y el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch no debe quedarse atrás. La gestión manual de citas genera demoras, errores y una carga operativa elevada, lo que motivó la propuesta de este sistema web. El objetivo es modernizar el proceso de agendamiento, optimizar la atención al paciente y aliviar la presión sobre el personal, ofreciendo una solución eficiente y adaptada a las necesidades del hospital.
 
-**Total Estimado:** $17,000
+---
 
-Este presupuesto asegura los recursos necesarios para una implementación exitosa, cubriendo costos técnicos y operativos.
+## Objetivos
 
-## 6. Cronograma de Desarrollo
+### Objetivo General
+Desarrollar un sistema web de gestión de citas médicas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, dirigido exclusivamente a secretarias y médicos. Este sistema permitirá programar, editar y cancelar citas de manera eficiente mediante una interfaz centralizada, y a los médicos consultar y gestionar sus agendas en tiempo real, optimizando la organización operativa y reduciendo los tiempos de espera de los pacientes.
 
-El proyecto se desarrollará en 5 meses, con las siguientes etapas:
+### Objetivos Específicos
+1. Proveer a las secretarias una herramienta para agendar citas fácilmente, asignando turnos según la disponibilidad de los médicos y vinculando datos de pacientes de forma precisa.
+2. Facilitar a los médicos una interfaz para consultar sus agendas actualizadas en tiempo real, buscar citas específicas y recibir notificaciones sobre cambios o cancelaciones.
+3. Optimizar la búsqueda y consulta de datos de pacientes y citas para las secretarias, reduciendo errores y agilizando la atención con acceso inmediato a la información.
+4. Generar reportes automáticos diarios y semanales para las secretarias, con datos sobre citas programadas, canceladas y atendidas, apoyando la planificación administrativa.
 
-- **Mes 1: Diseño de la Arquitectura del Sistema**  
-  - Levantamiento de requerimientos.  
-  - Diseño de la base de datos y arquitectura.  
-  - Prototipos de la interfaz.
-- **Mes 2: Desarrollo del Módulo de Citas**  
-  - Funcionalidades de programación, edición, cancelación y consulta de citas.  
-  - Integración con agendas médicas.
-- **Mes 3: Desarrollo del Módulo de Consultas y Reportes**  
-  - Registro de consultas médicas.  
-  - Generación de reportes básicos.
-- **Mes 4: Integración y Pruebas del Sistema**  
-  - Unificación de módulos.  
-  - Pruebas funcionales y de usabilidad.  
-  - Ajustes finales.
-- **Mes 5: Implementación y Capacitación del Personal**  
-  - Despliegue en la intranet del hospital.  
-  - Capacitación de usuarios.  
-  - Soporte inicial.
+---
 
-Este cronograma asegura una ejecución ordenada y la entrega de un sistema probado y funcional.
+## Alcances y Límites
 
-## 7. Índice Tentativo de la Tesis
+### Alcances del Sistema
+- Creación de una plataforma web para que las secretarias programen, editen y cancelen citas según la disponibilidad médica.
+- Visualización y gestión eficiente de agendas por parte de los médicos.
+- Generación de reportes básicos para planificación y seguimiento.
 
-1. **Introducción**  
-   - Contexto y relevancia del proyecto.  
-   - Objetivos generales y específicos.
-2. **Marco Teórico**  
-   - Fundamentos de gestión de citas y sistemas web.  
-   - Tecnologías empleadas.
-3. **Metodología**  
-   - Enfoque Scrum y herramientas utilizadas.
-4. **Desarrollo del Sistema**  
-   - Diseño de arquitectura y base de datos.  
-   - Implementación de módulos.  
-   - Pruebas e integración.
-5. **Resultados y Discusión**  
-   - Evaluación del sistema con usuarios.  
-   - Impacto en la gestión de citas.
-6. **Conclusiones y Recomendaciones**  
-   - Logros y beneficios.  
-   - Propuestas de mejoras futuras.
+### Límites del Sistema
+- No gestionará facturación ni pagos de pacientes.
+- No incluirá telemedicina ni consultas virtuales.
+- No se integrará con sistemas externos de historias clínicas electrónicas.
+- No soportará múltiples idiomas en esta fase inicial.
+- No ofrecerá análisis avanzados de datos ni inteligencia artificial.
+
+---
+
+## Marco Teórico y Conceptual
+
+### A) Antecedentes
+La digitalización de procesos hospitalarios es una tendencia global. Otros centros de salud han implementado sistemas de gestión de citas, logrando mejoras en eficiencia, reducción de ausentismo y satisfacción del paciente. Estas experiencias servirán como referencia para este proyecto.
+
+### B) Bases Conceptuales
+- **Gestión de Citas Médicas:** Proceso de asignar y administrar horarios médicos, equilibrando demanda y recursos.
+- **Sistema Web:** Aplicación accesible vía navegador, en este caso, a través de la intranet del hospital.
+- **Intranet:** Red privada y segura para uso interno, restringiendo el acceso a personal autorizado.
+- **Base de Datos:** SQLite será utilizado como un sistema ligero y eficiente para almacenar datos.
+- **Interfaz de Usuario (UI):** Diseñada para ser intuitiva y facilitar las tareas de los usuarios.
+
+### C) Bases Teóricas
+- **Teoría de Aceptación Tecnológica (TAM):** La adopción del sistema dependerá de su utilidad y facilidad de uso percibidas.
+- **Principios de Usabilidad (Nielsen):** Interfaces claras y eficientes para minimizar errores y mejorar la experiencia.
+- **Gestión de Procesos de Negocio (BPM):** Enfoque para optimizar el proceso de gestión de citas.
+
+### D) Bases Legales
+El sistema cumplirá con la **Ley No. 172-13** de Protección de Datos Personales de la República Dominicana, garantizando la confidencialidad y seguridad de la información médica mediante accesos restringidos por roles.
+
+---
+
+## Marco Metodológico
+
+### Enfoque de Desarrollo
+Se empleará la metodología ágil **Scrum**, que permite flexibilidad, entregas incrementales y colaboración con los usuarios.
+
+### Fases del Desarrollo
+1. **Planificación Inicial (Sprint 0):** Definición del backlog, arquitectura y entorno.
+2. **Sprints de Desarrollo (2-4 semanas):** Desarrollo y prueba de funcionalidades por ciclos.
+3. **Revisión del Sprint:** Feedback de stakeholders.
+4. **Retrospectiva del Sprint:** Mejora interna del equipo.
+5. **Pruebas Continuas:** Unitarias, de integración y aceptación (UAT).
+6. **Despliegue:** Instalación en la intranet.
+7. **Post-Implementación:** Soporte y recolección de retroalimentación.
+
+### Población Objetivo
+Secretarias y médicos del hospital.
+
+### Técnicas de Recolección de Requerimientos
+- Entrevistas con secretarias, médicos y administrativos.
+- Observación del proceso actual.
+- Análisis de documentos existentes (agendas, formularios).
+
+### Herramientas Tecnológicas
+- **Base de Datos:** SQLite.
+- **Lenguajes/Frameworks:** A definir (ej. Python/Flask, HTML/CSS/JavaScript con Bootstrap).
+- **Control de Versiones:** Git.
+- **Gestión de Proyecto:** Trello o Jira (opcional).
+
+---
+
+## Presupuesto Estimado
+
+| **Categoría**              | **Costo (USD)** |
+|----------------------------|-----------------|
+| Desarrollo del Sistema     | $10,000         |
+| Equipos y Licencias        | $5,000          |
+| Otros Gastos (Capacitación)| $2,000          |
+| **Total Estimado**         | **$17,000**     |
+
+*Nota: Preliminar, sujeto a ajustes tras análisis detallado.*
+
+---
+
+## Cronograma de Trabajo (5 Meses)
+
+- **Mes 1: Análisis y Diseño**
+  - Semanas 1-2: Requerimientos.
+  - Semana 3: Arquitectura y base de datos.
+  - Semana 4: Prototipos de interfaz.
+- **Mes 2: Desarrollo Inicial**
+  - Sprint 1: Módulo de médicos.
+  - Sprint 2: Módulo de pacientes y citas.
+- **Mes 3: Desarrollo Avanzado**
+  - Sprint 3: Edición y cancelación de citas.
+  - Sprint 4: Consultas y reportes.
+- **Mes 4: Integración y Pruebas**
+  - Semanas 1-2: Integración y pruebas internas.
+  - Semanas 3-4: Pruebas UAT y ajustes.
+- **Mes 5: Despliegue y Capacitación**
+  - Semana 1: Despliegue.
+  - Semanas 2-3: Capacitación.
+  - Semana 4: Soporte y entrega.
+
+---
+
+## Estructura Tentativa del Trabajo Final
+
+1. **Introducción**
+   - Contexto, justificación, objetivos, alcance.
+2. **Marco Teórico y Conceptual**
+   - Antecedentes, conceptos, teorías, marco legal.
+3. **Metodología**
+   - Scrum, fases, técnicas, herramientas.
+4. **Diseño y Desarrollo**
+   - Arquitectura, base de datos, interfaces, módulos.
+5. **Implementación y Pruebas**
+   - Despliegue, estrategia de pruebas, capacitación.
+6. **Resultados y Discusión**
+   - Evaluación, cumplimiento de objetivos, feedback.
+7. **Conclusiones y Recomendaciones**
+   - Logros, mantenimiento, mejoras futuras.
+8. **Referencias**
+9. **Anexos**
+
+---
 
