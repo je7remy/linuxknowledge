@@ -5,6 +5,7 @@
 
 Repositorio especializado en administración de sistemas Linux, scripting avanzado y técnicas de ciberseguridad.
 
+![[linuxknowledge.png]]
 ## 📌 Sobre este Proyecto
 
 Este repositorio es un centro de conocimiento integral que documenta mi aprendizaje y proyectos en:
