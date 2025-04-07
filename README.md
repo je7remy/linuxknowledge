@@ -5,7 +5,7 @@
 
 Repositorio especializado en administración de sistemas Linux, scripting avanzado y técnicas de ciberseguridad.
 
-![[linuxknowledge.png]]
+[linuxknowledge](https://github.com/je7remy/linuxknowledge/blob/main/linuxknowledge.png)  
 ## 📌 Sobre este Proyecto
 
 Este repositorio es un centro de conocimiento integral que documenta mi aprendizaje y proyectos en:
