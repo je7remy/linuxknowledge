@@ -5,8 +5,6 @@
 
 ---
 
-![[4.png]]
-
 ### **CURL: Información básica**
 
 - **Siglas:**  

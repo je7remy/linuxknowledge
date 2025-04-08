@@ -5,8 +5,6 @@
 
 ---
 
-![[4.png]]
-
 ```python
 python3 -m http.server 80
 ```

@@ -1,4 +1,3 @@
-![[1.PNG]]
 
 1. `ls`: Muestra la lista de archivos y directorios en el directorio actual.
 2. `ls -l`: Lista con formato largo, mostrando detalles como permisos, número de enlaces, propietario, grupo, tamaño y fecha de modificación.
