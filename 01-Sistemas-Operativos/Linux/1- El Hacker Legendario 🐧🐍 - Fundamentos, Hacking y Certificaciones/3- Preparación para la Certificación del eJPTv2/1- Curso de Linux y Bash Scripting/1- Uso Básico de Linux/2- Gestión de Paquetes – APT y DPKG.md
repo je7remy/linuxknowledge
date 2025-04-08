@@ -1,3 +1,6 @@
+
+![[2.png]]
+
 como kali linux esta basado en debian, los programas que instalaremos en kali linux seran .deb, hay varias formas de hacerlo:
 
 1. Usando `dpkg`:

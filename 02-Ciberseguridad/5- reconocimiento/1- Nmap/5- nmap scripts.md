@@ -167,7 +167,7 @@ PORT   STATE SERVICE VERSION
 Los scripts utilizados para el último escaneo interactúan con el servidor web y su aplicación web para obtener más información sobre sus versiones y verificar varias bases de datos para ver si hay vulnerabilidades conocidas. Más información sobre los scripts NSE y las categorías correspondientes la podemos encontrar en: [https://nmap.org/nsedoc/index.html](https://nmap.org/nsedoc/index.html)
 
 
-**[[OSINT]]**
+**[[1- OSINT]]**
 [[1- Hoja de trucos NMAP]]
 [[2- nmap comands]]
 [[3- nmap firewall evasion]]

@@ -57,8 +57,8 @@
 
 
 **[[Extraer Metadatos]]**
-**[[OSINT]]**
-**[[tools]]**
+**[[1- OSINT]]**
+**[[2- Tools]]**
 [[1- Hoja de trucos NMAP]]
 [[5- nmap scripts]]
 [[3- nmap firewall evasion]]
