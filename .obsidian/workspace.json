@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/12- Programación Orientada a Objetos (POO)/3- Introducción a la POO – Ejercicio Práctico PARTE 2.md",
+                "file": "02-Ciberseguridad/0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD/Conceptos Clave de Ciberseguridad para Entrevistas Técnicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Introducción a la POO – Ejercicio Práctico PARTE 2"
+              "title": "Conceptos Clave de Ciberseguridad para Entrevistas Técnicas"
             }
           }
         ]
@@ -188,8 +188,12 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/5- Cómo Utilizar WGET.md",
+    "[What.md",
+    "02-Ciberseguridad/0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD/Conceptos Clave de Ciberseguridad para Entrevistas Técnicas.md",
+    "02-Ciberseguridad/0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/12- Programación Orientada a Objetos (POO)/4- Adaptación Herramienta Hacking WordPress en POO.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/12- Programación Orientada a Objetos (POO)/3- Introducción a la POO – Ejercicio Práctico PARTE 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/5- Cómo Utilizar WGET.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/1- Comandos Basicos - Intermedio.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/2- Gestión de Paquetes – APT y DPKG.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/3- Transferencia de Archivos por la Red.md",
@@ -217,16 +221,12 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/11- Ciencia de Datos/1- Introducción a la Ciencia de Datos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/11- Ciencia de Datos",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/10- Personalización y Estética a Nuestro Código/3- Creación de una Barra de Progreso en una Tarea.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/10- Personalización y Estética a Nuestro Código/2- Creación de Banners.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/10- Personalización y Estética a Nuestro Código/1- Aplicar Colores a Nuestros Scripts.md",
-    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/2- Borrón Anteproyecto 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/10- Personalización y Estética a Nuestro Código",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva",
     "[linuxknowledge/01-Sistemas-Operativos/Linux",
     "[linuxknowledge/01-Sistemas-Operativos",
     "[linuxknowledge",
     "05-Recursos/Microsoft Reactor Python + IA/PDF/pdfhandler5.ashx.pdf",
-    "05-Recursos/Microsoft Reactor Python + IA/PDF/pdfhandler6.ashx.pdf",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/3.1- Jenkins.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/6.1- Panel de login, wordpress.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/Captura de pantalla 2025-03-21 083246.png",
