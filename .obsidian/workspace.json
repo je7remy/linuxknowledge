@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Ciberseguridad/5- Reconocimiento/3- Geolocalización de IPs/1- Guía Completa para Rastrear y Geolocalizar una Dirección IP.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/2- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Guía Completa para Rastrear y Geolocalizar una Dirección IP"
+              "title": "2- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +186,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "02-Ciberseguridad/5- reconocimiento/3- Geolocalización de IPs.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/2- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1.md",
+    "01-Sistemas-Operativos/Linux/0- Configuracion inicial/Configuración Básica de Máquina Virtual Kali Linux.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/1- Introducción a la Programación Concurrente.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0.5- Índice/Índice.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0.5- Índice",
     "02-Ciberseguridad/5- Reconocimiento/3- Geolocalización de IPs/1- Guía Completa para Rastrear y Geolocalizar una Dirección IP.md",
+    "02-Ciberseguridad/5- reconocimiento/3- Geolocalización de IPs.md",
     "02-Ciberseguridad/5- Reconocimiento/3- Geolocalización de IPs",
     "linuxknowledge.png",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/1- Introducción a la Programación Concurrente.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/10- Creamos una Herramienta para Enumerar y Atacar Plugins de WordPress.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/12- Programación Orientada a Objetos (POO)/4- Adaptación Herramienta Hacking WordPress en POO.md",
@@ -215,9 +219,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/12- Programación Orientada a Objetos (POO)/1- Introducción a la POO – Métodos Built-In y Métodos de Instancia de Clase.md",
     "Sin título.md",
     "01-Sistemas-Operativos/Windows/6- Activie Directory/3- OSINT, Cómo encontrar información pública de cualquier persona.md",
-    "01-Sistemas-Operativos/Windows/6- Activie Directory/2- Tools.md",
-    "01-Sistemas-Operativos/Windows/6- Activie Directory/1- OSINT.md",
-    "02-Ciberseguridad/5- Reconocimiento/1- Nmap/5- nmap scripts.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/4.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/1.PNG",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes",
@@ -226,7 +227,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/10- Personalización y Estética a Nuestro Código",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva",
     "[linuxknowledge/01-Sistemas-Operativos/Linux",
-    "[linuxknowledge/01-Sistemas-Operativos",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/3.1- Jenkins.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/6.1- Panel de login, wordpress.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/Captura de pantalla 2025-03-21 083246.png",
