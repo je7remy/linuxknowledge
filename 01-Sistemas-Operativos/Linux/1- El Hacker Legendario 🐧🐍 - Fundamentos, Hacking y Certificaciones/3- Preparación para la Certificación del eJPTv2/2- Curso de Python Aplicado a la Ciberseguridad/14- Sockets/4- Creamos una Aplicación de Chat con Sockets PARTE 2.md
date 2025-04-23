@@ -362,3 +362,177 @@ while True:
 
 ---
 
+## 5. Códigos Completos:
+
+````python
+
+#Cliente ______________________________________________________________________
+
+import socket
+
+import threading
+
+  
+
+servidor = '192.168.1.10'
+
+puerto_servidor = 5000
+
+  
+
+cliente_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+cliente_socket.connect((servidor, puerto_servidor))
+
+  
+
+def recibir_mensaje():
+
+    while True:
+
+        respuesta_servidor = cliente_socket.recv(1024)
+
+        print(f"Respuesta del servidor: {respuesta_servidor.decode()}")
+
+  
+
+def enviar_mensaje():
+
+    while True:
+
+        mensaje = input("Introduce el mensaje: ")
+
+        cliente_socket.sendall(mensaje.encode())
+
+  
+
+hilo_recibir = threading.Thread(target=recibir_mensaje)
+
+hilo_enviar = threading.Thread(target=enviar_mensaje)
+
+  
+
+hilo_recibir.start()
+
+hilo_enviar.start()
+
+  
+
+hilo_recibir.join()
+
+hilo_enviar.join()
+
+  
+
+cliente_socket.close()
+
+#Servidor __________________________________________________________________
+
+import socket
+
+import threading
+
+  
+
+servidor = '192.168.1.10'
+
+puerto_servidor = 5000
+
+  
+
+servidor_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+servidor_socket.bind((servidor, puerto_servidor))
+
+servidor_socket.listen()
+
+  
+
+print(f"Servidor escuchando en {servidor}:{puerto_servidor}")
+
+  
+
+def recibir_mensaje(conexion, address):
+
+while True:
+
+try:
+
+data = conexion.recv(1024)
+
+print(f"Mensaje del {address}: {data.decode()}")
+
+except:
+
+print("Hubo un error, saliendo...")
+
+conexion.close()
+
+break
+
+  
+
+def enviar_mensaje(conexion, address):
+
+while True:
+
+try:
+
+respuesta = input(f"Que quieres enviar a {address}: ")
+
+conexion.sendall(respuesta.encode())
+
+except:
+
+print("Hubo un error")
+
+conexion.close()
+
+break
+
+  
+
+def gestionar_conexion(conexion, address):
+
+print(f"Conexión establecida con {address}")
+
+  
+
+hilo_recibir = threading.Thread(target=recibir_mensaje, args=(conexion, address))
+
+hilo_enviar = threading.Thread(target=enviar_mensaje, args=(conexion, address))
+
+  
+
+hilo_recibir.start()
+
+hilo_enviar.start()
+
+  
+
+hilo_recibir.join()
+
+hilo_enviar.join()
+
+  
+
+print(f"Desconectado de {address}")
+
+  
+
+while True:
+
+try:
+
+conexion, address = servidor_socket.accept()
+
+hilo_gestionar = threading.Thread(target=gestionar_conexion, args=(conexion, address))
+
+hilo_gestionar.start()
+
+except:
+
+print("Hubo un error de conexión")
+
+`````
+
