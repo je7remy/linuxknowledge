@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/4- Interceptar Credenciales en Red – PARTE 2.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/5- Interceptar Credenciales en Red – PARTE 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Interceptar Credenciales en Red – PARTE 2"
+              "title": "5- Interceptar Credenciales en Red – PARTE 3"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "jenkins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,10 +186,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b3d49f1a0b73715c",
+  "active": "87088476cafe3f48",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/3- Interceptar Credenciales en Red – PARTE 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/5- Interceptar Credenciales en Red – PARTE 3.md",
+    "01-Sistemas-Operativos/Linux/0- Configuracion inicial/Configuración Básica de Máquina Virtual Kali Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/4- Interceptar Credenciales en Red – PARTE 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/3- Interceptar Credenciales en Red – PARTE 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/2- Uso Básico de Scapy.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/1- Conceptos Introductorios de Redes.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)",
@@ -204,7 +206,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/3- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/14- Sockets",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/2- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1.md",
-    "01-Sistemas-Operativos/Linux/0- Configuracion inicial/Configuración Básica de Máquina Virtual Kali Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/1- Introducción a la Programación Concurrente.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0.5- Índice/Índice.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0.5- Índice",
@@ -219,7 +220,6 @@
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/2- Borrón Anteproyecto 1.md",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/1- Formato y Contenido del Anteproyecto.md",
     "🔒🐧Hub.md",
-    "CODE_OF_CONDUCT.md",
     "02-Ciberseguridad/0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/4.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/1.PNG",
