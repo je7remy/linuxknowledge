@@ -21,7 +21,7 @@ def procesar_paquetes(paquete):
 
 def empezar_sniffing(interfaz):
     print(f"Iniciando sniffing en la interfaz {interfaz}")
-    sniff(iface=interfaz, filter="tcp port 80", prn=procesar_paquetes, estore=False)
+    sniff(iface=interfaz, filter="tcp port 80", prn=procesar_paquetes, store=False)
 
 empezar_sniffing("docker0")
 ```
@@ -75,7 +75,7 @@ def procesar_paquetes(paquete):
 
 def empezar_sniffing(interfaz):
     print(f"Iniciando sniffing en la interfaz {interfaz}")
-    sniff(iface=interfaz, filter="tcp port 80", prn=procesar_paquetes, estore=False)
+    sniff(iface=interfaz, filter="tcp port 80", prn=procesar_paquetes, store=False)
 
 empezar_sniffing("docker0")
 ```
@@ -124,7 +124,7 @@ def procesar_paquetes(paquete):
 
 def empezar_sniffing(interfaz):
     print(f"Iniciando sniffing en la interfaz {interfaz}")
-    sniff(iface=interfaz, filter="tcp port 80", prn=procesar_paquetes, estore=False)
+    sniff(iface=interfaz, filter="tcp port 80", prn=procesar_paquetes, store=False)
 
 empezar_sniffing("docker0")
 ```
