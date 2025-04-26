@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/6- Herramienta para Encontrar Equipos en mi Red con Scapy.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/7- Qué es y cómo Efectuar un Ataque ARP Spoofing con Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Herramienta para Encontrar Equipos en mi Red con Scapy"
+              "title": "7- Qué es y cómo Efectuar un Ataque ARP Spoofing con Python"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/5- Interceptar Credenciales en Red – PARTE 3.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/6- Herramienta para Encontrar Equipos en mi Red con Scapy.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/7- Qué es y cómo Efectuar un Ataque ARP Spoofing con Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/5- Interceptar Credenciales en Red – PARTE 3.md",
     "01-Sistemas-Operativos/Linux/0- Configuracion inicial/Configuración Básica de Máquina Virtual Kali Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/4- Interceptar Credenciales en Red – PARTE 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/3- Interceptar Credenciales en Red – PARTE 1.md",
@@ -219,7 +220,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/12- Programación Orientada a Objetos (POO)/4- Adaptación Herramienta Hacking WordPress en POO.md",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/3- Capítulo 1, Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025.md",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/2- Borrón Anteproyecto 1.md",
-    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/1- Formato y Contenido del Anteproyecto.md",
     "02-Ciberseguridad/0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/4.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/1.PNG",
