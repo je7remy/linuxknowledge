@@ -182,7 +182,7 @@ case "$variable" in
              mkdir carpteta_creada/
             ;;
           *)  
-             echo "Eres imbesil?"
+             echo "Eres imbecil?"
 esac
 ```
 
@@ -199,7 +199,7 @@ esac
     - Para cualquier otro valor, imprime:
         
         ```
-        Eres imbesil?
+        Eres imbecil?
         ```
         
 
