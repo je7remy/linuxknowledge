@@ -1,0 +1,3 @@
+Los atacantes de sombrero blanco tienen como objetivo descubrir debilidades de seguridad para que puedan mejorarse, mientras que los atacantes de sombrero negro se aprovechan de cualquier vulnerabilidad para obtener beneficios personales, financieros o políticos ilegales. Los atacantes de sombrero gris están en algún punto intermedio. Si bien es posible que no tengan intenciones maliciosas, quieren obtener algo para su descubrimiento.
+
+Y no olvidemos que las amenazas no siempre vienen del exterior.

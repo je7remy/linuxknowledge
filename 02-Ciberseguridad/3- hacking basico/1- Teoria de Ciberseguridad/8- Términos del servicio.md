@@ -1,0 +1,1 @@
+Los Términos de servicio, también conocidos como Términos de uso o Términos y condiciones, son un contrato de vinculación legal que rige las reglas de la relación entre usted, su proveedor,  y otras personas que utilizan el servicio.
