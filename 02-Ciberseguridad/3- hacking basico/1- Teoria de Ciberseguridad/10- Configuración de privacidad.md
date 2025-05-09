@@ -1,1 +1,0 @@
-Aceptar la configuración de privacidad predeterminada generalmente significa que cualquier persona puede ver información sobre usted y acceder a su perfil.
