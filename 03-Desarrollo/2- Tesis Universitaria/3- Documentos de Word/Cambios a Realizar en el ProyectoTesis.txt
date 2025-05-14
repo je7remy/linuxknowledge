@@ -1,0 +1,21 @@
+
+
+Cambios a Realizar en el Proyecto/Tesis
+
+1. Reducir el objetivo general. Debe ser una sola oración clara y directa, sin extenderse demasiado.
+
+2. Eliminar el glosario. Sustituirlo por conceptos clave (máximo 10 palabras, cada una definida en una sola línea, directamente relacionadas con el proyecto).
+
+3. Simplificar los objetivos específicos. Deben ser más cortos y utilizar verbos en niveles bajos de la Taxonomía de Bloom (como identificar, describir, reconocer, aplicar).
+
+4. Verificar los verbos utilizados. Los verbos de los objetivos específicos no pueden ser más complejos ni estar al mismo nivel que los del objetivo general.
+
+5. Organizar correctamente los alcances y los límites. Deben estar definidos por módulos del sistema, indicando qué se hará (alcances) y qué no se cubrirá (límites), con razones claras.
+
+6. En la metodología, eliminar el contenido teórico. Incluir solamente las herramientas técnicas reales que usarán, como lenguaje de programación, base de datos, IDE, frameworks, librerías, etc.
+
+7. En el presupuesto, eliminar los costos institucionales. Solo se deben incluir los gastos reales del grupo para desarrollar el proyecto: transporte, libros, empastado, software, licencias, capacitaciones, etc.
+
+8. Ajustar el cronograma. Debe ser más legible y resumido, organizado solo por fases y fechas clave, sin incluir subprocesos o detalles innecesarios.
+
+
