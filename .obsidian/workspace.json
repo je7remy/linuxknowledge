@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Ciberseguridad/8- Amenazas de CIberataques Impulsados por IA/CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas.md",
+                "file": "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/4- Sistema Web de Gestión de Citas Médicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas"
+              "title": "4- Sistema Web de Gestión de Citas Médicas"
             }
           }
         ]
@@ -188,13 +188,22 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/~$teproyecto Nuevos Cambios.docx",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_mes_page-0001.jpg",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_mes.pdf",
+    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/4- Sistema Web de Gestión de Citas Médicas.md",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_page-0001.jpg",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_Corregido_Subtareas.pdf",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_Corregido_Subtareas_page-0001.jpg",
+    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/3- Capítulo 1, Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025.md",
+    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/2- Borrón Anteproyecto 1.md",
+    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/1- Formato y Contenido del Anteproyecto.md",
+    "02-Ciberseguridad/8- Amenazas de CIberataques Impulsados por IA/CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas.md",
     "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Próximamente....md",
     "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto/1- Configura tu entorno de desarrollo.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/4- Sentencias Condicionales/4- Control del Flujo – CASE.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/4- Preparación para la Certificación del eJPTv2/Proximamente....md",
-    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/3- Capítulo 1, Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025.md",
     "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto",
-    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/2- Borrón Anteproyecto 1.md",
     "03-Desarrollo/2- Tesis Universitaria/1- Propuesta/Sistema de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch.md",
     "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word",
     "05-Recursos/Microsoft Reactor Python + IA/PDF/pdfhandler1.ashx.pdf",
@@ -214,26 +223,17 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/14- Sockets/2- Transferencia de Archivos Mediante Sockets.md",
     "05-Recursos/Android/2- Desinstalación de aplicaciones del sistema en Android sin root utilizando ADB/Desinstalar apps del sistema sin root.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/14- Sockets/1- Introducción a los Sockets.md",
-    "02-Ciberseguridad/6- Forense Digital/4- Caso Practico, Un hacker entró a mi equipo.md",
-    "README.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/3- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/14- Sockets",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente/2- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0.5- Índice",
     "02-Ciberseguridad/5- Reconocimiento/3- Geolocalización de IPs",
     "linuxknowledge.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente",
-    "02-Ciberseguridad/0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/4.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes/1.PNG",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/0- Imagenes",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/3.1- Jenkins.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/6.1- Panel de login, wordpress.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/Captura de pantalla 2025-03-21 083246.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.2- Aplicaciones Web.jpg",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
