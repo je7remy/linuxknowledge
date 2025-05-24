@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODE_OF_CONDUCT.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- Bienvenidos al módulo 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CODE_OF_CONDUCT"
+              "title": "1- Bienvenidos al módulo 2"
             }
           }
         ]
@@ -186,10 +186,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "linuxknowledge.png",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad/4- Desafío del módulo 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- Bienvenidos al módulo 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad/3- Código de honor de Coursera.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad/2- Glosario de términos del módulo 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad/1- Conclusión.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/3- Habilidades básicas para los profesionales de la ciberseguridad/5- Pon a prueba tus conocimientos, Habilidades básicas para profesionales de la ciberseguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/3- Habilidades básicas para los profesionales de la ciberseguridad/4- La importancia de la ciberseguridad.md",
+    "CODE_OF_CONDUCT.md",
+    "linuxknowledge.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/3- Habilidades básicas para los profesionales de la ciberseguridad/3- Competencias transferibles y técnicas en ciberseguridad.md",
     "05-Recursos/Términos y Definiciones de Ciberseguridad/Términos y Definiciones de Ciberseguridad.md",
     "05-Recursos/Términos y Definiciones de Ciberseguridad",
@@ -223,17 +232,8 @@
     "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_mes_page-0001.jpg",
     "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_mes.pdf",
     "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_page-0001.jpg",
-    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_Corregido_Subtareas.pdf",
-    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_Corregido_Subtareas_page-0001.jpg",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/3- Capítulo 1, Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025.md",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/2- Borrón Anteproyecto 1.md",
-    "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/1- Formato y Contenido del Anteproyecto.md",
-    "02-Ciberseguridad/8- Amenazas de CIberataques Impulsados por IA/CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas.md",
-    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Próximamente....md",
-    "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto/1- Configura tu entorno de desarrollo.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/4- Sentencias Condicionales/4- Control del Flujo – CASE.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/4- Preparación para la Certificación del eJPTv2/Proximamente....md",
-    "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto",
     "Sin título.canvas",
     "Untitled.canvas"
   ]

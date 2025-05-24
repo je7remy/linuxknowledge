@@ -1,0 +1,32 @@
+
+Se espera que todos los usuarios de los materiales de aprendizaje alojados en la plataforma de Coursera cumplan con los siguientes estándares para garantizar la integridad del aprendizaje dentro de las experiencias de aprendizaje de Coursera. Se espera que los estudiantes se familiaricen y cumplan con los [Términos de uso de](https://www.coursera.org/about/terms) la plataforma Coursera y cualquier código de conducta, política académica, código de honor o cualquier requisito de la institución asociado con los programas en los que un estudiante se haya inscrito a través de la plataforma Coursera haya establecido.
+
+La mala conducta académica socava el valor de las credenciales alojadas en Coursera y devalúa los esfuerzos auténticos de otros estudiantes. Por lo tanto, los alumnos que incurran en conductas indebidas están sujetos a las consecuencias, como se describe a continuación.
+
+**La mala conducta académica** se define como cualquier actividad que eluda, o intente eludir, la experiencia de aprendizaje proporcionada por el curso a través de la violación de las políticas de aprendizaje del curso o las políticas específicas proporcionadas por el instructor o descritas en el plan de estudios, o la tergiversación de la autoría o las condiciones de finalización de las actividades del curso. Las siguientes normas aclaran los tipos más comunes de mala conducta académica, pero la lista no es exhaustiva. Otros comportamientos pueden constituir una mala conducta académica en un curso en particular o en toda la plataforma de Coursera.
+
+**Definiciones**
+
+**_Trabajo dentro de una actividad de Coursera_**: todas las actividades en la plataforma de Coursera, incluidos los inicios de sesión y todas las actividades del curso, están sujetas a estas políticas. El trabajo incluye, entre otros, exámenes, cuestionarios, actividades de revisión por pares, evaluaciones, contribuciones a foros de discusión, proyectos guiados y laboratorios. Además, las actividades fuera de la plataforma que pertenecen a los cursos en la plataforma también están cubiertas por estas políticas.
+
+**_No autorizadas_**: las actividades que infringen [las Condiciones de uso de](https://www.coursera.org/about/terms) Coursera, las políticas del curso o de la plataforma, las actividades que son ilegales o las actividades que infringen las normas académicas o las normas de integridad que se espera que un alumno de la plataforma de Coursera conozca se consideran no autorizadas.
+
+**Violaciones**
+
+1. **_Plagio:_** El plagio es cuando copia o reproduce palabras, ideas o cualquier otro material de otra fuente sin dar crédito al autor original. El plagio también incluye la práctica de emplear o permitir que otra persona altere o revise su trabajo, y luego presentar el trabajo como propio. Los alumnos pueden discutir las evaluaciones entre ellos o con un instructor o tutor, pero todas las entregas de evaluaciones deben ser trabajos originales realizados de forma independiente por el alumno. Esto incluye el trabajo parafraseado, traducido o modificado de otro modo utilizando medios automatizados. El plagio también puede incluir el autoplagio, en el que un alumno presenta el mismo trabajo que ya había presentado para otra evaluación o módulo, cuando esto no se divulga ni se permite.
+2. **_Uso de materiales no autorizados:_** usar o consultar materiales no autorizados (incluidos materiales electrónicos y herramientas de IA generativa, incluidos, entre otros, ChatGPT o software o aplicaciones similares) o usar equipos o dispositivos no autorizados en cualquier trabajo dentro de una actividad de Coursera, a menos que esté expresamente permitido.
+3. **_Colaboración no autorizada_**: trabajar junto con cualquier persona en cualquier trabajo dentro de una actividad de Coursera a menos que esté expresamente permitido.
+4. **_Trampa en el contrato_**: pagar, intercambiar o conseguir que otra persona cree un trabajo para enviarlo a un curso de Coursera o para trabajar dentro de una actividad de Coursera.
+5. **_Suplantación de identidad_**: completar el trabajo dentro de cualquier actividad de Coursera (incluidos, entre otros, exámenes, evaluaciones y actividades de aprendizaje) cuando se inicia sesión como otro usuario o hacer que otro usuario complete el trabajo dentro de una actividad de Coursera cuando se inicia sesión como usted; tergiversar la autoría del trabajo enviado en Coursera.
+6. **_Compartir recursos sin autorización_**: poner a disposición de cualquier otra persona cualquier información o soluciones a tareas, cuestionarios, exámenes, proyectos y otras evaluaciones (excepto en la medida en que una evaluación permita explícitamente compartir soluciones). Esto incluye tanto las soluciones escritas por usted, otros alumnos, recursos externos o cualquier solución proporcionada por el personal del curso u otros.
+7. **_Fraude_**: cualquier tergiversación sobre la autoría o las condiciones en las que se realizó el trabajo dentro de una actividad de Coursera que no se especifique de otro modo o que falsifique cualquier evidencia que respalde cualquier reclamo de circunstancias atenuantes.
+8. **_Otro_**: cualquier otro comportamiento que te confiera una ventaja injusta a ti o a otra persona, o cualquier actividad que intente mejorar tus resultados de manera deshonesta o mejorar o perjudicar los resultados de otros en el desempeño del trabajo dentro de una actividad de Coursera.
+
+**Consecuencias para los productos no titulados**
+
+Coursera determinará las sanciones pertinentes en función del tipo de mala conducta, la gravedad del comportamiento, lo que está en juego en la evaluación y cualquier historial previo de mala conducta por parte del usuario.
+
+No se emitirán **reembolsos** en el caso de cualquier acción correctiva por tales violaciones. Las violaciones del Código de Honor se determinarán a discreción exclusiva de Coursera y sus socios. Se le notificará si se ha determinado que ha violado este Código de Honor y se le informará de la acción correspondiente que se tomará como resultado de la violación.
+
+**En** el  
+caso de los programas de grado y los programas de certificación universitaria, las consecuencias quedan a la entera discreción del proveedor del contenido.
