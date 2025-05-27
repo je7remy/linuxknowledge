@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/4- Ataques comunes y su efectividad.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/2- Los ocho dominios de seguridad CISSP/4- Comprender a los atacantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Ataques comunes y su efectividad"
+              "title": "4- Comprender a los atacantes"
             }
           }
         ]
@@ -188,10 +188,21 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/3- Ataques en la era digital.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/4- Ataques comunes y su efectividad.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/2- Ataques de ciberseguridad pasados.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- Bienvenidos al módulo 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Imagenes/Pasted image 20250527155727.png",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/2- Los ocho dominios de seguridad CISSP/4- Comprender a los atacantes.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/2- Los ocho dominios de seguridad CISSP/3- Determinar el tipo de ataque.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/2- Los ocho dominios de seguridad CISSP/2- Introducción a los ocho dominios de seguridad CISSP, Parte 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Imagenes/Pasted image 20250527122352.png",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/2- Los ocho dominios de seguridad CISSP/1- Introducción a los ocho dominios de seguridad CISSP, Parte 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/2- Los ocho dominios de seguridad CISSP",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- La historia de la ciberseguridad/2- Ataques de ciberseguridad pasados.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- La historia de la ciberseguridad/1- Bienvenidos al módulo 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- La historia de la ciberseguridad",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- La historia de la ciberseguridad/6- Pon a prueba tus conocimientos, La historia de la ciberseguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- La historia de la ciberseguridad/5- Sean, Mantén la calma durante una filtración de datos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- La historia de la ciberseguridad/4- Ataques comunes y su efectividad.md",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/~$teproyecto Nuevos Cambios.docx",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2/1- La historia de la ciberseguridad/3- Ataques en la era digital.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad/4- Desafío del módulo 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 2",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad/3- Código de honor de Coursera.md",
@@ -212,13 +223,7 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/2- Introducción a la ciberseguridad/1- Introducción a la ciberseguridad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/2- Introducción a la ciberseguridad/4- Terminología común sobre ciberseguridad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/2- Introducción a la ciberseguridad/3- Nikki, Un día en la vida de un ingeniero de Seguridad.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/2- Introducción a la ciberseguridad/2- Responsabilidades de un analista de ciberseguridad de nivel inicial.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/1- Primeros pasos/1- Bienvenido al Certificado de Ciberseguridad de Google.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/1- Primeros pasos/4- Recursos y consejos útiles.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/1- Primeros pasos/3- Resumen del curso 1.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/1- Primeros pasos/2- Visión general del certificado de ciberseguridad de Google.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/2- Introducción a la ciberseguridad",
-    "Archivo DOCX.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Imagenes/Pasted image 20250522185853.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Imagenes/Pasted image 20250522185834.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Imagenes/Pasted image 20250522185809.png",
@@ -228,12 +233,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Imagenes",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Imagenes/Pasted image 20250522184656.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Proximamente....md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/Modulo 1/1- Primeros pasos",
-    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/~$teproyecto Nuevos Cambios.docx",
-    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_mes_page-0001.jpg",
-    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_mes.pdf",
-    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_page-0001.jpg",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
