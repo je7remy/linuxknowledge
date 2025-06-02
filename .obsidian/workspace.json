@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Recursos/Términos y Definiciones de Ciberseguridad/Términos y Definiciones de Ciberseguridad.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/7- Pon a prueba tus conocimientos, Más información sobre los dominios de seguridad CISSP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Términos y Definiciones de Ciberseguridad"
+              "title": "7- Pon a prueba tus conocimientos, Más información sobre los dominios de seguridad CISSP"
             }
           }
         ]
@@ -188,7 +188,13 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/2-Explore los dominios de seguridad de CISSP, Parte 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/6- Complemento sin calificar, Identificar, los ocho dominios de seguridad de CISSP.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/7- Pon a prueba tus conocimientos, Más información sobre los dominios de seguridad CISSP.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/5- Ashley, Mi camino hacia la ciberseguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/4- Dominios de seguridad que los analistas de ciberseguridad deben conocer.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/3- Explore los dominios de seguridad de CISSP, Parte 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/2- Explore los dominios de seguridad de CISSP, Parte 1.md",
+    "05-Recursos/Términos y Definiciones de Ciberseguridad/Términos y Definiciones de Ciberseguridad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP/1- Bienvenidos al módulo 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/1- Primeros pasos con el curso/3- Recursos y consejos útiles.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP",
@@ -215,12 +221,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/2- Conocimientos y habilidades básicas de ciberseguridad/1- Introducción a Linux, SQL y Python.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/2- Conocimientos y habilidades básicas de ciberseguridad/2- Utilice herramientas para proteger las operaciones comerciales.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/4- Pon a prueba tus conocimientos, Herramientas importantes de ciberseguridad.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/3- Herramientas para proteger las operaciones comerciales.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/2- Herramientas comunes de ciberseguridad.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/1- Bienvenidos al módulo 4.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 3/3- Revisión, Protéjase contra amenazas, riesgos y vulnerabilidades/3- Desafío del módulo 3.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 3/3- Revisión, Protéjase contra amenazas, riesgos y vulnerabilidades/2- Glosario de términos del módulo 3.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 3/3- Revisión, Protéjase contra amenazas, riesgos y vulnerabilidades/1- Conclusión.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
