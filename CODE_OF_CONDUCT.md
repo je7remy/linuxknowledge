@@ -30,3 +30,5 @@ El repositorio LinuxKnowledge está destinado a ser un espacio colaborativo para
 **5. Enmiendas y Aprobación**
 
 Este código de conducta puede ser revisado periódicamente para asegurar su eficacia y relevancia. Las modificaciones significativas serán notificadas y discutidas con la comunidad antes de su implementación.
+
+

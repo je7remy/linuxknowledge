@@ -32,7 +32,7 @@ Este repositorio es un centro de conocimiento integral que documenta mi aprendiz
 - [Declarar Funciones en Bash]([linuxknowledge/01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/6- Funciones/1- Declarar Funciones en Bash.md at main · je7remy/linuxknowledge](https://github.com/je7remy/linuxknowledge/blob/main/01-Sistemas-Operativos/Linux/1-%20El%20Hacker%20Legendario%20%F0%9F%90%A7%F0%9F%90%8D%20-%20Fundamentos%2C%20Hacking%20y%20Certificaciones/3-%20Preparaci%C3%B3n%20para%20la%20Certificaci%C3%B3n%20del%20eJPTv2/1-%20Curso%20de%20Linux%20y%20Bash%20Scripting/6-%20Funciones/1-%20Declarar%20Funciones%20en%20Bash.md))
 
 ### 🔐 Ciberseguridad Práctica
-- [Hoja de Trucos NMAP](https://github.com/je7remy/linuxknowledge/blob/main/02-Ciberseguridad/5-%20reconocimiento/1-%20Nmap/1-%20Hoja%20de%20trucos%20NMAP.md)
+- [Hoja de Trucos NMAP](https://github.com/je7remy/linuxknowledge/blob/main/02-Ciberseguridad/5-%20Reconocimiento/1-%20Nmap/1-%20Hoja%20de%20trucos%20NMAP.md)
 - [Introducción al Hacking Ético](https://github.com/je7remy/linuxknowledge/blob/main/02-Ciberseguridad/4-%20Hacking%20Intermedio%20Teoria/Módulo%201%20Introducción%20al%20Hacking%20Ético%20y%20a%20las%20Pruebas%20de%20Penetración/2-%20Descripción%20General.md)
 - [Privilege Escalation Basic](https://github.com/je7remy/linuxknowledge/blob/main/02-Ciberseguridad/3-%20hacking%20basico/4-%20privilege%20scalation/1-%20privilege%20scalation%20basic.md)
 
