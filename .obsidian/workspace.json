@@ -11,12 +11,14 @@
             "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "linuxknowledge.png"
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/1- Explora la tríada de la CIA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "linuxknowledge"
+              "icon": "lucide-file",
+              "title": "1- Explora la tríada de la CIA"
             }
           }
         ]
@@ -186,8 +188,21 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "06-Publicaciones-Linkedin/0- Imagenes/ChatGPT Image 9 jun 2025, 08_59_52 p.m..png",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/5- Pon a prueba tus conocimientos, Más información sobre marcos y controles.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/1- Explora la tríada de la CIA.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/4- La relación entre marcos y controles.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/3- Mandos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/2- Marcos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/1- Bienvenidos al módulo 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/4- Pon a prueba tus conocimientos, Herramientas importantes de ciberseguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/3- Herramientas para proteger las operaciones comerciales.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/2- Herramientas comunes de ciberseguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/1- Bienvenidos al módulo 4.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/1- Primeros pasos con el curso/1- Introducción al Curso 2.md",
     "linuxknowledge.png",
+    "CODE_OF_CONDUCT.md",
+    "06-Publicaciones-Linkedin/0- Imagenes/ChatGPT Image 9 jun 2025, 08_59_52 p.m..png",
     "06-Publicaciones-Linkedin/2- Herramienta para hacer cracking de contraseñas.md",
     "06-Publicaciones-Linkedin/1- GESTIÓN EFICAZ DE USUARIOS EN LINUX, AUTOMATIZA TAREAS COMUNES CON BASH.md",
     "06-Publicaciones-Linkedin/0- Imagenes",
@@ -195,7 +210,6 @@
     "[linuxknowledge/01-Sistemas-Operativos/Linux",
     "[linuxknowledge/01-Sistemas-Operativos",
     "[linuxknowledge",
-    "CODE_OF_CONDUCT.md",
     "README.md",
     "[linuxknowledge/02-Ciberseguridad/5-.md",
     "[linuxknowledge/02-Ciberseguridad",
@@ -206,23 +220,12 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/3- Curso de Splunk Introductorio/1- Conceptos Básicos de Docker",
     "06-Publicaciones-Linkedin",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 1/1- Primeros pasos/1- Bienvenido al Certificado de Ciberseguridad de Google.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/2- Marcos.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/1- Bienvenidos al módulo 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 2/3- Revisión, La evolución de la ciberseguridad/3- Desafío del módulo 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 2/3- Revisión, La evolución de la ciberseguridad/2- Glosario de términos del módulo 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 2/3- Revisión, La evolución de la ciberseguridad/1- Conclusión.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 2/2- Los ocho dominios de seguridad CISSP/1- Introducción a los ocho dominios de seguridad CISSP, Parte 1.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/4- Revisión, Dominios de seguridad/3- Desafío del módulo 1.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/4- Revisión, Dominios de seguridad/2- Glosario de términos del módulo 1.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/4- Revisión, Dominios de seguridad/1- Conclusión.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/7- Personalización y Estética de nuestras Aplicaciones Gráficas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/5- Interfaces Gráficas/6- Ejercicio Práctico con Interfaces Gráficas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/4- Ejercicio Práctico con OS y SHUTIL.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/4- Gestión de Bases de Datos desde Python/4- Consultar a la Base de Datos + Sentencias Condicionales.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/2- Uso Básico del Módulo OS.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/4- Revisión, Dominios de seguridad",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Imagenes/Pasted image 20250601211955.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
@@ -231,7 +234,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.3- Aplicaciones Móviles.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.2- Aplicaciones Web.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.1- Infraestructura de Red.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/2.1- Pruebas Unitarias.jpg",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
