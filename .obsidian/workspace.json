@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/4- Mini Prueba.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/3- Pon a prueba tus conocimientos, Frameworks NIST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Mini Prueba"
+              "title": "3- Pon a prueba tus conocimientos, Frameworks NIST"
             }
           }
         ]
@@ -188,8 +188,14 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/3- Práctica, Utilizar la tríada CIA en situaciones laborales.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/2- Explore las seis funciones del marco de ciberseguridad del NIST.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/2.1- Reflect.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/3- Pon a prueba tus conocimientos, Frameworks NIST.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/1- Marcos NIST.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/1.1- Reflect.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/4- Mini Prueba.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/3- Práctica, Utilizar la tríada CIA en situaciones laborales.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/2- Usar la tríada de la CIA para proteger a las organizaciones.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/2- La tríada de la CIA, confidencialidad, integridad y disponibilidad/1- Explora la tríada de la CIA.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles/5- Pon a prueba tus conocimientos, Más información sobre marcos y controles.md",
@@ -217,15 +223,9 @@
     "[linuxknowledge/02-Ciberseguridad/5-.md",
     "[linuxknowledge/02-Ciberseguridad",
     "02-Ciberseguridad/5- Reconocimiento/1- Nmap/1- Hoja de trucos NMAP.md",
-    "02-Ciberseguridad/5- Reconocimiento/1- Nmap/2- nmap comands.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/3- Curso de Splunk Introductorio/1- Conceptos Básicos de Docker/1-  Cómo Instalar Docker en Linux.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/3- Curso de Splunk Introductorio/Proximamente....md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/3- Curso de Splunk Introductorio/1- Conceptos Básicos de Docker",
     "06-Publicaciones-Linkedin",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 1/1- Primeros pasos/1- Bienvenido al Certificado de Ciberseguridad de Google.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 2/3- Revisión, La evolución de la ciberseguridad/3- Desafío del módulo 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Imagenes/Pasted image 20250601211955.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
