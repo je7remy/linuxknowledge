@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/3- Pon a prueba tus conocimientos, Frameworks NIST.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/9- Modelo de actividad del portafolio, Realizar una auditoría de seguridad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Pon a prueba tus conocimientos, Frameworks NIST"
+              "title": "9- Modelo de actividad del portafolio, Realizar una auditoría de seguridad"
             }
           }
         ]
@@ -188,9 +188,19 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/8- Actividad de la cartera, Realizar una auditoría de seguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/9- Modelo de actividad del portafolio, Realizar una auditoría de seguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/7- Pon a prueba tus conocimientos, principios de OWASP y auditorías de seguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/6- Más información sobre las auditorías de seguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/5- Completar una auditoría de seguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/4- Planificar una auditoría de seguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/3- Wajih, Mantente al día sobre las últimas amenazas de ciberseguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/2- Más información sobre los principios de seguridad de OWASP.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad/1- Principios de seguridad de OWASP.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/3- Pon a prueba tus conocimientos, Frameworks NIST.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/2- Explore las seis funciones del marco de ciberseguridad del NIST.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/2.1- Reflect.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/3- Pon a prueba tus conocimientos, Frameworks NIST.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/1- Marcos NIST.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks/1.1- Reflect.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/3- NIST frameworks",
@@ -207,25 +217,15 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/4- Pon a prueba tus conocimientos, Herramientas importantes de ciberseguridad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/3- Herramientas para proteger las operaciones comerciales.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/2- Herramientas comunes de ciberseguridad.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4/1- Herramientas importantes de ciberseguridad/1- Bienvenidos al módulo 4.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/1- Primeros pasos con el curso/1- Introducción al Curso 2.md",
     "linuxknowledge.png",
-    "CODE_OF_CONDUCT.md",
     "06-Publicaciones-Linkedin/0- Imagenes/ChatGPT Image 9 jun 2025, 08_59_52 p.m..png",
-    "06-Publicaciones-Linkedin/2- Herramienta para hacer cracking de contraseñas.md",
-    "06-Publicaciones-Linkedin/1- GESTIÓN EFICAZ DE USUARIOS EN LINUX, AUTOMATIZA TAREAS COMUNES CON BASH.md",
     "06-Publicaciones-Linkedin/0- Imagenes",
-    "[linuxknowledge/01-Sistemas-Operativos/Linux/1-.md",
     "[linuxknowledge/01-Sistemas-Operativos/Linux",
     "[linuxknowledge/01-Sistemas-Operativos",
     "[linuxknowledge",
-    "README.md",
-    "[linuxknowledge/02-Ciberseguridad/5-.md",
     "[linuxknowledge/02-Ciberseguridad",
-    "02-Ciberseguridad/5- Reconocimiento/1- Nmap/1- Hoja de trucos NMAP.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/3- Curso de Splunk Introductorio/1- Conceptos Básicos de Docker",
     "06-Publicaciones-Linkedin",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/1- Más información sobre marcos y controles",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Imagenes/Pasted image 20250601211955.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
