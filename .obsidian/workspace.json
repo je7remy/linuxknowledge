@@ -11,9 +11,14 @@
             "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "06-Publicaciones-Linkedin/3- Glosario de Ciberseguridad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3- Glosario de Ciberseguridad"
             }
           }
         ]
@@ -183,7 +188,12 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "06-Publicaciones-Linkedin/2- Herramienta para hacer cracking de contraseñas.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/6- Cuestionario, Modelo TCP-IP y Comunicación en Redes.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/5- El modelo OSI.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/1- Introducción a la comunicación en red.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/4- Más información sobre el modelo TCP-IP.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/3- Las cuatro capas del modelo TCP-IP.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/4- Más información sobre el modelo TCP-IP.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/3- Las cuatro capas del modelo TCP-IP.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/3- Comunicación de red/2- El modelo TCP-IP.md",
@@ -204,11 +214,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/1- Primeros pasos con el curso/2- Resumen del curso 3.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/1- Primeros pasos con el curso/1- Introducción al Curso 3.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 4/4- ¡Felicitaciones por completar el Curso 2!/4- Empieza en el próximo curso.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 4/4- ¡Felicitaciones por completar el Curso 2!/3- Glosario del curso 2.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 4/4- ¡Felicitaciones por completar el Curso 2!/2- Resumen del curso.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 4/4- ¡Felicitaciones por completar el Curso 2!/1- Reflexiona y conéctate con tus compañeros.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 4/2- Explore la respuesta a incidentes/5- Pon a prueba tus conocimientos, usa un manual de estrategias para responder a un incidente.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 4/2- Explore la respuesta a incidentes/4- Responder a una alerta de SIEM.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
