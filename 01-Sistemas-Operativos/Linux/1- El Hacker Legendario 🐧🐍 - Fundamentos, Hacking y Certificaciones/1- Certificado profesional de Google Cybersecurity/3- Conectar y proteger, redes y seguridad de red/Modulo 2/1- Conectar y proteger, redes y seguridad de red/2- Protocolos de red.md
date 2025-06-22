@@ -55,3 +55,21 @@ Cuando escribes una dirección web, tu dispositivo y la red usan múltiples **pr
     
 
 ---
+
+✅ **Respuesta correcta:**  
+**Transmission Control Protocol (TCP)**
+
+📘 **Explicación:**  
+El **TCP** es un protocolo de comunicación por Internet que permite que **dos o más dispositivos establezcan una conexión confiable** y puedan **transmitir datos de forma ordenada y sin pérdidas**.
+
+---
+
+**Comparación rápida con los demás:**
+
+|Protocolo|Función principal|
+|---|---|
+|**TCP**|Establece conexiones y transmite datos. ✅|
+|**DNS**|Traduce nombres de dominio en direcciones IP.|
+|**HTTPS**|Transfiere páginas web de forma segura.|
+|**ARP**|Traduce direcciones IP a direcciones MAC.|
+
