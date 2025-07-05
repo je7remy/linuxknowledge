@@ -132,4 +132,3 @@ Asegúrese de abordar los siguientes criterios en su actividad finalizada:
     
 - Recomiende una medida de seguridad
 
-Continuara....
