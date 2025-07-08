@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/3- Análisis del endurecimiento de la red 1.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/5- Ponga a prueba sus Conocimientos, Endurecimiento de la red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Análisis del endurecimiento de la red 1"
+              "title": "5- Ponga a prueba sus Conocimientos, Endurecimiento de la red"
             }
           }
         ]
@@ -186,8 +186,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/4- Análisis del endurecimiento de la red 2.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/3.1- Tareas de Endurecimiento de Seguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/3- Análisis del endurecimiento de la red 1.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/2- Aplicaciones de Seguridad de red.md",
+    "07-Capacitacion-HTQPJB/1- Diagrama de flujo del HTQPJB.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/5- Ponga a prueba sus Conocimientos, Endurecimiento de la red.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/2- Aplicaciones de Seguridad de red.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red/1- Prácticas de endurecimiento de la red.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/2- Endurecimiento del OS/8- Ponga a prueba sus Conocimientos, Endurecimiento del OS.md",
@@ -208,12 +214,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/3- Tácticas de ataque y defensa de redes/5.1- Registro TCP-HTTP-LOG – Wireshark (Tráfico Web Normal y Ataque SYN Flood).md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/3- Tácticas de ataque y defensa de redes/5- Actividad, Analizar los ataques a la red.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/3- Tácticas de ataque y defensa de redes/4- Identificar, Ataques a la red.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/3- Tácticas de ataque y defensa de redes/3- Visión general de las tácticas de interceptación.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/3- Tácticas de ataque y defensa de redes/2- Suplantación de IP.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/3- Tácticas de ataque y defensa de redes/1- Sniffing de paquetes malicioso.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/2- Redes seguras contra ataques de denegación de servicio (DoS)/6- Ponga a prueba sus Conocimientos, Redes seguras contra ataques de denegación de servicio (DoS).md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/2- Redes seguras contra ataques de denegación de servicio (DoS)/5- Ejemplar de actividad, Analizar la comunicación en la capa de red.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 3/2- Redes seguras contra ataques de denegación de servicio (DoS)/4- Actividad, Analizar la comunicación en la capa de red.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
