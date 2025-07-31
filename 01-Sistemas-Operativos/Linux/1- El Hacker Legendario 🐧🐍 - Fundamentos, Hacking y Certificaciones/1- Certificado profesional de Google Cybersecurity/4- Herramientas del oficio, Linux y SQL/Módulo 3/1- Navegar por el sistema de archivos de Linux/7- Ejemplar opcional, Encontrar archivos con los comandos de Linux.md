@@ -24,6 +24,3 @@ Si no necesita revisar ninguna sección del laboratorio, puede pasar al siguient
 - Si tiene problemas para conectarse al laboratorio, intente iniciar sesión en Coursera en modo Incógnito y completar el laboratorio allí.
     
 - Revise los [consejos para el laboratorio y los pasos para la solución de](https://www.coursera.org/learn/linux-and-sql/supplement/fRHpj/lab-tips-and-troubleshooting-steps "reading on lab tips and troubleshooting steps") problemas para obtener más información.
-
-## **Este laboratorio es el mismo que el:** [[01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/6- Lab]]
-
