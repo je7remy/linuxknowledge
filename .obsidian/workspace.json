@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/7- Gestionar directorios y archivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Mi Tesis en la Nube"
+              "title": "7- Gestionar directorios y archivos"
             }
           }
         ]
@@ -188,9 +188,12 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/6- Crear y modificar directorios y archivos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/7- Gestionar directorios y archivos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/5- Ejemplar, Filtrado con grep.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/4- Ejemplar opcional, Filtrado con grep.md",
     "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
     "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/4- Ejemplar opcional, Filtrado con grep.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/3- Actividad, Filtrado con grep.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/2- Filtrado de contenidos en Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/1- Encuentre lo que necesita con Linux.md",
@@ -216,9 +219,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/7- Ejemplo opcional, Examinar la entrada y la salida en el shell.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/6- Lab.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/5- Actividad, Examinar la entrada y salida en el shell.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/4- Examinar la entrada y salida en el shell.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/2- Diferentes tipos de conchas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/3- Entrada y salida en el shell.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.4- Infraestructura en la Nube.jpg",
