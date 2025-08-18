@@ -108,3 +108,23 @@ sudo userdel salesrep7
     
 
 ---
+
+# **Pregunta:**  
+
+### ¿Cuál es la finalidad del comando `sudo`?
+
+**Opciones:**
+
+- Cambia los permisos de los archivos y directorios.
+    
+- Añade un usuario al sistema.
+    
+- ✅ Concede temporalmente permisos elevados a usuarios específicos. _(Correcta)_
+    
+- Elimina a un usuario del sistema.
+    
+
+**Explicación:**  
+El comando `sudo` concede **temporalmente permisos elevados** a usuarios específicos. Estos privilegios son necesarios para ejecutar ciertos comandos administrativos, como `useradd` y `userdel`, que requieren permisos de superusuario.
+
+---

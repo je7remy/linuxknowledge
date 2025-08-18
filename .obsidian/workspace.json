@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/9- Añadir y eliminar usuarios.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/12- Prueba, Autenticación y autorización de usuarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9- Añadir y eliminar usuarios"
+              "title": "12- Prueba, Autenticación y autorización de usuarios"
             }
           }
         ]
@@ -188,20 +188,23 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/8- Actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/11- Actividad, Añadir y gestionar usuarios con comandos Linux.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/12- Prueba, Autenticación y autorización de usuarios.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/1- Permisos de archivo y responsabilidad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/10- Uso responsable de sudo.md",
+    "08- Planificación-Docente-Modular/1- PLANIFICACIÓN GENERAL Y DIARIA DEL MÓDULO, SOPORTE TÉCNICO BÁSICO/1- Planificación docente modular.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/9- Añadir y eliminar usuarios.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/8- Actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/7- Ejemplo de actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/6- Ejemplo, Gestionar la autorización.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/5- Ejemplo opcional, Gestionar la autorización.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/4- Gestionar la autorización.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/3- Comandos de permiso.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/2- Cambiar permisos.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux/1- Permisos de archivo y responsabilidad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/9- Ponga a prueba sus Conocimientos, Gestionar el contenido de los archivos en Bash.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/8- Gestionar archivos con comandos de Linux.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash/7- Gestionar directorios y archivos.md",
-    "08- Planificación-Docente-Modular/1- PLANIFICACIÓN GENERAL Y DIARIA DEL MÓDULO, SOPORTE TÉCNICO BÁSICO/1- Planificación docente modular.md",
     "07-Capacitacion-HTQPJB/2- Ambulatoria.md",
     "08- Planificación-Docente-Modular/1- PLANIFICACIÓN GENERAL Y DIARIA DEL MÓDULO, SOPORTE TÉCNICO BÁSICO",
     "08- Planificación-Docente-Modular",
@@ -216,9 +219,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/1- Navegar por el sistema de archivos de Linux/10- Ponga a prueba sus Conocimientos, Navegue por el sistema de archivos de Linux en Bash.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/1- Navegar por el sistema de archivos de Linux/9- Ejemplo, Buscar archivos con comandos Linux.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/1- Navegar por el sistema de archivos de Linux/8- Otro Lab.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/1- Navegar por el sistema de archivos de Linux/7- Ejemplar opcional, Encontrar archivos con los comandos de Linux.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/1- Navegar por el sistema de archivos de Linux/6- Lab.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/1- Navegar por el sistema de archivos de Linux",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/4- Revisión, El sistema operativo Linux",
