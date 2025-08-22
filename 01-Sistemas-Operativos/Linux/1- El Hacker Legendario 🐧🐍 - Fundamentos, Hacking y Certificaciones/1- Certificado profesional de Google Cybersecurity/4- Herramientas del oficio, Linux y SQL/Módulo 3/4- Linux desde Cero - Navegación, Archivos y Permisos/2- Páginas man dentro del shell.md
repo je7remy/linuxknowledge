@@ -105,3 +105,21 @@ Como nuevo analista, no tendrá todas las respuestas todo el tiempo, pero puede 
 
 ---
 
+
+**¿Cómo puede utilizar el comando `man`?**
+
+- Para conceder temporalmente permisos elevados a usuarios específicos  
+- Para buscar en las descripciones de las páginas del manual una cadena especificada  
+- Para mostrar la descripción de un comando en una sola línea  
+- ✅ Para mostrar información sobre qué son y cómo funcionan otros comandos  
+
+**Correcto**  
+Puede utilizar el comando `man` para mostrar información sobre qué son otros comandos y cómo funcionan.  
+Por ejemplo:  
+
+```bash
+man chown
+````
+
+Este comando mostrará información detallada sobre el comando `chown` y su funcionamiento.
+
