@@ -1,0 +1,4 @@
+
+Vamos a empezar aprendiendo sobre las bases de datos relacionales y cómo están estructuradas. A partir de ahí, vamos a introducir las consultas SQL y cómo utilizarlas para acceder a los datos de las bases de datos. A continuación, pasaremos a los filtros SQL, que nos ayudan a refinar nuestras consultas para obtener la información exacta que necesitamos. Por último, exploraremos las uniones SQL, que permiten combinar tablas entre sí. Cuando me presentan un problema o un proyecto en el trabajo, a menudo tengo que cribar una gran cantidad de datos. Cuando utilizo SQL, puedo revisar los datos rápidamente y proporcionar resultados con confianza ya que las consultas son consistentes y se ejecutan con facilidad. SQL es una herramienta muy potente y flexible.
+
+A lo largo de esta sección, aprenderá a utilizar las partes de la misma que necesite como analista de seguridad y adquirirá experiencia práctica. ¡Buena suerte, y me reuniré con usted para el resto del curso!

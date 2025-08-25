@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/5- Conclusiones/4- Desafío del módulo 3.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/6- Ponga a prueba sus Conocimientos - SQL y bases de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Desafío del módulo 3"
+              "title": "6- Ponga a prueba sus Conocimientos - SQL y bases de datos"
             }
           }
         ]
@@ -189,8 +189,17 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/5- Conclusiones/3- Términos del glosario del Módulo 3.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/5- Adedayo SQL en la ciberseguridad.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/6- Ponga a prueba sus Conocimientos - SQL y bases de datos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/4- Filtrado SQL frente a filtrado Linux.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/3- Consulta de bases de datos con SQL.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/2- Introducción a las bases de datos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/1- Bienvenido al Módulo 4.md",
+    "linuxknowledge.png",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/5- Conclusiones/4- Desafío del módulo 3.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/5- Conclusiones/3- Términos del glosario del Módulo 3.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/5- Conclusiones/2- Glosario de Comandos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/5- Conclusiones/1- Recapitulando.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/4- Linux desde Cero - Navegación, Archivos y Permisos/7- Ponga a prueba sus Conocimientos - Obtenga ayuda en Linux.md",
@@ -211,20 +220,12 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/2- Uso Básico del Módulo OS.md",
     "02-Ciberseguridad/3- hacking basico/5- shells/2- tipos de shell.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/2- Ejercicio Práctico Librería Requests.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/7- Gestión Automática de Servidores con Python/2- Conexión y Subida de Archivos a Servidor FTP.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/2- Automatización de Análisis de IPs desde Python PARTE 1.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/1- Conceptos Básicos de Python/1- Qué son y cómo Declarar Variables.md",
-    "02-Ciberseguridad/3- hacking basico/4- privilege scalation/1- privilege scalation basic.md",
-    "05-Recursos/Microsoft Reactor Python + IA/1- Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python, Primera Sesión de la Serie sobre Python e Inteligencia Artificial.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/6- Manejo de Excepciones/1- Introducción a las Excepciones en Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/3- Gestión de Permisos y Usuarios en Linux",
     "08- Planificación-Docente-Modular/1- PLANIFICACIÓN GENERAL Y DIARIA DEL MÓDULO, SOPORTE TÉCNICO BÁSICO",
     "08- Planificación-Docente-Modular",
     "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/2- Gestionar el contenido de los archivos en Bash",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3/1- Navegar por el sistema de archivos de Linux",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 3",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/4- Revisión, El sistema operativo Linux",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.4- Infraestructura en la Nube.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
@@ -234,7 +235,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.1- Infraestructura de Red.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/2.1- Pruebas Unitarias.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/1.1- PT-Process.webp",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/0- Imagenes/6.1- Panel de login, wordpress.png",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
