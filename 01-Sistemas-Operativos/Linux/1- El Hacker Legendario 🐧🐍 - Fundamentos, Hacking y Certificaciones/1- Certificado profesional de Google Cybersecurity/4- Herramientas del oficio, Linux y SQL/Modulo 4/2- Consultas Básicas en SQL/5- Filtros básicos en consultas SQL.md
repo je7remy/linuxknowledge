@@ -122,3 +122,131 @@ Ejemplos que coinciden: `ana`, `andres`, `a123`.
 Ejemplos que **no** coinciden: `maria`, `carlos`.
 
 ---
+
+
+# Repaso:
+
+
+# 🗂️ Laboratorio: Realizar una consulta SQL
+
+
+## 📌 Tarea 1: Recuperar datos de los dispositivos
+
+### 1. Obtener toda la información
+
+```sql
+SELECT *
+FROM machines;
+```
+
+👉 Devuelve todas las columnas: `device_id, operating_system, email_client, OS_patch_date, employee_id`.
+
+---
+
+### 2. Ver solo cliente de correo electrónico
+
+```sql
+SELECT device_id, email_client
+FROM machines;
+```
+
+**Pregunta:** ¿Qué cliente de correo aparece en la 3ra fila?  
+✅ Respuesta: **Email Client 2**
+
+---
+
+### 3. Ver SO y fecha de parche
+
+```sql
+SELECT device_id, operating_system, OS_patch_date
+FROM machines;
+```
+
+**Pregunta:** ¿Cuál es la fecha del primer parche?  
+✅ Respuesta: **2021-09-01**
+
+---
+
+## 📌 Tarea 2: Investigar actividad de inicio de sesión
+
+### 1. Ver ubicaciones de intentos
+
+```sql
+SELECT event_id, country
+FROM log_in_attempts;
+```
+
+**Pregunta:** ¿Hubo intentos desde Australia?  
+✅ Respuesta: **No**
+
+---
+
+### 2. Ver accesos fuera de horario
+
+```sql
+SELECT username, login_date, login_time
+FROM log_in_attempts;
+```
+
+**Pregunta:** ¿Qué usuario aparece en la 5ta fila?  
+✅ Respuesta: **jrafael**
+
+_(Opcional para horarios)_
+
+```sql
+WHERE login_time NOT BETWEEN '08:00:00' AND '17:00:00';
+```
+
+---
+
+### 3. Ver todos los intentos
+
+```sql
+SELECT *
+FROM log_in_attempts;
+```
+
+---
+
+## 📌 Tarea 3: Ordenar los intentos de acceso
+
+### 1. Ordenar por fecha
+
+```sql
+SELECT *
+FROM log_in_attempts
+ORDER BY login_date;
+```
+
+**Pregunta:** ¿Quién aparece primero?  
+✅ Respuesta: **ivelasco on 2022-05-08**
+
+---
+
+### 2. Ordenar por fecha y hora
+
+```sql
+SELECT *
+FROM log_in_attempts
+ORDER BY login_date, login_time;
+```
+
+**Pregunta:** ¿Quién aparece primero?  
+✅ Respuesta: **bsand at 00:19:11**
+
+---
+
+## 🏁 Conclusión del Lab
+
+Ahora dominas:
+
+- `SELECT columna1, columna2 FROM tabla;` → seleccionar columnas específicas.
+    
+- `SELECT * FROM tabla;` → seleccionar todas las columnas.
+    
+- `ORDER BY columna;` → ordenar resultados.
+    
+
+Estas son las bases para consultas más avanzadas con **filtros** (`WHERE`, `LIKE`, `AND`, `OR`, etc.).
+
+---
