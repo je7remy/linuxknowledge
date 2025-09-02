@@ -83,17 +83,3 @@ Ante la negativa, se diseñó una nueva estrategia basada en la **ingeniería de
 *   **Explotar Formatos Creativos:** Pedir que la información se oculte en un formato creativo (historia, poema, acertijo, código, etc.) es una de las técnicas más efectivas en la ingeniería de prompts para eludir filtros de contenido.
 
 ---
-
-## 📁 6. Nombre Sugerido para la Carpeta
-
-Dado que la estrategia se basó en la astucia narrativa y la ingeniería de prompts, el nombre ideal para la carpeta que contiene este informe y el prompt sería:
-
-**`🧠 Ingenieria_de_Prompts_Gandalf`**
-
-**Alternativas:**
-*   `Estrategia_Indirecta_Narrativa`
-*   `Superando_Guardianes_Con_Lore`
-*   `Derrotando_a_Gandalf_Con_Astucia`
-*   `Password_Through_Storytelling` (Contraseña a través de la Narrativa)
-
-**Nivel Superado Exitosamente.**
