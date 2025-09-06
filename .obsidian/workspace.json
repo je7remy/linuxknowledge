@@ -11,12 +11,14 @@
             "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion.pdf"
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/6- Laboratorio Filtrado con AND, OR y NOT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1- Introduccion"
+              "icon": "lucide-file",
+              "title": "6- Laboratorio Filtrado con AND, OR y NOT"
             }
           }
         ]
@@ -187,15 +189,18 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1-.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/4- Filtrados con AND, OR y NOT.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/5- Más sobre filtros con AND, OR y NOT.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/6- Laboratorio Filtrado con AND, OR y NOT.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/3- Aplicar más filtros en SQL.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion.pdf",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1-.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/dd1nLzPTF62TcZxf32nz_ruta_de_estudio_mouredev_pro.pdf.crdownload",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI",
     "03-Desarrollo/3- Proyecto Web",
     "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
     "05-Recursos/Excel",
     "03-Desarrollo/1- Bases de Datos/SQL.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/3- Aplicar más filtros en SQL.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/2- Operadores para filtrar fechas y números.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/1- Filtrar fechas y números.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL",
@@ -221,8 +226,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/6- Ponga a prueba sus Conocimientos - SQL y bases de datos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/2- Consultas Básicas en SQL",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/5- Adedayo SQL en la ciberseguridad.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/4- Filtrado SQL frente a filtrado Linux.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/3- Consulta de bases de datos con SQL.md",
     "linuxknowledge.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
