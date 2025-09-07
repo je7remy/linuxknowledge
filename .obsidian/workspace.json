@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/6- Laboratorio Filtrado con AND, OR y NOT.md",
+                "file": "01-Sistemas-Operativos/Linux/0- Configuracion inicial/2- Configuración Básica de Máquina Virtual Parrot Os.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Laboratorio Filtrado con AND, OR y NOT"
+              "title": "2- Configuración Básica de Máquina Virtual Parrot Os"
             }
           }
         ]
@@ -189,6 +189,8 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/0- Configuracion inicial/1- Configuración Básica de Máquina Virtual Kali Linux.md",
+    "01-Sistemas-Operativos/Linux/0- Configuracion inicial/2- Configuración Básica de Máquina Virtual Parrot Os.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/6- Laboratorio Filtrado con AND, OR y NOT.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/4- Filtrados con AND, OR y NOT.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/3- Filtros SQL/5- Más sobre filtros con AND, OR y NOT.md",
@@ -223,9 +225,7 @@
     "06-Publicaciones-Linkedin/0- Imagenes/ChatGPT Image 17 jun 2025, 03_55_26 p.m..png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/2- Consultas Básicas en SQL/2- Consulta de una base de datos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/2- Consultas Básicas en SQL/1- Consultas básicas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/6- Ponga a prueba sus Conocimientos - SQL y bases de datos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/2- Consultas Básicas en SQL",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL/5- Adedayo SQL en la ciberseguridad.md",
     "linuxknowledge.png",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Modulo 4/1- Bases de datos y SQL",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
