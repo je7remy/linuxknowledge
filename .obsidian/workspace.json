@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/6- Brezo - La importancia de proteger la PII.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/9- Ponga a prueba sus Conocimientos - Salvaguardar la Información.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Brezo - La importancia de proteger la PII"
+              "title": "9- Ponga a prueba sus Conocimientos - Salvaguardar la Información"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/5- Privacidad de la información - Regulaciones y Cumplimiento normativo.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/8- Hoja de trabajo de fuga de datos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/9- Ponga a prueba sus Conocimientos - Salvaguardar la Información.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/7- Actividad - Determinar las prácticas adecuadas de tratamiento de Datos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/6- Brezo - La importancia de proteger la PII.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/5- Privacidad de la información - Regulaciones y Cumplimiento normativo.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/4- Ciclo de vida de los datos.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/3- Principio de privilegio mínimo.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización/2- Controles de seguridad.md",
@@ -217,9 +220,6 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales/7- Directrices de Seguridad en acción.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales/7- Directrices de Seguridad en acción.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales/6- El marco de ciberseguridad del NIST.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales/5- Elementos de un plan de Seguridad.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales/4- Ponga a Prueba sus conocimientos.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales/3- La emergencia de la Seguridad de la nube.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
