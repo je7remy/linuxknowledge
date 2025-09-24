@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas/7- Ponga a prueba sus Conocimientos - Defectos del sistema.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/2- Evaluación y gestión de vulnerabilidades/3- La importancia de las actualizaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7- Ponga a prueba sus Conocimientos - Defectos del sistema"
+              "title": "3- La importancia de las actualizaciones"
             }
           }
         ]
@@ -189,8 +189,12 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas/6- Inteligencia de fuentes abiertas.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/2- Evaluación y gestión de vulnerabilidades/3- La importancia de las actualizaciones.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/2- Evaluación y gestión de vulnerabilidades/2- Enfoques para la exploración de vulnerabilidades.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/2- Evaluación y gestión de vulnerabilidades/1- Evaluaciones de vulnerabilidades.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/2- Evaluación y gestión de vulnerabilidades",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas/7- Ponga a prueba sus Conocimientos - Defectos del sistema.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas/6- Inteligencia de fuentes abiertas.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas/5- El OWASP Top 10.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas/4- Vulnerabilidades y exposiciones comunes.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas/3- Estrategia de defensa en profundidad.md",
@@ -216,9 +220,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/2- Fundamentos de la Criptografía/7- Actividad - Crear valores hash.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/2- Fundamentos de la Criptografía/6- La evolución de las funciones hash.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/2- Fundamentos de la Criptografía/5- No repudio y hash.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/2- Fundamentos de la Criptografía/4- Actividad - Desencriptación de un mensaje encriptado.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/2- Fundamentos de la Criptografía/3- Cifrado simétrico y asimétrico.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/2- Fundamentos de la Criptografía/2- Infraestructura de clave pública.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
@@ -234,7 +235,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 2/1- Proteger los recursos de la organización",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/1- Fundamentos de la Seguridad de los Recursos",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 4/5- Conclusiones",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
