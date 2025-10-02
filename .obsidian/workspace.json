@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 4/2- Seguridad en Aplicaciones Web/15- Glosario del curso 5.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/3- Introducción al ciclo de vida de la Respuesta ante incidentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15- Glosario del curso 5"
+              "title": "3- Introducción al ciclo de vida de la Respuesta ante incidentes"
             }
           }
         ]
@@ -187,8 +187,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87088476cafe3f48",
+  "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/2- Dave - Haga crecer su carrera en ciberseguridad con mentores.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/3- Introducción al ciclo de vida de la Respuesta ante incidentes.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/1- Introducción al curso.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/Sin nombre",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta",
+    "02-Ciberseguridad/3- hacking basico/2- basico/4- Metasploit.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/2- Uso Básico del Módulo OS.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 4/2- Seguridad en Aplicaciones Web/15- Glosario del curso 5.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/5- Revisión, Endurecimiento de seguridad/2- Recapitulación.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/5- Revisión, Endurecimiento de seguridad/5- Actividad del Portfolio, Utilizar el marco de Ciberseguridad del NIST para responder a un Incidente de Seguridad.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/5- Revisión, Endurecimiento de seguridad/3- Términos del glosario del Módulo 4.md",
@@ -209,12 +218,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/8- Fortalézcase contra los ciberataques de fuerza bruta.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/6- Caminos a través de las defensas.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/7- Autorreflexión - Superficies y Vectores de Ataque en el Hogar.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/4- Endurecimiento de las nubes/1- Seguridad de red en la nube.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/5- Niru - Adopte una mentalidad de atacante.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/2- Proteger todos los puntos de entrada.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/4- Tipos de agentes de amenaza.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/3- Enfoque la ciberseguridad con mentalidad de atacante.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética/1- Actividad de Portfolio - Analizar un sistema vulnerable para una pequeña empresa.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.4- Infraestructura en la Nube.jpg",
@@ -232,9 +235,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/2- Evaluación y gestión de vulnerabilidades",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/1- Vulnerabilidades en los Sistemas",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 4/2- Seguridad en Aplicaciones Web",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 4/1- Amenaza a la Seguridad de los Recursos",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/3- Endurecimiento de la red",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
