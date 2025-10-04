@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/7- Fátima - La importancia de la Comunicación durante la Respuesta ante incidentes.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/10- Ponga a prueba sus Conocimientos - Operaciones de respuesta ante incidentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7- Fátima - La importancia de la Comunicación durante la Respuesta ante incidentes"
+              "title": "10- Ponga a prueba sus Conocimientos - Operaciones de respuesta ante incidentes"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/6- Equipos de Respuesta ante incidentes.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/9- Planes de respuesta ante incidentes.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/10- Ponga a prueba sus Conocimientos - Operaciones de respuesta ante incidentes.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/8- Funciones en la respuesta.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/7- Fátima - La importancia de la Comunicación durante la Respuesta ante incidentes.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/6- Equipos de Respuesta ante incidentes.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/5- Ponga a prueba sus Conocimientos - El ciclo de vida de la Respuesta ante incidentes.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/4- Actividad de Portfolio - Documentar un incidente con el Diario del gestor de incidentes.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/3- Introducción al ciclo de vida de la Respuesta ante incidentes.md",
@@ -215,9 +218,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/6- ¡Enhorabuena por haber completado el Curso 3!/1- Resumen del curso.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/4- Conclusion/2- Ponga a prueba sus Conocimientos - Mentalidad del ciberatacante.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/4- Conclusion/1- Identificar los vectores de ataque de una unidad USB.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/4- Endurecimiento de las nubes/5- Ponga a prueba sus Conocimientos, Endurecimiento de las Nubes.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/4- Endurecimiento de las nubes/3- Asegure la nube.md",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/4- Endurecimiento de las nubes/4- Criptografía y Seguridad de la nube.md",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.4- Infraestructura en la Nube.jpg",
