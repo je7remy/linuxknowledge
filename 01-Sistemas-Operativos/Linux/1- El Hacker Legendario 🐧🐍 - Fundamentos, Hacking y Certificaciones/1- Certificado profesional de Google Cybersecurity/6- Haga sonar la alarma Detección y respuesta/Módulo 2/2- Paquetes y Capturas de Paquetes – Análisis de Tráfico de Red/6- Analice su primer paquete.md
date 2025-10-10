@@ -415,3 +415,250 @@ Después de completar este lab, aprendiste a:
 - Inspeccionar capas Ethernet, IP, TCP/UDP y DNS.  
 
 Esto es un hito importante para analizar **tráfico de red y detectar posibles incidentes de seguridad**.
+
+
+---
+
+# Mas repasos
+
+
+## Tarea 1: Explora datos con Wireshark
+
+En esta tarea, debes abrir un archivo de captura de paquetes de red que contiene datos capturados de un sistema que realizó solicitudes web a un sitio. Abrirás estos datos con Wireshark para obtener un panorama de cómo se muestran los datos en la aplicación.
+
+Para abrir el archivo de captura de paquetes, haz doble clic en el archivo de **ejemplo** que se encuentra en el escritorio de Windows. Esta acción iniciará Wireshark.
+
+El archivo de captura de paquetes tiene el ícono de archivo de captura de paquetes de Wireshark, que muestra la aleta de un tiburón que nada sobre tres filas de dígitos binarios. Este archivo tiene una extensión **.pcap** que está oculta de forma predeterminada en Windows Explorer y en la vista para computadoras de escritorio.
+
+_Nota: Es posible que aparezca un cuadro de diálogo **Software Update** para notificarte que hay una nueva versión de Wireshark disponible. Haz clic en **Skip this version**_.
+
+Haz doble clic en la barra de título de Wireshark junto al nombre de archivo **sample.pcap** para maximizar la ventana de la aplicación Wireshark. Se mostrará una lista con una gran cantidad de tráfico de paquetes de red.
+
+A continuación, una descripción general de las columnas clave:
+
+- **No.**: El número de índice del paquete.
+    
+- **Time**: La marca de tiempo del paquete.
+    
+- **Source**: La dirección IP de origen.
+    
+- **Destination**: La dirección IP de destino.
+    
+- **Protocol**: El protocolo contenido en el paquete.
+    
+- **Length**: La longitud total del paquete.
+    
+- **Info**: Información sobre los datos en el paquete.
+    
+
+Desplázate hacia abajo en la lista de paquetes hasta que aparezca un paquete donde la columna de información comience con las palabras "Echo (ping) request".
+
+**¿Cuál es el protocolo del primer paquete de la lista donde la columna de información comienza con las palabras 'Echo (ping) request'?**
+
+- SSH
+    
+- TCP
+    
+- HTTP
+    
+- ✅ **ICMP**
+    
+
+**Respuesta**: ICMP es el tipo de protocolo que se muestra para el primer paquete (y todos los demás) que contenga "Echo (ping) request" en la columna de información.
+
+---
+
+## Tarea 2: Aplica un filtro de Wireshark básico e inspecciona un paquete
+
+En esta tarea, abrirás un paquete en Wireshark para realizar una exploración más detallada y filtrarás los datos para inspeccionar las capas de red y los protocolos contenidos en el paquete.
+
+Ingresa el siguiente filtro en el cuadro de texto **Apply a display filter…**:
+
+```
+ip.addr == 142.250.1.139
+```
+
+Presiona **Intro**. La lista de paquetes se reducirá significativamente.
+
+Haz doble clic en el primer paquete de la lista que tenga **TCP** como protocolo. Se abrirá una ventana del panel de detalles del paquete.
+
+- Haz doble clic en el subárbol **Frame** para expandirlo y contraerlo.
+    
+- Haz doble clic en el subárbol **Ethernet II** para expandirlo y contraerlo.
+    
+- Haz doble clic en el subárbol **Internet Protocol Version 4** para expandirlo y contraerlo.
+    
+- Haz doble clic en el subárbol **Transmission Control Protocol** para expandirlo.
+    
+
+**¿Cuál es el puerto de destino TCP de este paquete TCP?**
+
+- 53
+    
+- 200
+    
+- 66
+    
+- ✅ **80**
+    
+
+**Respuesta**: El puerto 80 es el puerto de destino TCP para este paquete. Contiene la solicitud web inicial a un sitio web HTTP que, por lo general, escucha mediante el puerto TCP 80.
+
+En el subárbol **Transmission Control Protocol**, desplázate hacia abajo y haz doble clic en **Flags**. Verás una vista detallada de las marcas de TCP establecidas en este paquete.
+
+Cierra la ventana de inspección de paquetes y haz clic en el ícono **X Clear display filter** para quitar el filtro.
+
+---
+
+## Tarea 3: Usa filtros para seleccionar paquetes
+
+En esta tarea, usarás filtros para analizar paquetes de red específicos según su origen o destino.
+
+Ingresa el siguiente filtro para seleccionar el tráfico de una IP de origen específica:
+
+```
+ip.src == 142.250.1.139
+```
+
+Presiona **Intro**. Después de observar, haz clic en el ícono **X Clear display filter**.
+
+Ahora, ingresa el siguiente filtro para el tráfico de una IP de destino específica:
+
+```
+ip.dst == 142.250.1.139
+```
+
+Presiona **Intro**. Después de observar, haz clic en el ícono **X Clear display filter**.
+
+Finalmente, ingresa el siguiente filtro para una dirección MAC de Ethernet específica:
+
+```
+eth.addr == 42:01:ac:15:e0:02
+```
+
+Presiona **Intro**. Haz doble clic en el primer paquete de la lista. Expande el subárbol **Internet Protocol Version 4** y localiza el campo **Protocol**.
+
+**¿Cuál es el protocolo contenido en el subárbol Internet Protocol Version 4 del primer paquete relacionado con la dirección MAC 42:01:ac:15:e0:02?**
+
+- ICMP
+    
+- UDP
+    
+- ✅ **TCP**
+    
+- ESP
+    
+
+**Respuesta**: TCP es el protocolo interno contenido en el primer paquete de la dirección MAC 42:01:ac:15:e0:02.
+
+Cierra la ventana de inspección y limpia el filtro.
+
+---
+
+## Tarea 4: Usa filtros para explorar paquetes de DNS
+
+En esta tarea, usarás filtros para seleccionar y examinar el tráfico de DNS.
+
+Ingresa el siguiente filtro para seleccionar el tráfico del puerto UDP 53 (DNS):
+
+```
+udp.port == 53
+```
+
+Presiona **Intro**.
+
+1. Haz doble clic en el **primer paquete** de la lista. Expande los subárboles **Domain Name System (query)** y luego **Queries**. Verás que el nombre consultado es `opensource.google.com`. Cierra la ventana.
+    
+2. Haz doble clic en el **cuarto paquete** de la lista. Expande los subárboles **Domain Name System (query)** y luego **Answers**.
+    
+
+**¿Cuál de estas direcciones IP se muestra en la sección Answers expandida de la consulta de DNS correspondiente a opensource.google.com?**
+
+- ❌ 169.254.169.254
+    
+- ✅ **142.250.1.139**
+    
+- ❌ 172.21.224.1
+    
+- ❌ 139.1.250.142
+    
+
+**Respuesta**: La dirección IP 142.250.1.139 se muestra en la sección Answers expandida de la consulta de DNS para `opensource.google.com`.
+
+Cierra la ventana de inspección y limpia el filtro.
+
+---
+
+## Tarea 5: Usa filtros para explorar paquetes de TCP
+
+En esta tarea, usarás filtros adicionales para seleccionar y examinar paquetes de TCP.
+
+Ingresa el siguiente filtro para el tráfico web (puerto TCP 80):
+
+```
+tcp.port == 80
+```
+
+Presiona **Intro**. Haz doble clic en el primer paquete de la lista (con IP de destino **169.254.169.254**).
+
+**¿Cuál es el valor de Time to Live del paquete como se especifica en el subárbol Internet Protocol Version 4?**
+
+- 16
+    
+- 128
+    
+- 32
+    
+- ✅ **64**
+    
+
+**Respuesta**: El valor de Time to Live es 64.
+
+**¿Cuál es el valor de Frame Length del paquete como se especifica en el subárbol Frame?**
+
+- ✅ **54 bytes**
+    
+- 74 bytes
+    
+- 60 bytes
+    
+- ❌ 40 bytes
+    
+
+**Respuesta**: El valor de Frame Length es 54 bytes.
+
+**¿Cuál es el valor de Header Length del paquete como se especifica en el subárbol Internet Protocol Version 4?**
+
+- 54 bytes
+    
+- 60 bytes
+    
+- ✅ **20 bytes**
+    
+- 74 bytes
+    
+
+**Respuesta**: El valor de Header Length es 20 bytes.
+
+**¿Cuál es el valor de Destination Address como se especifica en el subárbol Internet Protocol Version 4?**
+
+- ✅ **169.254.169.254**
+    
+- 239.1.250.142
+    
+- 172.21.224.2
+    
+- 142.250.1.139
+    
+
+**Respuesta**: La Destination Address es 169.254.169.254.
+
+Cierra la ventana de inspección y limpia el filtro.
+
+Ingresa el siguiente filtro para seleccionar datos de paquetes que contengan texto específico:
+
+```
+tcp contains "curl"
+```
+
+Presiona **Intro**. Esta acción filtra los paquetes que contienen solicitudes web realizadas con el comando `curl`.
