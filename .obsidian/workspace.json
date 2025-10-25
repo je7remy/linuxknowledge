@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones/6- Ponga a prueba sus Conocimientos - Introducción a las funciones.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/7- Ponga a prueba sus Conocimientos - Argumentos, parámetros y sentencias de retorno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Ponga a prueba sus Conocimientos - Introducción a las funciones"
+              "title": "7- Ponga a prueba sus Conocimientos - Argumentos, parámetros y sentencias de retorno"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "whaling",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,8 +189,17 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones/5- Actividad, Definir y llamar a una función.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/6- Crear más funciones.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/7- Ponga a prueba sus Conocimientos - Argumentos, parámetros y sentencias de retorno.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/5- Trabajar con funciones integradas.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/4- Explorar las funciones integradas.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/3- Funciones y variables.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/2- Sentencias de retorno.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/1- Utilizar parámetros en las funciones.md",
+    "Sin nombre",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones/6- Ponga a prueba sus Conocimientos - Introducción a las funciones.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones/5- Actividad, Definir y llamar a una función.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones/4- Funciones de Python en ciberseguridad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones/3- Crear una función básica.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones/2- Introducción a las funciones.md",
@@ -212,19 +221,10 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 2/1- La historia de la ciberseguridad/4- Ataques comunes y su efectividad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/3- Sentencias condicionales e iterativas/1- Sentencias condicionales en Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/3- Sentencias condicionales e iterativas",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/2- Componentes principales de Python/6- Ponga a prueba sus Conocimientos - Componentes básicos de Python.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/2- Componentes principales de Python/5- Actividad - Asignar variables Python.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/2- Componentes principales de Python/4- Asignar y reasignar variables en Python.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/2- Componentes principales de Python/3- Trabajar con variables en Python.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/2- Componentes principales de Python/2- Más información sobre los tipos de datos.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/2- Componentes principales de Python/1- Tipos de datos en Python.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/1- Introducción a la programación Python en ciberseguridad/9- Ponga a prueba sus Conocimientos - Introducción a la programación Python en ciberseguridad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/2- Componentes principales de Python",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/1- Introducción a la programación Python en ciberseguridad",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/0- Comenzar el curso",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 4/4- Cierre del Módulo 4 - Evaluación y Reflexión Final",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/1- Mi Version.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
