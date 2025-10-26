@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/4- Repasar Trabajar con cadenas y listas/4- Desafío del módulo 3.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python/6- Ponga a prueba sus Conocimientos - Python y la automatización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Desafío del módulo 3"
+              "title": "6- Ponga a prueba sus Conocimientos - Python y la automatización"
             }
           }
         ]
@@ -189,8 +189,16 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/4- Repasar Trabajar con cadenas y listas/3- Términos del glosario del Módulo 3.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python/5- Clancy - Aprendizaje continuo y Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python/6- Ponga a prueba sus Conocimientos - Python y la automatización.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python/4- Componentes esenciales de Python para la automatización.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python/3- Automatización de tareas en CI-CD.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python/2- Automatice las tareas de ciberseguridad con Python.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python/1- Bienvenido al Módulo 4.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/4- Repasar Trabajar con cadenas y listas/4- Desafío del módulo 3.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/1- Automatizar tareas de seguridad cibernética con Python",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/4- Repasar Trabajar con cadenas y listas/3- Términos del glosario del Módulo 3.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/4- Repasar Trabajar con cadenas y listas/2- Guía de referencia - Conceptos de Python del Módulo 3.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/4- Repasar Trabajar con cadenas y listas/1- Recapitulación.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/3- Expresiones regulares/4- Ponga a prueba sus Conocimientos - Expresiones regulares.md",
@@ -214,17 +222,9 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/4- Revisar, Escribir código Python eficaz/4- Desafío del módulo 2.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/1- Trabajar con cuerdas",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/4- Revisar, Escribir código Python eficaz/3- Términos del glosario del Módulo 2.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/4- Revisar, Escribir código Python eficaz/2- Guía de referencia - Conceptos de Python del Módulo 2.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/4- Revisar, Escribir código Python eficaz/1- Recapitulación.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/3- Aprenda de la comunidad Python/6- Ponga a prueba sus Conocimientos - Aprenda de la comunidad Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/4- Revisar, Escribir código Python eficaz",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/3- Aprenda de la comunidad Python/5- Dorsa - Utilizar Python de forma eficaz en un equipo de ciberseguridad.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/3- Aprenda de la comunidad Python/4- Garantizar una sintaxis y legibilidad adecuadas en Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/3- Aprenda de la comunidad Python",
     "Sin nombre",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/1- Mi Version.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
