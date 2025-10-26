@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos/5- Ponga a prueba sus Conocimientos - Trabaje con listas y desarrolle algoritmos.md",
+                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/3- Expresiones regulares/4- Ponga a prueba sus Conocimientos - Expresiones regulares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Ponga a prueba sus Conocimientos - Trabaje con listas y desarrolle algoritmos"
+              "title": "4- Ponga a prueba sus Conocimientos - Expresiones regulares"
             }
           }
         ]
@@ -189,8 +189,13 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos/4- Actividad - Desarrollar un algoritmo.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/3- Expresiones regulares/3- Actividad - Utilizar expresiones regulares para encontrar patrones.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/3- Expresiones regulares/4- Ponga a prueba sus Conocimientos - Expresiones regulares.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/3- Expresiones regulares/2- Más información sobre expresiones regulares.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/3- Expresiones regulares/1- Expresiones regulares en Python.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos/5- Ponga a prueba sus Conocimientos - Trabaje con listas y desarrolle algoritmos.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/3- Expresiones regulares",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos/4- Actividad - Desarrollar un algoritmo.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos/3- Listas y el analista de Seguridad.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos/2- Escriba un algoritmo sencillo.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos/1- Operaciones de Lista en Python.md",
@@ -216,15 +221,10 @@
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/3- Aprenda de la comunidad Python/1- Módulos y bibliotecas.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/7- Ponga a prueba sus Conocimientos - Argumentos, parámetros y sentencias de retorno.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/3- Aprenda de la comunidad Python",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/6- Crear más funciones.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/5- Trabajar con funciones integradas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/4- Explorar las funciones integradas.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones/3- Funciones y variables.md",
     "Sin nombre",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/1- Introducción a las funciones",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/4- Revisión - Introducción a Python",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/1- Mi Version.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
