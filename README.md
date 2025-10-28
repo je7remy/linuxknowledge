@@ -112,7 +112,7 @@ Este repositorio incluye recursos valiosos para aprendizaje y referencia:
 5. **Copiar el contenido del repositorio (solo para usuarios de Windows)**  
    Usa este comando en una terminal (como **PowerShell** o el **Símbolo del sistema**) para copiar el contenido sin problemas de rutas largas:
    ```bash
-   robocopy "C:\linuxknowledge" "C:\repos\linuxknowledge" /E /COPYALL /XJ /R:3 /W:5 /MT:16 /XD ".git"
+   robocopy "C:\linuxknowledge" "C:\repos\linuxknowledge" /E /COPYALL /XJ /R:3 /W:5 /MT:16
    ```
    - Ajusta las rutas según tu caso.
 
