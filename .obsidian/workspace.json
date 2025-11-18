@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Qué es un backend.md",
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/4- API y FastAPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Qué es un backend"
+              "title": "4- API y FastAPI"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,6 +190,8 @@
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion.pdf",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/4- API y FastAPI.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- Test de conocimientos, Qué es un backend.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Qué es un backend.md",
     "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/4- Diapositiva de Presentacion/PRESENTACION%20TESIS.pdf",
@@ -222,8 +224,6 @@
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/1- Mantente informado sobre la IA/2- Mantente al día con la IA.md",
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/1- Mantente informado sobre la IA/1- Introducción al curso 5, Mantente a la vanguardia de la IA.md",
     "07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/Módulo 3/1- Revisión, Utiliza la IA de forma responsable/2- Desafío del Curso 4.md",
-    "07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/Módulo 3/1- Revisión, Utiliza la IA de forma responsable/1- Actividad de cierre.md",
-    "07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/Módulo 2/1- IA para el bienestar social/5- Lista de comprobación para usar la IA de forma responsable.md",
     "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Sin título.canvas",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/1- Mi Version.png",
