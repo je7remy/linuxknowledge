@@ -11,12 +11,14 @@
             "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/Guia Bash.pdf"
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/3- Hola mundo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Guia Bash"
+              "icon": "lucide-file",
+              "title": "3- Hola mundo"
             }
           }
         ]
@@ -187,12 +189,16 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/1- Introduccion.pdf",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/3- Hola mundo.md",
+    "Pasted image 20251124211738.png",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/2- Test de conocimientos - Configuración FastAPI.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/1- Configuración FastAPI.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/Guia Bash.pdf",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/OVa360SBRU2kwdSFZhtx_guia_bash_mouredev_pro.pdf",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/Sin título.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/1- Configuración FastAPI.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/1- Introduccion.pdf",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/7- Test de conocimientos, Type Hints.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/6- Type Hints.md",
@@ -217,13 +223,9 @@
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 4/1- Revisión, Mantente a la vanguardia de la IA/3- Conclusión de Fundamentos de IA de Google.md",
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 4/1- Revisión, Mantente a la vanguardia de la IA/2- Desafío Curso 5.md",
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 4/1- Revisión, Mantente a la vanguardia de la IA/1- Actividad de cierre.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 4/1- Revisión, Mantente a la vanguardia de la IA",
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 3/1- Fundamentos de Prompting para IA de Google/4- IA en la vida real, Mejora tus instrucciones añadiendo contexto y arquetipo.md",
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 3/1- Fundamentos de Prompting para IA de Google/3- Utiliza el marco de instrucciones de 5 pasos.md",
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 3/1- Fundamentos de Prompting para IA de Google/2- Descubre cómo la IA puede ayudar en el trabajo.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 3/1- Fundamentos de Prompting para IA de Google/1- Da el siguiente paso con Google Prompting Essentials.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 2/1- Continúa tu recorrido por la IA/3- Actividad, Planifica futuras oportunidades con la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 2/1- Continúa tu recorrido por la IA/2- Greg, Sigue explorando con la IA.md",
     "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Sin título.canvas",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/1- Mi Version.png",
@@ -233,7 +235,6 @@
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.4- Infraestructura en la Nube.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.3- Aplicaciones Móviles.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.2- Aplicaciones Web.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.1- Infraestructura de Red.jpg",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
