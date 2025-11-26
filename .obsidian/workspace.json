@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/3- Hola mundo.md",
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/4- Test de conocimientos, Hola mundo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Hola mundo"
+              "title": "4- Test de conocimientos, Hola mundo"
             }
           }
         ]
@@ -189,10 +189,11 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/1- Introduccion.pdf",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/3- Hola mundo.md",
-    "Pasted image 20251124211738.png",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/4- Test de conocimientos, Hola mundo.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/2- Test de conocimientos - Configuración FastAPI.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/1- Introduccion.pdf",
+    "Pasted image 20251124211738.png",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/1- Configuración FastAPI.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/Guia Bash.pdf",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",

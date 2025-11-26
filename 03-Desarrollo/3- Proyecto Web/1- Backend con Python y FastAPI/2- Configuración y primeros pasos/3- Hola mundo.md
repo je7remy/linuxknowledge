@@ -25,7 +25,7 @@ async def root():
 # 3. Operación de ruta - URL Específica
 @app.get("/url")
 async def url():
-    return {"url": "https://animeav1.com/"}
+    return {"url": "https://mouredev.com/python"}
 ```
 
 ---
