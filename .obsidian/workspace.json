@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/8- Test de conocimientos - Prueba de APIs.md",
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/1- Peticiones HTTP, Operación GET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8- Test de conocimientos - Prueba de APIs"
+              "title": "1- Peticiones HTTP, Operación GET"
             }
           }
         ]
@@ -190,6 +190,8 @@
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/8- Test de conocimientos - Prueba de APIs.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/1- Peticiones HTTP, Operación GET.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/7- Prueba de APIs.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/6- Test de conocimientos, Documentación API.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/5- Documentación API.md",
@@ -219,14 +221,12 @@
     "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto/1- Configura tu entorno de desarrollo.md",
     "03-Desarrollo/2- Tesis Universitaria/Cambios/1- Cambios.md",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/1- Guia/rez,_John_Anthony_Trabajo_final_de_grado-John_y_Alison_final.pdf",
-    "03-Desarrollo/2- Tesis Universitaria/Cambios",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/4- Sistema Web de Gestión de Citas Médicas.md",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/3- Capítulo 1, Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025.md",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/2- Borrón Anteproyecto 1.md",
     "03-Desarrollo/2- Tesis Universitaria/2- Anteproyecto/1- Formato y Contenido del Anteproyecto.md",
     "03-Desarrollo/1- Bases de Datos/SQL.md",
     "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 4/1- Revisión, Mantente a la vanguardia de la IA/3- Conclusión de Fundamentos de IA de Google.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 4/1- Revisión, Mantente a la vanguardia de la IA/2- Desafío Curso 5.md",
     "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Sin título.canvas",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/1- Mi Version.png",
