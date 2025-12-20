@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/5- Path y Query.md",
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/6- Test de conocimientos - Path y Query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Path y Query"
+              "title": "6- Test de conocimientos - Path y Query"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/6- Test de conocimientos - Path y Query.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/5- Path y Query.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/6- Test de conocimientos - Path y Query.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/4- Test de conocimientos - Creación API.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/3- Creación API.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/2- Test de conocimientos - Peticiones HTTP y operación GET.md",
