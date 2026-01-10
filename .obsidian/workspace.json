@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/8- Test de conocimientos - Operaciones POST, PUT y DELETE.md",
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/9- HTTP status codes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8- Test de conocimientos - Operaciones POST, PUT y DELETE"
+              "title": "9- HTTP status codes"
             }
           }
         ]
@@ -191,6 +191,11 @@
   "lastOpenFiles": [
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/7- Peticiones HTTP - Operaciones POST, PUT y DELETE.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/8- Test de conocimientos - Operaciones POST, PUT y DELETE.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/9- HTTP status codes.md",
+    "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto/1- Configura tu entorno de desarrollo.md",
+    "03-Desarrollo/2- Tesis Universitaria/1- Propuesta/Sistema de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch.md",
+    "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
+    "03-Desarrollo/2- Tesis Universitaria/Cambios/1- Cambios.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/5- Path y Query.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/6- Test de conocimientos - Path y Query.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/4- Test de conocimientos - Creación API.md",
@@ -217,15 +222,10 @@
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/6- Type Hints.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/5- Test de conocimientos, API y FastAPI.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/4- API y FastAPI.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/3- Test de conocimientos, Qué es un backend.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/2- Qué es un backend.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion",
     "Pasted image 20251118214155.png",
-    "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/4- Diapositiva de Presentacion/PRESENTACION%20TESIS.pdf",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/1- Guia/Proyecto de tesis.pdf",
-    "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto/1- Configura tu entorno de desarrollo.md",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/1- Guia/rez,_John_Anthony_Trabajo_final_de_grado-John_y_Alison_final.pdf",
     "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Sin título.canvas",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
