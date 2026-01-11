@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/9- HTTP status codes.md",
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/10- Test de conocimientos - HTTP status codes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9- HTTP status codes"
+              "title": "10- Test de conocimientos - HTTP status codes"
             }
           }
         ]
@@ -189,9 +189,10 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/9- HTTP status codes.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/10- Test de conocimientos - HTTP status codes.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/7- Peticiones HTTP - Operaciones POST, PUT y DELETE.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/8- Test de conocimientos - Operaciones POST, PUT y DELETE.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/9- HTTP status codes.md",
     "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto/1- Configura tu entorno de desarrollo.md",
     "03-Desarrollo/2- Tesis Universitaria/1- Propuesta/Sistema de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch.md",
     "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
@@ -221,7 +222,6 @@
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/7- Test de conocimientos, Type Hints.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/6- Type Hints.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/5- Test de conocimientos, API y FastAPI.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion",
     "Pasted image 20251118214155.png",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/4- Diapositiva de Presentacion/PRESENTACION%20TESIS.pdf",
