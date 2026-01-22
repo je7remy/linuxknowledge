@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/12- Test de conocimientos - Routers.md",
+                "file": "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/14- Test de conocimientos - Recursos estáticos, cookies y headers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12- Test de conocimientos - Routers"
+              "title": "14- Test de conocimientos - Recursos estáticos, cookies y headers"
             }
           }
         ]
@@ -189,6 +189,8 @@
   },
   "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/13- Recursos estáticos, cookies y headers.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/14- Test de conocimientos - Recursos estáticos, cookies y headers.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/12- Test de conocimientos - Routers.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/11- Routers.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/10- Test de conocimientos - HTTP status codes.md",
@@ -217,9 +219,7 @@
     "Pasted image 20251124211738.png",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/1- Configuración FastAPI.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/Guia Bash.pdf",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/10- Securización de Servidores Linux (EN DESARROLLO)/2- Protección del Protocolo FTP.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/OVa360SBRU2kwdSFZhtx_guia_bash_mouredev_pro.pdf",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/Sin título.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion",
