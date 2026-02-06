@@ -10,8 +10,9 @@ Resumen/Síntesis
 Dedicatoria
 Agradecimientos
 Índice General
-Índice de Figuras
 Índice de Tablas
+Índice de Figuras
+
 
 ---
 
@@ -192,8 +193,9 @@ Resumen/Síntesis
 Dedicatoria
 Agradecimientos
 Índice General
-Índice de Figuras - TABLA 
 Índice de Tablas - TABLA
+Índice de Figuras - TABLA 
+
 
 ---
 
@@ -322,3 +324,24 @@ Anexo D: Manuales de Usuario - NIVEL 2
 Anexo E: Códigos Fuente Principales - NIVEL 2
 
 
+Figura 1 Planteamiento del Problema
+```mermaid
+flowchart TB
+    A["Problema Central: Ineficiencia en la gestión de citas médicas"]
+
+    A --> B["Causas del problema"]
+    B --> B1["Procesos manuales"]
+    B1 --> B2["Registros en papel"]
+    B2 --> B3["Falta de sistema digital"]
+    B3 --> B4["Falta de sincronización entre agendas de secretarias y médicos"]
+
+    A --> C["Consecuencias"]
+    C --> C1["Largas esperas"]
+    C1 --> C2["Duplicación de citas"]
+    C2 --> C3["Errores administrativos"]
+    C3 --> C4["Sobrecarga del personal"]
+    C4 --> C5["Retrasos en la atención diaria"]
+    C5 --> C6["Insatisfacción del paciente"]
+
+
+```
