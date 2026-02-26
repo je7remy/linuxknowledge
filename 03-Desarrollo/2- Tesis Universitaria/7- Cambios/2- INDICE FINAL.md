@@ -324,7 +324,8 @@ Anexo D: Manuales de Usuario - NIVEL 2
 Anexo E: Códigos Fuente Principales - NIVEL 2
 
 
-Figura 1 Planteamiento del Problema
+Figura 1 
+Planteamiento del Problema
 ```mermaid
 flowchart TB
     A["Problema Central: Ineficiencia en la gestión de citas médicas"]
@@ -345,3 +346,140 @@ flowchart TB
 
 
 ```
+
+
+---
+
+# ¿QUÉ CAPÍTULOS DE LA TESIS CUBRE TU ANTEPROYECTO?
+
+## RESPUESTA DIRECTA:
+
+El anteproyecto cubre aproximadamente:
+
+✅ **CAPÍTULO 1: 100% completo** ⚠️ **CAPÍTULO 2: 50% completo** (hay base, pero falta ampliar) ⚠️ **CAPÍTULO 3: 70% completo** (hay bastante, falta formalizar algunas partes) ❌ **CAPÍTULOS 4-9: 0%** (no se pueden hacer sin desarrollar el sistema)
+
+---
+
+## DESGLOSE DETALLADO:
+
+### 📗 CAPÍTULO 1: ASPECTOS GENERALES - ✅ 100%
+
+**LO QUE YA TIENES ESCRITO EN EL ANTEPROYECTO:**
+
+|Sección Tesis|En Anteproyecto|Estado|
+|---|---|---|
+|1.1. Introducción|✅ Sección 1.1|Completo|
+|1.2. Antecedentes|✅ Sección 1.5.1|Completo|
+|1.3. Planteamiento del Problema|✅ Sección 1.8|Completo|
+|1.4. Justificación|✅ Sección 1.3|Completo|
+|1.5. Motivación|✅ Sección 1.4|Completo|
+|1.6. Importancia del Problema|✅ Sección 1.7|Completo|
+|1.7. Objetivos|✅ Sección 1.6|Completo|
+|1.8. Descripción de la Propuesta|✅ Sección 1.2|Completo|
+|1.9. Alcances y Límites|✅ Sección 1.9|Completo|
+
+**CONCLUSIÓN CAP 1:** Solo necesitas copiar y pegar del anteproyecto, reorganizando el orden.
+
+---
+
+### 📘 CAPÍTULO 2: MARCO TEÓRICO - ⚠️ 50%
+
+**LO QUE YA TIENES:**
+
+- ✅ Antecedentes básicos (1.5.1)
+- ✅ 10 conceptos clave listados (1.5.2)
+- ✅ Mención de Ley 172-13
+
+**LO QUE FALTA DESARROLLAR:**
+
+| Sección Tesis                          | Estado     | Qué hacer                                            |
+| -------------------------------------- | ---------- | ---------------------------------------------------- |
+| 2.1. Glosario de Términos              | ⚠️ Parcial | Ampliar los 10 conceptos con definiciones completas  |
+| 2.2. Conceptos Básicos                 | ⚠️ Parcial | Desarrollar cada concepto con 1-2 párrafos           |
+| 2.3. Sistemas de Gestión en Hospitales | ❌ Falta    | Investigar sistemas similares (Epic, etc.)           |
+| 2.4. Tecnologías a Utilizar            | ⚠️ Básico  | Explicar cada tecnología (FastAPI, PostgreSQL, etc.) |
+| 2.5. Marco Legal                       | ⚠️ Básico  | Desarrollar más la Ley 172-13 y normativas           |
+
+**CONCLUSIÓN CAP 2:** Tienes la base, pero debes ampliar con investigación adicional.
+
+---
+
+### 📙 CAPÍTULO 3: METODOLOGÍA - ⚠️ 70%
+
+**LO QUE YA TIENES:**
+
+- ✅ Métodos de recolección (2.2.1)
+- ✅ Metodología Scrum (implícito en 2.2.2)
+- ✅ Herramientas y tecnologías (2.2.2)
+- ✅ Cronograma (2.5)
+- ✅ Presupuesto (2.4)
+- ✅ Formulación del problema (2.1)
+
+**LO QUE FALTA:**
+
+|Sección Tesis|Estado|Qué hacer|
+|---|---|---|
+|3.1. Tipo de Investigación|❌ Falta|Definir: "Investigación aplicada, enfoque cualitativo-cuantitativo"|
+|3.2. Formulación del Problema|✅ Tienes|Ya está en sección 2.1 del anteproyecto|
+|3.3. Métodos de Recolección|✅ Tienes|Ya está en sección 2.2.1|
+|3.4. Metodología Scrum|⚠️ Parcial|Explicar más: sprints, roles, ceremonias|
+|3.5. Herramientas|✅ Tienes|Ya listadas en 2.2.2|
+|3.6. Cronograma|✅ Tienes|Ya está en 2.5|
+|3.7. Presupuesto|✅ Tienes|Ya está en 2.4 con tabla detallada|
+
+**CONCLUSIÓN CAP 3:** Casi completo, solo falta formalizar algunas secciones.
+
+---
+
+### 📕 CAPÍTULOS 4-9 - ❌ 0%
+
+**NO ESTÁN en el anteproyecto porque requieren:**
+
+|Capítulo|Por qué NO está|
+|---|---|
+|Cap 4: Análisis y Diseño|Necesitas diseñar diagramas, base de datos, wireframes|
+|Cap 5: Desarrollo|Necesitas programar el sistema|
+|Cap 6: Seguridad|Necesitas implementar la seguridad|
+|Cap 7: Pruebas|Necesitas probar el sistema funcionando|
+|Cap 8: Implementación|Necesitas desplegar y capacitar|
+|Cap 9: Conclusiones|Necesitas tener resultados para concluir|
+
+---
+
+## 🎯 RESUMEN PARA TU ASESOR:
+
+### **Puedes mostrarle YA:**
+
+✅ **Capítulo 1 completo** (solo reorganizar lo que tienes) ⚠️ **Capítulo 2 al 50%** (base hecha, falta investigar más) ⚠️ **Capítulo 3 al 70%** (casi listo, falta formalizar)
+
+### **Total aprovechable del anteproyecto:**
+
+- **~70% de los primeros 3 capítulos**
+- Equivale a **~23% de toda la tesis** (3 de 9 capítulos)
+
+---
+
+## 📋 PLAN DE ACCIÓN:
+
+### **FASE 1 - Para mostrar al asesor (2-3 semanas):**
+
+1. ✅ Reorganizar Cap 1 del anteproyecto
+2. ⚠️ Ampliar Cap 2 con más investigación
+3. ⚠️ Completar Cap 3 formalizando Scrum y tipo de investigación
+
+### **FASE 2 - Después de aprobar con asesor:**
+
+4. ❌ Diseñar (Cap 4)
+5. ❌ Programar (Cap 5-6)
+6. ❌ Probar e implementar (Cap 7-8)
+7. ❌ Concluir (Cap 9)
+
+---
+
+## ✅ CONCLUSIÓN FINAL:
+
+**Tu anteproyecto corresponde principalmente a:**
+
+🟢 **CAPÍTULO 1** (100% cubierto) 🟡 **CAPÍTULO 2** (50% cubierto - falta ampliar) 🟡 **CAPÍTULO 3** (70% cubierto - falta formalizar)
+
+**No es solo el Cap 1, sino que cubre los primeros 3 capítulos parcialmente.**

@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74d7a469923b13d5",
+        "id": "d6f8c12ec88fe490",
         "type": "tabs",
         "children": [
           {
-            "id": "802609f806ca684a",
+            "id": "b3d49f1a0b73715c",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "03-Desarrollo/2- Tesis Universitaria/7- Cambios/2- INDICE FINAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2- INDICE FINAL"
             }
           }
         ]
@@ -182,14 +187,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "802609f806ca684a",
+  "active": "b3d49f1a0b73715c",
   "lastOpenFiles": [
+    "03-Desarrollo/2- Tesis Universitaria/7- Cambios/1- TECNOLOGIAS.md",
     "03-Desarrollo/2- Tesis Universitaria/7- Cambios/2- INDICE FINAL.md",
-    "03-Desarrollo/2- Tesis Universitaria/7- Cambios/Tesis, Sistema Web de Gestion de Citas Medicas.docx",
-    "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
+    "03-Desarrollo/2- Tesis Universitaria/7- Cambios/ChatGPT Image 25 feb 2026, 06_57_11 p.m..png",
+    "03-Desarrollo/2- Tesis Universitaria/7- Cambios/ChatGPT Image 25 feb 2026, 07_13_57 p.m..png",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/1- Guia/rez,_John_Anthony_Trabajo_final_de_grado-John_y_Alison_final.pdf",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/1- Guia/Proyecto de tesis.pdf",
-    "03-Desarrollo/2- Tesis Universitaria/7- Cambios/1- TECNOLOGIAS.md",
+    "03-Desarrollo/2- Tesis Universitaria/6- Mi Tesis/1- Mi Tesis en la Nube.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/7- Peticiones HTTP - Operaciones POST, PUT y DELETE.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/6- Test de conocimientos - Path y Query.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/7- Test de conocimientos, Type Hints.md",
+    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/5- Test de conocimientos, API y FastAPI.md",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Anteproyecto, Sistema Web de Gestión de Citas Medicas.pdf",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/a-little-bit-of-6.jpg",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_Corregido_Subtareas.pdf",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_Corregido_Subtareas_page-0001.jpg",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Cronograma_definitivo_mes.pdf",
+    "03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word/Próximamente....md",
+    "03-Desarrollo/2- Tesis Universitaria/7- Cambios/Tesis, Sistema Web de Gestion de Citas Medicas.docx",
     "03-Desarrollo/2- Tesis Universitaria/Cambios/Sin confirmar 854434.crdownload",
     "03-Desarrollo/2- Tesis Universitaria/5- Guia Completa de Tesis/4- Diapositiva de Presentacion/PRESENTACION%20TESIS.pdf",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/14- Test de conocimientos - Recursos estáticos, cookies y headers.md",
@@ -198,12 +215,10 @@
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/11- Routers.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/10- Test de conocimientos - HTTP status codes.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/9- HTTP status codes.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/7- Peticiones HTTP - Operaciones POST, PUT y DELETE.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/8- Test de conocimientos - Operaciones POST, PUT y DELETE.md",
     "03-Desarrollo/2- Tesis Universitaria/4- Configuracion Inicial del Proyecto/1- Configura tu entorno de desarrollo.md",
     "03-Desarrollo/2- Tesis Universitaria/1- Propuesta/Sistema de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/5- Path y Query.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/6- Test de conocimientos - Path y Query.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/4- Test de conocimientos - Creación API.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/3- Creación API.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs/2- Test de conocimientos - Peticiones HTTP y operación GET.md",
@@ -212,24 +227,14 @@
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/7- Prueba de APIs.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/6- Test de conocimientos, Documentación API.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/5- Documentación API.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/4- Test de conocimientos, Hola mundo.md",
-    "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos/3- Hola mundo.md",
     "03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/1- Introduccion/1- Introduccion.pdf",
     "Pasted image 20251124211738.png",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/Guia Bash.pdf",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash/OVa360SBRU2kwdSFZhtx_guia_bash_mouredev_pro.pdf",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/11- Mouredev Bash",
     "Pasted image 20251118214155.png",
     "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Sin título.canvas",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/2- Version Correcta.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 3/0- Imagenes/1- Mi Version.png",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.7- Seguridad de Software.jpg",
     "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.6- Redes Inalámbricas.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.5- Social Engineering.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.4- Infraestructura en la Nube.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.3- Aplicaciones Móviles.jpg",
-    "01-SIS~1/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/3.2- Aplicaciones Web.jpg",
     "Sin título.canvas",
     "Untitled.canvas"
   ]
