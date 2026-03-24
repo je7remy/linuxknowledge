@@ -417,15 +417,15 @@ El anteproyecto cubre aproximadamente:
 
 **LO QUE FALTA:**
 
-|Sección Tesis|Estado|Qué hacer|
-|---|---|---|
-|3.1. Tipo de Investigación|❌ Falta|Definir: "Investigación aplicada, enfoque cualitativo-cuantitativo"|
-|3.2. Formulación del Problema|✅ Tienes|Ya está en sección 2.1 del anteproyecto|
-|3.3. Métodos de Recolección|✅ Tienes|Ya está en sección 2.2.1|
-|3.4. Metodología Scrum|⚠️ Parcial|Explicar más: sprints, roles, ceremonias|
-|3.5. Herramientas|✅ Tienes|Ya listadas en 2.2.2|
-|3.6. Cronograma|✅ Tienes|Ya está en 2.5|
-|3.7. Presupuesto|✅ Tienes|Ya está en 2.4 con tabla detallada|
+| Sección Tesis                 | Estado     | Qué hacer                                                           |
+| ----------------------------- | ---------- | ------------------------------------------------------------------- |
+| 3.1. Tipo de Investigación    | ❌ Falta    | Definir: "Investigación aplicada, enfoque cualitativo-cuantitativo" |
+| 3.2. Formulación del Problema | ✅ Tienes   | Ya está en sección 2.1 del anteproyecto                             |
+| 3.3. Métodos de Recolección   | ✅ Tienes   | Ya está en sección 2.2.1                                            |
+| 3.4. Metodología Scrum        | ⚠️ Parcial | Explicar más: sprints, roles, ceremonias                            |
+| 3.5. Herramientas             | ✅ Tienes   | Ya listadas en 2.2.2                                                |
+| 3.6. Cronograma               | ✅ Tienes   | Ya está en 2.5                                                      |
+| 3.7. Presupuesto              | ✅ Tienes   | Ya está en 2.4 con tabla detallada                                  |
 
 **CONCLUSIÓN CAP 3:** Casi completo, solo falta formalizar algunas secciones.
 
