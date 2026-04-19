@@ -17,3 +17,84 @@ Nuevas Tecnologías
 - Método sugerido: Docker (para empaquetar y correr tu aplicación + base de datos en ese servidor local)
 
 
+---
+
+# Ultimos Cambios en las Tecnologias
+
+
+## 🧠 Backend
+
+- Python
+    
+- FastAPI
+    
+- SQLModel
+    
+- Alembic
+    
+- python-jose (JWT)
+    
+- passlib (bcrypt)
+    
+- WeasyPrint
+    
+- pytest + httpx
+    
+
+---
+
+## 🗄️ Base de datos
+
+- PostgreSQL
+    
+
+---
+
+## 🎨 Frontend
+
+- HTML5
+    
+- JavaScript (ES6)
+    
+- Tailwind CSS
+    
+- FullCalendar.js
+    
+
+---
+
+## ⚙️ Infraestructura / DevOps
+
+- Docker
+    
+- Docker Compose
+    
+- Nginx
+    
+- mkcert
+    
+- Git
+    
+
+---
+
+## 🔄 Integración continua
+
+- GitHub Actions
+    
+
+---
+
+## 🔐 Seguridad (implementaciones clave)
+
+- JWT (autenticación)
+    
+- RBAC (control de acceso por roles)
+    
+- bcrypt (hash de contraseñas)
+    
+- HTTPS (con Nginx + SSL)
+    
+
+---
+
