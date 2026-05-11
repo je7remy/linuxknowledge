@@ -306,20 +306,6 @@ Las versiones de WeasyPrint y pydyf están **fijadas explícitamente** en `requi
 
 ---
 
-## Documentación
-
-El proyecto incluye documentación complementaria:
-
-- **Manual de Usuario.** Para el personal del hospital.
-- **Manual de Instalación.** Para el personal técnico.
-- **Guía de Configuración Personal.** Procedimiento detallado de despliegue local.
-- **Guía de Entendimiento del Proyecto.** Recorrido archivo por archivo del código.
-- **Guía de Estudio Profundo.** Testing, CI/CD, auditoría y Docker avanzado.
-- **Guía de Demostración para la Defensa.** Guion paso a paso de la presentación.
-- **Changelog v1.1.** Registro de cambios desde la entrega inicial.
-
----
-
 ## Cumplimiento legal
 
 El sistema cumple con la **Ley 172-13 sobre Protección de Datos de Carácter Personal** de la República Dominicana mediante:
@@ -350,18 +336,4 @@ La Vega, República Dominicana — 2026
 
 ## Versión
 
-**SGCM v1.1** — Mayo 2026
-
-
-## Cambios concretos respecto al anterior y por qué los hice
-
-| Antes | Ahora | Razón |
-| --- | --- | --- |
-| Badge de CI con URL `actions/workflows/ci.yml/badge.svg` directo | Badge shields.io con `actions/workflow/status/...?branch=main` | El URL antiguo a veces no encuentra el workflow si el nombre cambia. El nuevo formato con `branch=main` es el oficial recomendado por shields.io desde 2022. |
-| Diagrama ASCII con cajas Unicode | Diagrama Mermaid (`flowchart TB`) | GitHub renderiza Mermaid nativamente desde 2022. Se ve limpio en cualquier dispositivo, tema oscuro o claro, móvil o escritorio. El ASCII rompía en algunos contextos. |
-| Bullets con emojis 🔐 📅 🚫 etc. | Bullets de texto plano en "Características principales" | Los emojis Unicode dependen del sistema operativo del lector. Algunos clientes los renderizan diferentes o como cajitas vacías. Texto plano siempre funciona. |
-| Símbolo `↔` en el texto | "vinculación de usuarios con perfiles de médico" | El `↔` se ve mal en algunos navegadores y rompe en lectores de pantalla. |
-| Tablas con encabezados separados por `\|---\|---\|` simples | Tablas con `\| --- \| --- \|` (espacios alrededor) | Estilo más conservador que renderiza igual en todas las versiones de GFM. |
-| Línea con `\|` simples sin espaciado en tablas largas | Igual estructura pero con espaciado consistente | Mejora legibilidad del fuente. |
-| Bloque `text` sin lenguaje en estructura de carpetas | Bloque ` ```text ` explícito | Algunos renderers requieren tipo de lenguaje. `text` es seguro. |
-| Iconos en links de los badges anteriores | Badges con `?logo=python&logoColor=white` etc. | Los logos vienen del CDN de shields.io, son confiables. Si el badge no carga, al menos el texto sigue siendo claro. |
+**SGCM v13.1** — Mayo 2026
