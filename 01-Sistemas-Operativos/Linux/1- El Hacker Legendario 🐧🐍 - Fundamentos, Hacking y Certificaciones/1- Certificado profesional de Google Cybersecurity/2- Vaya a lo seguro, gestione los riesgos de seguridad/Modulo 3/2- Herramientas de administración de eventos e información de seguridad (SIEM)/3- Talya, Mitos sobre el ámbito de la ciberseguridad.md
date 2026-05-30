@@ -1,4 +1,3 @@
-
 ---
 
 ## 👩‍💼 Testimonio de Talya – Ingeniera en Privacidad y Seguridad en Google
@@ -65,3 +64,10 @@ Talya comparte su experiencia para desmentir varios **mitos comunes** sobre entr
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Más información sobre herramientas de ciberseguridad]]
+- ➡️ Siguiente: [[4- Utilice las herramientas SIEM para proteger a las organizaciones]]

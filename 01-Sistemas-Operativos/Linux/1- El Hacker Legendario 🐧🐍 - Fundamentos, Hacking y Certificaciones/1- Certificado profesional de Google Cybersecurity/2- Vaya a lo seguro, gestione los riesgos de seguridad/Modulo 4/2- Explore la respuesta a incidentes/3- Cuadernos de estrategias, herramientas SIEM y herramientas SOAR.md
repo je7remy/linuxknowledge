@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Cuadernos de estrategias, herramientas SIEM y herramientas SOAR
 
 Anteriormente, aprendió que los equipos de seguridad se enfrentan a amenazas, riesgos, vulnerabilidades e incidentes de forma regular y que siguen manuales de estrategias para abordar los problemas relacionados con la seguridad. En esta lectura, aprenderá más sobre los cuadernos de estrategias, incluida la forma en que se usan en la gestión de eventos e información de seguridad (SIEM) y la orquestación, automatización y respuesta de seguridad (SOAR).
 
@@ -14,3 +21,11 @@ Los libros de jugadas también se utilizan con las herramientas SOAR. Las herram
 ## Conclusiones clave
 
 Lo más importante que hay que saber es que los playbooks, también denominados a veces runbooks, proporcionan acciones detalladas para que los equipos de seguridad tomen en caso de un incidente. Saber exactamente quién debe hacer qué y cuándo puede ayudar a reducir el impacto de un incidente y reducir el riesgo de daños a los activos críticos de una organización.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- La importancia de la diversidad de perspectivas en un equipo de seguridad]]
+- ➡️ Siguiente: [[4- Responder a una alerta de SIEM]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Tipos de datos en Python
 
 # 🧠 Tipos de Datos en Python
 
@@ -192,3 +199,10 @@ En este caso, Python evalúa las comparaciones y devuelve el valor booleano corr
 |**Booleano**|`True`, `False`|Representa valores de verdad utilizados en lógica condicional|
 
 Los booleanos son fundamentales en la **programación lógica**, la **validación de condiciones** y el **control de flujo** en los programas de ciberseguridad y automatización.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Más información sobre los tipos de datos]]

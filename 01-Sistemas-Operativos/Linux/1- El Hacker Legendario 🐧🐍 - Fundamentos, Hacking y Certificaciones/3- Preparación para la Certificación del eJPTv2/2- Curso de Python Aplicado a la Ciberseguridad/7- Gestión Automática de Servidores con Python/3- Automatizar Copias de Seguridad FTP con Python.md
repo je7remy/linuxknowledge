@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatizar Copias de Seguridad FTP con Python
 
 ---
 
@@ -98,3 +105,11 @@ finally:
 
 [[3- Gestión y Automatización de Servidores FTP – PARTE 1]]
 [[4- Gestión y Automatización de Servidores FTP – PARTE 2]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ⬅️ Anterior: [[2- Conexión y Subida de Archivos a Servidor FTP]]
+- ➡️ Siguiente: [[4- Configuración de Servidor SSH en Linux]]

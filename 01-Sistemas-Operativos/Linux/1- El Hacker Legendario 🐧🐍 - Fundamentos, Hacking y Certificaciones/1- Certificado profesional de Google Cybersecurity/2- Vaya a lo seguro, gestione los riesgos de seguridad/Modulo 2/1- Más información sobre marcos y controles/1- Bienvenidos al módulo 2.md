@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenidos al módulo 2
 
 🔐 **¡Bienvenido!**  
 Como analista de seguridad, tu trabajo va más allá de proteger sistemas. Estás ayudando a **mantener seguras a las personas**.  
@@ -13,3 +20,9 @@ En esta sección del curso, analizaremos en profundidad los **marcos de segurida
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Marcos]]

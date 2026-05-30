@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Introducción a las funciones
 
 ### 🧠 Pregunta 1
 
@@ -104,3 +111,10 @@ Python utiliza la indentación (sangría) para determinar qué código pertenece
 - El **cuerpo** de la función (la acción que realiza, en este caso `print(...)`) debe estar indentado para indicar que forma parte de `def alert():`.
     
 - La **llamada** a la función (`alert()`) es una acción separada que se ejecuta _después_ de que la función ha sido definida. Por lo tanto, no debe estar indentada al mismo nivel que el cuerpo de la función.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Actividad, Definir y llamar a una función]]

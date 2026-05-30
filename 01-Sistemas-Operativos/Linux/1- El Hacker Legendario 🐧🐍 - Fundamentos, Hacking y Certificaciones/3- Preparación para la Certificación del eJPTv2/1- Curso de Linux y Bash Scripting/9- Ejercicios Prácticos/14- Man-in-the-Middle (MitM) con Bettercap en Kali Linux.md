@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Man-in-the-Middle (MitM) con Bettercap en Kali Linux
 
 ---
 
@@ -79,3 +86,10 @@ El flujo ejecuta un ataque MITM clásico usando ARP spoofing y sniffing, pero re
 [[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]
 [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[13- Automatización de Cracking de Contraseñas]]
+- ➡️ Siguiente: [[15- Informe Solución Error Barra Kali Linux VirtualBox 21-02-2025]]

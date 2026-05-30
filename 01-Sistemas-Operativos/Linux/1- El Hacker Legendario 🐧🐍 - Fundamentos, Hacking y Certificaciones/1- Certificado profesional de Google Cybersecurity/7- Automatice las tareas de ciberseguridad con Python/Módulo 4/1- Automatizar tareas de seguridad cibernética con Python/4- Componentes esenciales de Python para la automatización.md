@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Componentes esenciales de Python para la automatización
 
 A lo largo de este curso, ha explorado la programación en Python. Se ha centrado en variables, sentencias condicionales, sentencias iterativas, funciones y una variedad de formas de trabajar con cadenas y listas. En esta lectura, explorará por qué todos estos son componentes esenciales a la hora de automatizar tareas mediante Python, y se le presentará otro componente necesario: el trabajo con archivos.
 
@@ -63,3 +70,11 @@ A continuación, aprenderá a importar, leer de y escribir en archivos. También
 ## Puntos clave
 
 Es importante que los analistas de Seguridad sean capaces de automatizar tareas en Python. Para ello es necesario conocer los conceptos fundamentales de Python, incluidas las variables, las sentencias condicionales, las sentencias iterativas y las técnicas para trabajar con cadenas y listas. Además, la capacidad de trabajar con archivos también es esencial para la Automatización en Python.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Automatización de tareas en CI-CD]]
+- ➡️ Siguiente: [[5- Clancy - Aprendizaje continuo y Python]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-3]
+actualizado: 2026-05-28
+---
+
+# IA en la vida real, Mejora tus instrucciones añadiendo contexto y arquetipo
 
 ## 💬 Conversación: Consejos de prompting con Laura, Asesora de Productividad en Google
 
@@ -79,3 +86,9 @@ A medida que das más contexto, ejemplos y claridad, **obtienes resultados más 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[3- Utiliza el marco de instrucciones de 5 pasos]]

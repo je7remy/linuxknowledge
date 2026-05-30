@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ética en ciberseguridad
 
 ### Ética en la Seguridad de la Información
 
@@ -56,3 +63,9 @@ Tener un fuerte sentido de la ética puede guiar tus decisiones para garantizar 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Conceptos éticos que guían las decisiones de ciberseguridad]]

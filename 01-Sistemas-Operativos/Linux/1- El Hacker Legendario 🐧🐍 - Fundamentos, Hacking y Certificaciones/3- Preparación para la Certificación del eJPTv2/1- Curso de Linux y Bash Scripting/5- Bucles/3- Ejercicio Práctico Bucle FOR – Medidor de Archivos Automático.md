@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático
 
 ---
 
@@ -152,3 +159,11 @@ Con estos ajustes, evitarás errores con nombres de archivos largos y tendrás m
 [[1- Bucle FOR – Parte 1]]
 [[2- Bucle FOR – Parte 2]]
 [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]
+- ⬅️ Anterior: [[2- Bucle FOR – Parte 2]]
+- ➡️ Siguiente: [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]

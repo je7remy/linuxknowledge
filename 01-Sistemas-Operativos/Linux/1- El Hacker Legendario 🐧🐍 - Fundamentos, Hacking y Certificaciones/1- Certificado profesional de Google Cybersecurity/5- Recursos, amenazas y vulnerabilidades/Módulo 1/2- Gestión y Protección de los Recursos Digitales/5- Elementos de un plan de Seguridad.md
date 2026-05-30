@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Elementos de un plan de Seguridad
 
 ## Seguridad como cultura y planes de seguridad
 
@@ -82,3 +89,11 @@ Los planes de Seguridad incluyen tres elementos básicos: **políticas, Estánda
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Ponga a Prueba sus conocimientos]]
+- ➡️ Siguiente: [[6- El marco de ciberseguridad del NIST]]

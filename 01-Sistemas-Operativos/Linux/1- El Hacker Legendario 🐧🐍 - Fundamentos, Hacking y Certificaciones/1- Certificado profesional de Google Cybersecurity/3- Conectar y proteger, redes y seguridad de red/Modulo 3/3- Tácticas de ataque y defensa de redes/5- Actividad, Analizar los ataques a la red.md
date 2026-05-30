@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad, Analizar los ataques a la red
 ## Resumen de la actividad
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_3VcKBLLQ0KgcwEu5ZqTlg_d61b7993fcd840b9b5cf282b6e2075f1_image.png?expiry=1751241600000&hmac=_GhnGnm1n8pF_KvTY-mg7Bshv_ozGOcG9PZzoojolto)
@@ -117,3 +124,11 @@ Asegúrese de abordar lo siguiente en su actividad completada:
 - El nombre del ataque de intrusión en la red
     
 - Una descripción de cómo el ataque afecta negativamente al rendimiento de la red
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Identificar, Ataques a la red]]
+- ➡️ Siguiente: [[5.1- Registro TCP-HTTP-LOG – Wireshark (Tráfico Web Normal y Ataque SYN Flood)]]

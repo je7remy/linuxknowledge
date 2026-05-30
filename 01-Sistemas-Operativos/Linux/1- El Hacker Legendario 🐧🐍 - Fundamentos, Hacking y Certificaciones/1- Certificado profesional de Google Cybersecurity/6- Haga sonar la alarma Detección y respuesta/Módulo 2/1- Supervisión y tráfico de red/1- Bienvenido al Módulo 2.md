@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 2
 
 # 🌐 **Módulo 2: Supervisión y Análisis del Tráfico de Red**
 
@@ -60,3 +67,10 @@ Como **analista de seguridad**, tu función será **supervisar redes e infraestr
 Explorarás los **flujos de tráfico en la red** y comenzarás a realizar **capturas y análisis prácticos de paquetes**, adquiriendo las bases para convertirte en un **Network Analyst (Analista de Red) dentro del Blue Team.**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Casey - Aplicar las Habilidades interpersonales en la ciberseguridad]]

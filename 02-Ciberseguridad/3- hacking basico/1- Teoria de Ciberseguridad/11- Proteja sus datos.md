@@ -18,7 +18,7 @@ Para proteger sus datos y proteger su cuenta, debe:
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[10- Configuración de privacidad]]
 - ➡️ Siguiente: [[12- Social Sharing]]
 

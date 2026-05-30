@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
 ---
 
+# Ponga a prueba sus Conocimientos - Herramientas de Detección y Documentación
 ### ✅ **Pregunta 1**
 
 **¿Cuáles son algunos ejemplos de tipos de documentación?**
@@ -66,3 +70,9 @@ El **IPS** amplía las funciones del IDS, ya que **además de detectar**, puede 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Visión general de las herramientas de Detección]]

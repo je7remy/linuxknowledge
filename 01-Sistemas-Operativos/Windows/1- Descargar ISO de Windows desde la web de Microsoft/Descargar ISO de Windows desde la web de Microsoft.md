@@ -35,11 +35,11 @@ Este método permite descargar la ISO de Windows 10 Pro (o Windows 11) directame
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|01 → Windows]]
+- ⬆️ Sección: [[_Windows|01 → Windows]]
 
 ## Relacionadas
 
-- [[../2- Instalacion de Sistemas Operativos con Ventoy/index|Ventoy]] — siguiente paso: crear USB booteable con la ISO.
+- [[_2- Instalacion de Sistemas Operativos con Ventoy|Ventoy]] — siguiente paso: crear USB booteable con la ISO.
 - [[../2- Instalacion de Sistemas Operativos con Ventoy/1- 📌 Guía para Instalación de Sistemas Operativos con Ventoy|Guía Ventoy]] — instalación.
 - [[../2- Instalacion de Sistemas Operativos con Ventoy/2- Saltar conexión Wi-Fi Windows|Saltar Wi-Fi]] — workaround durante setup.
 

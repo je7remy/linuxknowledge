@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Explore las seis funciones del marco de ciberseguridad del NIST
 
 ## 🔐 **Las 5 Funciones del NIST CSF**
 
@@ -63,5 +70,11 @@ En los próximos pasos aprenderás cómo estas funciones trabajan junto a:
 - ⚙️ **La Tríada de la CIA (Confidencialidad, Integridad, Disponibilidad)**
     
 - 📘 **Otros marcos del NIST como el SP 800-53**
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1.1- Reflect]]
+- ➡️ Siguiente: [[2.1- Reflect]]

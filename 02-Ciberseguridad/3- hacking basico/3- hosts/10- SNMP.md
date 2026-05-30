@@ -144,7 +144,7 @@ zunderrubb@htb[/htb]$ braa public@10.129.14.128:.1.3.6.*
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[9- SMB]]
 - ➡️ Siguiente: [[11- SSH]]
 
@@ -153,4 +153,4 @@ zunderrubb@htb[/htb]$ braa public@10.129.14.128:.1.3.6.*
 - [[1- Hoja de trucos NMAP]] — NSE puede enumerar SNMP también.
 - [[5- nmap scripts]] — scripts `snmp-*` complementarios a `snmpwalk`.
 - [[12- Herramienta para hacer cracking de contraseñas]] — strings de comunidad pueden necesitar brute-force.
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — Hashcat para community strings cuando aplique.
+- [[_1- Cracking|02 → Cracking]] — Hashcat para community strings cuando aplique.

@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, test-conocimientos, testing-apis]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Prueba de APIs
 
 ### 1. ¿Qué tipo de peticiones se pueden lanzar desde la barra del navegador?
 
@@ -146,3 +153,10 @@
 > Justificación:
 > 
 > Proporciona métricas técnicas detalladas (latencia en ms, tamaño en bytes, cookies de sesión) vitales para depurar y optimizar el rendimiento de la API.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[7- Prueba de APIs]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Administradores de paquetes para instalar aplicaciones
 
 Anteriormente, usted aprendió acerca de las distribuciones de Linux y que diferentes distribuciones derivan de diferentes fuentes, como Debian o la distribución Red Hat Enterprise Linux. También se le presentó a los administradores de paquetes, y aprendió que las aplicaciones de Linux se distribuyen comúnmente a través de administradores de paquetes. En esta lectura, aplicará estos conocimientos para aprender más sobre los administradores de paquetes.
 
@@ -34,3 +41,11 @@ YUM es una herramienta utilizada con las distribuciones derivadas de Red Hat. Se
 ## Puntos clave
 
 Un paquete es una pieza de software que puede combinarse con otros paquetes para formar una aplicación. Los paquetes pueden gestionarse mediante un administrador de paquetes. Existen múltiples administradores de paquetes y herramientas de gestión de paquetes para diferentes distribuciones de Linux. Las herramientas de administrador de paquetes permiten a los usuarios trabajar fácilmente con los paquetes a través del shell. Las distribuciones de Linux derivadas de Debian utilizan administradores de paquetes como dpkg, así como herramientas de gestión de paquetes como Advanced Paquete Tool (APT). Las distribuciones derivadas de Red Hat utilizan el administrador de paquetes de Red Hat (RPM) o herramientas como Yellowdog Updater Modified (YUM).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Más distribuciones de Linux]]
+- ➡️ Siguiente: [[5- Recursos para completar los laboratorios de Linux]]

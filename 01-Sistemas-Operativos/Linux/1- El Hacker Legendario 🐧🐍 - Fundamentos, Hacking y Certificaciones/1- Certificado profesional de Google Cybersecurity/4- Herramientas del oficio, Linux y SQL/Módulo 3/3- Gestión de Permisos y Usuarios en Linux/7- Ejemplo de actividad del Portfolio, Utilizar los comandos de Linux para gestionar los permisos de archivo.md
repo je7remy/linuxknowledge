@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ejemplo de actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo
 
 ## **Permisos de Archivos en Linux**
 
@@ -123,3 +130,10 @@ chmod o-x drafts   # Quitar ejecución a otros (si aplica)
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Ejemplo, Gestionar la autorización]]
+- ➡️ Siguiente: [[8- Actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 2
 
 ### **Respuestas del Cuestionario**
 
@@ -131,3 +138,10 @@ Examine la siguiente salida de tcpdump:
     - **TCP**
         
 - **Explicación:** La salida muestra claramente "IP" al principio de la descripción del paquete y "proto TCP (6)" que indica explícitamente que el protocolo de la capa de transporte es TCP.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Términos del glosario del Módulo 2]]

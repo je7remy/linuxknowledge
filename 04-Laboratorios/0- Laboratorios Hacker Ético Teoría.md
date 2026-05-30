@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [laboratorio]
+actualizado: 2026-05-28
+---
+
+# Laboratorios Hacker Ético Teoría
 ## 🛠️ Laboratorios & Pruebas de Penetración  
 
 | 🎯 **Módulo**                                                                         | 🧪 **Laboratorio**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 📖 **Descripción**                                       |
@@ -8,3 +15,9 @@
 |                                                                                       | 🔹[Laboratorio - Código de Conducta Personal](obsidian://open?vault=linuxknowledge&file=02-Ciberseguridad%2F4-%20Hacking%20Intermedio%20Teoria%2FM%C3%B3dulo%202%20Planificaci%C3%B3n%20y%20Alcance%20de%20una%20Evaluaci%C3%B3n%20de%20Pruebas%20de%20Penetraci%C3%B3n%2F7-%20Laboratorio%20-%20C%C3%B3digo%20de%20Conducta%20Personal): [Código de Conducta Personal](https://github.com/je7remy/linuxknowledge/blob/main/02-Ciberseguridad/4-%20Hacking%20Intermedio%20Teoria/M%C3%B3dulo%202%20Planificaci%C3%B3n%20y%20Alcance%20de%20una%20Evaluaci%C3%B3n%20de%20Pruebas%20de%20Penetraci%C3%B3n/7-%20Laboratorio%20-%20C%C3%B3digo%20de%20Conducta%20Personal.md)                                                                             | Normas y ética en pruebas de penetración.                |
 | **Módulo 3**<br>_Recopilación de información y análisis de vulnerabilidades_          | 🔹 [Laboratorio - Uso de herramientas OSINT](obsidian://open?vault=linuxknowledge&file=02-Ciberseguridad%2F4-%20Hacking%20Intermedio%20Teoria%2FM%C3%B3dulo%203%20Recopilaci%C3%B3n%20de%20informaci%C3%B3n%20y%20an%C3%A1lisis%20de%20vulnerabilidades%2F3.1-%20Laboratorio%20-%20Uso%20de%20herramientas%20OSINT): [Uso de herramientas OSINT](https://github.com/je7remy/linuxknowledge/blob/main/02-Ciberseguridad/4-%20Hacking%20Intermedio%20Teoria/M%C3%B3dulo%203%20Recopilaci%C3%B3n%20de%20informaci%C3%B3n%20y%20an%C3%A1lisis%20de%20vulnerabilidades/3.1-%20Laboratorio%20-%20Uso%20de%20herramientas%20OSINT.md)                                                                                                                        | Recolección de información con Open Source Intelligence. |
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_04-Laboratorios|04-Laboratorios]]
+- ➡️ Siguiente: [[1- Laboratorios de Bash]]

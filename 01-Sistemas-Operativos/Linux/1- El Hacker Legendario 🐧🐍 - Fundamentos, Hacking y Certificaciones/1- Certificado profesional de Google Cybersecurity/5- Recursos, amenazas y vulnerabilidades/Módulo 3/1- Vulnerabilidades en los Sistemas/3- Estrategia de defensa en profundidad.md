@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Estrategia de defensa en profundidad
 
 # 🏰 Defensa en profundidad 
 ### 🔑 **Definición**
@@ -97,3 +104,10 @@ La respuesta correcta es: **Defensa en profundidad**.
 
 👉 Por eso, cuando preguntan por el enfoque por capas que **reduce el riesgo en la gestión de vulnerabilidades**, la respuesta es **Defensa en profundidad**.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Vulnerabilidades de CI - CD]]
+- ➡️ Siguiente: [[4- Vulnerabilidades y exposiciones comunes]]

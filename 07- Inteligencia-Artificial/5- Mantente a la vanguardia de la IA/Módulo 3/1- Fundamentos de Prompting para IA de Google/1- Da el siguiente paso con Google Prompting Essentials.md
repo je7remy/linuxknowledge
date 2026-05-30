@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Da el siguiente paso con Google Prompting Essentials
 
 ¿Listo para poner la IA a trabajar para usted? En este módulo, obtendrá una vista previa exclusiva de [**Google Prompting Essentials**](https://www.coursera.org/specializations/prompting-essentials-google), un programa a su propio ritmo desarrollado por expertos en IA de Google que le enseña a sacar el máximo partido de las herramientas de IA generativa en 5 sencillos pasos. En la especialización completa, aplicará todo lo que ha aprendido en Google IA Essentials -y mucho más- para liberar todo el potencial de la IA.
 
@@ -13,3 +20,10 @@ A través de actividades prácticas y ejemplos del mundo real, Google Prompting 
 En 5 sencillos pasos, aprenderá a elaborar indicaciones eficaces. También aprenderá más sobre prácticas de IA responsables y empezará a crear una biblioteca de instrucciones reutilizables para no tener que empezar desde cero cada vez que necesite un poco de ayuda de la IA. Y cuando completes los cursos, obtendrás un certificado de Google que podrás compartir con tu red de contactos y tu empresa, al igual que con Google IA Essentials.
 
 Explora Google Prompting Essentials, donde podrás poner en práctica tus conocimientos
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ➡️ Siguiente: [[2- Descubre cómo la IA puede ayudar en el trabajo]]

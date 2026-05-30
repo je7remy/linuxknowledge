@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Explore las técnicas de depuración
 
 ### 🐛 Depuración de Código Python
 
@@ -180,3 +187,11 @@ La sentencia `print "line 9 - before .append method"` sale dos veces. Esto signi
 ### 💡 Puntos Clave
 
 Hay tres tipos principales de errores: **Errores de sintaxis** (uso inválido del lenguaje), **Errores lógicos** (resultados no deseados) y **Excepciones** (errores de ejecución con sintaxis válida). Recibirá mensajes de error para errores de sintaxis y excepciones. El uso de **depuradores** y la inserción de **sentencias `print`** pueden ayudarle a identificar errores lógicos y a depurar más las excepciones.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Aplicar estrategias de Depuración]]
+- ➡️ Siguiente: [[5- Actividad - Depuración de código Python]]

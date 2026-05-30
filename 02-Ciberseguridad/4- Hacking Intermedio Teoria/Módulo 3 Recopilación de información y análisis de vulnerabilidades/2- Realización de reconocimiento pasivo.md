@@ -22,7 +22,7 @@ _"Si conoces al enemigo y te conoces a ti mismo, no tienes por qué temer el res
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 3]]
+- ⬆️ Carpeta: [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]]
 - ⬅️ Anterior: [[1- Qué aprenderé en este curso]]
 - ➡️ Siguiente: [[3- Reconocimiento activo vs. reconocimiento pasivo]]
 

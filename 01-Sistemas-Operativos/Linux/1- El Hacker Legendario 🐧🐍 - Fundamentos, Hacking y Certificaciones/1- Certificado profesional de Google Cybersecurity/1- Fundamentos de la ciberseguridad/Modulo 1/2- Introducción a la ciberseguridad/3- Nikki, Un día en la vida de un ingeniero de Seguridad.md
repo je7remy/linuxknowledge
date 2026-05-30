@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Nikki, Un día en la vida de un ingeniero de Seguridad
 
 **Mi nombre es Nikki** y soy ingeniera de Seguridad en Google. Formo parte del equipo de **detección de amenazas internas**, por lo que mi función se centra más en detectar amenazas o actividades sospechosas internas dentro de la empresa.
 
@@ -48,3 +55,11 @@ Una de las formas en que más he contribuido como profesional principiante ha si
 Si te encanta **resolver problemas**, proteger los **datos de los usuarios** y estar en la **primera línea** frente a muchas amenazas visibles en los titulares, definitivamente este es tu lugar.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Responsabilidades de un analista de ciberseguridad de nivel inicial]]
+- ➡️ Siguiente: [[4- Terminología común sobre ciberseguridad]]

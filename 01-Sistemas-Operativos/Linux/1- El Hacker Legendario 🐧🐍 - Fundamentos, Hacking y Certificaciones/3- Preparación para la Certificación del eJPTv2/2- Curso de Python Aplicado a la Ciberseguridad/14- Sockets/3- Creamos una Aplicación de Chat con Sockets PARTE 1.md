@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creamos una Aplicación de Chat con Sockets PARTE 1
 
 ---
 
@@ -223,3 +230,11 @@ while True:
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_14- Sockets|14- Sockets]]
+- ⬅️ Anterior: [[2- Transferencia de Archivos Mediante Sockets]]
+- ➡️ Siguiente: [[4- Creamos una Aplicación de Chat con Sockets PARTE 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Conexión y Subida de Archivos a Servidor FTP
 
 ---
 
@@ -152,3 +159,11 @@ finally:
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ⬅️ Anterior: [[1- Configuración de Servidor FTP en Linux]]
+- ➡️ Siguiente: [[3- Automatizar Copias de Seguridad FTP con Python]]

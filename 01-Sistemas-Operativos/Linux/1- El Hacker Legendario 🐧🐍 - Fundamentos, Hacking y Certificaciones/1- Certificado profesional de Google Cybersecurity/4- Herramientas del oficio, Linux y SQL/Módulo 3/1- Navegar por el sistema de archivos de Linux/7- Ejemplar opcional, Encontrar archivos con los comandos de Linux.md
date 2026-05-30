@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ejemplar opcional, Encontrar archivos con los comandos de Linux
 
 Un ejemplar de laboratorio es un recurso opcional que proporciona un Modelo completado de la actividad de laboratorio que le precede. Puede revisar este ejemplar o pasar al siguiente elemento del curso sin revisarlo.
 
@@ -24,3 +31,11 @@ Si no necesita revisar ninguna sección del laboratorio, puede pasar al siguient
 - Si tiene problemas para conectarse al laboratorio, intente iniciar sesión en Coursera en modo Incógnito y completar el laboratorio allí.
     
 - Revise los [consejos para el laboratorio y los pasos para la solución de](https://www.coursera.org/learn/linux-and-sql/supplement/fRHpj/lab-tips-and-troubleshooting-steps "reading on lab tips and troubleshooting steps") problemas para obtener más información.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Lab]]
+- ➡️ Siguiente: [[8- Otro Lab]]

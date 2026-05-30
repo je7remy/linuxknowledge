@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# MK - Cambios en la industria de la ciberseguridad
 
 ## La Agilidad es Clave para Vencer al Adversario
 
@@ -42,3 +49,11 @@ Lo que esto requiere es:
     
 
 En resumen, para tener éxito en la ciberseguridad, se necesita una mentalidad de **agilidad, adaptación y aprendizaje constante** para enfrentar a un adversario que nunca descansa.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Supervisión continua de CI-CD]]
+- ➡️ Siguiente: [[6- Indicadores de compromiso]]

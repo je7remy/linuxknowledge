@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash, laboratorio]
+actualizado: 2026-05-28
+---
+
+# Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso
 Para instalar **Ubuntu Server 24.04.1 LTS** en una máquina virtual utilizando VirtualBox, sigue estos pasos detallados:
 
 ---
@@ -103,3 +110,10 @@ Para instalar **Ubuntu Server 24.04.1 LTS** en una máquina virtual utilizando V
 ---
 
 Con estos pasos, tendrás **Ubuntu Server 24.04.1 LTS** instalado y funcionando dentro de VirtualBox. Este entorno es ideal para pruebas, desarrollo, y configuración de servidores. 🚀
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de Servidores con Scripts de Bash]]
+- ➡️ Siguiente: [[2- Cómo Crear un Servidor FTP con VSFTPD]]

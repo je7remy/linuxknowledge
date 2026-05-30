@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad de la cartera, Realizar una auditoría de seguridad
 
 # 🛡️ Actividad de Auditoría de Seguridad Interna – **Botium Toys**
 
@@ -188,4 +195,10 @@ Esto demuestra tu capacidad para realizar auditorías reales y aplicar marcos co
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[7- Pon a prueba tus conocimientos, principios de OWASP y auditorías de seguridad]]
+- ➡️ Siguiente: [[9- Modelo de actividad del portafolio, Realizar una auditoría de seguridad]]

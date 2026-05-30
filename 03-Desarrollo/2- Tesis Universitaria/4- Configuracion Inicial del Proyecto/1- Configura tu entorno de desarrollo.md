@@ -1,3 +1,10 @@
+---
+tipo: tesis
+tags: [tesis, configuracion, entorno-dev, software, prerequisitos]
+actualizado: 2026-05-28
+---
+
+# Configura tu entorno de desarrollo
 
 ### 1. Prerrequisitos (Software Esencial)
 
@@ -386,3 +393,9 @@ Ahora, solo necesitas **dos terminales** abiertas en la carpeta de tu proyecto:
 Abre tu navegador en **`http://127.0.0.1:8000`**.
 
 Si todo salió bien, deberías ver tu página `index.html` con los estilos de Tailwind aplicados, servida por tu backend de FastAPI y conectada a tu base de datos PostgreSQL.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]

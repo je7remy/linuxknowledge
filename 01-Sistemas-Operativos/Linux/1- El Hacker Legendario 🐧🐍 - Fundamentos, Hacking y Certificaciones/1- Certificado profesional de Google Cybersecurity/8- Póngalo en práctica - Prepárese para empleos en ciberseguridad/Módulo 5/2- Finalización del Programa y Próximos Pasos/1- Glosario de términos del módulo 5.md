@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 5
 
 ## Términos y definiciones del Curso 8, Módulo 5
 
@@ -24,3 +31,10 @@
 **Tarea (en prompting):** Instrucción u objetivo específico que se da a un modelo de Inteligencia artificial (IA), que suele incluir detalles sobre la persona deseada y el formato del resultado
 
 **Marco TCREI:** Un marco práctico para escribir instrucciones eficaces para herramientas de inteligencia artificial (IA) generativa, que significa **Tarea**, **Contexto**, **Referencias**, **Evaluar**e **Iterar**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ➡️ Siguiente: [[2- Glosario del curso 8]]

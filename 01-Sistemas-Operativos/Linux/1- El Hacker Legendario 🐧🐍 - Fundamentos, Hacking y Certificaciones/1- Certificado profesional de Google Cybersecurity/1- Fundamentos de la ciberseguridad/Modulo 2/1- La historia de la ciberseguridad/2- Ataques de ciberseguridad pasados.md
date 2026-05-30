@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ataques de ciberseguridad pasados
 
 ### La evolución de los ataques y el rol del analista de seguridad
 
@@ -46,3 +53,10 @@ Estos primeros ataques ayudaron a moldear la ciberseguridad como la conocemos ho
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 2]]
+- ➡️ Siguiente: [[3- Ataques en la era digital]]

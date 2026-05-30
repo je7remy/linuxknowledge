@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Defectos del sistema
 
 # 📘 Repaso: Gestión de Vulnerabilidades, CVE y Defensa en Profundidad
 
@@ -81,3 +88,10 @@ El proceso de asignación de un CVE exige que:
 No es requisito que afecte a múltiples aplicaciones (de hecho, debe ser específico a una sola base de código) ni que sea desconocido para el desarrollador.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[6- Inteligencia de fuentes abiertas]]

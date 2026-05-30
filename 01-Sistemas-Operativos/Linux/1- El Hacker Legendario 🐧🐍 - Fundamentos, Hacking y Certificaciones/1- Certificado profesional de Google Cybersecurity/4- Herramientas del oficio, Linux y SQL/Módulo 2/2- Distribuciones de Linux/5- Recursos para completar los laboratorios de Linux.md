@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, laboratorio, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Recursos para completar los laboratorios de Linux
 
 _Qwiklabs ha actualizado sus términos de servicio para incluir un_ _**requisito de edad de 18+ para utilizar la plataforma**__, con el fin de cumplir con las regulaciones en los EE.UU. y la UE. Los alumnos que no tengan acceso a Qwiklabs podrán completar el certificado y obtener la insignia revisando las instrucciones de Qwiklab, los ejemplos y participando en otras actividades prácticas a lo largo del certificado. Esta participación es esencial para comprender los conceptos del certificado y preparar a los alumnos para las evaluaciones calificadas._
 
@@ -115,3 +122,11 @@ A continuación encontrará una lista de consejos de navegación y atajos de tec
 ## Puntos clave
 
 Saber cómo navegar por Qwiklabs le será útil a medida que complete los laboratorios a lo largo de este curso. Estos laboratorios pueden ayudarle a practicar lo que ha aprendido en un entorno interactivo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Administradores de paquetes para instalar aplicaciones]]
+- ➡️ Siguiente: [[6- Consejos de laboratorio y pasos para la solución de problemas]]

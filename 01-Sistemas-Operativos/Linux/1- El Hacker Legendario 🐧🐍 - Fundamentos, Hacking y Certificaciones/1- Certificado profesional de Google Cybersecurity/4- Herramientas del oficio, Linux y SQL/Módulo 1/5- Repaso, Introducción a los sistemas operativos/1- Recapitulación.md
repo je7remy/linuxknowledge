@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ## ✅ **Resumen: Introducción a los Sistemas Operativos para Ciberseguridad**
 
@@ -70,3 +77,9 @@ En la próxima sección, te **sumergirás en el sistema operativo Linux** 🐧, 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Términos del glosario del Módulo 1]]

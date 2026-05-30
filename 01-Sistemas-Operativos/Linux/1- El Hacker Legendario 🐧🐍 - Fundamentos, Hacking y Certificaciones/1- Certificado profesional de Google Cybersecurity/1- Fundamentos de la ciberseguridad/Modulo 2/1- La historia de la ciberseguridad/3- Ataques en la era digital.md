@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ataques en la era digital
 
 Con la expansión de Internet de alta velocidad confiable, la cantidad de computadoras conectadas a la red aumentó drásticamente. Debido a que el malware podía propagarse por Internet, los actores de amenazas ya no necesitaban utilizar discos físicos para propagar virus.
 
@@ -26,3 +33,11 @@ Como futuro profesional del área, adaptarte y mantenerte actualizado sobre tác
 Por último, entender cómo la seguridad afecta la vida de las personas es un recordatorio poderoso del impacto y la importancia de tu rol.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Ataques de ciberseguridad pasados]]
+- ➡️ Siguiente: [[4- Ataques comunes y su efectividad]]

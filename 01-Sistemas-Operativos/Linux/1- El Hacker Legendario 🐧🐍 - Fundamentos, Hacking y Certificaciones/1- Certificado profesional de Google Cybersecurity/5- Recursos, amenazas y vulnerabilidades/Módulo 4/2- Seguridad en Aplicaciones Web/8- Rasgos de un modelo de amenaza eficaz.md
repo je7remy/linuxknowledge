@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Rasgos de un modelo de amenaza eficaz
 
 El **Modelado de amenazas** es el proceso de identificación de los recursos, sus vulnerabilidades y el modo en que cada uno de ellos está expuesto a las amenazas. Es un enfoque estratégico que combina varias actividades de Seguridad, como la gestión de vulnerabilidades, el análisis de amenazas y la Respuesta ante incidentes. Los Equipos de Seguridad suelen realizar estos ejercicios para asegurarse de que sus sistemas están adecuadamente protegidos. Otro uso del modelado de amenazas es encontrar proactivamente formas de reducir los riesgos de cualquier sistema o proceso empresarial.
 
@@ -89,3 +96,11 @@ Lleva tiempo y práctica aprender a trabajar con cosas como diagramas de flujo d
 ## Puntos clave
 
 Muchas personas dependen de aplicaciones de software en su día a día. Asegurar las aplicaciones que la gente utiliza nunca ha sido tan importante. El Modelado de amenazas es una de las principales formas de determinar si existen Controles de seguridad para proteger la privacidad de los datos. Adquirir las habilidades necesarias para liderar una actividad de Modelado de amenazas es cuestión de práctica. Sin embargo, incluso un analista de Seguridad con poca experiencia puede ser un valioso colaborador en el proceso. Todo empieza por aplicar una mentalidad de atacante y pensar de forma crítica sobre cómo se manejan los Datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[7- PASTA - Proceso de Simulación de Ataques y Análisis de Amenazas]]
+- ➡️ Siguiente: [[9- Actividad - Aplicar el framework del Modelo de Amenazas PASTA]]

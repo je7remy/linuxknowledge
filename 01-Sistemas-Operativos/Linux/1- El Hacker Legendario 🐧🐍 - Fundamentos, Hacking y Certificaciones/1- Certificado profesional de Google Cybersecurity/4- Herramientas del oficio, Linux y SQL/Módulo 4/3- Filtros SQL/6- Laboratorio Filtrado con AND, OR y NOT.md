@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, laboratorio, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Laboratorio Filtrado con AND, OR y NOT
 
 # Tarea 1 — Fallidos después de las 18:00
 
@@ -109,4 +116,10 @@ FROM employees
 WHERE NOT department = 'Information Technology';
 ```
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Más sobre filtros con AND, OR y NOT]]
+- ➡️ Siguiente: [[7- Repaso, Filtro con AND, OR y NOT]]

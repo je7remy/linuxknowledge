@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 2
 
 ---
 
@@ -166,3 +173,11 @@ Este tipo de ataques se usa en **pentesting** para evaluar la seguridad de contr
 - **Guardar los intentos fallidos** en un archivo log.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1]]
+- ➡️ Siguiente: [[5- Introducción a BeautifulSoup]]

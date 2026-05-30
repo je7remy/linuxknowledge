@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 ## 📝 Resumen del Módulo: Python en la Práctica
 
@@ -25,3 +32,10 @@ Aquí tienes un repaso de los temas clave que cubrimos:
 ---
 
 Con estos conceptos, estás mucho mejor preparado para aplicar Python a problemas reales de seguridad. ¡Felicidades por tus logros!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Guía de referencia - Conceptos de Python de la semana 4]]

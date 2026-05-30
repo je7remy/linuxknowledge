@@ -364,16 +364,16 @@ Rastrear y geolocalizar una dirección IP es una habilidad útil para aprender s
 
 ## Navegación
 
-- ⬆️ Carpeta padre: [[../index|5- Reconocimiento]]
-- 🏠 Sección: [[../../index|02-Ciberseguridad]]
+- ⬆️ Carpeta padre: [[_5- Reconocimiento|5- Reconocimiento]]
+- 🏠 Sección: [[_02-Ciberseguridad|02-Ciberseguridad]]
 
 ## Relacionadas
 
 - [[../2- Shodan/1- Guía Completa - Cómo Usar Shodan para Explorar la Red|Shodan]] — descubrimiento de hosts complementario.
-- [[../1- Nmap/index|1- Nmap]] — la opción `-O` también identifica IPs (OS detection).
+- [[_1- Nmap|1- Nmap]] — la opción `-O` también identifica IPs (OS detection).
 - [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/1- OSINT|01 → OSINT]] — fase pasiva donde aplica.
 - [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/3- OSINT, Cómo encontrar información pública de cualquier persona|OSINT práctico]] — IPinfo.io aparece también aquí.
 - [[../../6- Forense Digital/4- Caso Practico, Un hacker entró a mi equipo|Caso DFIR]] — IPs sospechosas analizadas.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/2- Automatización de Análisis de IPs desde Python PARTE 1|Python → Análisis IPs]] — análisis automatizado.
-- [[../../0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD/Conceptos Clave de Ciberseguridad para Entrevistas Técnicas|Entrevista]] — "viaje imposible" usa geolocalización.
+- [[Conceptos Clave de Ciberseguridad para Entrevistas Técnicas|Entrevista]] — "viaje imposible" usa geolocalización.
 

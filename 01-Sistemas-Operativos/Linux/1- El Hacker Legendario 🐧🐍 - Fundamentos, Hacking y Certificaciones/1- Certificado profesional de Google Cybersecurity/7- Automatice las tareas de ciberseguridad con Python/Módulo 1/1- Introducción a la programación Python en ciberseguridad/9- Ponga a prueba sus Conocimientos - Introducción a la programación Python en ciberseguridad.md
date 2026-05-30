@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Introducción a la programación Python en ciberseguridad
 
 ## 🧠 Evaluación: Python para Analistas de Seguridad
 
@@ -69,3 +76,9 @@ Por tanto, el código correcto es el que **utiliza comillas dentro de `print()`*
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[8- Akash - Python y el profesional de la ciberseguridad]]

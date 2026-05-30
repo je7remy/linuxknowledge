@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Protocolos VPN, Wireguard e IPSec
 
 Una VPN, o red privada virtual, es un servicio de seguridad de red que cambia su dirección IP pública y oculta su ubicación virtual para que pueda mantener la privacidad de sus datos cuando utilice una red pública como Internet. Las VPN proporcionan un servidor que actúa como puerta de enlace entre una computadora e Internet. Este servidor crea una ruta similar a un túnel virtual que oculta la dirección IP de la computadora y encripta los Datos en tránsito hacia Internet. El objetivo principal de una VPN es crear una conexión segura entre una computadora y una red. Además, una VPN permite establecer conexiones de confianza en redes que no lo son. Los protocolos VPN determinan cómo se forma el túnel de red seguro. Los distintos proveedores de VPN ofrecen protocolos VPN diferentes.
 
@@ -27,3 +34,10 @@ Aunque IPSec y WireGuard son ambos protocolos VPN, IPSec es más antiguo y más 
 
 Un protocolo VPN es similar a un protocolo de redes: Es un conjunto de reglas o instrucciones que determinarán cómo se mueven los datos entre los puntos finales. Existen dos tipos de VPN: de acceso remoto y de sitio a sitio. Las VPN de acceso remoto establecen una conexión entre un dispositivo personal y un servidor VPN y encriptan o desencriptan los datos intercambiados con un dispositivo personal. Las empresas utilizan las VPN de sitio a sitio en gran medida para extender su red a diferentes ubicaciones y redes. IPSec puede utilizarse para crear conexiones de sitio a sitio y WireGuard puede utilizarse tanto para conexiones de sitio a sitio como para conexiones de acceso remoto.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[7- Redes virtuales y privacidad]]
+- ➡️ Siguiente: [[9- Ponga a prueba sus Conocimientos, Identificación del sistema]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Gestionar la autorización
 
 ````markdown
 # Administra Autorizaciones - Guía Didáctica
@@ -58,3 +65,11 @@ chmod g-x drafts
 - Permisos alineados con políticas de seguridad.
     
 - Acceso limitado a quien corresponda.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Comandos de permiso]]
+- ➡️ Siguiente: [[5- Ejemplo opcional, Gestionar la autorización]]

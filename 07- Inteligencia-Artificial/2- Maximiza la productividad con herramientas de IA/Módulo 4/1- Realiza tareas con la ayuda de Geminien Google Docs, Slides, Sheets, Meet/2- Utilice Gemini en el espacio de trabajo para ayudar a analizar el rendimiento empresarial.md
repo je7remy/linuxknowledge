@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Utilice Gemini en el espacio de trabajo para ayudar a analizar el rendimiento empresarial
 
 ## Realiza Tareas con la Ayuda de Gemini en Google Sheets
 
@@ -56,3 +63,11 @@ Si no eres una "persona de datos", no te preocupes. Simplemente dale instruccion
     
 
 Este enfoque de **empezar de forma general y luego ser más específico** es especialmente útil si estás tratando de descubrir nuevas tendencias, correlaciones o ideas en un conjunto de datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[1- Utiliza Gemini en Google Docs, Slides, Sheets, Meet y Gmail]]
+- ➡️ Siguiente: [[3- Utilice Gemini en el espacio de trabajo para tomar notas de sus reuniones]]

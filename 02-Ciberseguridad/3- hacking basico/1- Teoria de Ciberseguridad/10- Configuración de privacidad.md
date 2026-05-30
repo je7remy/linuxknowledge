@@ -12,7 +12,7 @@ Aceptar la configuración de privacidad predeterminada generalmente significa qu
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[9- Política de uso de datos]]
 - ➡️ Siguiente: [[11- Proteja sus datos]]
 

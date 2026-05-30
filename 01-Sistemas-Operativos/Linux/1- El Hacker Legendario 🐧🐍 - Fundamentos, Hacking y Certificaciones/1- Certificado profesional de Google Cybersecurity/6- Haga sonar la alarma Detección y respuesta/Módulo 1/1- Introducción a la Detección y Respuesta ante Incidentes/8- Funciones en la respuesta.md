@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Funciones en la respuesta
 
 Hasta ahora, se le ha presentado el **Ciclo de vida de respuesta ante incidentes del Instituto Nacional de Estándares y Tecnología (NIST**), que es un framework para la respuesta ante incidentes que consta de cuatro fases:
 
@@ -145,3 +152,11 @@ Aquí tiene algunos Recursos si desea saber más sobre la organización del SOC 
 - [Herramienta de trayectorias profesionales cibernéticas](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool)
     
 - [Detección y respuesta](https://www.youtube.com/watch?v=QZ0cpBocl3c) en Google: Episodio 2 de la serie de vídeos [Hacking Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[7- Fátima - La importancia de la Comunicación durante la Respuesta ante incidentes]]
+- ➡️ Siguiente: [[9- Planes de respuesta ante incidentes]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Manipulación y Filtros de un DataFrame
 
 ---
 
@@ -459,3 +466,11 @@ Cada paso agrega sofisticación, permitiendo análisis más detallados y especí
 ### **Conclusión**
 
 Este ejercicio demuestra cómo pandas facilita la manipulación de datos, desde operaciones simples hasta filtrados complejos. La automatización con pandas es poderosa porque nos permite explorar datos de manera rápida, precisa y adaptable, sentando las bases para análisis más avanzados en ciencia de datos o automatización de procesos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_11- Ciencia de Datos|11- Ciencia de Datos]]
+- ⬅️ Anterior: [[1- Introducción a la Ciencia de Datos]]
+- ➡️ Siguiente: [[3- Gestión de Ficheros JSON con Python]]

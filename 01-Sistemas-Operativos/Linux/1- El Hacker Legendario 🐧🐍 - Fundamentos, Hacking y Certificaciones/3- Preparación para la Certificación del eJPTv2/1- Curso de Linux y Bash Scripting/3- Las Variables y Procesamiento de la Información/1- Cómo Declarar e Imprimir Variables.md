@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Cómo Declarar e Imprimir Variables
 ### Explicación del script
 
 El script realiza lo siguiente:
@@ -61,4 +68,9 @@ Al ejecutarlo, la salida en la terminal será:
 Mi nombre es: Jeremy y mi edad es: 21
 ```
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ➡️ Siguiente: [[2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables]]

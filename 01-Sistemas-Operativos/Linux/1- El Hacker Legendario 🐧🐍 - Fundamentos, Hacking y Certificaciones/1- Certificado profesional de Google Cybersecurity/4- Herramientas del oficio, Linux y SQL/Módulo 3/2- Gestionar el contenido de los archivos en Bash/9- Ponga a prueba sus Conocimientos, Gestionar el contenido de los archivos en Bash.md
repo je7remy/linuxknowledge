@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Gestionar el contenido de los archivos en Bash
 
 # 📄 Evaluación – Comandos básicos de Linux
 
@@ -54,3 +61,10 @@ touch failed_logins.txt
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[8- Gestionar archivos con comandos de Linux]]

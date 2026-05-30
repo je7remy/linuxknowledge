@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Completar un JOIN
 
 # Tarea 1 — INNER JOIN `machines` ↔ `employees` por `device_id`
 
@@ -59,3 +66,10 @@ INNER JOIN log_in_attempts
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Comparar tipos de uniones]]
+- ➡️ Siguiente: [[5- Repaso 1]]

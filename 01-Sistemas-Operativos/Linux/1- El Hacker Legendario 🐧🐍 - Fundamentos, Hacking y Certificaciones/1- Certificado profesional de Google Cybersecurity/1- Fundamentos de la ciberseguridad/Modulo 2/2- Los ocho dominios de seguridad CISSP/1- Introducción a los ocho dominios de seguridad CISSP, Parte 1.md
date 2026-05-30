@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Introducción a los ocho dominios de seguridad CISSP, Parte 1
 
 A medida que evolucionan las tácticas de los actores de amenazas, también lo hacen las funciones de los profesionales de la seguridad. Tener una sólida comprensión de los conceptos básicos de seguridad respaldará tu crecimiento en este campo. Una forma de comprender mejor estos conceptos es organizarlos en categorías, llamadas **dominios de seguridad**.
 
@@ -26,3 +33,9 @@ No necesitas ser un experto en todos los dominios, pero tener un conocimiento b�
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Introducción a los ocho dominios de seguridad CISSP, Parte 2]]

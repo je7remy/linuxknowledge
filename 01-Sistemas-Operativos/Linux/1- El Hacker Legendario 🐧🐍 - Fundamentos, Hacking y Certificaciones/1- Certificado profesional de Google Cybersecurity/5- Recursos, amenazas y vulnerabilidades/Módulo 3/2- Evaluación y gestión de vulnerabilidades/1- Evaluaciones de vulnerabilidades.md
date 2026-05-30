@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Evaluaciones de vulnerabilidades
 
 # 🛡️ Evaluación de Vulnerabilidades
 
@@ -117,3 +124,9 @@ Las evaluaciones de vulnerabilidades son esenciales para el ciclo de gestión de
 
 👉 En resumen: una evaluación de vulnerabilidades sigue pasos como **Identificación → Análisis → Evaluación de riesgos → Remediación**, y no incluye técnicas de protección como el cifrado (eso se aplica en otra etapa).
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Enfoques para la exploración de vulnerabilidades]]

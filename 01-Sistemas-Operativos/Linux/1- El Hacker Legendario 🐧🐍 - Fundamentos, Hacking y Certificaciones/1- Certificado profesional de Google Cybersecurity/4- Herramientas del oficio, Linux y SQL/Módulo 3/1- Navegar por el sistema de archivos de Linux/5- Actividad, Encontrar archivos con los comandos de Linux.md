@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad, Encontrar archivos con los comandos de Linux
 
 ## Introducción
 
@@ -45,3 +52,10 @@ Además, a veces es necesario refrescar la página de Coursera para que se regis
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Navegar por Linux y leer el contenido de los archivos]]
+- ➡️ Siguiente: [[6- Lab]]

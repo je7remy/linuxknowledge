@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Guía de referencia - Conceptos de Python del Módulo 3
 
 ### 🧠 Guía de Referencia: Conceptos de Python (Módulo 3)
 
@@ -81,3 +88,11 @@ La siguiente función del módulo `re` y los símbolos de expresiones regulares 
 |**`*`**|Representa **cero, una o más** ocurrencias de un carácter específico.|`re.findall("\w*", cadena)`|`["a53", "", "32c", "", "", "E", ""]` _(Nota: coincide con cadenas vacías entre no-alfanuméricos)_|
 |**`{n}`**|Representa un número **especificado** (`n`) de ocurrencias de un carácter específico.|`re.findall("\w{3}", cadena)`|`["a53", "32c"]`|
 |**`{n,m}`**|Representa **entre `n` y `m`** ocurrencias (inclusive) de un carácter específico.|`re.findall("\w{1,2}", cadena)` _(Ejemplo no en la guía)_|`["a5", "3", "32", "c", "E"]`|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Recapitulación]]
+- ➡️ Siguiente: [[3- Términos del glosario del Módulo 3]]

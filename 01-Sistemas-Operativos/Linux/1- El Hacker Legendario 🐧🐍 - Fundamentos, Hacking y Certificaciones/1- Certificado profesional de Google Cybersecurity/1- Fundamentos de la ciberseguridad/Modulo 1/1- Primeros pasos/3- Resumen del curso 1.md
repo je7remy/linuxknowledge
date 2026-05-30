@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso 1
 ![[Pasted image 20250522185452.png]] 
 
 Hola, y bienvenido a **Fundamentos de la Ciberseguridad**, el primer curso del Certificado de Ciberseguridad de Google. ¡Has comenzado un viaje apasionante!
@@ -91,5 +98,11 @@ Cada curso ofrece muchos tipos de oportunidades de aprendizaje:
 - Cuando encuentres enlaces útiles en este curso, márcalos para poder consultar la información más adelante para estudiar o repasar.
     
 - Comprenda y siga el [Código de Conducta de Coursera](https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?) para asegurar que la comunidad de aprendizaje siga siendo un lugar acogedor, amigable y de apoyo para todos los miembros.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Visión general del certificado de ciberseguridad de Google]]
+- ➡️ Siguiente: [[4- Recursos y consejos útiles]]

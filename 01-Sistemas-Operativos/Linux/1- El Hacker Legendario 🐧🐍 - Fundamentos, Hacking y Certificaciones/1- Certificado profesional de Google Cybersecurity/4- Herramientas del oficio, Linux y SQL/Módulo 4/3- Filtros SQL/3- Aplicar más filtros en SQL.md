@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Aplicar más filtros en SQL
 
 # 📝 Resumen del Laboratorio de SQL – Filtrado de accesos
 
@@ -113,3 +120,10 @@ Esto es justo lo que se usa en la vida real para **auditar accesos sospechosos**
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Operadores para filtrar fechas y números]]
+- ➡️ Siguiente: [[4- Filtrados con AND, OR y NOT]]

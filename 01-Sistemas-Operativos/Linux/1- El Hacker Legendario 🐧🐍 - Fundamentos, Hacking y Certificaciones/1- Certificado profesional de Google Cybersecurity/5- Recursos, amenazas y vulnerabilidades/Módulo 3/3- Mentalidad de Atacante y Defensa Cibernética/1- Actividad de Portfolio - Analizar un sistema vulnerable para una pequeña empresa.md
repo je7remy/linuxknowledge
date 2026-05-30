@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad de Portfolio - Analizar un sistema vulnerable para una pequeña empresa
 
 # 📄 Informe de Evaluación de Vulnerabilidades
 
@@ -145,3 +152,9 @@ Implementación de mecanismos de autenticación, autorización y auditoría para
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Proteger todos los puntos de entrada]]

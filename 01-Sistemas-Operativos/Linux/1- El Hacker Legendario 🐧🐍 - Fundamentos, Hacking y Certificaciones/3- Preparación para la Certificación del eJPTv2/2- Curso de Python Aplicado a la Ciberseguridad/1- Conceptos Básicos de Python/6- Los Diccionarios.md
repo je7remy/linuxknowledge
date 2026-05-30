@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Los Diccionarios
 
 ---
 
@@ -171,3 +178,11 @@ Esto imprimirá el valor si la clave existe o `"Clave no encontrada"` si no exis
 [[2- Las Listas]]
 [[3- Las Tuplas]]
 [[5- Entrada de Información por parte del Usuario (Argumentos)]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[5- Entrada de Información por parte del Usuario (Argumentos)]]
+- ➡️ Siguiente: [[7- Los Operadores Lógicos]]

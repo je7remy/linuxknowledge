@@ -144,7 +144,7 @@ Puede encontrar más información sobre los formatos de salida en: [https://nma
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬆️ Carpeta: [[_1- Nmap|1- Nmap]]
 - ⬅️ Anterior: [[3- nmap firewall evasion]]
 - ➡️ Siguiente: [[5- nmap scripts]] — NSE y categorías de scripts.
 

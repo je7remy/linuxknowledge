@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Entrada de Información por parte del Usuario
 ### **Primer Fragmento: Solicitar y Mostrar un Nombre**
 
 Código:
@@ -79,4 +86,12 @@ Explicación:
 3. Se crea una cadena con `f-string` que une `nombre` y `edad` con un espacio en medio, almacenada en `resultado`.
 4. Se imprime la cadena `"tu nombre y tu edad es: "` seguida del valor de `resultado`.
 5. Se muestra otra línea de salida con `f-string`:
-    - `"tu nombre es {nombre} y tu edad es {edad}"`  
+    - `"tu nombre es {nombre} y tu edad es {edad}"`
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[3- Las Tuplas]]
+- ➡️ Siguiente: [[5- Entrada de Información por parte del Usuario (Argumentos)]]

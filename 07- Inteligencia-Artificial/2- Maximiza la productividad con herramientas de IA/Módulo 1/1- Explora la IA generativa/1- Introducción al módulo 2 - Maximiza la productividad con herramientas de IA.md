@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción al módulo 2 - Maximiza la productividad con herramientas de IA
 
 ## Explorando la IA Generativa
 
@@ -32,3 +39,10 @@ En esta sección del curso, explorarás:
 2. **Aumento de la Productividad:** Aprenderás cómo ser más productivo con herramientas de IA.
     
 3. **Uso Responsable:** Aprenderás a usar la IA de manera responsable aplicando el criterio de “**humano en el ciclo**”.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ➡️ Siguiente: [[2- Descubre aplicaciones de la IA generativa]]

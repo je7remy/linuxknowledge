@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Claves de la IA en ciberseguridad
 
 En esta lección, has aprendido sobre la IA y cómo puede ayudarte como profesional de la ciberseguridad. A continuación, has practicado cómo pedir a una herramienta de IA generativa (gen IA) que produzca resultados útiles. Es útil utilizar el marco TCREI (tarea, contexto, referencias, evaluar e iterar) para guiar tus indicaciones. Cuando creas entradas realmente excelentes de forma reflexiva, es más probable que obtengas resultados que te sirvan
 
@@ -70,3 +77,11 @@ Si está interesado en obtener más información, visite los siguientes recursos
 - [Ciencia y tecnología en primer plano: IA generativa](https://www.gao.gov/products/gao-23-106782): Descubra por qué los sistemas de IA generativa son importantes en el mundo actual en este artículo de la Oficina de Rendición de Cuentas del Gobierno de Estados Unidos (GAO).
     
 - [El informe del NIST destaca que la IA es más tendenciosa que los datos sesgados](https://www.nist.gov/news-events/news/2022/03/theres-more-ai-bias-biased-data-nist-report-highlights#:~:text=Bias%20in%20AI%20systems%20is,systemic%2C%20institutional%20biases%20as%20well.): Examina los riesgos que conlleva la presencia de sesgos en los datos de IA y las recomendaciones para mitigarlos, basándose en la investigación realizada por el Instituto Nacional de Normas y Tecnología (NIST) del Departamento de Comercio de Estados Unidos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[10- Actividad - Utilizar IA generativa para enumerar los signos más comunes de phishing y malware]]
+- ➡️ Siguiente: [[12- Prepararse para las entrevistas técnicas]]

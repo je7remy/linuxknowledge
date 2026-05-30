@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# El valor de la documentación
 
 # 🗂️ Documentación en la Respuesta ante Incidentes
 
@@ -130,3 +137,11 @@ Documentación
 📘 **Explicación:**  
 Documentación es cualquier forma de contenido registrado que se utiliza para un fin específico.
 La **documentación** es cualquier forma de contenido **registrado o grabado** —ya sea escrita, digital, de audio o video— que se utiliza para **un propósito específico**, como guiar, instruir o registrar información relevante durante la respuesta ante incidentes.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Herramientas de respuesta ante incidentes]]
+- ➡️ Siguiente: [[3- Sistemas de detección de intrusiones]]

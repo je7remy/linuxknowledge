@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [nota]
+actualizado: 2026-05-28
+---
+
+# Puertos Principales
 
 -------------
 
@@ -22,3 +29,10 @@
 
 [[1- Modelo OSI]]
 [[1- Protocolo HTTP]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Redes Basico|2- Redes Basico]]
+- ⬅️ Anterior: [[1- Modelo OSI]]

@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [fastapi]
+actualizado: 2026-05-28
 ---
 
+# HTTP status codes
 # Módulo 12: Códigos de Estado HTTP y Manejo de Errores
 
 ## Lección 12.1: El Semáforo de la Web
@@ -263,3 +267,10 @@ def search_user(id: int):
 | **Duplicado** | 409 Conflict | `raise HTTPException(status_code=409)` |
 | **Filtrar Respuesta** | N/A | `response_model=User` en el decorador |
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[8- Test de conocimientos - Operaciones POST, PUT y DELETE]]
+- ➡️ Siguiente: [[10- Test de conocimientos - HTTP status codes]]

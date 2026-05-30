@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creamos una Aplicación de Chat con Sockets PARTE 2
 
 ---
 
@@ -536,3 +543,10 @@ print("Hubo un error de conexión")
 
 `````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_14- Sockets|14- Sockets]]
+- ⬅️ Anterior: [[3- Creamos una Aplicación de Chat con Sockets PARTE 1]]
+- ➡️ Siguiente: [[5- Ejecución Remota de Comandos entre 2 Nodos – Hilos + Sockets]]

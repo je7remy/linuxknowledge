@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Seleccionar la interfaz de usuario
 
 ## 🧠 Ejercicio: ¿GUI o CLI? – Escenarios prácticos
 
@@ -45,3 +52,11 @@ La CLI genera un historial automático de todos los comandos ejecutados, lo cual
 ✔ La CLI es ideal cuando se necesita control, seguimiento o automatización del proceso de instalación.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- La línea de comandos en uso]]
+- ➡️ Siguiente: [[5- Ellen Mi ruta de acceso a la ciberseguridad]]

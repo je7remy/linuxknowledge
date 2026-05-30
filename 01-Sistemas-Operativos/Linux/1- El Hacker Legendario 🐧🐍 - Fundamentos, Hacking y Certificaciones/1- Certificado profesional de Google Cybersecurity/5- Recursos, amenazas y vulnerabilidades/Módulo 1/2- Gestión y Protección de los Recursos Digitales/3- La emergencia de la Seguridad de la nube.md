@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# La emergencia de la Seguridad de la nube
 
 Uno de los avances tecnológicos más significativos de este siglo ha sido la aparición de la computación en la nube. El Centro Nacional de Ciberseguridad del Reino Unido define la computación en la nube como: "Un servicio a la carta, masivamente escalable, alojado en una infraestructura compartida, accesible a través de Internet"
 
@@ -90,3 +97,11 @@ La Seguridad de la nube es uno de los subcampos de la Ciberseguridad de más rá
 - [La Nube Security Alliance®](https://cloudsecurityalliance.org/) es una organización dedicada a la creación de entornos seguros en la nube. Ofrecen acceso a investigaciones, certificaciones y productos específicos para la Seguridad de la nube a los usuarios con una membresía de pago.
     
 - [CompTIA Nube+](https://www.comptia.org/blog/your-next-move-cloud-security-specialist) es un programa de certificación diseñado para enseñarle las habilidades básicas necesarias para convertirse en un especialista en Seguridad de la nube.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Recursos en un mundo digital]]
+- ➡️ Siguiente: [[4- Ponga a Prueba sus conocimientos]]

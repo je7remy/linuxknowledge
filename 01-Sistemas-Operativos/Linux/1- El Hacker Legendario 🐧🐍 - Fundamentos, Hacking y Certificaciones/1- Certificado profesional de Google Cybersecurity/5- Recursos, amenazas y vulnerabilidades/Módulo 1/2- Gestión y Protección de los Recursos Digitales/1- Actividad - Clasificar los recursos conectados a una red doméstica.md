@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Actividad - Clasificar los recursos conectados a una red doméstica
 ## Resumen de la actividad
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/bMeh0kzDSsiAlrMg034usw_abc4514fca5d4eeb9bc90936c66b31f1_QvS8VH7w3B7e3sQ-H-ASwpqKB9i0OP60WdXeKivoHPGqQ3KK_-Kisf0sLWRFBTiCkkK1s95FqEmnwQQsUIAPHz7w53NOiZr65nGIwuyd3ExVCO-voOOXi271M_VGDph0oBB9tySRR3xEPEvDiHRa6eGZ7uq0TWH64XrFGmvzFu41KzubstdvXXuvF0Zlug?expiry=1758067200000&hmac=3iYk15nbdXR20r_McpJaEW4rpqCD1r8XcQzegHWC0xM)
@@ -142,3 +149,9 @@ Asegúrese de incluir los siguientes elementos en su actividad completada:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Recursos en un mundo digital]]

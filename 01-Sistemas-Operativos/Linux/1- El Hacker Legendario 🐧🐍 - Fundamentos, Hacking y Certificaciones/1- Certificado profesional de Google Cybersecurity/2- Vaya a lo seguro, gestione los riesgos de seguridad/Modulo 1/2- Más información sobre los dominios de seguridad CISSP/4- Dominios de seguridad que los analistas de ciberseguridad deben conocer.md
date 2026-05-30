@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Dominios de seguridad que los analistas de ciberseguridad deben conocer
 
 Como analista, puedes explorar varias áreas de la ciberseguridad que te interesen. Una forma de explorar esas áreas es comprender los diferentes dominios de seguridad y cómo se utilizan para organizar el trabajo de los profesionales de la seguridad. En esta lectura, aprenderá más sobre los ocho dominios de seguridad de CISSP y cómo se relacionan con el trabajo que realizará como analista de seguridad.
 
@@ -118,3 +125,11 @@ Realizar pruebas de seguridad de aplicaciones puede ayudar a garantizar que las 
 ## Conclusiones clave
 
 En esta lectura, aprendió más sobre las áreas de enfoque de los ocho dominios de seguridad de CISSP. Además, ha aprendido sobre InfoSec y el principio de privilegios mínimos. Estar familiarizado con estos dominios de seguridad y conceptos relacionados te ayudará a obtener información sobre el campo de la ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Explore los dominios de seguridad de CISSP, Parte 2]]
+- ➡️ Siguiente: [[5- Ashley, Mi camino hacia la ciberseguridad]]

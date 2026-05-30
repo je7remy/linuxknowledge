@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 ### 🌟 **Revisión: Utiliza la IA de forma responsable**
 
@@ -25,3 +32,9 @@ Para continuar tu aprendizaje, te animo a seguir explorando los **Fundamentos de
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ➡️ Siguiente: [[2- Desafío del Curso 4]]

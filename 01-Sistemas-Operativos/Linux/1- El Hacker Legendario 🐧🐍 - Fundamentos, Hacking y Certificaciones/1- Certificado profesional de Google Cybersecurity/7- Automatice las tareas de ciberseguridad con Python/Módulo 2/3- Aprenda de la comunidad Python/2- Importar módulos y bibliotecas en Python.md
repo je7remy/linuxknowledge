@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Importar módulos y bibliotecas en Python
 
 Anteriormente, usted exploró las bibliotecas y módulos. Aprendió que un Módulo es un archivo Python que contiene funciones adicionales, variables, clases y cualquier tipo de código ejecutable. También aprendió que una biblioteca es una colección de módulos que proporcionan código al que los usuarios pueden acceder en sus programas. Se le presentaron algunos módulos de la Biblioteca estándar de Python y un par de bibliotecas externas. En esta lectura, aprenderá a importar un Módulo que existe en la Biblioteca estándar de Python y a utilizar sus funciones. También ampliará sus conocimientos sobre las bibliotecas externas.
 
@@ -93,3 +100,11 @@ Una vez instalada una biblioteca, puede importarla directamente a Python utiliza
 ### Puntos clave
 
 La Biblioteca estándar de Python contiene muchos módulos que puede importar, entre ellos `re`, `csv`, `os`, `glob`, `time`, `datetime` y `statistics`. Para importar estos módulos, debe utilizar la palabra clave `import`. La Sintaxis varía en función de si desea importar todo el Módulo o sólo funciones específicas del mismo. Las bibliotecas externas también se pueden importar en Python, pero es necesario instalarlas primero.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Módulos y bibliotecas]]
+- ➡️ Siguiente: [[3- Legibilidad del Código]]

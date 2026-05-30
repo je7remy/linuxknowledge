@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Impactos clave de las amenazas, los riesgos y las vulnerabilidades
 
 ## 🛡️ Ransomware y su Impacto en la Organización
 
@@ -105,3 +112,10 @@ El **ransomware** es un tipo de **malware** que **cifra los datos** de una organ
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1-Amenazas, riesgos y vulnerabilidades]]
+- ➡️ Siguiente: [[3- Herbert, Gestione las amenazas, los riesgos y las vulnerabilidades]]

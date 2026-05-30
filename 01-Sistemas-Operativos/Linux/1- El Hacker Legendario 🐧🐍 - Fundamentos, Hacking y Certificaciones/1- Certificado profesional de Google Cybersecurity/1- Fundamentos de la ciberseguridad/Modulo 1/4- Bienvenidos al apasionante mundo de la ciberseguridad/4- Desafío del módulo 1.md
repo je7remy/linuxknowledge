@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 1
 
 # ✅ **Resumen General – Evaluación de Fundamentos de Ciberseguridad (Parte 1 y Parte 2)**
 
@@ -151,3 +158,10 @@ _Seleccione tres respuestas._
 **✔️ 1 punto**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3- Código de honor de Coursera]]

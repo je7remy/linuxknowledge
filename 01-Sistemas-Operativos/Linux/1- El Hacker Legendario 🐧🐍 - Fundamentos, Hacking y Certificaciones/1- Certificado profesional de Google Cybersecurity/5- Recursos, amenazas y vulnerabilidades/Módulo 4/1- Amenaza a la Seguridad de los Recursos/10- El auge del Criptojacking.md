@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# El auge del Criptojacking
 # Evolución del Malware: Ransomware y Cryptojacking
 
 ## Introducción
@@ -132,5 +139,11 @@ Las demás opciones no aplican porque:
 - **Minado de criptomonedas en estaciones de trabajo**: es precisamente lo que hace el criptojacking, no una medida de protección.
     
 - **Hash de contraseñas de los usuarios en una base de datos**: es una buena práctica de seguridad, pero no protege contra minería ilegal en segundo plano.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[9- Una introducción al software malicioso]]
+- ➡️ Siguiente: [[11- Ponga a prueba sus Conocimientos - Software malicioso]]

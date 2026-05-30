@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Descifrar marcos de seguridad complejos con IA
 
 ### **Uso de la IA para Comprender Marcos de Seguridad Complejos**
 
@@ -77,3 +84,11 @@ Así que pruébalo tú mismo. Piensa en una norma o directriz del NIST sobre la 
 ### **Consejo Profesional Adicional**
 
 En este ejemplo, escribimos nuestro mensaje en Gemini. Si lo prefieres, también puedes activar la **función de micrófono**. Esto le permite agregar más información rápidamente, iniciar un nuevo mensaje o repetir un mensaje existente, todo con la voz. La función de micrófono puede resultar especialmente útil en un ejemplo como este, en el que necesitas ayuda para entender un tema complejo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[4- Aumente sus conocimientos de ciberseguridad con la IA]]
+- ➡️ Siguiente: [[6- Utilizar la IA para identificar errores]]

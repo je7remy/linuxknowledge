@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Explorar las capacidades de IA
 
 ### Uso Práctico y Responsable de la IA en el Entorno Profesional
 
@@ -55,3 +62,10 @@ Este enfoque estructurado demuestra una comprensión sólida de cómo usar la IA
 - **Aplicación Práctica:** Se identifica proactivamente un caso de uso específico (Soporte Técnico) que conecta la teoría con un rol laboral real.
     
 - **Plan de Supervisión Detallado:** Se desarrolla un plan de acción claro que cubre la precisión, el tono y la seguridad, asegurando un uso responsable de la tecnología.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[4- Comprende el potencial y las limitaciones de la IA]]

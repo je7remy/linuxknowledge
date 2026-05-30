@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Stdout, Stderr y Stdin
 ### Definiciones
 
 1. **Estándar Input (stdin)**:
@@ -90,3 +97,11 @@ Esto envía "Juan" como entrada estándar al script.
 
 
 [[5- Automatizar conexión SSH y Ejecución de Comandos con Python]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Gestión de Permisos y Tratamiento de la Información|2- Gestión de Permisos y Tratamiento de la Información]]
+- ⬅️ Anterior: [[6- Comando XARGS]]
+- ➡️ Siguiente: [[8- Permisos Especiales – Sticky Bit]]

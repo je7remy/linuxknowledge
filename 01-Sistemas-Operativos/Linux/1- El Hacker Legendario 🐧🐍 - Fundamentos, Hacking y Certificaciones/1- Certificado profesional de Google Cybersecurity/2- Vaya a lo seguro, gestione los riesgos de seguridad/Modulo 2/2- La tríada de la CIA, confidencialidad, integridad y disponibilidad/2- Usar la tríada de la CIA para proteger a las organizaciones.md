@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Usar la tríada de la CIA para proteger a las organizaciones
 
 # Usar la tríada de la CIA para proteger a las organizaciones
 
@@ -22,3 +29,11 @@ La **tríada CIA** es un modelo que ayuda a informar cómo las organizaciones co
 ## Conclusiones clave
 
 La tríada de la CIA es esencial para establecer la postura de seguridad de una organización. Saber qué es y cómo se aplica puede ayudarte a comprender mejor cómo trabajan los equipos de seguridad para proteger a las organizaciones y a las personas a las que sirven.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Explora la tríada de la CIA]]
+- ➡️ Siguiente: [[3- Práctica, Utilizar la tríada CIA en situaciones laborales]]

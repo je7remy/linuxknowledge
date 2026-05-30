@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Bienvenidos al módulo 3
 
 ## 🔐 Herramientas de Seguridad – Resumen General
 
@@ -76,3 +83,9 @@ Los SIEM son plataformas que:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Registros y herramientas SIEM]]

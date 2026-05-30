@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ejemplar - Capture su primer Paquete
 
 ### Resumen de Actividades
 
@@ -214,3 +221,11 @@ En esta tarea, utiliza `tcpdump` para filtrar los datos del archivo que guardast
 - **¿Qué comando `tcpdump` puede utilizar para identificar las interfaces que están disponibles?**
     
     - **Respuesta**: `sudo tcpdump -D`
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Captura tu primer paquete - Repaso]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos -  Inspección de paquetes]]

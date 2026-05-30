@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# PASTA - Proceso de Simulación de Ataques y Análisis de Amenazas
 
 # 🛡️ Framework PASTA (Proceso para la Simulación de Ataques y el Análisis de Amenazas)
 
@@ -119,3 +126,10 @@ PASTA es un popular framework de _____ que se utiliza en muchos sectores.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[6- Chantelle - El valor de la diversidad en la ciberseguridad]]
+- ➡️ Siguiente: [[8- Rasgos de un modelo de amenaza eficaz]]

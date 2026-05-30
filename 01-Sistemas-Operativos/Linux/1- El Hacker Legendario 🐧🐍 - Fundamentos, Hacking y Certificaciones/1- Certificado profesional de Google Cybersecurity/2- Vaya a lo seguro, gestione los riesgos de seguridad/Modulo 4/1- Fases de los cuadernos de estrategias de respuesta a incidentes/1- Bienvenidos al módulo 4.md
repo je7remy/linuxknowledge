@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
 ---
 
+# Bienvenidos al módulo 4
 ## 📘 **Introducción a los libros de estrategias (Playbooks) y la respuesta a incidentes**
 
 ### 🔧 **¿Qué es un libro de estrategias en ciberseguridad?**
@@ -59,3 +63,10 @@ Un **playbook** es una **guía paso a paso** que los equipos de seguridad usan p
         
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Fases de un manual de respuesta a incidentes]]

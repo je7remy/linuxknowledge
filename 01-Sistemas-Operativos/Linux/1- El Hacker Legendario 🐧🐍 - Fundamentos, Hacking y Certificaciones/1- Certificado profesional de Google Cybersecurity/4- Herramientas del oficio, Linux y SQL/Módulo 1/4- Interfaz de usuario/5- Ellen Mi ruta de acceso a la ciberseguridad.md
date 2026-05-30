@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ellen Mi ruta de acceso a la ciberseguridad
 
 ## 🎙️ **Historia de Ellen – Directora de Ingeniería de Seguridad en Google**
 
@@ -67,3 +74,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Seleccionar la interfaz de usuario]]
+- ➡️ Siguiente: [[6- Interfaz de usuario]]

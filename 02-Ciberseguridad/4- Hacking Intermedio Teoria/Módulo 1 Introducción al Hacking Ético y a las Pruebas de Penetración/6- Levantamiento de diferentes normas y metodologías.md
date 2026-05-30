@@ -61,7 +61,7 @@ El Marco de Evaluación de la Seguridad de los Sistemas de Información (ISSAF) 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ⬅️ Anterior: [[5- Por qué debemos seguir una metodología para las pruebas de penetración]]
 - ➡️ Siguiente: [[7- Comparar metodologías de pentesting]]
 

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Comandos de permiso
 
 Anteriormente, usted exploró los permisos de archivo y los comandos que puede utilizar para mostrarlos y cambiarlos. En esta lectura, repasará estos conceptos y también se centrará en un ejemplo de cómo estos comandos funcionan juntos al poner en práctica el principio de privilegio mínimo.
 
@@ -95,3 +102,11 @@ Para remediar la situación, usted introduce chmod g-rw bonuses.txt. Ahora, sól
 ## Puntos clave
 
 Gestionar los permisos de directorio y de archivo puede formar parte de su trabajo como analista de Seguridad. El uso de ls con las opciones -l y -la le permite investigar los permisos de directorio y archivo. El uso de chmod le permite cambiar los permisos de usuario y asegurarse de que están alineados con el principio de privilegio mínimo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Cambiar permisos]]
+- ➡️ Siguiente: [[4- Gestionar la autorización]]

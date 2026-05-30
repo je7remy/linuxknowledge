@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Uso de Tuberías o Pipes
 
 ---
 
@@ -82,3 +89,11 @@ Las **tuberías** o **pipes** son una funcionalidad poderosa en sistemas operati
 
 
 [[1- Comandos Basicos - Intermedio]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[6- Gestión de Usuarios en Linux]]
+- ➡️ Siguiente: [[8- Gestión de Procesos]]

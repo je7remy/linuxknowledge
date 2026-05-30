@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad - Realizar una consulta SQL
 
 ## 🔹 Tarea 1: Recupera datos de los dispositivos
 
@@ -72,3 +79,10 @@ ORDER BY login_date, login_time;
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Consulta de una base de datos]]
+- ➡️ Siguiente: [[4- Repaso]]

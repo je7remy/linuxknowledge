@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Sean, Mantén la calma durante una filtración de datos
 
 **Hola, mi nombre es Sean.**  
 Soy director técnico de programas en el espacio de trabajo de Google. Soy un veterano de la seguridad con 30 años de experiencia en el área, habiendo trabajado en seis industrias diferentes.
@@ -10,3 +17,11 @@ Recuerdo que la mayor brecha que he experimentado comenzó con una simple llamad
 Si los datos siguen filtrándose, tu primera acción debe ser detener esa pérdida. Esto puede implicar **apagar un servidor, desconectar un centro de datos o cortar comunicaciones**. Lo que sea necesario para frenar la hemorragia de datos.
 
 Tu trabajo como **gestor de incidentes**, o como parte del equipo que responde, es **detener la infracción** y **luego investigarla**. Por eso, ejecutar la gestión de incidentes con base en un **plan establecido** es lo más importante que puede hacer alguien, incluso si está en un puesto de nivel inicial.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[4- Ataques comunes y su efectividad]]
+- ➡️ Siguiente: [[6- Pon a prueba tus conocimientos, La historia de la ciberseguridad]]

@@ -38,12 +38,12 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Git]]
+- ⬆️ Carpeta: [[_Git|Git]]
 - ➡️ Siguiente: [[2- Cómo Editar un Commit que ya se Subio a GitHub]]
 
 ## Relacionadas
 
 - [[2- Cómo Editar un Commit que ya se Subio a GitHub]] — `commit --amend`, rebase, push --force.
 - [[3- Como Borrar Commit]] — `rebase -i drop`, reset hard.
-- [[../../03-Desarrollo/index|03-Desarrollo]] — proyectos donde se usa Git a diario.
+- [[_03-Desarrollo|03-Desarrollo]] — proyectos donde se usa Git a diario.
 

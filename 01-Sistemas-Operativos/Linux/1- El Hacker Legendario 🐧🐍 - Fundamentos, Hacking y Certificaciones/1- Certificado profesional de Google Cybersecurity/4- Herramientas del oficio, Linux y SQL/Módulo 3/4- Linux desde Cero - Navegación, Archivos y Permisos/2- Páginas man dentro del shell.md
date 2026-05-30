@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Páginas man dentro del shell
 
 # 📘 Bienvenido
 
@@ -123,3 +130,10 @@ man chown
 
 Este comando mostrará información detallada sobre el comando `chown` y su funcionamiento.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- La comunidad Linux]]
+- ➡️ Siguiente: [[3- Recursos Linux]]

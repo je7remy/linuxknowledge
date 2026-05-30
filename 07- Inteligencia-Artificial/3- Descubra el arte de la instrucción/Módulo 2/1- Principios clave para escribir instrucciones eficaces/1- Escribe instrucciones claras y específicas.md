@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Escribe instrucciones claras y específicas
 
 ## 🍽️ El principio de la cocina: Calidad de entrada = Calidad de salida
 
@@ -53,3 +60,10 @@ Intentémoslo de nuevo. Esta vez escribiremos la instrucción:
 2. **Conoce las limitaciones:** Ten en cuenta que, debido a las limitaciones del LLM, puede haber algunos casos en los que no se pueda obtener un resultado de calidad. Por ejemplo, si le pides al LLM información sobre un acontecimiento de actualidad al que no tiene acceso, no será capaz de proporcionar el resultado que necesitas.
     
 3. **La iteración es la norma:** La ingeniería de instrucciones suele ser un **proceso iterativo**. Cuando nuestra primera instrucción no produjo la respuesta que queríamos, revisamos la instrucción para mejorar el resultado.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ➡️ Siguiente: [[2- Instrucción de buenas prácticas]]

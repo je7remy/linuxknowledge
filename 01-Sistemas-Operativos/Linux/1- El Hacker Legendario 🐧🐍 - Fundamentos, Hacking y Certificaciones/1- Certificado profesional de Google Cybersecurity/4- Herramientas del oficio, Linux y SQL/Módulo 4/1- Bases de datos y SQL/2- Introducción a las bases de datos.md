@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Introducción a las bases de datos
 
 En cambio, a las bases de datos pueden acceder varias personas simultáneamente y pueden almacenar cantidades ingentes de datos. Las bases de datos también pueden realizar tareas complejas mientras se accede a los datos. Como analista de seguridad, a menudo necesitará acceder a bases de datos que contengan información útil. Por ejemplo, podría tratarse de bases de datos que contengan información sobre intentos de inicio de sesión, software y actualizaciones, o máquinas y sus propietarios.
 
@@ -12,3 +19,11 @@ Ahora que sabemos lo importantes que son las bases de datos para nosotros, vamos
 “El segundo tipo de clave es una **clave foránea**. La clave foránea es una columna de una tabla que es clave primaria en otra tabla. Las claves foráneas, a diferencia de las claves primarias, pueden tener valores vacíos y duplicados. La clave foránea nos permite conectar dos tablas entre sí. En nuestro ejemplo, podemos fijarnos en la columna _employee_id_ de la tabla _machines_. Previamente la identificamos como clave primaria en la tabla de empleados, por lo que podemos utilizarla para conectar cada máquina con su empleado correspondiente. También es importante saber que una tabla sólo puede tener una clave primaria, pero múltiples claves foráneas.”
 
 “Con esta información, estamos listos para pasar a los fundamentos de SQL, el lenguaje que nos permite trabajar con bases de datos. A lo largo de esta sección, obtendremos experiencia práctica trabajando con los conceptos que acabamos de tratar.”
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 4]]
+- ➡️ Siguiente: [[3- Consulta de bases de datos con SQL]]

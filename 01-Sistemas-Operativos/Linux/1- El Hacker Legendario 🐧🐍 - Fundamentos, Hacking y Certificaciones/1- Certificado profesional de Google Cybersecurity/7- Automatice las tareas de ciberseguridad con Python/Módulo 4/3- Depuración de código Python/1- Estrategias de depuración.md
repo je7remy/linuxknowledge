@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Estrategias de depuración
 
 Depurar tu código es una parte fundamental de la programación.
 
@@ -106,3 +113,10 @@ Es normal encontrar errores y excepciones al programar. La habilidad clave es ap
 Omitir los dos puntos al final del encabezado de una Sentencia iterativa y escribir mal la palabra clave de Python `elif` escribiendo `elsif` en su lugar son dos ejemplos de **errores de sintaxis**. Los errores de sintaxis implican un uso no válido del lenguaje Python.
 
 _(Las otras opciones son un error lógico (`<` vs. `<=`) y una excepción en tiempo de ejecución (`NameError` por función no definida), respectivamente)._
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Matt - Aprender de los errores]]

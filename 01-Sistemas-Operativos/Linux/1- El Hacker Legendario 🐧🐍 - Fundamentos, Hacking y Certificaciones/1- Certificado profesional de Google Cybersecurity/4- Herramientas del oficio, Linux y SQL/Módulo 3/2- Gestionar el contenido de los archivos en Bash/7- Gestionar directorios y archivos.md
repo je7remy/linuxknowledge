@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Gestionar directorios y archivos
 
 Anteriormente, usted exploró cómo gestionar el sistema de archivos utilizando los comandos de Linux. Se introdujeron los siguientes comandos: mkdir, rmdir, touch, rm, mv, y cp. En esta lectura, revisará estos comandos, el editor de texto nano, y aprenderá otra forma de escribir en archivos.
 
@@ -64,3 +71,11 @@ Cuando se encuentre dentro del directorio que contiene el archivo permissions.tx
 ## Puntos clave
 
 Saber cómo gestionar el sistema de archivos en Linux es una habilidad importante para los analistas de Seguridad. Los comandos útiles para esto incluyen: mkdir, rmdir, touch, rm, mv, y cp. Cuando los analistas de Seguridad necesitan escribir en archivos, pueden utilizar el editor de texto nano, o los operadores > y >>.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Crear y modificar directorios y archivos]]
+- ➡️ Siguiente: [[8- Gestionar archivos con comandos de Linux]]

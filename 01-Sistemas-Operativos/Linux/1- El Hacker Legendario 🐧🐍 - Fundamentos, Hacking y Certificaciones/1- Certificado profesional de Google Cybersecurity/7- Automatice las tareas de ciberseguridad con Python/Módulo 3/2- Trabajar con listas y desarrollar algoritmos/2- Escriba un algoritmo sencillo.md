@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Escriba un algoritmo sencillo
 
 ### 🧠 Introducción a los Algoritmos
 
@@ -150,3 +157,10 @@ Eso ha sido un montón de Información. Diseñar algoritmos puede ser todo un re
 
 > **Es una buena idea dividirlos en problemas más pequeños antes de lanzarse a escribir su código.**
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Operaciones de Lista en Python]]
+- ➡️ Siguiente: [[3- Listas y el analista de Seguridad]]

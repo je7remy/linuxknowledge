@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Inicio de Sesión en WordPress desde Python
 
 ## **Paso 1: Descarga y Configuración de la Máquina Vulnerable**
 
@@ -316,3 +323,10 @@ with requests.Session() as session:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[5- Introducción a BeautifulSoup]]
+- ➡️ Siguiente: [[7- Explicación XMLRPC en WordPress]]

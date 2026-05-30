@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# La evolución de los protocolos de seguridad inalámbricos
 
 En los primeros días de Internet, toda la comunicación por Internet se realizaba a través de cables físicos. No fue hasta mediados de la década de 1980 que las autoridades de los Estados Unidos designaron un espectro de frecuencias de ondas de radio que podían usarse sin licencia, por lo que hubo más oportunidades para que Internet se expandiera.
 
@@ -62,3 +69,10 @@ WPA3 es un protocolo Wi-Fi seguro y su uso está creciendo a medida que se lanza
 
 Como analista de seguridad, conocer el historial de cómo se desarrollaron los protocolos de seguridad de Wi-Fi le ayuda a comprender mejor qué debe tener en cuenta a la hora de proteger las redes inalámbricas. Es importante que comprenda las vulnerabilidades de cada protocolo y lo importante que es que los dispositivos de su red utilicen las tecnologías de seguridad más actualizadas.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[6- Protocolos inalámbricos]]
+- ➡️ Siguiente: [[8- Ponga a prueba sus Conocimientos, Reconoce diferentes protocolos de red]]

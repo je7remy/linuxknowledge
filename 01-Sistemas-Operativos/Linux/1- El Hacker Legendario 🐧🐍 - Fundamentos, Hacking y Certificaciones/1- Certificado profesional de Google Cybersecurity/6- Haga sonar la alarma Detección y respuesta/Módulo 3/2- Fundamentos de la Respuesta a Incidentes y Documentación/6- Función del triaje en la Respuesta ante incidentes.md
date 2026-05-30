@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Función del triaje en la Respuesta ante incidentes
 
 ## El Rol del Triaje en la Respuesta a Incidentes
 
@@ -41,3 +48,10 @@ Por ejemplo, si recibes una alerta por un intento fallido de inicio de sesión, 
 
 Estas preguntas te ayudan a construir un panorama completo del incidente. Al agregar contexto, evitas hacer suposiciones, lo que podría llevar a conclusiones incompletas o incorrectas.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Actividad - Utilice un Manual de estrategias para responder a un incidente de Phishing]]
+- ➡️ Siguiente: [[7- Robin - Fomentar la colaboración entre equipos]]

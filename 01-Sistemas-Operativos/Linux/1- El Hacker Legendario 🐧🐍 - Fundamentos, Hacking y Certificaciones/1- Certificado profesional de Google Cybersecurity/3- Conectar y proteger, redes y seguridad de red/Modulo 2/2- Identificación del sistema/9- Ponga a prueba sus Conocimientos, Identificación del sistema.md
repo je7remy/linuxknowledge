@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Identificación del sistema
 
 ### ✅ **Evaluación: Seguridad de Red — Resumen de Preguntas y Respuestas**
 
@@ -52,3 +59,9 @@ Un analista de Seguridad utiliza un **_____** para regular y restringir el acces
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[8- Protocolos VPN, Wireguard e IPSec]]

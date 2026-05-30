@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Asignación de recursos a través del sistema operativo
 
 ## 🧠 Gestión de recursos del sistema operativo
 
@@ -91,3 +98,10 @@ El sistema operativo se encarga de la gestión de recursos y memoria para **aseg
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Práctica, Orden de las operaciones en el sistema operativo]]
+- ➡️ Siguiente: [[5- Tecnología de virtualización]]

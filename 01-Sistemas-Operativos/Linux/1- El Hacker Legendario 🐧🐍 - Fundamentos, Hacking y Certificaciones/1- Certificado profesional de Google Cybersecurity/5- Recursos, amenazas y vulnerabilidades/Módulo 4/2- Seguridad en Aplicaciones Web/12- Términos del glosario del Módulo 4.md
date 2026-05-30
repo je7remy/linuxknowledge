@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 4
 
 ## Términos y definiciones del Curso 5, Módulo 4
 
@@ -88,3 +95,11 @@
 **Whaling:** Categoría de intentos de phishing dirigidos a altos ejecutivos de una organización
 
 **Explotaciones basadas en web:** Código o comportamiento malicioso que se utiliza para aprovecharse de fallos de programación en una aplicación web
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[11- Mejore sus capacidades de identificación de amenazas]]
+- ➡️ Siguiente: [[13- Módulo 4 desafío]]

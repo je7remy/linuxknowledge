@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Lista de comprobación para usar la IA de forma responsable
 
 Cuando se utiliza una herramienta de IA generativa, el conductor es uno mismo. La herramienta proporciona la potencia de cálculo, pero usted aporta la dirección, el juicio y el pensamiento crítico. Utilizar la IA de forma responsable significa ser reflexivo e intencionado con las instrucciones para garantizar la calidad, la seguridad y la precisión de los resultados.
 
@@ -52,3 +59,10 @@ He aquí un sencillo flujo de trabajo para aplicar este principio:
 **Consejo profesional**: algunas herramientas de IA pueden ayudarte a comprobar sus propias respuestas. Puedes obtener más información sobre [cómo utilizar la función de doble comprobación de Gemini](https://support.google.com/gemini/answer/14143489?hl=en&co=GENIE.Platform%3DAndroid) para evaluar sus respuestas.
 
 En última instancia, ser un usuario responsable de IA significa combinar las capacidades de la herramienta con tu propio pensamiento y juicio críticos. Al poner en práctica cada uno de estos principios, no sólo se obtienen mejores resultados, sino que se contribuye a un uso más seguro y ético de la IA.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[4- Vint, Utiliza la IA para generar un cambio positivo]]

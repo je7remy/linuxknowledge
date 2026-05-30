@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 2
 
 # Introducción a los Controles de Seguridad
 
@@ -34,3 +41,9 @@ En esta nueva sección se estudiarán los **Controles de Seguridad**, cuyo objet
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Controles de seguridad]]

@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, path-parameters, query-parameters, crud]
+actualizado: 2026-05-28
+---
+
+# Path y Query Parameters
 
 # Módulo 10: Creación de API REST: Modelos, CRUD y Parámetros
 
@@ -429,3 +436,11 @@ async def get_user_by_path(id: int):
 async def get_user_by_query(id: int):
     return search_user(id)
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[4- Test de conocimientos - Creación API]]
+- ➡️ Siguiente: [[6- Test de conocimientos - Path y Query]]

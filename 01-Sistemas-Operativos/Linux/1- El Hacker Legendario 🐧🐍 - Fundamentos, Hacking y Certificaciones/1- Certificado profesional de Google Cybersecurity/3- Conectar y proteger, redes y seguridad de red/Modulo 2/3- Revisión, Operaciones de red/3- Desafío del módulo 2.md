@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 2
 
 
 **1. ¿Qué protocolo de redes traduce el nombre de dominio del servidor de un sitio web en una dirección IP?**
@@ -260,3 +267,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Términos del glosario del Módulo 2]]

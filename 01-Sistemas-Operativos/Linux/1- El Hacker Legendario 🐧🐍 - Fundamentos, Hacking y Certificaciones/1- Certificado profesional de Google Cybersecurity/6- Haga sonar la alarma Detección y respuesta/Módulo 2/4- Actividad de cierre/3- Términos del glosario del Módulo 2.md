@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 2
 
 ### **Términos y Definiciones del Glosario**
 
@@ -40,3 +47,11 @@
 - **tcpdump:** Un analizador de protocolos de red de línea de comandos.
     
 - **Wireshark:** Un analizador de protocolos de red de código abierto con interfaz gráfica.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Actividad de cierre]]
+- ➡️ Siguiente: [[4- Desafío del módulo 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Más sobre bucles en Python
 
 ### 🧠 Introducción a las Sentencias Iterativas
 
@@ -326,3 +333,11 @@ Si crea un bucle que no sale, se denomina bucle infinito. En estos casos, debe p
 ### 💡 Puntos clave
 
 Los analistas de Seguridad necesitan estar familiarizados con las Sentencias iterativas. Pueden utilizar los bucles `for` para realizar tareas que impliquen iterar a través de listas un número predeterminado de veces. También pueden utilizar los bucles `while` para realizar tareas basadas en ciertas condiciones que se evalúan a `True`. Las palabras clave `break` y `continue` se utilizan en sentencias iterativas para controlar el flujo de los bucles basándose en condiciones adicionales.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Bucles while]]
+- ➡️ Siguiente: [[7- Actividad - Crear bucles]]

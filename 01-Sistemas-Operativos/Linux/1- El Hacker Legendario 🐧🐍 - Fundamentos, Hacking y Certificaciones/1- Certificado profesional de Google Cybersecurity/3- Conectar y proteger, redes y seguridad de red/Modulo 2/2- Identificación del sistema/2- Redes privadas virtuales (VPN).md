@@ -1,4 +1,3 @@
-
 ---
 
 ### 🔐 ¿Qué es una VPN?
@@ -100,3 +99,10 @@ Consiste en **envolver datos confidenciales dentro de otros paquetes de datos**,
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Cortafuegos y medidas de Seguridad de redes]]
+- ➡️ Siguiente: [[3- Zonas de seguridad]]

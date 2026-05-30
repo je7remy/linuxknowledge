@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 3
 
 ¡Entendido! Parece que has comenzado el **Módulo 3: Investigación y respuesta ante incidentes**. ¡Felicidades por tu progreso!
 
@@ -27,3 +34,10 @@ Aquí tienes un desglose de los temas clave que aprenderás:
 Al final, tendrás una comprensión completa de cómo se gestiona un incidente de seguridad de principio a fin.
 
 ¡Estás listo para sumergirte en uno de los campos más dinámicos de la ciberseguridad! ¡Mucho éxito!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- La fase de Detección y Análisis del ciclo de vida]]

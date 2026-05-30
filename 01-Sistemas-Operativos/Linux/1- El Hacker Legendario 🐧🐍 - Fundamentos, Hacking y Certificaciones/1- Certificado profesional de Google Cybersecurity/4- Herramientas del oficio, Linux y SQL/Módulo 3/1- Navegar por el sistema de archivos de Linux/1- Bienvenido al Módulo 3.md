@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 3
 
 # 🧠 **Comunicación con el sistema operativo Linux a través del shell**
 
@@ -47,4 +54,9 @@ Tendrás **experiencia práctica** en un área clave para el trabajo como **anal
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Comandos Linux a través del shell Bash]]

@@ -18,11 +18,11 @@ Y si bien puede pensar que sus millas aéreas de viajero frecuente no son valios
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ➡️ Siguiente: [[2- De qué color es mi sombrero]]
 
 ## Relacionadas
 
 - [[2- De qué color es mi sombrero]] — taxonomía de los atacantes mencionados.
 - [[12- Social Sharing]] — fuente de información que los hackers explotan.
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — cómo obtienen credenciales.
+- [[_1- Cracking|02 → Cracking]] — cómo obtienen credenciales.

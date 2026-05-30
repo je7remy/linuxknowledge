@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
 ---
 
+# Actividad de cierre
 ## 🧠 **Resumen de la sección: Fundamentos de Redes**
 
 ### 🌐 Estructura de una Red
@@ -57,3 +61,10 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Términos del glosario del Modulo 1]]

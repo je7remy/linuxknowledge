@@ -1,4 +1,3 @@
-
 ---
 
 ## 👨‍🚒 Matt: Especialista en Caos en Google
@@ -80,3 +79,9 @@ Matt anima a personas **curiosas, apasionadas y comprometidas** con mejorar la s
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Cómo las intrusiones comprometen su sistema]]

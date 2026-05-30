@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Análisis del endurecimiento de la red 2
 
 ## Ejemplar completado
 
@@ -24,3 +31,11 @@ En la sección sobre la política de seguridad de la información de la organiza
 ## Puntos clave
 
 Como analista de seguridad, puede ser responsable de iniciar las prácticas de Seguridad de red. Tomar decisiones ejecutivas sobre qué herramientas utilizar basándose en lo que sabe sobre ciertas vulnerabilidades será un punto de partida para ayudar a la organización a mejorar la seguridad de su red. Explicar y documentar sus decisiones como analista de ciberseguridad le ayudará en el futuro si alguna vez hay que solucionar problemas en la red. También contribuirá a que los empleados sin conocimientos técnicos se impliquen y les ayudará a seguir las prácticas de Seguridad, como la autenticación multifactor.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3.1- Tareas de Endurecimiento de Seguridad]]
+- ➡️ Siguiente: [[5- Ponga a prueba sus Conocimientos, Endurecimiento de la red]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Parisa, Los paralelismos entre la accesibilidad y la seguridad
 
 ## 🎙️ **Resumen del Discurso de Parisa – Accesibilidad y Ciberseguridad**
 
@@ -54,3 +61,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[4- El futuro de las herramientas SIEM]]
+- ➡️ Siguiente: [[6- Pon a prueba tus conocimientos, Paneles de control de gestión de eventos e información de seguridad (SIEM)]]

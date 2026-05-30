@@ -1,4 +1,3 @@
-
 ---
 
 ### 🔐 **¿Por qué es importante asegurar el OS?**
@@ -79,3 +78,10 @@ El sistema operativo es la base del funcionamiento de cualquier dispositivo. Si 
     
 
 Por eso, en ciberseguridad se aplica el **principio de defensa en profundidad**, asegurando cada capa —incluidos los sistemas operativos— para proteger la infraestructura completa.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Ataques de fuerza bruta y endurecimiento del OS]]

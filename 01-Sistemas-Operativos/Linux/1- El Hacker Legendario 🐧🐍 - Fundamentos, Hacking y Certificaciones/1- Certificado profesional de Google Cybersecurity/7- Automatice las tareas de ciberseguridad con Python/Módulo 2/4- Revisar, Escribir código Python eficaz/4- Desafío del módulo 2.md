@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 2
 
 
 ### 🧠 Pregunta 1
@@ -449,3 +456,10 @@ Funciones adicionales, variables, clases y otros tipos de código ejecutable.
 📘 Justificación:
 
 Un módulo es un archivo .py que contiene código. Al importar un módulo, obtienes acceso a todo ese código (funciones, variables, etc.) para usarlo en tu programa actual.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Términos del glosario del Módulo 2]]

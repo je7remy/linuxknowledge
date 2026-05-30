@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# La fase de Actividad posterior al incidente del ciclo de vida
 
 ## La Fase de Actividad Posterior al Incidente
 
@@ -58,3 +65,10 @@ Las revisiones de incidentes pueden revelar errores humanos, ya sea un analista 
     > **Correcto**. Los Equipos de Seguridad elaboran un Informe final e Identifican áreas de mejora y aprendizaje durante la fase de Actividad posterior al incidente del Ciclo de vida de respuesta a incidentes del NIST.
     
 - **Realice una prueba de vulnerabilidad.** ❌
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Revisión posterior al incidente]]

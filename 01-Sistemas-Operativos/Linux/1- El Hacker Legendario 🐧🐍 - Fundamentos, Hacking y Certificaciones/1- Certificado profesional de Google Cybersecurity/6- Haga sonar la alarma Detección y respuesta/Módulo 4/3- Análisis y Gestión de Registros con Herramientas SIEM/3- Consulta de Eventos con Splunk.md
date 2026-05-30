@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, splunk, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Consulta de Eventos con Splunk
 
 ## 🔍 Consulta y búsqueda de eventos en un SIEM (Splunk)
 
@@ -151,3 +158,11 @@ Esta consulta busca solo los **intentos fallidos de inicio de sesión** en el se
 > Cuanto **más específica** sea una consulta en un SIEM,  
 > **más rápida y relevante** será la información obtenida.  
 > Esto permite a los analistas detectar incidentes con mayor eficacia.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Fuentes de registro e ingestión de registros]]
+- ➡️ Siguiente: [[4- Consulta de eventos con Google SecOps]]

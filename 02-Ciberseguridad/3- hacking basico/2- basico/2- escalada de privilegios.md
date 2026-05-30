@@ -26,7 +26,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- basico]]
+- ⬆️ Carpeta: [[_2- basico|2- basico]]
 - ⬅️ Anterior: [[1- basic tools]]
 - ➡️ Siguiente: [[3- hoja de trucos de METASPLOIT]]
 
@@ -34,5 +34,5 @@ actualizado: 2026-05-28
 
 - [[1- privilege scalation basic]] — explicación detallada de cada comando de este cheatsheet.
 - [[2- python hijacking]] — vector específico de Python.
-- [[../4- privilege scalation/index|4- privesc]] — la sección dedicada a este tema.
+- [[_4- privilege scalation|4- privesc]] — la sección dedicada a este tema.
 - [[0- Comandos de Hacking]] — versión más extensa con explicación.

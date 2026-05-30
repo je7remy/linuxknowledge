@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Bucle WHILE – Iterar por Líneas
 ### 1. **Primer Script**
 
 ```bash
@@ -156,3 +163,10 @@ La url https://invalido.com no esta operativa o no existe, devuelve un 404
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]
+- ⬅️ Anterior: [[6- Bucle WHILE – PARTE 2]]

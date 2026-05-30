@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Comprometerse con la comunidad de la ciberseguridad de forma significativa
 
 ### Un Plan de Acción en 3 Pasos
 
@@ -62,3 +69,10 @@ El video sugiere un mensaje muy genérico. Dado que tú ya eres un "Soporte Téc
 
 Este mensaje muestra quién eres, qué quieres y por qué te pones en contacto con _esa persona_ en específico.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[5- Ejemplar de actividad - Explorar las organizaciones de ciberseguridad]]
+- ➡️ Siguiente: [[7- Conecte con otros profesionales de la ciberseguridad]]

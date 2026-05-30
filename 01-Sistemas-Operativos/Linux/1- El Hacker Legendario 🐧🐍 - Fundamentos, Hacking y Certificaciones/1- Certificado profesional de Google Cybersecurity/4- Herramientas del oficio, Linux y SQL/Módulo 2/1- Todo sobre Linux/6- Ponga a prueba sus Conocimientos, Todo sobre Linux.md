@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Todo sobre Linux
 
 ### ✅ **Pregunta 1**
 
@@ -45,3 +52,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Explicación de la arquitectura de Linux]]

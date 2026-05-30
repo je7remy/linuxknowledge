@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Glosario del curso 8
 
 ## **Glosario de Ciberseguridad: Términos y definiciones del Curso 8**
 
@@ -107,3 +114,11 @@
 ### V
 
 - **Panel de control visual (_Visual dashboard_):** Una forma de mostrar varios tipos de datos rápidamente en un solo lugar.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[1- Glosario de términos del módulo 5]]
+- ➡️ Siguiente: [[3- Resumen del Programa de certificación en ciberseguridad de Google]]

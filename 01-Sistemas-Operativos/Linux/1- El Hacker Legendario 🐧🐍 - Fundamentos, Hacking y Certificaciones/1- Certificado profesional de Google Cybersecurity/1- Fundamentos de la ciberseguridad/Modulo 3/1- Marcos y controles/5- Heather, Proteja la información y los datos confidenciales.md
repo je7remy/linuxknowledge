@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Heather, Proteja la información y los datos confidenciales
 
 **Hola, me llamo Heather y soy la vicepresidenta de ingeniería de seguridad de Google.**
 
@@ -21,3 +28,11 @@ Las normativas que rigen el manejo de la PII son muy complejas. A nivel mundial,
 **Si tienes dudas sobre una ley específica, lo más recomendable es buscar asesoría legal especializada en esa jurisdicción**, ya que puede ser muy distinta a la que te encuentras actualmente.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[4- Controles, marcos y cumplimiento]]
+- ➡️ Siguiente: [[6- Pon a prueba tus conocimientos, Frameworks y controles]]

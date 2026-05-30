@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Más filtros SQL
 
 ## **Pregunta 1**
 
@@ -98,3 +105,10 @@ Opciones:
 **Explicación:** El operador **AND** requiere que ambas condiciones se cumplan al mismo tiempo: que el cliente sea de USA **y** que su estado sea Nevada (NV).
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[8- Aplicar filtros a las consultas SQL]]

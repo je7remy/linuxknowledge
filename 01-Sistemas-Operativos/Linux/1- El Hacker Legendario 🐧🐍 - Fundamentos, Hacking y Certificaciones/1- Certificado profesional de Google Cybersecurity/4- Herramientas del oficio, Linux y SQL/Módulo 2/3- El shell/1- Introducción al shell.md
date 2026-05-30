@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Introducción al shell
 
 ## 🐚 ¿Qué es el Shell en Linux? 
 ¡Bienvenido de nuevo!  
@@ -112,3 +119,10 @@ Su función principal es **ayudar al usuario a comunicarse con el sistema operat
 Traduce lo que escribes a un lenguaje que el sistema puede entender y ejecutar.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Diferentes tipos de conchas]]

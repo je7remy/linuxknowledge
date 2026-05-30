@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ciclo de vida de los datos
 
 Organizaciones de todos los tamaños manejan una gran cantidad de datos que deben mantenerse en privado. Ha aprendido que los Datos pueden ser vulnerables tanto si están en reposo, en uso o en tránsito. Independientemente del estado en que se encuentre, la Información debe mantenerse privada limitando el acceso y la autorización.
 
@@ -65,3 +72,11 @@ En general, es importante proteger todo tipo de información personal del uso y 
 ## Claves
 
 Mantener la privacidad de la Información nunca ha sido tan importante. Muchas organizaciones tienen políticas de Gobierno de datos que describen cómo planean proteger la información sensible. Como Custodio de datos, desempeñará un papel clave a la hora de mantener la información accesible y segura durante todo su ciclo de vida. Existen varios tipos de Información y Controles que encontrará en el Campo. A medida que avance en este curso, aprenderá más sobre los principales controles de seguridad que mantienen la privacidad de los Datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Principio de privilegio mínimo]]
+- ➡️ Siguiente: [[5- Privacidad de la información - Regulaciones y Cumplimiento normativo]]

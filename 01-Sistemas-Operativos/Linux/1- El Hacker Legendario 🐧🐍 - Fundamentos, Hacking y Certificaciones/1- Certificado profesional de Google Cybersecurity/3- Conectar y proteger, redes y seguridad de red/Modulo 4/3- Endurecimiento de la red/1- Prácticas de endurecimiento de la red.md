@@ -1,4 +1,3 @@
-
 ---
 
 ### 🔐 ¿Qué es el Endurecimiento de la Red?
@@ -89,3 +88,10 @@ Filtrado de puertos
 
 Explicación:  
 Un **SIEM (Security Information and Event Management)** es un sistema que permite centralizar, correlacionar y analizar los registros (logs) generados por distintos dispositivos y aplicaciones de una organización (como firewalls, sistemas operativos, antivirus, etc.). Su objetivo principal es **detectar actividades sospechosas o incidentes de seguridad en tiempo real**, ayudando a los equipos de ciberseguridad a responder rápidamente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Aplicaciones de Seguridad de red]]

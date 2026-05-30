@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Añadimos Colores a Nuestro Script
 En Bash, puedes usar códigos de escape ANSI para asignar colores a variables:
 
 ```bash
@@ -185,3 +192,10 @@ echo -e "${bold}${green}¡Gracias por usar este script!${reset}"
 ### Nota:
 
 El comando `echo -e` es necesario para que interprete los códigos de escape en Bash. Si estás escribiendo un script, asegúrate de incluir siempre el comando de restablecimiento (`\e[0m`) después de los colores para evitar que el formato afecte otras partes de la terminal.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Colores en mi Script|7- Colores en mi Script]]
+- ➡️ Siguiente: [[2- Listado de Colores]]

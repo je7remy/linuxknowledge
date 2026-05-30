@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Protección del Protocolo SSH
 
 ---
 
@@ -267,3 +274,10 @@ sudo fail2ban-client status
 [[5- Cómo Crear un Servidor SSH con OPENSSH]]
 **[[6- Gestión de Usuarios en Linux]]**
 **[[11- Automatizar la Gestión de Usuarios en Linux]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_10- Securización de Servidores Linux (EN DESARROLLO)|10- Securización de Servidores Linux (EN DESARROLLO)]]
+- ➡️ Siguiente: [[2- Protección del Protocolo FTP]]

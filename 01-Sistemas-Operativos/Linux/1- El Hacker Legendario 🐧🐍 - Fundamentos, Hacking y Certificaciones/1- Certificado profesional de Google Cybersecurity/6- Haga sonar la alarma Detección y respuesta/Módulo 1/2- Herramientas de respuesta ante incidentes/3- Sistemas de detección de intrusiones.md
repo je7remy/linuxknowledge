@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Sistemas de detección de intrusiones
 
 # 🛡️ Sistemas de Detección y Prevención de Intrusiones (IDS / IPS)
 
@@ -108,3 +115,11 @@ Las alertas generadas por un IDS/IPS se **envían a canales y personal** respons
 Un **IDS (Intrusion Detection System)** se encarga de **vigilar** el tráfico de red y la actividad del sistema, **analizarla** en busca de patrones sospechosos y **generar alertas** cuando identifica una posible intrusión.
 
 👉 No **detiene** la actividad intrusiva (esa función pertenece al **IPS**, Intrusion Prevention System).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- El valor de la documentación]]
+- ➡️ Siguiente: [[4- Visión general de las herramientas de Detección]]

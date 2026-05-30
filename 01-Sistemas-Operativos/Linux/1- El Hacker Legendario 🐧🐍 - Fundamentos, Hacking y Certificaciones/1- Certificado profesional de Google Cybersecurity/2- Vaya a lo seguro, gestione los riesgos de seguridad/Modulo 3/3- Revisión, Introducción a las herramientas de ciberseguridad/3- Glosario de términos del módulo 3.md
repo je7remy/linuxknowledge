@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 3
 
 ## Términos y definiciones del Curso 2, Módulo 3
 
@@ -23,3 +30,10 @@
 
 **Splunk Enterprise:** una herramienta autoalojada que se utiliza para retener, analizar y buscar los datos de registro de una organización para proporcionar información de seguridad y alertas en tiempo real
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Conclusión]]
+- ➡️ Siguiente: [[4- Desafío del módulo 3]]

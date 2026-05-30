@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Aplicar filtros a las consultas SQL
 
 # Aplicar filtros a consultas SQL
 
@@ -247,3 +254,11 @@ Contiene los datos de los empleados y sus dispositivos.
 |        2003 |     D1003 | jsmith   | Information Technology| North-434|
 +-------------+-----------+----------+----------------------+----------+
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[7- Repaso, Filtro con AND, OR y NOT]]
+- ➡️ Siguiente: [[9- Más filtros SQL]]

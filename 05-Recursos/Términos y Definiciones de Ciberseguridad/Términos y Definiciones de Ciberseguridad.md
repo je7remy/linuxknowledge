@@ -508,3 +508,9 @@ actualizado: 2026-05-28
 ## Z
 
 - **Día cero**: Una explotación que era previamente desconocida
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_05-Recursos|05-Recursos]]

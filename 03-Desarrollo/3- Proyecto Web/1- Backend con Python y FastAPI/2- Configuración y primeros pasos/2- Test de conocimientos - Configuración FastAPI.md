@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, configuracion, test-conocimientos]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Configuración FastAPI
 
 ### 1. ¿Qué se recomienda hacer antes de pasar una API a producción?
 
@@ -180,3 +187,11 @@ _Seleccione solamente LA MEJOR respuesta_
 > Esta respuesta es correcta.
 > 
 > PIP (Pip Installs Packages) es la herramienta oficial para instalar y gestionar librerías externas (como FastAPI o Uvicorn).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[1- Configuración FastAPI]]
+- ➡️ Siguiente: [[3- Hola mundo]]

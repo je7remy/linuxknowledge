@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Creamos un Script para Automatizar Búsquedas en el Sistema
 
 ---
 
@@ -141,3 +148,10 @@ Este script demuestra cómo usar herramientas básicas de Bash como `find`, `tr`
 
 [[2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables]]
 [[10- Creamos un Script que Automatice el Tratamiento de la Información]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[10- Creamos un Script que Automatice el Tratamiento de la Información]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ### 💡 Puntos Clave de este Módulo
 
@@ -19,3 +26,11 @@
 Como dice el resumen, has completado una parte fundamental del curso. Ahora, con Emily, te prepararás para llevar estas habilidades al mundo real, aprendiendo a relacionarte con la comunidad de seguridad y a buscar empleo.
 
 ¡Has avanzado muchísimo! ¿Estás listo para empezar con el siguiente módulo sobre cómo relacionarte con la comunidad y buscar trabajo?
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[11- Ponga a prueba sus Conocimientos - Comunicarse eficazmente con las partes interesadas]]
+- ➡️ Siguiente: [[13- Términos del glosario del Módulo 3]]

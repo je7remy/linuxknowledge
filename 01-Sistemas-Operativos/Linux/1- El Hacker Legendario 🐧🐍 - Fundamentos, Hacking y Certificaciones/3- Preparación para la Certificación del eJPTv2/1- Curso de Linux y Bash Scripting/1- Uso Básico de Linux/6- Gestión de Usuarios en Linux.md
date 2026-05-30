@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Gestión de Usuarios en Linux
 
 ---
 
@@ -186,4 +193,12 @@ Si el comando no muestra resultados, significa que el proceso se cerró correcta
 
 **[[11- Automatizar la Gestión de Usuarios en Linux]]**
 **[[2- Gestión de Grupos]]**
-**[[1- Protección del Protocolo SSH]]** 
+**[[1- Protección del Protocolo SSH]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[5- Cómo Utilizar WGET]]
+- ➡️ Siguiente: [[7- Uso de Tuberías o Pipes]]

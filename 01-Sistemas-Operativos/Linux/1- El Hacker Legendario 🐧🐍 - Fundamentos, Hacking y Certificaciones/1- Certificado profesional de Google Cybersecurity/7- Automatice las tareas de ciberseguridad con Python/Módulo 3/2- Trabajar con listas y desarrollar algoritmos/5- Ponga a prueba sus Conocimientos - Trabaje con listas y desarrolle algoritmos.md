@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Trabaje con listas y desarrolle algoritmos
 
 ## 🧠 Pregunta 1
 
@@ -192,3 +199,10 @@ El algoritmo debe iterar a través de los nombres de usuario en una Lista de acc
 3. El método .remove() elimina la primera aparición de los nombres de usuario que coinciden con los criterios.
     
     (El método .append() se usa para añadir elementos, no para eliminar).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Actividad - Desarrollar un algoritmo]]

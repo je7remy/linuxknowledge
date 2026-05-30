@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Aplicaciones de Seguridad de red
 
 Esta sección del curso trata el tema del endurecimiento de la red y su supervisión. Cada dispositivo, herramienta o estrategia de seguridad puesta en marcha por los analistas de seguridad protege -o endurece- aún más la red hasta que el propietario de la red está satisfecho con el nivel de seguridad. Este enfoque de añadir capas de seguridad a una red se conoce como defensa en profundidad.
 
@@ -65,3 +72,11 @@ Una herramienta SIEM no sustituye a los conocimientos de los analistas de seguri
 |Administración de información y eventos de seguridad (SIEM)|Una herramienta SIEM recopila y analiza los datos de registro de varios equipos de red. Agrega los eventos de Seguridad para su Monitoreo en un tablero central.|Una herramienta SIEM sólo informa sobre posibles Problemas de Seguridad. No lleva a cabo ninguna acción para detener o prevenir eventos sospechosos.|
 
 La compra, instalación y mantenimiento de cada uno de estos dispositivos o herramientas cuesta dinero. Es posible que una organización necesite contratar personal adicional para monitorizar las herramientas de Seguridad, como en el caso de un SIEM. Los responsables de la toma de decisiones tienen la tarea de seleccionar el nivel apropiado de Seguridad basándose en el coste y el Riesgo para la organización. Más adelante aprenderá más sobre la elección de los niveles de Seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Prácticas de endurecimiento de la red]]
+- ➡️ Siguiente: [[3- Análisis del endurecimiento de la red 1]]

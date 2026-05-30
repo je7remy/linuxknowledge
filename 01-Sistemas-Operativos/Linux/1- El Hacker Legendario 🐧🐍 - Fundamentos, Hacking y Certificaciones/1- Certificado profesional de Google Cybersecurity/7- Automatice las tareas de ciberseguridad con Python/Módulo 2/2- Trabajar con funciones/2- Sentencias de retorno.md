@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Sentencias de retorno
 
 ### 🧠 Introducción a las Sentencias `return`
 
@@ -89,3 +96,11 @@ Cuenta bloqueada
 - `return` es la forma de **sacar** datos (un resultado) de una función.
     
 - El valor devuelto debe ser **asignado a una variable** para poder ser reutilizado en el programa.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Utilizar parámetros en las funciones]]
+- ➡️ Siguiente: [[3- Funciones y variables]]

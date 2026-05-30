@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 3
 
 ## **Términos y definiciones del Curso 5, Módulo** **3**
 
@@ -40,3 +47,11 @@
 **Escáner de vulnerabilidades:** Software que compara automáticamente las vulnerabilidades y exposiciones comunes existentes con las tecnologías de la red
 
 **Día cero** : Un exploit hasta ahora desconocido
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Recapitulación]]
+- ➡️ Siguiente: [[5- Desafío del Módulo 3]]

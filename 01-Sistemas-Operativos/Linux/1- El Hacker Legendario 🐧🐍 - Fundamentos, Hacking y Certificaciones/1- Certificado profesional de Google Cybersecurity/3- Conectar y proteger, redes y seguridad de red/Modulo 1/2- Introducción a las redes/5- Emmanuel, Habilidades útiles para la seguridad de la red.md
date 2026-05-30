@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Emmanuel, Habilidades útiles para la seguridad de la red
 
 # 🛡️ Testimonio de Emmanuel – Ingeniero de Seguridad Ofensiva en Google
 
@@ -76,3 +83,10 @@ Mi nombre es **Emmanuel** y soy **ingeniero de seguridad ofensiva** en Google.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Tina, Trabajar en seguridad de redes]]
+- ➡️ Siguiente: [[6- Herramientas de red]]

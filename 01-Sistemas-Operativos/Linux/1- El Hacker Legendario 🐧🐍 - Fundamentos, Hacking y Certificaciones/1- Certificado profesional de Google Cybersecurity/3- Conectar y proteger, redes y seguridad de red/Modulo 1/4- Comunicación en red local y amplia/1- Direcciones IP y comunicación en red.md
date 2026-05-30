@@ -1,4 +1,3 @@
-
 ---
 
 ### 📌 ¿Qué es una dirección IP?
@@ -94,3 +93,9 @@ Ejemplo válido: `192.168.1.23`
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Componentes de la capa de red comunicación]]

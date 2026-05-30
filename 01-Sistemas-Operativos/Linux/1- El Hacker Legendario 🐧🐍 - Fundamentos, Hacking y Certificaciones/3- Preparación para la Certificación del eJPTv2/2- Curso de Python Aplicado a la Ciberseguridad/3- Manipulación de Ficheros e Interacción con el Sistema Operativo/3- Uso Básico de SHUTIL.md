@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Uso Básico de SHUTIL
 
 ---
 
@@ -105,3 +112,11 @@ for archivo in archivos:
 |`shutil.copytree`|Copia una carpeta completa|✅ Sí|Copia archivos y estructura|
 |`shutil.move`|Mueve una carpeta|✅ Sí|Cambia ubicación en lugar de copiar|
 |`os.listdir() + shutil.copy`|Copia archivos `.py` a una carpeta|✅ Sí|La carpeta destino debe existir|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Manipulación de Ficheros e Interacción con el Sistema Operativo|3- Manipulación de Ficheros e Interacción con el Sistema Operativo]]
+- ⬅️ Anterior: [[2- Uso Básico del Módulo OS]]
+- ➡️ Siguiente: [[4- Ejercicio Práctico con OS y SHUTIL]]

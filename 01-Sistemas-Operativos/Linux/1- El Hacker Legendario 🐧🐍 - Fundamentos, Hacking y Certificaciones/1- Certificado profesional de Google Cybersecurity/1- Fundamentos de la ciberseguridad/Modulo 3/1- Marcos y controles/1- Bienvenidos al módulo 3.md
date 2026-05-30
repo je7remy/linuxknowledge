@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Bienvenidos al módulo 3
 
 Hola, me alegro de tenerte de vuelta! Estás a mitad de camino con el primer plato, por lo que estás haciendo un gran progreso.
 
@@ -16,3 +23,10 @@ La evolución de las prácticas de seguridad puede parecer un poco abstracta, pe
 Contar con procesos y procedimientos para organizar los esfuerzos de seguridad y tomar decisiones informadas es importante para cualquier organización. Estoy muy emocionada de comenzar, ¡y espero que tú también lo estés!
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Introducción a los marcos y controles de seguridad]]

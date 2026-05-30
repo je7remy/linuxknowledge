@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad - Utilizar la IA para crear un correo electrónico
 
 ### **Actividad Opcional: Practicar el Uso de Herramientas de IA**
 
@@ -69,3 +76,11 @@ Podría usar la IA para agilizar mis comunicaciones, pidiéndole que redacte un 
 > **Autoevaluación:** Reflexione sobre su experiencia con la instrucción. ¿Cómo revisó la calidad de la producción? Explique cómo evaluó si el resultado satisfacía sus necesidades. Escribe de 1 a 3 frases.
 
 Evalué el resultado comparándolo directamente con las instrucciones de mi prompt para asegurar que se incluyeran todos los puntos clave. Revisé el tono del correo para confirmar que fuera profesional y apropiado para la audiencia. Finalmente, realicé una revisión humana para corregir cualquier frase extraña o "alucinación" y asegurarme de que el mensaje final fuera claro y preciso.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[1- Aleck - Facilita las tareas cotidianas con la IA]]
+- ➡️ Siguiente: [[3- Utiliza la IA como herramienta colaborativa]]

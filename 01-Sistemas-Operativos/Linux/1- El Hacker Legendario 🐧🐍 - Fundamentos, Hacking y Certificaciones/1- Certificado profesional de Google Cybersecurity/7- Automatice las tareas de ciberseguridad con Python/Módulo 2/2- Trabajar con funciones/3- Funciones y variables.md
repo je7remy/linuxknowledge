@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Funciones y variables
 
 Anteriormente, se centró en el trabajo con múltiples parámetros y argumentos en las funciones y en la devolución de información desde las funciones. En esta lectura, repasará estos conceptos. También conocerá un nuevo concepto: las variables globales y locales.
 
@@ -160,3 +167,11 @@ Debido a esta complejidad, es mejor evitar combinar variables globales y locales
 ## Puntos clave
 
 Trabajar con variables en funciones requiere comprender varios conceptos. Un parámetro es un objeto que se incluye en la definición de una función para su uso en esa función, un argumento son los datos que se introducen en una función cuando se llama a ella, y la palabra clave `return` se utiliza para devolver información de una función. Además, las variables globales son variables accesibles en todo el programa, y las variables locales son parámetros y variables asignados dentro de una función que no son utilizables fuera de ella. Es importante asegurarse de que todas sus variables tienen nombres distintos, incluso si una es una variable local y la otra es una variable global.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Sentencias de retorno]]
+- ➡️ Siguiente: [[4- Explorar las funciones integradas]]

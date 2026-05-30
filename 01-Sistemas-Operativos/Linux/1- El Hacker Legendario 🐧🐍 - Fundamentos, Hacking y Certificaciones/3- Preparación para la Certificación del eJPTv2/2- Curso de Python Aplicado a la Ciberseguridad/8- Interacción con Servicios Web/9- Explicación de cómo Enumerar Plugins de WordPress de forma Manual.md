@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Explicación de cómo Enumerar Plugins de WordPress de forma Manual
 # Creación de un Script en Python para Enumerar Plugins de WordPress: Paso a Paso
 
 En este tutorial, vamos a desarrollar paso a paso un script en Python diseñado para enumerar plugins instalados en un sitio WordPress, utilizando la máquina vulnerable "Azucar" de Docker Labs. Este proceso es útil en el ámbito de la ciberseguridad para identificar plugins que podrían ser vulnerables y, por ende, explotables. A continuación, detallaremos todo el proceso desde el inicio hasta el final, con explicaciones claras y formato Markdown para facilitar la comprensión.
@@ -994,5 +1001,10 @@ for plugin in plugins:
 check_plugin(plugin)
 `````
 
+---
 
+## Navegación
 
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[8- Fuerza Bruta XMLRPC desde Python]]
+- ➡️ Siguiente: [[10- Creamos una Herramienta para Enumerar y Atacar Plugins de WordPress]]

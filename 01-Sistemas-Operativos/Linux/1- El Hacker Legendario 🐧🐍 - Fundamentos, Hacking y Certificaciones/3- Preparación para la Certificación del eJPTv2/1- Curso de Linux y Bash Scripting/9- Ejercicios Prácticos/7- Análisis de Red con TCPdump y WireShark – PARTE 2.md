@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Análisis de Red con TCPdump y WireShark – PARTE 2
 ### **Captura de tráfico con `tcpdump` y compartirlo con un servidor HTTP:**
 
 #### **Objetivo:**
@@ -378,3 +385,10 @@ Al ejecutarlo, el script:
 - **Legalidad y ética:** Solo realiza este procedimiento en sistemas donde tengas autorización explícita para realizar pruebas.
 - **Seguridad:** Asegúrate de que tu entorno de pruebas esté aislado para evitar interferencias externas.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]
+- ➡️ Siguiente: [[8- Script para Eliminar Archivos Duplicados]]

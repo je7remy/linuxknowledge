@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Modelo de Actividad de Portafolio, Redactar una declaración profesional
 
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/h6jO1-2JR1Sb2h7Y9zr6ag_8c6549becf9348f7949426f69c348ef1_image.png?expiry=1748995200000&hmac=24Kw2k37mIYwL5aAMHrpZyzwtTLEBtk8bX7qRnQD2Bw)
@@ -17,3 +24,10 @@ Enlace al ejemplo:
 Compare el ejemplar con su actividad completada. Revise su trabajo utilizando cada uno de los criterios del ejemplar. ¿Qué hiciste bien? ¿En qué puedes mejorar? Utilice sus respuestas a estas preguntas para revisar su proyecto según sea necesario y guiarlo a medida que continúa progresando en el programa de certificación.
 
 _**Nota:**_ _El ejemplar representa una forma posible de completar la actividad. Es probable que el tuyo difiera en ciertos aspectos. Lo importante es que tu actividad explique tus fortalezas, valores e interés en la profesión de ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[5- Actividad del portafolio, Redactar una declaración profesional]]

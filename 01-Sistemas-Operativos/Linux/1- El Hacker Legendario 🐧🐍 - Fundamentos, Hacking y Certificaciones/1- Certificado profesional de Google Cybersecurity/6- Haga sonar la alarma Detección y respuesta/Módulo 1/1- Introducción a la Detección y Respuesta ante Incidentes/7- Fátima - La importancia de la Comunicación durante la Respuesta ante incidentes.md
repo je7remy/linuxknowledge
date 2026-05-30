@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Fátima - La importancia de la Comunicación durante la Respuesta ante incidentes
 
 
 ## introducción
@@ -29,3 +36,11 @@ definitivamente recomiendo la ciberseguridad como campo profesional porque:
 - es un área emocionante que mantiene la motivación  
 
 ser creativo y aprender constantemente es clave para mantenerse preparado y motivado.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Equipos de Respuesta ante incidentes]]
+- ➡️ Siguiente: [[8- Funciones en la respuesta]]

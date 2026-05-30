@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Legibilidad del Código
 
 # 🐍 Guías de Estilo en Python (PEP 8)
 
@@ -114,3 +121,11 @@ La capacidad de escribir código legible es **clave cuando se trabaja en Python*
 A medida que nos adentremos en la siguiente parte del curso, continuaremos desarrollando prácticas de código eficaces para una mejor legibilidad.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Importar módulos y bibliotecas en Python]]
+- ➡️ Siguiente: [[4- Garantizar una sintaxis y legibilidad adecuadas en Python]]

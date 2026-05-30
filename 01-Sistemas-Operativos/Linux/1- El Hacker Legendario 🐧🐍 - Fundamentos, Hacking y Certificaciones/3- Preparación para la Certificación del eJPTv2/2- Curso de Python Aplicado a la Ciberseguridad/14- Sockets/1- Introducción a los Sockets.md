@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a los Sockets
 
 ### Paso a Paso:
 
@@ -202,3 +209,9 @@ cliente.close()
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_14- Sockets|14- Sockets]]
+- ➡️ Siguiente: [[2- Transferencia de Archivos Mediante Sockets]]

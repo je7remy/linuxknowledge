@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Componentes de la capa de red comunicación
 
 En la lectura sobre el [modelo OSI](https://www.coursera.org/learn/networks-and-network-security/supplement/YbKL0/the-osi-model-explained), aprendió sobre las siete capas del Modelo OSI que se utilizan para conceptualizar la forma en que se transmiten los datos a través de Internet. En esta lectura, aprenderá más sobre las operaciones que tienen lugar en la capa 3 del modelo OSI: la capa de red.
 
@@ -66,3 +73,11 @@ Existen algunas diferencias de Seguridad importantes entre IPv4 e IPv6. IPv6 ofr
 ## Puntos clave
 
 El análisis de los distintos campos de un paquete de datos IP puede servir para averiguar información importante sobre la seguridad del paquete. Algunos ejemplos de información relacionada con la seguridad que se encuentra en los paquetes de direcciones IP son: de dónde viene el paquete, a dónde va y qué protocolo está utilizando. Comprender los datos de un paquete de datos IP le permitirá tomar decisiones críticas sobre las implicaciones para la seguridad de los paquetes que inspeccione.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Direcciones IP y comunicación en red]]
+- ➡️ Siguiente: [[3- Ponga a prueba sus Conocimientos, Comunicación en red local y amplia]]

@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
 ---
 
+# Repaso
 # 📌 Tarea 1: Recupera datos de los dispositivos de los empleados
 
 👉 **Objetivo**: Ver qué dispositivos usan los empleados y cuáles necesitan parches.  
@@ -159,4 +163,11 @@ Has practicado 3 puntos clave:
 2. **Análisis de seguridad** → Países de acceso y accesos fuera de horario.
     
 3. **Ordenamiento con ORDER BY** → Para analizar datos en secuencia cronológica.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Actividad - Realizar una consulta SQL]]
+- ➡️ Siguiente: [[5- Filtros básicos en consultas SQL]]

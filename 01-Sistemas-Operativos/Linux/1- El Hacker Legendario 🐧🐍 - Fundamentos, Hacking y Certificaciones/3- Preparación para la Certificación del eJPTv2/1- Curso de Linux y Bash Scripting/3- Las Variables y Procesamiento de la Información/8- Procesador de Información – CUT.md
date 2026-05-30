@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Procesador de Información – CUT
 
 ---
 
@@ -115,3 +122,11 @@ Estos comandos son muy útiles para procesar textos y extraer datos en Linux.
 [[6- Procesador de Información – TR]]
 [[7- Procesador de Información – AWK]]
 [[9- Procesador de Información – SED]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[7- Procesador de Información – AWK]]
+- ➡️ Siguiente: [[9- Procesador de Información – SED]]

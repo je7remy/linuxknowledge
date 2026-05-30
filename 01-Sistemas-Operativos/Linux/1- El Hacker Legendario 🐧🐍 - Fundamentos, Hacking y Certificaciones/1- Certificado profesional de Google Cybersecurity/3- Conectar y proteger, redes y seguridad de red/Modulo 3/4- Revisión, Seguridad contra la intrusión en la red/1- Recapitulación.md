@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ## 🛡️ **Resumen de lo Aprendido: Protección y Ataques a Redes**
 
@@ -66,3 +73,9 @@ En la siguiente sección, aprenderás sobre **técnicas de endurecimiento de seg
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Términos del glosario del Módulo 3]]

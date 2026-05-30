@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Más información sobre las auditorías de seguridad
 
 Anteriormente, se le presentó cómo planificar y completar una auditoría de seguridad interna. En esta lectura, aprenderá más sobre las auditorías de seguridad, incluidas las metas y los objetivos de las auditorías.
 
@@ -90,5 +97,11 @@ Los recursos que puede explorar para desarrollar aún más su comprensión de la
 - [Recursos de evaluación y auditoría](https://www.nist.gov/cyberframework/assessment-auditing-resources)  
     
 - [Plan de recuperación ante desastres de TI](https://www.ready.gov/it-disaster-recovery-plan)
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[5- Completar una auditoría de seguridad]]
+- ➡️ Siguiente: [[7- Pon a prueba tus conocimientos, principios de OWASP y auditorías de seguridad]]

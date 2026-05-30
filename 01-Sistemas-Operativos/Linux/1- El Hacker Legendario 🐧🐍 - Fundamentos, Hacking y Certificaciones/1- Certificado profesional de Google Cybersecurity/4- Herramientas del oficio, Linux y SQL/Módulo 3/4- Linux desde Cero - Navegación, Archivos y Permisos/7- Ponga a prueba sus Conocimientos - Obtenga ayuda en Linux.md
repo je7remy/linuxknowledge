@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Obtenga ayuda en Linux
 ### ✅ Pregunta 1
 
 **¿Cuál de las siguientes afirmaciones describe con exactitud la comunidad global en línea de Linux? (Seleccione tres)**
@@ -47,5 +54,10 @@
 - `apropos` → buscar comandos por palabras clave.
     
 - Comunidad Linux → abierta, colaborativa y de apoyo.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Ejemplo, Obtener ayuda en la línea de comandos]]

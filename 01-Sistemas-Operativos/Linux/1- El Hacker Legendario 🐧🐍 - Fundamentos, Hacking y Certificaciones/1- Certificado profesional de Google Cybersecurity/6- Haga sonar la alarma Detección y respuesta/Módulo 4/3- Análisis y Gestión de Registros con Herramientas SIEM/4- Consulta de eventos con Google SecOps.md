@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Consulta de eventos con Google SecOps
 
 # 🔎 Chronicle: buscar y filtrar eventos (UDM & YARA-L)
 
@@ -218,3 +225,11 @@ Ejemplo:
 ```
 metadata.event_type="USER_LOGIN" AND security_result.action="BLOCK"
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Consulta de Eventos con Splunk]]
+- ➡️ Siguiente: [[5- Métodos de búsqueda con herramientas SIEM]]

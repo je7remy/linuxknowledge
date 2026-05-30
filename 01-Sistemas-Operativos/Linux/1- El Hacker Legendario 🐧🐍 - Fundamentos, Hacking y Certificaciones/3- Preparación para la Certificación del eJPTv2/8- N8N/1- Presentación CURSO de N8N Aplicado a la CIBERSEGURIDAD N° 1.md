@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, n8n]
+actualizado: 2026-05-28
+---
+
+# Presentación CURSO de N8N Aplicado a la CIBERSEGURIDAD N° 1
 
 # 🎓 Curso Gratuito de N8N aplicado a la Ciberseguridad
 
@@ -162,3 +169,9 @@ _Activa la campanita para no perderte nada. ¡Vamos a aprender y automatizar jun
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- N8N|8- N8N]]
+- ➡️ Siguiente: [[2- Hacemos Nuestra Primera Automatización N° 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 3
 
 ## 🧠 Términos y Definiciones (Curso 7, Módulo 3)
 
@@ -15,3 +22,11 @@
 |**Concatenación de cadenas**|El proceso de unir dos cadenas (usando `+`).|
 |**Datos de cadena**|Datos formados por una secuencia ordenada de caracteres (inmutable).|
 |**Subcadena**|Una secuencia continua de caracteres dentro de una cadena.|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Guía de referencia - Conceptos de Python del Módulo 3]]
+- ➡️ Siguiente: [[4- Desafío del módulo 3]]

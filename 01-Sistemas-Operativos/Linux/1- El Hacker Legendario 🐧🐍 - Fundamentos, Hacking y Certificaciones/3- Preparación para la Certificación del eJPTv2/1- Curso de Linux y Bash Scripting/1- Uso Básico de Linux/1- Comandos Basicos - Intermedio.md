@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Comandos Basicos - Intermedio
 
 1. `ls`: Muestra la lista de archivos y directorios en el directorio actual.
 2. `ls -l`: Lista con formato largo, mostrando detalles como permisos, número de enlaces, propietario, grupo, tamaño y fecha de modificación.
@@ -289,3 +296,10 @@ Esto te pedirá confirmación antes de cada paso.
 **[[9- Uso de Grep]]**
 **[[7- Uso de Tuberías o Pipes]]**
 **[[8- Gestión de Procesos]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ➡️ Siguiente: [[2- Gestión de Paquetes – APT y DPKG]]

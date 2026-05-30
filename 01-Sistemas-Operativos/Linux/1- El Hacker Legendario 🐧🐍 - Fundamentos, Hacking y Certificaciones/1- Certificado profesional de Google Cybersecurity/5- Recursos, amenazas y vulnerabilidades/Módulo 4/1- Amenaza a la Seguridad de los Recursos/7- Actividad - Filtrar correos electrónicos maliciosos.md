@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad - Filtrar correos electrónicos maliciosos
 
 ## **Contexto del ejercicio**
 
@@ -76,3 +83,10 @@ Este ejercicio muestra cómo:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[6- Ponga a prueba sus Conocimientos  -Ingeniería social]]
+- ➡️ Siguiente: [[8- Software malicioso]]

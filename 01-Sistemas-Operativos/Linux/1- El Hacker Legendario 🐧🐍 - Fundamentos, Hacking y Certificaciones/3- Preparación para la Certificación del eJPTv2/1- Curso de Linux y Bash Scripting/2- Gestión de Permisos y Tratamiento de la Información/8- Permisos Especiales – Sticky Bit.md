@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Permisos Especiales – Sticky Bit
 
 ---
 
@@ -96,3 +103,11 @@ Si el Sticky Bit no estuviera activado, cualquier usuario con permisos de escrit
 
 [[1- Gestión Básica, Detallada y con números de Permisos – Comando chmod]]
 [[9- Permisos Especiales – BIt SUID]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Gestión de Permisos y Tratamiento de la Información|2- Gestión de Permisos y Tratamiento de la Información]]
+- ⬅️ Anterior: [[7- Stdout, Stderr y Stdin]]
+- ➡️ Siguiente: [[9- Permisos Especiales – BIt SUID]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Importar y analizar un archivo de texto
 
 ### 🧠 Tarea 1
 
@@ -233,3 +240,11 @@ print(text)
 - **Escribir Contenido:** El método `.write()` permite escribir una cadena en un archivo (abierto en modo `"w"` o `"a"`).
     
 - **Combinación de Operaciones:** Puedes combinar estas operaciones: leer un archivo, modificar los datos (quizás como una lista) y luego escribir los datos actualizados de nuevo en un archivo (después de volver a unirlos si es necesario).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Trabajar con archivos en Python]]
+- ➡️ Siguiente: [[6- Desarrollar un algoritmo de análisis sintáctico en Python]]

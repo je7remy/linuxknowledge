@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Módulos y bibliotecas
 
 ### 🧠 Introducción a Módulos y Bibliotecas
 
@@ -68,3 +75,10 @@ La relación es jerárquica y se puede entender con una simple analogía:
 1. **Módulo:** Es un solo archivo de Python (ejemplo: `mi_modulo.py`) que contiene código relacionado. Piense en él como una **caja de herramientas** específica (ej. una caja solo con destornilladores).
     
 2. **Biblioteca (o Paquete):** Es una colección de módulos. Piense en ella como el **taller completo** o el gabinete que agrupa varias cajas de herramientas (varios módulos) para un propósito más grande.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Importar módulos y bibliotecas en Python]]

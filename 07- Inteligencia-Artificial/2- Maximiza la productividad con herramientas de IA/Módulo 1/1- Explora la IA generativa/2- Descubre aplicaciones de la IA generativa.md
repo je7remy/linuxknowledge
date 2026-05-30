@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Descubre aplicaciones de la IA generativa
 
 ## Descubre Aplicaciones de la IA Generativa
 
@@ -42,3 +49,11 @@ Para dar vida al sitio web, puedes utilizar un generador de código para tareas 
 ### Conclusión
 
 Hay infinitas maneras de utilizar estos tipos de herramientas de IA generativa para aumentar la productividad. Ahora que sabes más sobre las posibles aplicaciones de IA generativa, piensa en todo lo que puedes lograr con estas herramientas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[1- Introducción al módulo 2 - Maximiza la productividad con herramientas de IA]]
+- ➡️ Siguiente: [[3- Manvinder, Formas en que utilizo la IA en mi trabajo]]

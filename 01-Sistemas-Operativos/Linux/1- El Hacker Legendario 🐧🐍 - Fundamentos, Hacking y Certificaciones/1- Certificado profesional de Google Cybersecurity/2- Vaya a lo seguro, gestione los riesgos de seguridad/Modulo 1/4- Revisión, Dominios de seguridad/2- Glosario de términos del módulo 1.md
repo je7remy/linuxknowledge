@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 1
 
 ## **Términos y definiciones del Curso 2, Módulo 1**
 
@@ -34,3 +41,11 @@
 **Ingeniería social:** una técnica de manipulación que explota el error humano para obtener información privada, acceso u objetos de valor. 
 
 **Vulnerabilidad:** Una debilidad que puede ser explotada por una amenaza.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Conclusión]]
+- ➡️ Siguiente: [[3- Desafío del módulo 1]]

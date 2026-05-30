@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Priorizar las alertas con IA
 
 ### **Priorizar las Alertas con IA**
 
@@ -52,3 +59,11 @@ Al igual que cualquier tecnología nueva, todos necesitamos probar, testear y ju
 Me ha gustado mucho poder compartir algunas de las formas en las que estoy usando la IA en mi trabajo como profesional de la ciberseguridad, desde ayudar a detectar amenazas hasta actualizar código. Espero que esto pueda ayudarte a empezar a utilizar la IA en tu Función.
 
 **¿Mi reto para ti?** Piensa en el trabajo que ya estás haciendo. ¿Hay algo que te esté llevando mucho tiempo, un proyecto en el que necesites algunas ideas para empezar? Comprométete a experimentar con la IA para algo que marque una diferencia real para ti y tu trabajo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[8- Comprender las vulnerabilidades del sistema con IA]]
+- ➡️ Siguiente: [[10- Actividad - Utilizar IA generativa para enumerar los signos más comunes de phishing y malware]]

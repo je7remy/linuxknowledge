@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Cambiar permisos
 
 ## **Cambiar permisos con `chmod` en Linux**
 
@@ -109,3 +116,11 @@ Si desea cambiar los permisos de un archivo `approved_users.txt`, puede utilizar
 El comando `chmod` cambia los permisos de archivos y directorios.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Permisos de archivo y responsabilidad]]
+- ➡️ Siguiente: [[3- Comandos de permiso]]

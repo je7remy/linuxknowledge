@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Más información sobre los dominios de seguridad CISSP
 
 ### ✅ **Pregunta 1**
 
@@ -49,3 +56,9 @@ Este dominio aborda la respuesta ante incidentes, investigaciones forenses y acc
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[6- Complemento sin calificar, Identificar, los ocho dominios de seguridad de CISSP]]

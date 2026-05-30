@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad - Desarrollar un algoritmo
 
 ### 🧠 Tarea 1
 
@@ -413,3 +420,11 @@ Después de que Python entra en el condicional interno, ¿qué sucede cuando el 
   * **`.index()` para Conectar Listas:** El método `.index()` es clave para encontrar la posición de un elemento en una lista y luego usar esa misma posición (índice) para acceder a la información correspondiente en otra lista sincronizada.
   * **Algoritmos con Condicionales:** Se pueden construir algoritmos paso a paso usando condicionales (`if`, `elif`, `else`) para manejar diferentes casos (usuario aprobado/no aprobado, dispositivo correcto/incorrecto). Los condicionales anidados permiten refinar aún más la lógica.
   * **Funciones para Algoritmos:** Encapsular la lógica completa del algoritmo dentro de una función (`def login(...)`) la hace reutilizable y fácil de probar con diferentes entradas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Listas y el analista de Seguridad]]
+- ➡️ Siguiente: [[5- Ponga a prueba sus Conocimientos - Trabaje con listas y desarrolle algoritmos]]

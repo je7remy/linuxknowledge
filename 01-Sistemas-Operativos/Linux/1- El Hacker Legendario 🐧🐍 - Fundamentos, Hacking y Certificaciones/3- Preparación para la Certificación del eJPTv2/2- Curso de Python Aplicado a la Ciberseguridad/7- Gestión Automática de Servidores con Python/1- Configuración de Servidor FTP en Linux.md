@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Configuración de Servidor FTP en Linux
 
 ---
 
@@ -103,3 +110,10 @@ bye
 [[2- Cómo Crear un Servidor FTP con VSFTPD]]
 [[2- Puertos Principales]]
 [[2- Protección del Protocolo FTP]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ➡️ Siguiente: [[2- Conexión y Subida de Archivos a Servidor FTP]]

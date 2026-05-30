@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Explora cómo la IA utiliza el aprendizaje automático
 
 ## 🧠 Descubre Cómo Funciona la IA
 
@@ -52,3 +59,10 @@ Una cuestión fundamental que hay que considerar son los **posibles sesgos en lo
     
 
 Cuando se utiliza correctamente, el ML juega un papel clave para impulsar la IA hacia el futuro. Es realmente una técnica increíble y sofisticada con aplicaciones infinitas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ➡️ Siguiente: [[2- Fundamentos de la IA generativa]]

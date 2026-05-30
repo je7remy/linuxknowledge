@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Funciones de Python en ciberseguridad
 
 Anteriormente, usted exploró cómo definir y llamar sus propias funciones. En esta lectura, revisará lo que aprendió sobre funciones y examinará cómo las funciones pueden mejorar la eficiencia en un entorno de ciberseguridad.
 
@@ -84,3 +91,11 @@ def func1():
 ## Puntos clave
 
 Las funciones de Python son importantes a la hora de escribir código. Para definir tus propias funciones, necesitas los dos componentes esenciales de la cabecera de la función y el cuerpo de la función. Después de definir una función, puedes llamarla cuando sea necesario.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Crear una función básica]]
+- ➡️ Siguiente: [[5- Actividad, Definir y llamar a una función]]

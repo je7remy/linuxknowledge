@@ -1,3 +1,10 @@
+---
+tipo: tesis
+tags: [tesis, capitulo-1, introduccion, sistema-web, hospital-juan-bosch]
+actualizado: 2026-05-28
+---
+
+# Capítulo 1 — Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025
 
 #### 1.1 Introducción
 
@@ -404,4 +411,11 @@ Usaremos la metodología ágil **Scrum**, que nos permitirá trabajar de forma f
 17. Hospital Traumatológico y Quirúrgico Prof. Juan Bosch. (2024). _Manual de procedimientos administrativos y gestión de citas_. El Pino, La Vega, República Dominicana. (Documento interno)
     
 18. República Dominicana. (2008). _Ley No. 172-13 sobre protección de datos personales_. Gaceta Oficial.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ⬅️ Anterior: [[2- Borrón Anteproyecto 1]]
+- ➡️ Siguiente: [[4- Sistema Web de Gestión de Citas Médicas]]

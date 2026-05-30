@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción al curso
 
 ## Introducción al curso: Detección y Respuesta ante Incidentes
 
@@ -72,3 +79,9 @@ En este curso se aprenderá sobre:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Dave - Haga crecer su carrera en ciberseguridad con mentores]]

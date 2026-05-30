@@ -629,7 +629,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- basico]]
+- ⬆️ Carpeta: [[_2- basico|2- basico]]
 - ➡️ Siguiente: [[1- basic tools]] — cheatsheet más compacto.
 
 ## Relacionadas (cheatsheets equivalentes)
@@ -640,7 +640,7 @@ actualizado: 2026-05-28
 
 ## Relacionadas (notas profundas por dominio)
 
-- [[../../5- Reconocimiento/1- Nmap/index|Nmap (profundo)]] — para todo lo de Nmap.
+- [[_1- Nmap|Nmap (profundo)]] — para todo lo de Nmap.
 - [[../3- hosts/9- SMB]] — para SMB enumeration y ataques.
 - [[../3- hosts/10- SNMP]] — para SNMP enum.
 - [[../3- hosts/11- SSH]] — para SSH y túneles.

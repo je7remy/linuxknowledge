@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Entiende cómo funcionan las herramientas de IA
 ## Formas de Usar las Herramientas de IA
 
 Existen todo tipo de maneras de aprovechar las herramientas de IA, y muchas de ellas están a tu disposición. Exploremos las diferentes formas en que las herramientas de IA pueden integrarse a tu rutina de trabajo y cómo pueden agilizar tus flujos de trabajo.
@@ -67,3 +74,11 @@ Antes de utilizar herramientas de IA, es útil entender las tecnologías sobre l
 >     
 
 Ya sea que uses una herramienta independiente, una función integrada o una solución personalizada, recuerda que todas dependen de un modelo de IA.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[3- Manvinder, Formas en que utilizo la IA en mi trabajo]]
+- ➡️ Siguiente: [[5- Modelos de IA y el proceso de entrenamiento]]

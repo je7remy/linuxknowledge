@@ -308,7 +308,7 @@ Ncat: Connected to 10.129.2.28:50000.
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬆️ Carpeta: [[_1- Nmap|1- Nmap]]
 - ⬅️ Anterior: [[2- nmap comands]]
 - ➡️ Siguiente: [[4- nmap output]] — formatos de salida para almacenar resultados.
 

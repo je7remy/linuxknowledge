@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, laboratorio, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Consejos de laboratorio y pasos para la solución de problemas
 
 _Qwiklabs ha actualizado sus términos de servicio para incluir un_ _**requisito de edad de 18+ para utilizar la plataforma**__, con el fin de cumplir con las regulaciones en los EE.UU. y la UE. Los alumnos que no tengan acceso a Qwiklabs podrán completar el certificado y obtener la insignia revisando las instrucciones de Qwiklab, los ejemplos y participando en otras actividades prácticas a lo largo del certificado. Esta participación es esencial para comprender los conceptos del certificado y preparar a los alumnos para las evaluaciones calificadas._
 
@@ -28,3 +35,11 @@ Para resumir, estos son los pasos a seguir si encuentras un problema con Qwiklab
 4. Intenta reiniciar Qwiklabs o Notebooks de Jupyter de nuevo.
     
 5. **Sólo para Qwiklabs:** Si los problemas persisten o recibe un mensaje indicando que ha superado la cuota de un Qwiklab, envíe este [formulario](https://qwiklab.zendesk.com/hc/en-us/requests/new) al soporte de Qwiklabs para obtener ayuda.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Recursos para completar los laboratorios de Linux]]
+- ➡️ Siguiente: [[7- Actividad, Instalar software en una distribución Linux]]

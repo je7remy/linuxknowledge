@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Phishing para obtener Información
 
 ## Phishing: Suplantación de identidad en la ingeniería social
 
@@ -64,4 +71,10 @@ El phishing es una de las técnicas de ingeniería social más **populares y pel
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Tácticas de ingeniería social]]
+- ➡️ Siguiente: [[5- Tipos de phishing]]

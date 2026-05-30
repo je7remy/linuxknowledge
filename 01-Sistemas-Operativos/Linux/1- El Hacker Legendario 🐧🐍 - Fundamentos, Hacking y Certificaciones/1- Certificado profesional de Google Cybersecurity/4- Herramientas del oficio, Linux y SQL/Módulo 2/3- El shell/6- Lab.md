@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Lab
 
 ### 🧪 **Objetivo del lab**
 
@@ -124,3 +131,11 @@ Ahora sabes cómo:
 Estos comandos son esenciales para tareas básicas en Linux, especialmente en el campo de la **ciberseguridad**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Actividad, Examinar la entrada y salida en el shell]]
+- ➡️ Siguiente: [[7- Ejemplo opcional, Examinar la entrada y la salida en el shell]]

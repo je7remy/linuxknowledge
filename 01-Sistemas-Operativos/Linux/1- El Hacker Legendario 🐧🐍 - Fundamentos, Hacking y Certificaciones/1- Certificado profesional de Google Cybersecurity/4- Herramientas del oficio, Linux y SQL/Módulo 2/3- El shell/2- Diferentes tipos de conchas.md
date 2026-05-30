@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Diferentes tipos de conchas
 
 Saber trabajar con los shells de Linux es una habilidad importante para los profesionales de la ciberseguridad. Los shells se pueden utilizar para muchas tareas comunes. Anteriormente, se le presentaron los shells y sus funciones. Esta lectura repasará los shells y le presentará diferentes tipos, incluyendo el que utilizará en este curso.
 
@@ -31,3 +38,11 @@ Bash es también el shell más popular en la profesión de la ciberseguridad. Ut
 ## Puntos clave
 
 Los shells son una parte fundamental del sistema operativo Linux. Los shells le permiten dar comandos a la computadora y recibir respuestas de ella. Pueden considerarse como un traductor entre usted y el sistema de su computadora. Existen muchos tipos diferentes de shells, pero el shell Bash es el más utilizado en la profesión de la ciberseguridad. Aprenderá a introducir comandos Linux a través del shell bash más adelante en este curso.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Introducción al shell]]
+- ➡️ Siguiente: [[3- Entrada y salida en el shell]]

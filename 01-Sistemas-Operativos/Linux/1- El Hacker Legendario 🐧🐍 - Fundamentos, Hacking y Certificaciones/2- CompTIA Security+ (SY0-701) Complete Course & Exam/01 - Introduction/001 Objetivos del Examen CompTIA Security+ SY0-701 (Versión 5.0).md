@@ -1,4 +1,3 @@
-
 ---
 
 # CompTIA Security+  
@@ -1497,3 +1496,8 @@ CompTIA ha incluido esta lista de muestra de hardware y software para ayudar a l
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_01 - Introduction|01 - Introduction]]

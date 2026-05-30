@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Planificar una auditoría de seguridad
 
 ## 🛡️ **¿Cómo se integran todos los elementos de seguridad?**
 
@@ -72,3 +79,10 @@ Las auditorías internas son **el punto de encuentro** entre la teoría y la pr�
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Wajih, Mantente al día sobre las últimas amenazas de ciberseguridad]]
+- ➡️ Siguiente: [[5- Completar una auditoría de seguridad]]

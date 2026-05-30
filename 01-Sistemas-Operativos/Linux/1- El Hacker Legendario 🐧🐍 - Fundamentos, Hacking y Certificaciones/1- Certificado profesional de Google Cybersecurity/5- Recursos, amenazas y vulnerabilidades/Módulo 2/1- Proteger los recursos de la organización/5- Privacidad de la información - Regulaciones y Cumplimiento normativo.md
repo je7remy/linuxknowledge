@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Privacidad de la información - Regulaciones y Cumplimiento normativo
 
 Seguridad y privacidad tienen una estrecha relación. Como recordará, las personas tienen derecho a controlar cómo se recopilan y utilizan sus Datos personales. Las organizaciones también tienen la responsabilidad de proteger la información que recopilan para que no se vea comprometida o se haga un uso indebido de ella. Como profesional de la Seguridad, usted estará muy implicado en estos esfuerzos.
 
@@ -85,3 +92,11 @@ Por el contrario, las evaluaciones de seguridad suelen realizarse con mayor frec
 ## Puntos clave
 
 Cada vez más empresas consideran prioritario proteger y regular el uso de Datos sensibles para mantener la confianza de los clientes. Los profesionales de la seguridad deben pensar en los datos y en la necesidad de privacidad en estos términos. Las organizaciones suelen utilizar evaluaciones y auditorías de seguridad para valorar las lagunas de sus planes de Seguridad. Aunque es posible pasar por alto o retrasar el tratamiento de los resultados de una evaluación, hacerlo puede tener graves consecuencias para el negocio, como multas o violaciones de datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Ciclo de vida de los datos]]
+- ➡️ Siguiente: [[6- Brezo - La importancia de proteger la PII]]

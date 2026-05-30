@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatización de Análisis de IPs desde Python PARTE 1
 
 ### 1. Contexto y Objetivo
 
@@ -231,3 +238,10 @@ respuesta_json = respuesta.json()
 print(respuesta_json)
 `````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ciberseguridad Defensiva|9- Ciberseguridad Defensiva]]
+- ⬅️ Anterior: [[1- Análisis de Seguridad Automático de Archivos]]
+- ➡️ Siguiente: [[3- Automatización de Análisis de IPs desde Python PARTE 2]]

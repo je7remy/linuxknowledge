@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Análisis de la Red con Bash – PARTE 3
 
 ---
 
@@ -161,3 +168,11 @@ Este script es un ejemplo simple y funcional para lograr lo que hace `arp-scan` 
 [[4- Análisis de la Red con Bash – PARTE 2]]
 [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]
 [[14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[4- Análisis de la Red con Bash – PARTE 2]]
+- ➡️ Siguiente: [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]

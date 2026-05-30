@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 3
 
 ### 🧠 Pregunta 1
 
@@ -331,3 +338,10 @@ Una variable llamada `my_list` contiene la lista `[1, 2, 3, 4]`. ¿Qué línea d
 ✅ **Respuesta correcta:** Añade `"h32rb17"` al final de la lista `device_ids`.
 
 📘 **Justificación:** El método **`.append()`** se usa específicamente para añadir un elemento al **final** de una lista existente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Términos del glosario del Módulo 3]]

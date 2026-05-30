@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Acceso Automatizado SSH Importando Clave Pública
 
 ---
 
@@ -45,3 +52,11 @@ ssh-copy-id usuario@servidor
 
 [[7- Automatización de Copias de Seguridad en Servidor SSH]]
 [[11- Automatizar la Gestión de Usuarios en Linux]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de Servidores con Scripts de Bash]]
+- ⬅️ Anterior: [[5- Cómo Crear un Servidor SSH con OPENSSH]]
+- ➡️ Siguiente: [[7- Automatización de Copias de Seguridad en Servidor SSH]]

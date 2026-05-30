@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Comprende los sesgos de la IA
 
 ### La inteligencia artificial y sus sesgos
 
@@ -20,3 +27,10 @@ En definitiva, la IA, como toda tecnología emergente, no es perfecta. Ofrece ta
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[1- Introducción del curso 4, Utiliza la IA de forma responsable]]
+- ➡️ Siguiente: [[3- Identifica daños de la IA]]

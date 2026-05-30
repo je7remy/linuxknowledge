@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Resumen del Programa de certificación en ciberseguridad de Google
 
 ### **¡Felicidades por tu Logro!**
 
@@ -47,3 +54,11 @@ Este fue tu camino a través de los 8 dominios clave:
 Dedicaste mucho tiempo y energía valiosos. Recuerda que a medida que avances en tu carrera, debes estar siempre atento a las nuevas tendencias.
 
 A medida que la tecnología siga avanzando, las amenazas también evolucionarán. De ti depende mantenerte informado y estar siempre dispuesto a aprender.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[2- Glosario del curso 8]]
+- ➡️ Siguiente: [[4- Glosario del Certificado de Ciberseguridad de Google]]

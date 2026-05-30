@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Interceptar Credenciales en Red – PARTE 3
 
 ---
 
@@ -231,3 +238,11 @@ El script (versión 3) imprimirá el cuerpo de la solicitud (si lo hay) y, con l
 
 ## **Conclusión**
 Los tres scripts representan una progresión lógica hacia un sniffer más específico y útil para tráfico HTTP. La versión final es la más adecuada para monitorear solicitudes HTTP en un servicio web no cifrado. Sin embargo, para un uso en producción, se recomiendan mejoras como manejo de errores, extracción de detalles HTTP, y soporte para respuestas o interfaces dinámicas. La elección de `docker0` sugiere un entorno específico (Docker), pero el código es adaptable a otras interfaces con ajustes mínimos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]
+- ⬅️ Anterior: [[4- Interceptar Credenciales en Red – PARTE 2]]
+- ➡️ Siguiente: [[6- Herramienta para Encontrar Equipos en mi Red con Scapy]]

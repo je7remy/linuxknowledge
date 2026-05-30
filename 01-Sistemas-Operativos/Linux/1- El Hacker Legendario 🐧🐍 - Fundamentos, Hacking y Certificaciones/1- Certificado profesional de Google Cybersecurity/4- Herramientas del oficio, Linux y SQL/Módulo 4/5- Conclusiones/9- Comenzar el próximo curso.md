@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Comenzar el próximo curso
 
 Enhorabuena por completar el Curso 4 del Certificado de Ciberseguridad de Google: **Tools of the Trade:** ¡**Linux y SQL**! En esta parte del programa, aprendiste sobre habilidades informáticas que apoyarán tu trabajo como analista. En primer lugar, aprendiste sobre sistemas operativos. Luego, se comunicó con el sistema operativo Linux a través del shell Bash para completar tareas relacionadas con la seguridad. Por último, has realizado consultas SQL que han devuelto información para respaldar decisiones relacionadas con la seguridad.
 
@@ -25,3 +32,10 @@ El Certificado en Ciberseguridad de Google consta de ocho cursos:
 Ahora que has completado este curso, estás listo para pasar al siguiente: [**Activos, Amenazas y Vulnerabilidades**](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/week/1).
 
 ¡Sigue trabajando así de bien!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[8- Glosario del curso 4]]

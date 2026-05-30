@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Trabajar con archivos en Python
 
 ### 🧠 Trabajar con Archivos en Python
 
@@ -155,3 +162,11 @@ El Código `" ".join(updates)` indica que separe cada uno de los elementos de la
 ### 💡 Puntos Clave
 
 Un elemento importante del trabajo con archivos es poder analizar los datos que contienen. **Análisis sintáctico (Parsing)** significa convertir los datos a un formato legible. Los métodos `.split()` y `.join()` son ambos útiles para analizar datos. El método `.split()` le permite convertir una cadena en una lista, y el método `.join()` le permite convertir una lista en una cadena.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Analizar un archivo de texto en Python]]
+- ➡️ Siguiente: [[5- Importar y analizar un archivo de texto]]

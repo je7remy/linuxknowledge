@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 4
 
 ### Preguntas y Respuestas
 
@@ -66,3 +73,11 @@ El empleado con correo `laura@chinookcorp.com` tiene ID: **6**.
 `SELECT firstname, lastname, city, company FROM customers WHERE city = 'Mountain View'   AND company = 'Google Inc.';`
 
 ✔ Respuesta: **1 cliente**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Términos del glosario del Módulo 4]]
+- ➡️ Siguiente: [[7- Resumen del curso]]

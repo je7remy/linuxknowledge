@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Visión general de los sistemas de detección de intrusiones (IDS)
 
 ## ✅ Evaluación completada — Resultados del módulo Suricata
 
@@ -62,3 +69,10 @@ Este conjunto de preguntas refuerza conceptos esenciales sobre:
 - **Uso de opciones clave en Suricata (flow, content, msg, sid, rev)**
 
 Estas habilidades son fundamentales para desempeñarse eficazmente como **Analista de Seguridad Cibernética** y comprender cómo funcionan las alertas y detecciones dentro de herramientas como **Suricata**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[9- Repaso - Explorar firmas y registros con Suricata]]

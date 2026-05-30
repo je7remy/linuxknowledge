@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, splunk, docker]
+actualizado: 2026-05-28
+---
+
+# Cómo Instalar Docker en Linux
 
 ### Instalación de Docker en Linux (Distribuciones Basadas en Debian)
 
@@ -94,4 +101,10 @@ Si todo está configurado correctamente, este comando debería ejecutarse sin pe
 
 ---
 
-Esto es lo básico para instalar y configurar Docker en tu sistema. 
+Esto es lo básico para instalar y configurar Docker en tu sistema.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Curso de Splunk Introductorio|3- Curso de Splunk Introductorio]]

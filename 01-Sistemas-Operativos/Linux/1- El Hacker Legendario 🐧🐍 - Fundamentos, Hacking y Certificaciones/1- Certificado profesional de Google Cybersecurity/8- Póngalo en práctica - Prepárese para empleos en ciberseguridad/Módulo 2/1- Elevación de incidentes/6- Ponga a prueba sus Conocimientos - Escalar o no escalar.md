@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Escalar o no escalar
 
 ### Pregunta 1
 
@@ -31,3 +38,11 @@
 **un individuo obtiene acceso digital o físico a un sistema, datos o una aplicación sin permiso**
 
 - **Explicación:** Esta es la definición de "Acceso no autorizado", ya sea por parte de un atacante externo o de un empleado que accede a sistemas para los que no tiene autorización.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[5- Reconocer las funciones y responsabilidades durante la Elevación]]
+- ➡️ Siguiente: [[7- De una simple actividad a una importante filtración de datos]]

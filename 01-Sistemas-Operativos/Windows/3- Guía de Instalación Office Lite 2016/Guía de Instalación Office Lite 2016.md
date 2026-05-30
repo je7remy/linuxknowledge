@@ -1,12 +1,4 @@
 ---
-tipo: laboratorio
-tags: [office-2016, instalacion, github, je7remy, lite]
-actualizado: 2026-05-28
----
-
-# 🚀 Guía de Instalación Office Lite 2016 desde Repositorio de GitHub
-
----
 
 ## 📋 Requisitos Previos
 
@@ -131,7 +123,7 @@ shutdown /r /t 0
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|01 → Windows]]
+- ⬆️ Sección: [[_Windows|01 → Windows]]
 
 ## Relacionadas
 

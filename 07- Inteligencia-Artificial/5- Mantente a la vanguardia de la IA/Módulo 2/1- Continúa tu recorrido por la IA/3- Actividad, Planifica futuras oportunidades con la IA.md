@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad, Planifica futuras oportunidades con la IA
 
 Esta actividad es opcional, pero muy recomendable para ayudarte a practicar el uso de las herramientas de IA. Al final, responderás a preguntas de autoevaluación para reflexionar sobre tu aprendizaje. Si no puedes completar esta actividad, podrás seguir avanzando en el curso y obtener un certificado de Google.
 
@@ -77,3 +84,10 @@ Pregunta 2
 **Autoevaluación**: ¿Cuál es el reto de tu vida diaria que te gustaría resolver? ¿Cómo podrías utilizar las herramientas de IA para crear un plan de acción que te ayude a resolverlo? _Escribe de 3 a 5 frases explicando lo que piensas_.
 
 Un reto de mi vida diaria es gestionar eficazmente mi tiempo y priorizar mis tareas de desarrollo y aprendizaje en informática. A veces paso demasiado tiempo organizando lo que debo hacer en lugar de hacerlo. Podría utilizar herramientas de IA para automatizar mi planificación diaria, generar recordatorios inteligentes y priorizar tareas según mis objetivos de estudio y proyectos. Además, la IA podría analizar mis hábitos y sugerir ajustes para mejorar mi productividad. Con un plan de acción guiado por IA, podría enfocarme más en crear, aprender y desarrollar proyectos realmente útiles.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[2- Greg, Sigue explorando con la IA]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Comprender los riesgos, las amenazas y las vulnerabilidades
 
 Cuando se produzcan eventos de Seguridad, tendrá que trabajar en estrecha coordinación con otros para solucionar el problema. Hacerlo rápidamente requiere una comunicación clara entre usted y su equipo para llevar a cabo el trabajo.
 
@@ -63,3 +70,11 @@ Por ejemplo, una vulnerabilidad _técnica_ puede ser un software mal configurado
 ## Puntos clave
 
 Riesgos, amenazas y vulnerabilidades tienen significados muy específicos en Seguridad. Conocer la relación entre ellos puede ayudarle a construir una base sólida a medida que desarrolla habilidades y conocimientos esenciales como analista de Seguridad. Esto puede ayudarle a ganar credibilidad en el sector demostrando que tiene conocimientos prácticos del Campo. Y señala a sus futuros colegas que usted es un miembro de la comunidad mundial de la Seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- El qué, el por qué y el cómo de la Seguridad de los recursos]]
+- ➡️ Siguiente: [[7- Tri - La vida en la Seguridad de los Recursos]]

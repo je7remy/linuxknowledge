@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# KALI LINUX
 
 ## 🔐 **Distribución de Seguridad: KALI LINUX™**
 
@@ -122,4 +129,11 @@ _Seleccione todas las que correspondan._
 
 - ✖️ **Se trata de una distribución de código cerrado.**  
     🔎 _Incorrecto:_ KALI LINUX es una distribución de **código abierto**, no cerrado.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Distribuciones Linux]]
+- ➡️ Siguiente: [[3- Más distribuciones de Linux]]

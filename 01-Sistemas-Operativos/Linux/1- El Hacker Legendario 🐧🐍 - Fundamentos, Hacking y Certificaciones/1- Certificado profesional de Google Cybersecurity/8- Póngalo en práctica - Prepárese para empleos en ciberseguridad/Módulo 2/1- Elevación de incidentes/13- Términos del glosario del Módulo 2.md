@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 2
 
 ## Términos y definiciones del Curso 8, Módulo 2
 
@@ -16,3 +23,11 @@
 **Infección por malware**: Tipo de incidente que se produce cuando un software malicioso diseñado para perturbar un sistema se infiltra en las computadoras o la red de una organización
 
 **Acceso no autorizado:** Un tipo de incidente que se produce cuando un individuo obtiene acceso digital o físico a un sistema o una aplicación sin permiso
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[12- Actividad de cierre]]
+- ➡️ Siguiente: [[14- Desafío del módulo 2]]

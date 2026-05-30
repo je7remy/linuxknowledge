@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Enfoque la ciberseguridad con mentalidad de atacante
 
 La ciberseguridad es un Campo en continuo Cambio. Es un entorno vertiginoso en el que las nuevas amenazas y las tecnologías innovadoras pueden desbaratar sus planes de un momento a otro. Como profesional de la Seguridad, depende de usted estar preparado anticipándose a los cambios.
 
@@ -52,3 +59,11 @@ Muchos Controles de seguridad sobre los que ha aprendido fueron creados como res
 ## Puntos clave
 
 Las evaluaciones de vulnerabilidades son una parte importante de la planificación de riesgos de Seguridad. Como analista, es probable que participe en simulacros proactivos y reactivos de estas actividades. Prepararse investigando las vulnerabilidades comunes sólo llega hasta cierto punto. Es igualmente importante que se mantenga informado sobre las nuevas tecnologías para poder pensar con una mentalidad innovadora.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Proteger todos los puntos de entrada]]
+- ➡️ Siguiente: [[4- Tipos de agentes de amenaza]]

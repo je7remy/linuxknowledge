@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Listas y el analista de Seguridad
 
 ### 🧠 Listas y el Analista de Seguridad
 
@@ -237,3 +244,11 @@ Al igual que el método `.index()` utilizado para las cadenas, sólo devuelve el
 ### 💡 Puntos Clave
 
 Python ofrece muchas formas de trabajar con listas. La **Notación entre corchetes** le permite extraer elementos y trozos de las listas y también alterarlos. Los **métodos de lista** le permiten alterar las listas de diversas maneras. Los métodos `.insert()` y `.append()` añaden elementos a las listas, mientras que el método `.remove()` le permite eliminarlos. El método `.index()` le permite encontrar el índice de un elemento en una lista.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Escriba un algoritmo sencillo]]
+- ➡️ Siguiente: [[4- Actividad - Desarrollar un algoritmo]]

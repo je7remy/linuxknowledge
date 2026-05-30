@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Aplicar estrategias de Depuración
 
 ## 🐛 Proceso de Depuración del Script de Análisis de Logs
 
@@ -65,3 +72,11 @@ El objetivo del código es analizar una línea de registro (código de estado HT
 2. **Resultado Correcto:** Ahora se imprime el mensaje esperado: "Evento exitoso, no es necesario analizarlo".
     
 3. **Conclusión:** Se han corregido los errores de sintaxis, excepción y lógica. El código funciona según lo previsto.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Matt - Aprender de los errores]]
+- ➡️ Siguiente: [[4- Explore las técnicas de depuración]]

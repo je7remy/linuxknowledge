@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Consideraciones sobre la continuidad del negocio (Business-to-Business)
 
 Anteriormente, aprendió cómo los Equipos de Seguridad desarrollan planes de respuesta a incidentes para ayudar a garantizar que existe un proceso preparado y coherente para responder rápidamente a los incidentes de seguridad. En esta lectura, explorará la importancia que tiene la planificación de la continuidad del negocio para recuperarse de los incidentes.
 
@@ -33,3 +40,11 @@ La**resiliencia** es la capacidad de prepararse, responder y recuperarse de las 
 ## Puntos clave
 
 Los incidentes de Seguridad tienen el potencial de perturbar gravemente las operaciones de negocio. Disponer de los planes adecuados es esencial para que las organizaciones puedan seguir funcionando. Los planes de continuidad del negocio ayudan a las organizaciones a comprender el Impacto que los incidentes graves de Seguridad pueden tener en sus operaciones y a trabajar para mitigar estos impactos de modo que las operaciones regulares puedan reanudarse.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[9- La fase de contención, erradicación y recuperación del ciclo de vida]]
+- ➡️ Siguiente: [[11- Ponga a prueba sus Conocimientos - Respuesta y Recuperación]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad - Explore las organizaciones de ciberseguridad
 
 ### **Hoja de trabajo de organización de la seguridad (Completada)**
 
@@ -110,3 +117,10 @@ Mis principales áreas de interés dentro de la ciberseguridad se inclinan hacia
     
     - **Offensive Security.** Si bien OWASP es un recurso indispensable que usaré constantemente, "Offensive Security" es la organización que mejor se alinea con mi objetivo de _convertirme_ en un profesional de pruebas de penetración. Su modelo de formación y certificación es el estándar de oro reconocido por la industria para validar las habilidades prácticas que los empleadores buscan en este rol.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[3- Victoria - Continúe su viaje de aprendizaje]]
+- ➡️ Siguiente: [[5- Ejemplar de actividad - Explorar las organizaciones de ciberseguridad]]

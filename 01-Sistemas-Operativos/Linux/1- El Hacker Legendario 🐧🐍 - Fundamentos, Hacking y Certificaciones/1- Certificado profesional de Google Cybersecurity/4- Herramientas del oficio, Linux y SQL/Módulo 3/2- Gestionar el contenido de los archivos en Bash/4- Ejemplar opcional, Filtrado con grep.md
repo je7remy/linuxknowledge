@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ejemplar opcional, Filtrado con grep
 
 ### **Comandos por tarea**
 
@@ -42,3 +49,11 @@ grep "Human Resources" Q4_added_users.txt
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Actividad, Filtrado con grep]]
+- ➡️ Siguiente: [[5- Ejemplar, Filtrado con grep]]

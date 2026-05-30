@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Visión general de las herramientas SIEM
 
 # 🧠 Evaluación sobre SIEM, Splunk y Chronicle
 
@@ -96,3 +103,9 @@ Muestra cuántas veces fue bloqueada cada IP de origen.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Guía de seguimiento para el registro en Splunk]]

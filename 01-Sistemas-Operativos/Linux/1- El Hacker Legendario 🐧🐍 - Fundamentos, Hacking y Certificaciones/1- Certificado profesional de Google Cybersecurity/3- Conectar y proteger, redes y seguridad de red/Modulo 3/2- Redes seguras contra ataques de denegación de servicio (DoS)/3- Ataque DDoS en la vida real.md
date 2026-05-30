@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ataque DDoS en la vida real
 
 Anteriormente, se le presentaron los ataques de denegación de servicio (DoS). También aprendió que los ataques DoS distribuidos volumétricamente (DDoS) saturan una red enviando paquetes de datos no deseados en cantidades tan grandes que los servidores se vuelven incapaces de dar servicio a los usuarios normales. Esto puede ser perjudicial para una organización. Cuando los sistemas fallan, las organizaciones no pueden satisfacer las necesidades de sus clientes. A menudo pierden dinero y, en algunos casos, incurren en otras pérdidas. La Reputación de una organización también puede sufrir si las noticias de un ataque DDoS exitoso llegan a los consumidores, que entonces cuestionan la Seguridad de la organización.
 
@@ -24,3 +31,11 @@ Los sistemas del proveedor de servicios se restablecieron tras sólo dos horas d
 ## Claves
 
 Como se demuestra en el ejemplo anterior, los ataques DDoS pueden ser muy perjudiciales para una organización. Como analista de seguridad, es importante reconocer la gravedad de un ataque de este tipo para estar al tanto de las oportunidades de proteger la red frente a ellos. Si su red tiene operaciones importantes distribuidas entre hosts que pueden escalarse dinámicamente, entonces las operaciones pueden continuar si la infraestructura del host base se desconecta. Los ataques DDoS son dañinos, pero hay acciones concretas que los analistas de Seguridad pueden tomar para ayudar a proteger sus organizaciones. Siga avanzando en este curso y conocerá las estrategias de mitigación más comunes para protegerse de los ataques DDoS.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Leer registros de tcpdump]]
+- ➡️ Siguiente: [[4- Actividad, Analizar la comunicación en la capa de red]]

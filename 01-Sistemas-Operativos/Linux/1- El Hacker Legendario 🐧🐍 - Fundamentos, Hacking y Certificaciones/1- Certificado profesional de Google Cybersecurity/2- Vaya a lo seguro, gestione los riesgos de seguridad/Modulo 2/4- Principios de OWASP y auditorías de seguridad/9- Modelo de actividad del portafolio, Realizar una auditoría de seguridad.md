@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Modelo de actividad del portafolio, Realizar una auditoría de seguridad
 
 Aquí está el ejemplar completo junto con una explicación de cómo cada elemento del ejemplar cumple con las expectativas de la actividad.
 
@@ -25,3 +32,10 @@ Compare el ejemplar con su actividad completada. Revise su trabajo utilizando ca
 _**Nota:**_ _El ejemplar representa una forma posible de completar la actividad. Es probable que el tuyo difiera en ciertos aspectos. Lo importante es que su actividad demuestre su capacidad para seleccionar los controles que Botium Toys necesita o no implementar y las mejores prácticas de cumplimiento a las que la empresa debe adherirse para mitigar los riesgos y evitar multas._
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Dwr8U8clQVaEa8N35L1ydQ_cbb62cce56de4422aacd3a042642c5f1_TPXSz4gSyJ8mu2HGHfRLocQMIXm6f6CvmWKmazqBY3AeQ6BdoifBwIswqw1glP95hh1LUopOv1UOgRbH4GZ12BeTHGPczkP66uP5n2yp5_lgQVRZl4ZBOK3CS1l1tU1E4_oVTA-pz0uErasZtz_moyWthJC682A39LnU4Z_TBR8aBd240PhdGaXRPE3OaXY?expiry=1749945600000&hmac=Lj6xaJ1QUuSegDKN5AWAvQsTy6cMpaD5f1XmR5O2snw)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[8- Actividad de la cartera, Realizar una auditoría de seguridad]]

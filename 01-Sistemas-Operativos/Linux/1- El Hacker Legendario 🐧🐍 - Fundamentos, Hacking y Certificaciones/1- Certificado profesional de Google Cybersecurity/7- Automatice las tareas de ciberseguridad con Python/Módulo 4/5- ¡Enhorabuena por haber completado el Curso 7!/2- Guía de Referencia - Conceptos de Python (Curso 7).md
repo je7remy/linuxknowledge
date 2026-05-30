@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Guía de Referencia - Conceptos de Python (Curso 7)
 
 
 ## 🧠 Guía de Referencia: Conceptos de Python (Curso 7)
@@ -619,3 +626,11 @@ Los siguientes métodos son útiles al analizar datos.
     - Concatena los elementos de un iterable (como una lista) en una cadena, usando la cadena sobre la que se llama como separador. **Sintaxis:** `"separador".join(iterable)`
         
     - **Ejemplo:** `approved_users = ",".join(["elarson", "bmoreno", "tshah"])` _Crea `"elarson,bmoreno,tshah"`._
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Conclusión del curso]]
+- ➡️ Siguiente: [[3- Glosario, Curso 7 - Python para Automatización en Ciberseguridad]]

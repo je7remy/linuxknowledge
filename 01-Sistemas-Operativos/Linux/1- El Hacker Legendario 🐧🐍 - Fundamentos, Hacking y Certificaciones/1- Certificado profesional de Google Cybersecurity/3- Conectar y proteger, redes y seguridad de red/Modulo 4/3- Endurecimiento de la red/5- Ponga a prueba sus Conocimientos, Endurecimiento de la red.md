@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Endurecimiento de la red
 
 ### **Cuestionario sobre Seguridad de la Información**
 
@@ -30,3 +37,9 @@ Los equipos de Seguridad pueden utilizar **herramientas de administración de in
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Análisis del endurecimiento de la red 2]]

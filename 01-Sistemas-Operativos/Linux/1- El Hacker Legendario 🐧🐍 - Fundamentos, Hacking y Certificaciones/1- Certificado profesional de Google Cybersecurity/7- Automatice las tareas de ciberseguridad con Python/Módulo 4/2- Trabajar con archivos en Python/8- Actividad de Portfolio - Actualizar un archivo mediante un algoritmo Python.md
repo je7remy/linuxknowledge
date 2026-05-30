@@ -1,4 +1,3 @@
-
 ---
 
 ## 📝 Actividad de Portafolio: Actualizar un Archivo Mediante un Algoritmo Python
@@ -284,3 +283,11 @@ with open(import_file, "w") as file:
 ### **Summary**
 
 Este algoritmo automatiza eficazmente la tarea de mantener actualizada una lista de permitidos de IP almacenada en un archivo. Lee el archivo `allow_list.txt`, convierte su contenido en una lista manipulable usando `.read()` y `.split()`. Procesa una lista separada de IPs a eliminar (`remove_list`), iterando sobre ella y eliminando las coincidencias de la lista de permitidos mediante un bucle `for`, condicionales `if` y el método `.remove()`. Finalmente, reconstruye el contenido del archivo como una cadena con formato (usando `"\n".join()`) y sobrescribe el archivo original con la lista actualizada usando `with open()` en modo escritura y `.write()`. Este proceso asegura que la lista de acceso refleje con precisión los permisos actuales, combinando manejo de archivos, manipulación de listas y cadenas, y lógica de control.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[7- Crear otro algoritmo]]
+- ➡️ Siguiente: [[9- Ejemplo de actividad de Portfolio - Actualizar un fichero mediante un algoritmo Python]]

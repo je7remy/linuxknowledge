@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Recursos y consejos útiles
 
 Como alumno, puedes elegir completar uno o varios cursos de este programa. Sin embargo, para obtener el Certificado de Ciberseguridad de Google, debes completar todos los cursos. Esta lectura describe lo que se requiere para obtener el certificado y las mejores prácticas para que tengas una buena experiencia de aprendizaje en Coursera.
 
@@ -78,3 +85,10 @@ Proporcionar comentarios sobre vídeos, lecturas y otros materiales es fácil. C
 Si desea marcar un problema específico con un elemento, haga clic en el icono de la bandera, seleccione una categoría e introduzca una explicación en el cuadro de texto. Estos comentarios se envían al equipo de desarrollo del curso y no son visibles para otros alumnos. Todos los comentarios recibidos ayudan a crear programas de certificación aún mejores en el futuro.
 
 Para obtener ayuda técnica, visite el [Centro de ayuda al alumno](https://learner.coursera.help/hc/en-us).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Resumen del curso 4]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ejemplo, Obtener ayuda en la línea de comandos
 
 ## 🔹 Tarea 1: Aprende más sobre comandos
 
@@ -94,3 +101,10 @@ Además:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Ejemplo opcional, Obtener ayuda en la línea de comandos]]
+- ➡️ Siguiente: [[7- Ponga a prueba sus Conocimientos - Obtenga ayuda en Linux]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Únete a la comunidad
 
 ¡Enhorabuena por haber completado el curso **de Fundamentos de Ciberseguridad**!
 
@@ -18,3 +25,9 @@ No estás solo en este viaje de aprendizaje. Aprender es más gratificante cuand
 
 La comunidad está aquí para apoyarte en cada paso del camino. _La participación en la comunidad es opcional y se ofrece sin costo alguno para usted._
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Resumen del curso]]

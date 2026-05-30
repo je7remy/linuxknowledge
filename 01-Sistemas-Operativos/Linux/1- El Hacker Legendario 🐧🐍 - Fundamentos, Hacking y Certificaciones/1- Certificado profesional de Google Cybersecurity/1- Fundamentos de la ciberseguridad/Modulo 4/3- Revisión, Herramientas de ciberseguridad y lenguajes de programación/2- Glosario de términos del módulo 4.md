@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 4
 
 ## **Términos y definiciones del Curso 1, Módulo 4**
 
@@ -25,3 +32,10 @@
 
 **SQL (Structured Query Language):** Un lenguaje de consulta utilizado para crear, interactuar y solicitar información de una base de datos
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Conclusión]]
+- ➡️ Siguiente: [[3- Desafío del módulo 4]]

@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
 ---
 
+# El caso de la seguridad de las redes
 ## 🛡️ ¿Por qué necesitamos redes seguras?
 
 Las redes están **constantemente en riesgo** de sufrir ataques por parte de hackers maliciosos. Los atacantes pueden infiltrarse en las redes mediante distintas técnicas que comprometen la confidencialidad, integridad y disponibilidad de los sistemas.
@@ -67,4 +71,11 @@ La respuesta correcta es:
 - **Falsificación de identidad (spoofing)**: hacerse pasar por otro dispositivo o usuario para acceder a información o sistemas.
     
 - **Servidores proxy**: no son ataques, ayudan a ocultar IP, filtrar tráfico, y mejorar la seguridad.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 3]]
+- ➡️ Siguiente: [[3- Cómo las intrusiones comprometen su sistema]]

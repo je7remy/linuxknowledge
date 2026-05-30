@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Gestión de alertas y eventos con herramientas SIEM y SOAR
 
 # 🧭 Herramientas de Gestión de Eventos e Información de Seguridad (SIEM) y Orquestación y Respuesta (SOAR)
 
@@ -148,3 +155,9 @@ El proceso general de un **SIEM (Security Information and Event Management)** si
 🧠 **En resumen:**  
 **SIEM = Recopilar → Normalizar → Analizar → Alertar.**
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Visión general de la tecnología SIEM]]

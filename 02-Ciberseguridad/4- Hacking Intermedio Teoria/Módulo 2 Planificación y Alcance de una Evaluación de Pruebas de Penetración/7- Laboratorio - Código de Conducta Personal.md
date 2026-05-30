@@ -136,7 +136,7 @@ Para abordar este desafío, es fundamental establecer una comunicación continua
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬆️ Carpeta: [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]]
 - ⬅️ Anterior: [[6- Demostrar una mentalidad de hacking ético manteniendo el profesionalismo y la integridad]]
 - ➡️ Siguiente: [[Conclusiones]]
 

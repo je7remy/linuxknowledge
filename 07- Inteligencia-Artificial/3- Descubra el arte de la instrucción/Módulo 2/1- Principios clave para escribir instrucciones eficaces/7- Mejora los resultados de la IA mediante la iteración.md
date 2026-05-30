@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Mejora los resultados de la IA mediante la iteración
 
 Básicamente, te está diciendo que **"programar" un prompt es como depurar (debuggear) código o resolver un ticket de soporte técnico.**
 
@@ -60,3 +67,11 @@ El ejemplo de la lección fue sobre RRHH buscando universidades. Veamos cómo se
 **Lección:** No te frustres si el primer resultado es malo. El "error" está en que el prompt necesita más depuración (más contexto, mejor formato, manejo de errores) para obtener la respuesta correcta.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[6- Transformar un aviso]]
+- ➡️ Siguiente: [[8- Actividad, Iterar las instrucciones para encontrar soluciones]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Variaciones de los registros
 
 
 ### **Entendiendo los Formatos de Registros**
@@ -50,3 +57,11 @@ Es un formato simple que utiliza un separador, como una coma, para distinguir lo
 ### **Próximos Pasos**
 
 Ahora que conoces la diversidad de formatos de registro, el siguiente paso es aprender a evaluar los registros para construir un contexto en torno a una detección, explorando cómo se utilizan las firmas de los **Sistemas de Detección de Intrusiones (IDS)**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Rebeca - Aprender nuevas herramientas y tecnologías]]
+- ➡️ Siguiente: [[7- Visión general de los formatos de los archivos de registro]]

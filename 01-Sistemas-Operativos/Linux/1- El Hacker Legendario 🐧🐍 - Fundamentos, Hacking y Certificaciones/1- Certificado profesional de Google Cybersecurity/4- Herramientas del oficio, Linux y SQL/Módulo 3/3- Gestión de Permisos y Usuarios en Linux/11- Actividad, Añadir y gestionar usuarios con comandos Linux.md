@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad, Añadir y gestionar usuarios con comandos Linux
 
 ### **Tarea 1: Agregar un usuario nuevo**
 
@@ -186,3 +193,11 @@ Con estos comandos puedes:
     
 
 Esto resume lo más importante para administrar usuarios en Linux.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[10- Uso responsable de sudo]]
+- ➡️ Siguiente: [[12- Prueba, Autenticación y autorización de usuarios]]

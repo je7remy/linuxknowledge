@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Aprovecha el criterio de “humano en el ciclo” en la IA
 
 ## La Importancia de que el Ser Humano se Involucre en la IA
 
@@ -57,3 +64,10 @@ A veces, una herramienta puede intentar generar una respuesta a pesar de su lím
 ### Conclusión Final
 
 Al utilizar herramientas de IA, es importante aplicar un enfoque de "humano en el ciclo". Al revisar y evaluar el contenido generado por la IA, ayudas a mitigar los posibles efectos de las alucinaciones. Esto contribuye a garantizar que los resultados no solo sean innovadores, sino también **precisos, pertinentes y éticos**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ➡️ Siguiente: [[2- Kathy, Explora cómo las personas mejoran los modelos de IA]]

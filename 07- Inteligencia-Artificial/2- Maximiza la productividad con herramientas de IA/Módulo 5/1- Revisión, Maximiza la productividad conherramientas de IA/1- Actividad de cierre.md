@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 ## Revisión: Maximiza la Productividad con Herramientas de IA
 
@@ -21,3 +28,10 @@ Realmente disfruté ser parte de tu viaje mientras exploramos cómo aprovechar l
 ### Próximos Pasos
 
 Para seguir aprendiendo, descubre el arte de la **ingeniería de instrucciones** en la próxima sección de Fundamentos de IA de Google.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ➡️ Siguiente: [[2- Desafío del Curso 2]]

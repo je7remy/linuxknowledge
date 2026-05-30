@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Bucle WHILE – PARTE 1
 
 ---
 ### **Primer script: Contador con bucle `while`**
@@ -103,3 +110,11 @@ done
     - Si el usuario introduce texto en lugar de un número, el script no genera mensajes de error del sistema, solo imprime `Datos incorrectos, introduce tu edad`.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]
+- ⬅️ Anterior: [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]
+- ➡️ Siguiente: [[6- Bucle WHILE – PARTE 2]]

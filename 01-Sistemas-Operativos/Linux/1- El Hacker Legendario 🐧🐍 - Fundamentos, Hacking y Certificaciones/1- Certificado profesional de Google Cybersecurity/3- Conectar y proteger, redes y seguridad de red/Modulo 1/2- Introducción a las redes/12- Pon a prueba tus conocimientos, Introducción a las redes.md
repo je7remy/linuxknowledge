@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Introducción a las redes
 
 ## ✅ **Respuestas del cuestionario**
 
@@ -37,3 +44,10 @@
 **Explicación:** Se llama **computación en la nube (cloud computing)** cuando los recursos están alojados en Internet, no localmente.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[11- Identificar, Funciones de las herramientas de red]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a BeautifulSoup
 
 ---
 
@@ -246,3 +253,11 @@ for div in leer_divs:
 
 🎯 **Conclusión:**  
 Este análisis muestra cómo se refinó el código para extraer texto de elementos HTML con `BeautifulSoup`. A través de iteraciones, se pasó de imprimir la lista de `div` completos a mostrar cada uno, eliminar etiquetas y filtrar elementos específicos. ¡Este proceso es clave en Web Scraping! 🚀
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[4- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 2]]
+- ➡️ Siguiente: [[6- Inicio de Sesión en WordPress desde Python]]

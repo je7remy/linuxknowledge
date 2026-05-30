@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Añadir y eliminar usuarios
 
 ## **Gestión de usuarios en Linux: Añadir y eliminar usuarios**
 
@@ -128,3 +135,11 @@ sudo userdel salesrep7
 El comando `sudo` concede **temporalmente permisos elevados** a usuarios específicos. Estos privilegios son necesarios para ejecutar ciertos comandos administrativos, como `useradd` y `userdel`, que requieren permisos de superusuario.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[8- Actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo]]
+- ➡️ Siguiente: [[10- Uso responsable de sudo]]

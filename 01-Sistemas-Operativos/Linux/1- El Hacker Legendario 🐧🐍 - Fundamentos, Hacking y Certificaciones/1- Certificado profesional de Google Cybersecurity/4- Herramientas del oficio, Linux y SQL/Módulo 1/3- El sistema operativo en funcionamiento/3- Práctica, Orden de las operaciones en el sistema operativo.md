@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Práctica, Orden de las operaciones en el sistema operativo
 
 ## 🧠 **Práctica: Orden de las Operaciones en el Sistema Operativo**
 
@@ -17,3 +24,11 @@
 **Paso 4:** El disco duro confirma que el archivo fue guardado, y el sistema operativo informa a la aplicación.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Solicitudes al sistema operativo]]
+- ➡️ Siguiente: [[4- Asignación de recursos a través del sistema operativo]]

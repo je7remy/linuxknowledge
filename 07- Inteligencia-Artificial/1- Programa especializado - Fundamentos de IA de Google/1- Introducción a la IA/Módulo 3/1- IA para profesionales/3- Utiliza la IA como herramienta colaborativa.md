@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Utiliza la IA como herramienta colaborativa
 
 ## IA: Aumento y Automatización de tu Trabajo
 
@@ -55,3 +62,10 @@ Piensa en la IA como un **espacio de trabajo colaborativo** que prospera con la 
             
 
 Todo el mundo tiene que cooperar para que la IA se integre bien y el resultado cumpla las expectativas. Si le dedicas tiempo a comprender la IA y cómo puede ser de provecho en tu trabajo, estarás contribuyendo al debate.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[2- Actividad - Utilizar la IA para crear un correo electrónico]]

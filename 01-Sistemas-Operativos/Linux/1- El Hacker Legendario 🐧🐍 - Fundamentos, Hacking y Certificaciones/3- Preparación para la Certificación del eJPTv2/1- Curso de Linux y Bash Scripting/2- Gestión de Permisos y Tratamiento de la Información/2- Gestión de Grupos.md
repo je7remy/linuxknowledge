@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Gestión de Grupos
 
 ---
 
@@ -120,3 +127,10 @@ sudo groupdel profesores
 **[[6- Gestión de Usuarios en Linux]]**
 **[[1- Protección del Protocolo SSH]]**
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Gestión de Permisos y Tratamiento de la Información|2- Gestión de Permisos y Tratamiento de la Información]]
+- ⬅️ Anterior: [[1- Gestión Básica, Detallada y con números de Permisos – Comando chmod]]
+- ➡️ Siguiente: [[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]

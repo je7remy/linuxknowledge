@@ -14,7 +14,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[4- Tiempos de craqueo]]
 - ➡️ Siguiente: [[6- Protegiendo sus dispositivos y su red]]
 

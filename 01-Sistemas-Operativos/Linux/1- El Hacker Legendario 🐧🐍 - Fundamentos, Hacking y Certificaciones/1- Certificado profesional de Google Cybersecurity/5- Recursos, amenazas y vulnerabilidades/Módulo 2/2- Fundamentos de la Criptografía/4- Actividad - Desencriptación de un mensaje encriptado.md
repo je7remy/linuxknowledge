@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad - Desencriptación de un mensaje encriptado
 
 # 🧩 Laboratorio: Descifrar un mensaje cifrado
 
@@ -177,3 +184,11 @@ Pasos generales:
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Cifrado simétrico y asimétrico]]
+- ➡️ Siguiente: [[5- No repudio y hash]]

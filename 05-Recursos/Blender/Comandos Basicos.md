@@ -62,8 +62,8 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|05-Recursos]]
+- ⬆️ Sección: [[_05-Recursos|05-Recursos]]
 
 ## Relacionadas
 
-- [[../index|05-Recursos]] — catálogo de guías rápidas.
+- [[_05-Recursos|05-Recursos]] — catálogo de guías rápidas.

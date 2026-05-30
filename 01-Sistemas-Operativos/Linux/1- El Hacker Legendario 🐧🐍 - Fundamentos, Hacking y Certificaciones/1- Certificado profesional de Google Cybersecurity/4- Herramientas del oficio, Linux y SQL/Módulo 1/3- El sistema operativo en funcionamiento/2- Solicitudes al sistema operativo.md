@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Solicitudes al sistema operativo
 
 Los sistemas operativos son un componente fundamental de una computadora. Establecen conexiones entre las aplicaciones y el hardware para permitir a los usuarios realizar tareas. En esta lectura, explorará más a fondo este complejo proceso y lo considerará utilizando una nueva analogía y un nuevo ejemplo.
 
@@ -63,3 +70,11 @@ Anteriormente, exploró cómo los sistemas operativos, las aplicaciones y el har
 ## Claves
 
 Aunque funciona en segundo plano, el sistema operativo es una parte esencial del proceso de utilización de una computadora. El sistema operativo conecta las aplicaciones y el hardware para permitir a los usuarios completar una tarea.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Dentro del sistema operativo]]
+- ➡️ Siguiente: [[3- Práctica, Orden de las operaciones en el sistema operativo]]

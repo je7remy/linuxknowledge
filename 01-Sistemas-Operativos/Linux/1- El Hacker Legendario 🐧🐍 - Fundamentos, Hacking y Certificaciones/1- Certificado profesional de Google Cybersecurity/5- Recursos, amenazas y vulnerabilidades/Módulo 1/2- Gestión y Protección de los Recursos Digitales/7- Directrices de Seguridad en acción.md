@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Directrices de Seguridad en acción
 
 Las organizaciones se enfrentan a menudo a una cantidad abrumadora de riesgos. Desarrollar desde el principio un plan de seguridad que aborde todos los riesgos puede resultar complicado. Esto hace que los Marcos de seguridad sean una opción útil.
 
@@ -61,3 +68,11 @@ Un beneficio del marco es que se alinea con las prácticas de seguridad de mucha
 ## Puntos clave
 
 El NIST CSF es un recurso flexible que las organizaciones pueden utilizar para evaluar y mejorar su postura de seguridad. Es un marco útil que combina las mejores prácticas de seguridad de industrias de todo el mundo. Implantar el CSF puede ser un reto para cualquier organización. El CSF puede ayudar a las empresas a cumplir los requisitos normativos para evitar riesgos financieros y de reputación.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[6- El marco de ciberseguridad del NIST]]
+- ➡️ Siguiente: [[8- Ponga a prueba sus Conocimientos - Riesgo y Seguridad de los recursos]]

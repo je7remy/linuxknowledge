@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Visión general de los formatos de los archivos de registro
 
 Ya ha aprendido cómo los registros registran los eventos que se producen en una red, o en un sistema. En Seguridad, los registros proporcionan detalles clave sobre las actividades ocurridas en una organización, como quién inició sesión en una aplicación en un momento determinado. Como analista de Seguridad, utilizará el **análisis** de registros, que es el proceso de examinar los registros para identificar los eventos de Interés. Es importante saber leer e interpretar los diferentes formatos de registro para poder descubrir los detalles clave que rodean a un evento e identificar actividades inusuales o maliciosas. En esta lectura, revisará los siguientes formatos de registro:
 
@@ -186,3 +193,11 @@ No existe un formato estándar utilizado en los registros y existen muchos forma
 - Si desea explorar la generación de formatos de registro, consulte esta [herramienta generadora de datos de prueba](https://generatedata.com/) de código abierto.
     
 - Para saber más sobre los formatos de marcas de tiempo, consulte [Fecha y hora en Internet: Timestamps](https://www.rfc-editor.org/rfc/rfc3339).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Variaciones de los registros]]
+- ➡️ Siguiente: [[8- Ponga a prueba sus Conocimientos - Componentes y formatos de registro]]

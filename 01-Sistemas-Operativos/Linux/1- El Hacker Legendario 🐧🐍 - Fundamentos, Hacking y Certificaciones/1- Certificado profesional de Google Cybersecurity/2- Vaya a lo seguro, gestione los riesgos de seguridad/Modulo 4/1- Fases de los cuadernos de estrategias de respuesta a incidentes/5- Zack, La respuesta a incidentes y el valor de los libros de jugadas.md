@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Zack, La respuesta a incidentes y el valor de los libros de jugadas
 
 ## 👨‍💻 **Testimonio de Zack – Ingeniero de Software en Seguridad (Google Workspace)**
 
@@ -77,3 +84,11 @@
 > “Estar en un equipo de seguridad conlleva cierto grado de seguridad. Sin duda, es un buen lugar para estar.”
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[4- Identificar, Fases de un manual de estrategias de respuesta a incidentes]]
+- ➡️ Siguiente: [[6- Pon a prueba tus conocimientos, Respuesta a incidentes]]

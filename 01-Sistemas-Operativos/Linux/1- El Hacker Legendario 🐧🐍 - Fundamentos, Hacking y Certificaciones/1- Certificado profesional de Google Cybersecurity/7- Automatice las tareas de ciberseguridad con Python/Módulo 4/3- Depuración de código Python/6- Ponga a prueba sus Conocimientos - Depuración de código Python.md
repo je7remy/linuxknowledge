@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Depuración de código Python
 
 ## 🧠 Pregunta 1
 
@@ -59,3 +66,10 @@ Excepción
 📘 Justificación:
 
 Acceder a un índice que no existe (por ejemplo, el índice 5 en una lista de 5 elementos, cuyos índices van del 0 al 4) provoca un error durante la ejecución del programa. Este tipo de error en tiempo de ejecución se clasifica como una excepción, específicamente un IndexError.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Actividad - Depuración de código Python]]

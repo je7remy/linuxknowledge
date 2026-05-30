@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Cómo Utilizar CURL con HTTP
 
 ---
 
@@ -90,3 +97,11 @@ En resumen, este comando descarga un script de instalación de Brave y lo ejecut
 **[[5- Cómo Utilizar WGET]]**
 **[[3- Securización de Servidores Web Apache – PARTE 1]]**
 **[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[3- Transferencia de Archivos por la Red]]
+- ➡️ Siguiente: [[5- Cómo Utilizar WGET]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Instalación de Módulos Externos
 
 ---
 
@@ -263,3 +270,11 @@ Error en la solicitud 404
 
 - Este código requiere conexión a Internet para ejecutarse correctamente.
 - Algunos sitios pueden bloquear solicitudes automáticas o requerir encabezados específicos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Introducción a los Módulos y uso de PIP|2- Introducción a los Módulos y uso de PIP]]
+- ⬅️ Anterior: [[1- Introducción a los Módulos]]
+- ➡️ Siguiente: [[3- Creación y Gestión de Entornos Virtuales]]

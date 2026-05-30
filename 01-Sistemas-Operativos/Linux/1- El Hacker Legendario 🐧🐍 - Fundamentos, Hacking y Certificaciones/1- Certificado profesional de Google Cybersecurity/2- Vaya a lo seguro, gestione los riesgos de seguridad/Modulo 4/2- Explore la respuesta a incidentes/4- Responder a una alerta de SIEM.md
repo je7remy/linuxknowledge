@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Responder a una alerta de SIEM
 
 ## 🧪 **Práctica: Responder a una alerta de SIEM**
 
@@ -41,3 +48,10 @@ _After you’ve taken all the necessary steps outlined in your organization’s 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Cuadernos de estrategias, herramientas SIEM y herramientas SOAR]]
+- ➡️ Siguiente: [[5- Pon a prueba tus conocimientos, usa un manual de estrategias para responder a un incidente]]

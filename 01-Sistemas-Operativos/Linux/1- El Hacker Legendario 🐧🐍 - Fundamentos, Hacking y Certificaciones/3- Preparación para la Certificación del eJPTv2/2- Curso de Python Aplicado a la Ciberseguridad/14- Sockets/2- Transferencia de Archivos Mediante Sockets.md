@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Transferencia de Archivos Mediante Sockets
 
 ### Código Inicial del Cliente (`cliente.py`):
 
@@ -125,3 +132,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as conexion:
     
 
 Este flujo muestra cómo se corrigen los errores iniciales para permitir una comunicación efectiva entre el cliente y el servidor para transferir archivos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_14- Sockets|14- Sockets]]
+- ⬅️ Anterior: [[1- Introducción a los Sockets]]
+- ➡️ Siguiente: [[3- Creamos una Aplicación de Chat con Sockets PARTE 1]]

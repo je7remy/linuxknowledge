@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Trabaja con Gemini
 
 ## Práctica: Creación de Instrucciones Eficaces
 
@@ -50,3 +57,11 @@ Supongamos que pasaron varios años, conseguiste ese trabajo y ahora estás a ca
 ### Conclusión
 
 Al utilizar herramientas de IA generativa, es importante escribir **instrucciones claras y específicas**. Cuanto más experimentes con la escritura de instrucciones, mejor utilizarás las herramientas de IA para alcanzar tus objetivos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[1- Transforma tu trabajo con la IA generativa]]
+- ➡️ Siguiente: [[3- Herramientas de IA generativa para tareas laborales]]

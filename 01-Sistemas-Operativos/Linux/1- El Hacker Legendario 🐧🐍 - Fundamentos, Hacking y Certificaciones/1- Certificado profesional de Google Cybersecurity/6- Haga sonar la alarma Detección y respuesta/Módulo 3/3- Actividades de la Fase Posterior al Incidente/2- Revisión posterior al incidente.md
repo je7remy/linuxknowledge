@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Revisión posterior al incidente
 
 Anteriormente, usted exploró la fase de contención, Erradicación y Recuperación del Ciclo de vida de respuesta ante incidentes del NIST. Esta lectura explora las actividades implicadas en la fase final del ciclo de vida: **Actividad posterior al incidente**. Como analista de Seguridad, es importante que se familiarice con las actividades implicadas en esta fase porque cada incidente de Seguridad le proporcionará una oportunidad para aprender y mejorar sus respuestas ante futuros incidentes.
 
@@ -56,3 +63,11 @@ Una de las formas más esenciales de documentación que se crea durante el final
 ## Puntos clave
 
 Las acciones posteriores al incidente representan el final del ciclo de vida de la respuesta ante incidentes. Esta fase ofrece la oportunidad de que los Equipos de Seguridad se reúnan, evalúen las acciones de respuesta, hagan recomendaciones de mejora y elaboren el Informe final.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- La fase de Actividad posterior al incidente del ciclo de vida]]
+- ➡️ Siguiente: [[3- Actividad - Revisar un informe final]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Herramientas de red
 
 # 🌐 Dispositivos Comunes en una Red
 
@@ -66,5 +73,10 @@ En esta sección, aprenderás sobre los **dispositivos físicos y virtuales** qu
 
 ---
 
+---
 
+## Navegación
 
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[5- Emmanuel, Habilidades útiles para la seguridad de la red]]
+- ➡️ Siguiente: [[7- Componentes, dispositivos y diagramas de red]]

@@ -12,7 +12,7 @@ Entonces, ¿por qué necesitamos pruebas de penetración? Bueno, en primer lugar
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ⬅️ Anterior: [[2- Descripción General]]
 - ➡️ Siguiente: [[4- Actores y amenazas]]
 

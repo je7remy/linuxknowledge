@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Dave - Haga crecer su carrera en ciberseguridad con mentores
 
 ## Biografía de Dave – Estratega Principal de Seguridad en Google Cloud
 
@@ -57,3 +64,10 @@ Mi trabajo consiste en colaborar directamente con profesionales de seguridad par
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Introducción al curso]]
+- ➡️ Siguiente: [[3- Introducción al ciclo de vida de la Respuesta ante incidentes]]

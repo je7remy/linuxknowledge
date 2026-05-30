@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Equipos de Respuesta ante incidentes
 
 # 📌 CSIRT – Equipos de Respuesta a Incidentes de Seguridad Informática
 
@@ -74,3 +81,11 @@ La seguridad es una **responsabilidad compartida**, por lo que un CSIRT debe tra
 ---
 
 ✅ **Conclusión:** Un CSIRT es esencial para manejar incidentes de seguridad de manera profesional. No trabaja de forma aislada, sino en coordinación con otros departamentos clave (legal, PR, IT). Sus miembros tienen roles definidos que aseguran que la respuesta sea rápida, organizada y efectiva.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Ponga a prueba sus Conocimientos - El ciclo de vida de la Respuesta ante incidentes]]
+- ➡️ Siguiente: [[7- Fátima - La importancia de la Comunicación durante la Respuesta ante incidentes]]

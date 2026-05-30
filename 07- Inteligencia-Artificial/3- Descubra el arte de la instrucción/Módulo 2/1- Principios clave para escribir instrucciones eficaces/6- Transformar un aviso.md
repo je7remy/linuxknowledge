@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Transformar un aviso
 
 ### Resumen Didáctico: La Anatomía de un Prompt Efectivo
 
@@ -54,3 +61,11 @@ Vamos a "desarmar" este prompt para ver por qué funciona tan bien. Estos son lo
 La calidad de la respuesta de la IA depende **directamente** de la calidad de tus instrucciones.
 
 No es magia; es una herramienta que responde a la información que le das. Al invertir 15 segundos más en escribir un prompt con **Rol, Contexto, Tarea y Formato**, pasas de obtener respuestas genéricas e inútiles a recibir asistencia específica y de nivel profesional.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[5- Instrucciones para diferentes propósitos]]
+- ➡️ Siguiente: [[7- Mejora los resultados de la IA mediante la iteración]]

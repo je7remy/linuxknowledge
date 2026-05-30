@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Victoria - Continúe su viaje de aprendizaje
 
 ### 1. El Valor de una Perspectiva Única (Tu "Superpoder")
 
@@ -35,3 +42,10 @@ En su lugar, recomienda **BSides**, que son conferencias locales. Esto te permit
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[2- Estrategias para comprometerse con la comunidad de la ciberseguridad]]
+- ➡️ Siguiente: [[4- Actividad - Explore las organizaciones de ciberseguridad]]

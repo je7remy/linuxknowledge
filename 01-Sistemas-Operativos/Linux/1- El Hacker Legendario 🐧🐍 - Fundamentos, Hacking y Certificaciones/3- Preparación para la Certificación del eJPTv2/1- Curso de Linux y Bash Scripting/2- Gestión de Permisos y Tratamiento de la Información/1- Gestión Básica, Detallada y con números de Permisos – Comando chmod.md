@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Gestión Básica, Detallada y con números de Permisos – Comando chmod
 
 ---
 
@@ -354,4 +361,11 @@ En cada paso, puedes observar cómo cambian los permisos de la carpeta ejecutand
 
 
 [[8- Permisos Especiales – Sticky Bit]]
-[[9- Permisos Especiales – BIt SUID]] 
+[[9- Permisos Especiales – BIt SUID]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Gestión de Permisos y Tratamiento de la Información|2- Gestión de Permisos y Tratamiento de la Información]]
+- ➡️ Siguiente: [[2- Gestión de Grupos]]

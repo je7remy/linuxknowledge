@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, n8n]
+actualizado: 2026-05-28
+---
+
+# Hacemos Nuestra Primera Automatización N° 2
 
 # 🧠 Clase 2: Primeros Pasos con N8N y Automatización Básica (Petición HTTP + Procesamiento)
 
@@ -261,3 +268,11 @@ Y el mensaje de error de la misma manera que lo anterior, se intercambia el 1 po
 ![[2.2- Resultado.png]]
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- N8N|8- N8N]]
+- ⬅️ Anterior: [[1- Presentación CURSO de N8N Aplicado a la CIBERSEGURIDAD N° 1]]
+- ➡️ Siguiente: [[3- Conectar Correo GMAIL con N8N N° 3]]

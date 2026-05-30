@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 2
 
 ## **Términos y definiciones del Curso 5, Módulo 2**
 
@@ -80,3 +87,11 @@
 **Cifrado simétrico:** El uso de una única clave secreta para intercambiar información
 
 **Aprovisionamiento de usuarios:** Proceso de creación y mantenimiento de la identidad digital de un usuario
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Conclusión]]
+- ➡️ Siguiente: [[3- Desafío del Módulo 2]]

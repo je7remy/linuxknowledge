@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# La evolución de las funciones hash
 
 Las funciones hash son controles importantes que forman parte de la estrategia de Seguridad de toda empresa. El hash se utiliza ampliamente para la autenticación y el **no repudio**, el concepto de que no se puede negar la autenticidad de la información.
 
@@ -69,3 +76,11 @@ Por esta razón, el salting se ha vuelto cada vez más común cuando se almacena
 ## Claves
 
 Los profesionales de la seguridad suelen utilizar el hash como herramienta para validar la integridad de los archivos de programas, documentos y otros tipos de datos. Otra forma en que se utiliza es para reducir las posibilidades de una violación de datos. Como ha aprendido, no todas las funciones hash proporcionan el mismo nivel de protección. Es más probable que los ataques de tabla rainbow funcionen contra algoritmos que generan claves más cortas, como MD5. Muchas pequeñas y medianas empresas siguen confiando en MD5 para proteger los datos sensibles. Conocer los algoritmos alternativos y el salting le prepara mejor para hacer recomendaciones de seguridad impactantes.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- No repudio y hash]]
+- ➡️ Siguiente: [[7- Actividad - Crear valores hash]]

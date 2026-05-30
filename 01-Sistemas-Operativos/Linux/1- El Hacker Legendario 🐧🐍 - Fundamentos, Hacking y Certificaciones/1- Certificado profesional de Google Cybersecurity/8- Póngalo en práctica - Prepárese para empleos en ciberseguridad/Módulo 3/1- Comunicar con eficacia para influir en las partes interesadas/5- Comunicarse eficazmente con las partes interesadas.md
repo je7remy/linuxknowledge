@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Comunicarse eficazmente con las partes interesadas
 
 Anteriormente aprendió sobre las partes interesadas en la Seguridad y su importancia en una organización. En esta lectura, aprenderá la importancia de comunicarse claramente con las partes interesadas para asegurarse de que comprenden perfectamente la información que comparte y por qué es significativa para la organización.
 
@@ -48,3 +55,11 @@ Si su mensaje es directo, un mensaje instantáneo o una llamada telefónica pued
 Las partes Interesadas son personas ocupadas que tienen intereses muy concretos dentro de la organización. Por lo tanto, es importante comunicar únicamente la información que sea específica para sus intereses y que repercuta en su Función en la empresa.
 
 Tenga en cuenta el tipo de información que comunica porque eso le ayudará a determinar qué método de comunicación debe utilizar.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[4- Bloques de construcción de las comunicaciones de ciberseguridad]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Comunicar para causar impacto]]

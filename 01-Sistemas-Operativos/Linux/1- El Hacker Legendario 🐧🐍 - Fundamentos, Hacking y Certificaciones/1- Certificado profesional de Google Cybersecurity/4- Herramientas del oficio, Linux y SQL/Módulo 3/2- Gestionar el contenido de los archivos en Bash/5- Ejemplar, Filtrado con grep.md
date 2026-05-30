@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ejemplar, Filtrado con grep
 
 **objetivo**  
 
@@ -62,5 +69,11 @@ practicar el uso de `grep` y tuberías en linux para buscar cadenas de texto y f
         ```bash
         grep "Human Resources" Q4_added_users.txt
         ```
-        
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Ejemplar opcional, Filtrado con grep]]
+- ➡️ Siguiente: [[6- Crear y modificar directorios y archivos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Consulta de una base de datos
 
 # Consultas SQL Básicas y ORDER BY
 
@@ -132,4 +139,10 @@ ORDER BY country, city;
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Consultas básicas]]
+- ➡️ Siguiente: [[3- Actividad - Realizar una consulta SQL]]

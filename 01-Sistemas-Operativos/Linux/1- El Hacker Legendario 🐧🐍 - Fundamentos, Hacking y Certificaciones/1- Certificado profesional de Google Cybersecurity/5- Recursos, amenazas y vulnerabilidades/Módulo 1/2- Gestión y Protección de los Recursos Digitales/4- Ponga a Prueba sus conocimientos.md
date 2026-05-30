@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a Prueba sus conocimientos
 
 ### **1. Pregunta 1**
 
@@ -34,3 +41,11 @@
 👉 En este estado, los datos están activos, abiertos o en proceso de manipulación.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- La emergencia de la Seguridad de la nube]]
+- ➡️ Siguiente: [[5- Elementos de un plan de Seguridad]]

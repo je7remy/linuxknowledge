@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Actividad de Portfolio - Documentar un incidente con el Diario del gestor de incidentes
 
 # 📓 Diario del Gestor de Incidentes
 
@@ -141,5 +148,10 @@ Ninguna.
 
 ---
 
+---
 
+## Navegación
 
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Introducción al ciclo de vida de la Respuesta ante incidentes]]
+- ➡️ Siguiente: [[5- Ponga a prueba sus Conocimientos - El ciclo de vida de la Respuesta ante incidentes]]

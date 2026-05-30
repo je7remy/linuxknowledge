@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Protocolos inalámbricos
 
 ### 📡 **IEEE 802.11 – Protocolos de Red Inalámbrica (Wi-Fi)**
 
@@ -52,5 +59,11 @@ Es un **conjunto de estándares** que define cómo se realiza la **comunicación
 - 🏢 **Organización responsable:** IEEE (Instituto de Ingenieros Eléctricos y Electrónicos)
     
 - 🔐 **Versiones de seguridad:** WPA, WPA2, WPA3
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[5- Antara, Trabajando en seguridad de redes]]
+- ➡️ Siguiente: [[7- La evolución de los protocolos de seguridad inalámbricos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Visión general de tcpdump
 
 Como analista de seguridad, utilizará analizadores de protocolos de red para ayudar a defenderse de cualquier intrusión en la red. Anteriormente, aprendió los siguientes términos relacionados con el Monitoreo y Análisis de redes:
 
@@ -121,3 +128,11 @@ En el ámbito de la Seguridad, es probable que se encuentre con herramientas de 
 - Aprenda más con [los tutoriales y guías](https://www.tcpdump.org/) de tcpdump, que incluye recursos educativos adicionales.
     
 - Aprenda más sobre el uso de expresiones para filtrar el Tráfico con este tutorial de [tcpdump por Daniel Miessler](https://danielmiessler.com/p/tcpdump/).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Captura de paquetes con tcpdump]]
+- ➡️ Siguiente: [[3- Actividad - Captura tu primer paquete]]

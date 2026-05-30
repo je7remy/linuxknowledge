@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Utilice herramientas para proteger las operaciones comerciales
 
 Anteriormente, se le presentó la programación, los sistemas operativos y las herramientas comúnmente utilizadas por los profesionales de la ciberseguridad. En esta lectura, aprenderá más sobre programación y sistemas operativos, así como otras herramientas que los analistas de nivel básico utilizan para ayudar a proteger a las organizaciones y a las personas a las que sirven.
 
@@ -42,3 +49,11 @@ El cifrado hace que los datos sean ilegibles y difíciles de decodificar para un
 ## Conclusiones clave
 
 En esta lectura, aprendió más sobre programación y sistemas operativos. También se le presentaron varias herramientas y procesos nuevos. Cada organización selecciona su propio conjunto de herramientas. Por lo tanto, cuantas más herramientas conozcas, más valioso serás para una organización. Las herramientas ayudan a los analistas de seguridad a completar sus tareas de manera más eficiente y eficaz.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Introducción a Linux, SQL y Python]]
+- ➡️ Siguiente: [[3-Pon a prueba tus conocimientos, Conocimientos y habilidades básicas de ciberseguridad]]

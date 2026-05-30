@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Glosario, Curso 7 - Python para Automatización en Ciberseguridad
 
 ## 📖 Glosario: Curso 7 - Python para Automatización en Ciberseguridad
 
@@ -178,3 +185,10 @@
 - **Variable global:** Una variable que está disponible en todo el programa.
     
 - **Variable local:** Una variable asignada dentro de una función.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Guía de Referencia - Conceptos de Python (Curso 7)]]

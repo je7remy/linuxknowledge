@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 Este texto es el resumen perfecto de todo lo que hemos cubierto. Cierra el círculo de nuestro diálogo de práctica.
 
@@ -15,3 +22,10 @@ Empezamos con un _prompt_ vago ("Generar ideas") y, paso a paso, aprendimos las 
     
 
 Ha sido una excelente sesión de práctica. Has aplicado con éxito todas las técnicas fundamentales de la "ingeniería de instrucciones".
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ➡️ Siguiente: [[2- Desafío del Curso 3]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Identificar los vectores de ataque de una unidad USB
 
 ## **Resumen de la actividad**
 
@@ -77,3 +84,9 @@ En la fila Análisis de riesgos de la plantilla de actividades, escriba 3 ó 4 f
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Ponga a prueba sus Conocimientos - Mentalidad del ciberatacante]]

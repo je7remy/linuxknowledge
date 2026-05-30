@@ -177,12 +177,12 @@ Una base de datos de DeepSeek expuesta públicamente permitió control total sob
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+- ⬆️ Sección: [[_02-Ciberseguridad|02-Ciberseguridad]]
 
 ## Relacionadas
 
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/index|Google → 6- Detección y respuesta]] — SOC y SIEM en profundidad.
+- [[_6- Haga sonar la alarma Detección y respuesta|Google → 6- Detección y respuesta]] — SOC y SIEM en profundidad.
 - [[../3- hacking basico/1- Teoria de Ciberseguridad/15- Enfoque de Cisco para la ciberseguridad|Cisco → IPS/IDS/SIEM]] — base teórica.
-- [[../../07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/index|07 → IA responsable]] — uso ético de IA.
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/index|Python → 9- Defensiva]] — automatización defensiva.
+- [[_4- Utiliza la IA de forma responsable|07 → IA responsable]] — uso ético de IA.
+- [[_9- Ciberseguridad Defensiva|Python → 9- Defensiva]] — automatización defensiva.
 - [[../4- Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/7- Comparar metodologías de pentesting|Módulo 1 → Comparativas]] — Grupo Lazarus (estado-nación).

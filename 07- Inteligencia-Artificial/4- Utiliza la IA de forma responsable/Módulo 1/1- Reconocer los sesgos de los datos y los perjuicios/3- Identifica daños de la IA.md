@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Identifica daños de la IA
 
 ### Los daños potenciales del uso irresponsable de la inteligencia artificial
 
@@ -53,3 +60,10 @@ La buena noticia es que las herramientas de IA **evolucionan rápidamente** grac
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[2- Comprende los sesgos de la IA]]
+- ➡️ Siguiente: [[4- Emilio, Mi trayectoria hasta trabajar con la IA responsable]]

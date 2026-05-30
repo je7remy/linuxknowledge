@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Visión general de las herramientas de Detección
 
 Anteriormente, usted exploró las tecnologías **del Sistema de detección de intrusiones** **(IDS**) y del **Sistema de prevención de intrusiones** **(IPS)**. En esta lectura, comparará y contrastará estas herramientas y aprenderá sobre la **Detección y respuesta en el punto final** (**EDR**). Como analista de Seguridad, es probable que trabaje con estas diferentes herramientas, por lo que es importante que comprenda sus funciones.
 
@@ -57,3 +64,11 @@ Herramientas como Open EDR®, Bitdefender™ Detección y respuesta en el punto 
 ## Puntos clave
 
 Las organizaciones implementan herramientas de Detección para tener conocimiento de la actividad que ocurre en sus entornos. IDS, IPS y EDR son diferentes tipos de herramientas de Detección. El valor de las herramientas de Detección reside en su capacidad para detectar, registrar, alertar y detener posibles actividades maliciosas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Sistemas de detección de intrusiones]]
+- ➡️ Siguiente: [[5- Ponga a prueba sus Conocimientos - Herramientas de Detección y Documentación]]

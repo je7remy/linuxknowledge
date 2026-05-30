@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad, Aumente la productividad con la ayuda de Gemini para Google Workspace
 
 Esta actividad es opcional, pero muy recomendable para ayudarte a practicar el uso de las herramientas de IA. Al final, responderás a preguntas de autoevaluación para reflexionar sobre tu aprendizaje. Si no puedes completar esta actividad, podrás seguir avanzando en el curso y obtener un certificado de Google.
 
@@ -219,3 +226,10 @@ Pregunta 2
 **Autoevaluación**: Piensa en cómo se puede utilizar la IA generativa en diferentes tipos de aplicaciones, como Docs, Sheets o Meet. ¿Cómo podrías utilizar la IA generativa en diferentes apps de Workspace en tu vida diaria? _Escribe de 1 a 3 frases_.
 
 Podría usar Gemini en Google Meet para que tome notas automáticamente durante las reuniones de mi equipo de TI, permitiéndome concentrarme en la conversación. Luego, usaría Gemini en Docs para resumir esas notas y generar una lista clara de "puntos de acción" para mis colegas. También podría usarlo en Sheets para analizar los registros de tickets de soporte e identificar rápidamente las tendencias de los problemas más comunes que reportan los usuarios.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[3- Utilice Gemini en el espacio de trabajo para tomar notas de sus reuniones]]

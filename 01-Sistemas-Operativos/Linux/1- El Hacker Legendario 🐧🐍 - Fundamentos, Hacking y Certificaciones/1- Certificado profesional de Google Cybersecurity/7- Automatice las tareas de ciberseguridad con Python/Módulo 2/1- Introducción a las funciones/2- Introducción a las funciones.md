@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Introducción a las funciones
 
 ### 🧠 Introducción a las Funciones en Python
 
@@ -45,3 +52,11 @@ Existen dos tipos principales de funciones en Python:
 |**Definidas por el Usuario**|Funciones que los programadores diseñan y escriben para sus necesidades específicas.|_(Aprenderás a crear estas a continuación)_|
 
 En resumen, tanto las funciones integradas como las definidas por el usuario hacen que trabajar en Python sea mucho más efectivo y eficiente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 2]]
+- ➡️ Siguiente: [[3- Crear una función básica]]

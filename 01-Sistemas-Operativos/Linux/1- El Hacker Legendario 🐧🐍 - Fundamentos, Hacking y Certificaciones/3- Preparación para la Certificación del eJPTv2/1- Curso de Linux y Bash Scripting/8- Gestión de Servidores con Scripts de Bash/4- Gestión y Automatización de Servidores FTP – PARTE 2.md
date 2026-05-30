@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Gestión y Automatización de Servidores FTP – PARTE 2
 
 ---
 
@@ -196,3 +203,11 @@ curl -u "$usuario:$clave" -T "$ruta_archivo_local" ftp://$servidor/$archivo_remo
 
 **[[3- Transferencia de Archivos por la Red]]** 
 [[3- Automatizar Copias de Seguridad FTP con Python]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de Servidores con Scripts de Bash]]
+- ⬅️ Anterior: [[3- Gestión y Automatización de Servidores FTP – PARTE 1]]
+- ➡️ Siguiente: [[5- Cómo Crear un Servidor SSH con OPENSSH]]

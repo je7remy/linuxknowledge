@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, python, type-hints, test-conocimientos]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Type Hints
 
 ### 1- ¿Qué permite hacer la función type() en Python?
 
@@ -200,3 +207,9 @@ _Seleccione solamente LA MEJOR respuesta_
 > 
 > Utiliza los tipos para validar datos y generar documentación.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[6- Type Hints]]

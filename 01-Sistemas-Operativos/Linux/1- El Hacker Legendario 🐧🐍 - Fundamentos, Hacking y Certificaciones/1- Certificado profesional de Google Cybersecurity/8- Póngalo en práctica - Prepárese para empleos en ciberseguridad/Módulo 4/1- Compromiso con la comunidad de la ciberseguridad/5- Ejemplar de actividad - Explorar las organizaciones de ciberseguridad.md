@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ejemplar de actividad - Explorar las organizaciones de ciberseguridad
 
 ## **Hoja de trabajo de organización de la seguridad (Ejemplar Completado)**
 
@@ -45,3 +52,11 @@
 > **Mejor elección para mis intereses profesionales:** Investigaré cómo unirme a la **CSA** para ayudarme a mantenerme conectado con la comunidad de seguridad.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[4- Actividad - Explore las organizaciones de ciberseguridad]]
+- ➡️ Siguiente: [[6- Comprometerse con la comunidad de la ciberseguridad de forma significativa]]

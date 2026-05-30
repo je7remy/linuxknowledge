@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad, Examinar la entrada y salida en el shell
 
 ## Introducción
 
@@ -46,3 +53,11 @@ Además, a veces es necesario refrescar la página de Coursera para que se regis
 ---
 
 Este course utiliza una aplicación de terceros, Actividad: Examinar la entrada y salida en el shell, para mejorar tu experiencia de aprendizaje. La aplicación hará referencia a información básica, como tu nombre, correo electrónico e ID de Coursera.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Examinar la entrada y salida en el shell]]
+- ➡️ Siguiente: [[6- Lab]]

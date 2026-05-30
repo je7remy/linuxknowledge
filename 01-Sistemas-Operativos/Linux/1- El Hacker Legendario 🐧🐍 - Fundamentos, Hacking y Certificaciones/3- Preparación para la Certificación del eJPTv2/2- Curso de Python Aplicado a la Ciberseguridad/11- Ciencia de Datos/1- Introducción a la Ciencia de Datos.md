@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a la Ciencia de Datos
 
 ---
 
@@ -191,3 +198,9 @@ En el contexto de la ciberseguridad, este proceso es útil para:
 - **Automatización**: Guardar resultados procesados en archivos .csv para reportes o análisis posteriores.
 - **Filtrado**: Usar Pandas para buscar patrones específicos en grandes volúmenes de datos (lo cual veremos en sesiones futuras).
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_11- Ciencia de Datos|11- Ciencia de Datos]]
+- ➡️ Siguiente: [[2- Manipulación y Filtros de un DataFrame]]

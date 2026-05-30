@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad, Utilizar IA generativa para desarrollar contenidos e imágenes para Redes sociales
 
 ### **Actividad Opcional: Practicar el Uso de Herramientas de IA**
 
@@ -133,3 +140,10 @@ Empecemos.
 > **Autoevaluación:** ¿Cómo te ha ayudado la herramienta de IA a desarrollar el contenido de tus Redes sociales? Cuando revisaste y perfeccionaste el texto y la imagen, ¿qué cambios específicos hiciste para obtener mejores resultados? Escribe de 1 a 3 frases.
 
 La IA me ayudó a superar el "bloqueo del escritor" generando un primer borrador creativo y un dato curioso al instante. Para perfeccionar el texto, tuve que iterar pidiéndole que acortara la respuesta para cumplir con el límite de 260 caracteres y que usara un tono más entusiasta. En cuanto a la imagen, el primer resultado fue demasiado realista, así que tuve que refinar la instrucción para que aplicara un "estilo caricaturesco" más amigable, logrando así el resultado deseado.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[3- Herramientas de IA generativa para tareas laborales]]

@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Actividad - Crear valores hash
 # 🧩 Actividad: Generar y comparar valores de hash
 
 ## 📂 Situación inicial
@@ -174,3 +178,10 @@ file1hash file2hash differ: char 1, line 1
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[6- La evolución de las funciones hash]]
+- ➡️ Siguiente: [[8- Actividad - Crear valores hash - Repaso]]

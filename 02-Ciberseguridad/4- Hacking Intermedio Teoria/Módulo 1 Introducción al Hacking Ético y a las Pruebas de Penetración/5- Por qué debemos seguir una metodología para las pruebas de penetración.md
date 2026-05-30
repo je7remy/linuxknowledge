@@ -56,7 +56,7 @@ Una prueba de penetración de entorno parcialmente conocida es algo así como un
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ⬅️ Anterior: [[4- Actores y amenazas]]
 - ➡️ Siguiente: [[6- Levantamiento de diferentes normas y metodologías]]
 
@@ -64,6 +64,6 @@ Una prueba de penetración de entorno parcialmente conocida es algo así como un
 
 - [[6- Levantamiento de diferentes normas y metodologías]] — metodologías que justifican usar.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/2- Tipos de pruebas de penetración|HackTheBox → Tipos]] — Black/Grey/White Box.
-- [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]] — alcance y planificación detallada.
+- [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]] — alcance y planificación detallada.
 
 

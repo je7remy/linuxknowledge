@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Explora la tríada de la CIA
 
 ## 🔐 La Tríada de la CIA
 
@@ -53,3 +60,9 @@ La tríada ayuda a las organizaciones a **considerar y mitigar riesgos** al esta
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Usar la tríada de la CIA para proteger a las organizaciones]]

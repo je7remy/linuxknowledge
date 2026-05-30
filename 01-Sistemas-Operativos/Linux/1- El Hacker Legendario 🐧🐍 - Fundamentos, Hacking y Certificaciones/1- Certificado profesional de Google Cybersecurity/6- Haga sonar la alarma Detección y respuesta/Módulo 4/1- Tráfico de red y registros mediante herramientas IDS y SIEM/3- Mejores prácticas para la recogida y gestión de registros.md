@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Mejores prácticas para la recogida y gestión de registros
 
 En esta lectura, examinará algunas de las mejores prácticas relacionadas con la gestión de registros, el almacenamiento y la protección. Comprender las mejores prácticas relacionadas con la recopilación y gestión de registros le ayudará a mejorar las búsquedas de registros y a respaldar mejor sus esfuerzos para identificar y resolver los incidentes de Seguridad.
 
@@ -66,3 +73,11 @@ Almacenar los registros en un servidor de registros centralizado es una forma de
 ## Puntos clave
 
 Es importante comprender cómo recopilar, almacenar y proteger adecuadamente los registros porque forman parte integral de las investigaciones de incidentes. Disponer de un plan detallado para la gestión de registros ayuda a mejorar su utilidad y la eficiencia de los recursos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- La importancia de los registros]]
+- ➡️ Siguiente: [[4- Ponga a prueba sus Conocimientos - Visión general de los registros]]

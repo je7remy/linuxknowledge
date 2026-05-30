@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos -Trabajar con archivos en Python
 
 ### 🧠 Pregunta 1
 
@@ -81,3 +88,10 @@ Necesita comprobar si hay actividad inusual de inicio de sesión. En concreto, n
 1. Un **bucle `for`** para procesar cada `marca_de_tiempo` individualmente dentro de la lista.
     
 2. Dentro del bucle, una **sentencia `if`** para evaluar si esa `marca_de_tiempo` específica cumple la condición de ser "inusual" (por ejemplo, si está fuera del horario laboral). Un contador de intentos fallidos o verificar múltiples marcas para un _usuario específico_ no son directamente relevantes para la tarea descrita.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[9- Ejemplo de actividad de Portfolio - Actualizar un fichero mediante un algoritmo Python]]

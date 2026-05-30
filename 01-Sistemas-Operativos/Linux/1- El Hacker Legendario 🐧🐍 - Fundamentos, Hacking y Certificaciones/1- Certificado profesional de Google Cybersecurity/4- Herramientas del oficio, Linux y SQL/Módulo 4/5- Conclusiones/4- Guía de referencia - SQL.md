@@ -1,4 +1,3 @@
-
 ---
 
 # 📘 Reference Guide: SQL
@@ -266,3 +265,10 @@ SELECT SUM(cost)
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Recapitulación]]
+- ➡️ Siguiente: [[5- Términos del glosario del Módulo 4]]

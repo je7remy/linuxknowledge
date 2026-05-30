@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Componentes, dispositivos y diagramas de red
 
 En esta lectura, revisará los dispositivos y conexiones de red e investigará un diagrama de red simple similar a los que usan todos los días los profesionales de la seguridad de redes.
 
@@ -62,3 +69,11 @@ Los diagramas de red permiten a los administradores de red y al personal de segu
 ## **Conclusiones clave**
 
 En el modelo cliente-servidor, el cliente solicita información y servicios al servidor, y el servidor realiza las solicitudes para los clientes. Los dispositivos de red incluyen enrutadores, estaciones de trabajo, servidores, concentradores, conmutadores y módems. Los analistas de seguridad utilizan diagramas de red para visualizar la arquitectura de red.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[6- Herramientas de red]]
+- ➡️ Siguiente: [[8- Diseño de una red de área local]]

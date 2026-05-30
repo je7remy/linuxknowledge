@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso
 
 
 ## 🎓 **Resumen Final del Curso: Detección y Respuesta ante Incidentes**
@@ -34,3 +41,10 @@ El siguiente curso me introducirá al uso de **Python** para automatizar proceso
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Diario del Gestor de Incidentes]]
+- ➡️ Siguiente: [[7- Glosario del curso 6]]

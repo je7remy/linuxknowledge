@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Practica escribiendo código en Python
 
 # 🧠 **Ejemplo: Practica escribiendo código en Python**
 
@@ -146,3 +153,10 @@ Python is useful for security!
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[6- Consejos de laboratorio y pasos para la solución de problemas]]
+- ➡️ Siguiente: [[8- Akash - Python y el profesional de la ciberseguridad]]

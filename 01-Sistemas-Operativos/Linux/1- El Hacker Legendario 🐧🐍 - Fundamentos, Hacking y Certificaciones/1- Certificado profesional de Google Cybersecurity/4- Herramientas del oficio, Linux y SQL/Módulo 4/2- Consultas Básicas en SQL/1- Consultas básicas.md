@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Consultas básicas
 
 Las dos palabras clave SQL que necesitamos para las consultas básicas son **SELECT** y **FROM**.
 
@@ -48,3 +55,10 @@ Con esto, hemos realizado nuestra primera consulta SQL básica.
 
 **Respuesta correcta:**  
 `SELECT *` ordena a SQL que devuelva **todas las columnas de la tabla especificada**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Consulta de una base de datos]]

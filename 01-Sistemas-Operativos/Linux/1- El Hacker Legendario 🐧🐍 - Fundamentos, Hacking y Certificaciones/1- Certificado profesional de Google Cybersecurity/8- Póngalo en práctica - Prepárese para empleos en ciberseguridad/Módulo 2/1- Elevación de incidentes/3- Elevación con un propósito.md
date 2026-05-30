@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Elevación con un propósito
 
 Anteriormente aprendió sobre la Escalada de incidentes de Seguridad y las habilidades necesarias para ayudarle a escalar incidentes. En esta lectura, aprenderá la importancia de escalar los problemas de Seguridad y el Impacto potencial de no escalar un Problema.
 
@@ -76,3 +83,11 @@ Como analista de nivel básico, usted desempeña una función importante. Usted 
 Cada decisión que tome ayudará a todo el equipo de seguridad a proteger los activos y datos de una organización. Saber cuándo y cómo escalar los incidentes de seguridad es una de las muchas decisiones importantes que tendrá que tomar a diario.
 
 Más adelante en este curso, hablaremos de los distintos niveles de incidentes de seguridad. Conocer esos niveles le ayudará a determinar el nivel de urgencia necesario para escalar los distintos tipos de incidentes.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[2- La importancia de la Elevación]]
+- ➡️ Siguiente: [[4- Prepárese para la escalada mediante el reconocimiento de la Seguridad]]

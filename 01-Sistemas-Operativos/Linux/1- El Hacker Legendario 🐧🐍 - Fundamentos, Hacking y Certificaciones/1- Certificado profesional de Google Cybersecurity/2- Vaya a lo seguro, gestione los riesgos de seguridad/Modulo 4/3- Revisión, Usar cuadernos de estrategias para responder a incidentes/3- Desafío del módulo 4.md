@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 4
 
 ## ✅ **Cuestionario: Manuales de Estrategias y SIEM – Evaluación Final**
 
@@ -96,3 +103,10 @@ Durante la fase posterior al incidente, los equipos determinan la **_____** del 
 🟢 **Explicación:** El SIEM detecta y alerta; el manual guía la respuesta. Son complementarios.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Glosario de términos del módulo 4]]

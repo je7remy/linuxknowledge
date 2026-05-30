@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Introducción a los recursos
 
 ### Pregunta 1
 
@@ -67,4 +74,9 @@
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[9- Requisitos comunes de clasificación]]

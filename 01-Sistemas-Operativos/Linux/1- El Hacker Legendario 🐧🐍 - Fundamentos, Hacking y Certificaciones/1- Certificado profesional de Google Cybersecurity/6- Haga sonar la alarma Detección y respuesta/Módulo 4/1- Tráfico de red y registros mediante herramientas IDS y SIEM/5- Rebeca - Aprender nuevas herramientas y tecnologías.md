@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Rebeca - Aprender nuevas herramientas y tecnologías
 
 ## Aprendiendo Nuevas Herramientas y Tecnologías
 
@@ -21,3 +28,10 @@ Pienso en el aprendizaje en un curso como este como **escalar una montaña**. �
 
 Y sabes que cuando llegues a la cima, vas a tener una vista increíble del mundo. Lo mismo ocurre cuando terminas estos cursos. Tu estado de ánimo, tu forma de ver las cosas, tus capacidades y tu potencial para encontrar nuevos trabajos o cambiar de carrera es mucho mejor.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Ponga a prueba sus Conocimientos - Visión general de los registros]]
+- ➡️ Siguiente: [[6- Variaciones de los registros]]

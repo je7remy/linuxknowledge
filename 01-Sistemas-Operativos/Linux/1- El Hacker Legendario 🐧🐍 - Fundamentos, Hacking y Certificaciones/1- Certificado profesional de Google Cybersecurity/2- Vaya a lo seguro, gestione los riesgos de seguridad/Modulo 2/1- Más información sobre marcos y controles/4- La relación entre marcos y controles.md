@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# La relación entre marcos y controles
 Anteriormente, aprendió cómo las organizaciones usan los marcos y controles de seguridad para protegerse contra amenazas, riesgos y vulnerabilidades. Esto incluyó discusiones sobre el Marco de Gestión de Riesgos (RMF) y el Marco de Ciberseguridad (CSF) del Instituto Nacional de Estándares y Tecnología (NIST), así como la tríada de confidencialidad, integridad y disponibilidad (CIA). En esta lectura, explorará más a fondo los marcos y controles de seguridad y cómo se usan juntos para ayudar a mitigar el riesgo organizacional.
 
 ## Marcos y controles
@@ -56,3 +63,11 @@ Para obtener más información sobre los controles, en particular los que se uti
 ## Conclusiones clave
 
 Los marcos y controles de ciberseguridad se utilizan conjuntamente para establecer la postura de seguridad de una organización. También respaldan la capacidad de una organización para cumplir con los objetivos de seguridad y cumplir con las leyes y regulaciones. Aunque estos marcos y controles suelen ser voluntarios, se recomienda encarecidamente a las organizaciones que los implementen y utilicen para ayudar a garantizar la seguridad de los activos críticos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Mandos]]
+- ➡️ Siguiente: [[5- Pon a prueba tus conocimientos, Más información sobre marcos y controles]]

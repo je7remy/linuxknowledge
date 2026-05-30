@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Reflexiona y conéctate con tus compañeros
 
 ¡Felicitaciones por completar el curso **Play It Safe: Manage Security Risks**!
 
@@ -18,3 +25,9 @@ Lleve su aprendizaje al siguiente nivel interactuando con otras personas que est
 
 La comunidad está aquí para apoyarte en cada paso del camino. _La participación en la comunidad es opcional y se ofrece sin costo alguno para usted._
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Resumen del curso]]

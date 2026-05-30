@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Repaso, Filtro con AND, OR y NOT
 
 ## 🔹 Tarea 1: Intentos fallidos después del horario laboral
 
@@ -185,3 +192,10 @@ Con estas consultas practicaste:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Laboratorio Filtrado con AND, OR y NOT]]
+- ➡️ Siguiente: [[8- Aplicar filtros a las consultas SQL]]

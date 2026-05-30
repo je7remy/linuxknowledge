@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Las Listas
 
 ---
 
@@ -122,3 +129,11 @@ else:
 [[3- Las Tuplas]]
 [[5- Entrada de Información por parte del Usuario (Argumentos)]]
 [[6- Los Diccionarios]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[1- Qué son y cómo Declarar Variables]]
+- ➡️ Siguiente: [[3- Las Tuplas]]

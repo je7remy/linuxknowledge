@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Datos y Clasificación de activos
 
 Proteger las operaciones y los activos de una organización de las amenazas, riesgos y vulnerabilidades de seguridad es importante. Ya ha aprendido lo que significa tener una mentalidad de seguridad. Esa mentalidad puede ayudarle a identificar y reducir los riesgos de seguridad y los incidentes potenciales.
 
@@ -47,3 +54,11 @@ Datos públicos es un activo de bajo nivel. Están fácilmente disponibles para 
 ## Puntos clave
 
 Cada empresa tiene su propia política de clasificación de datos que identifica qué tipo de datos hay en cada categoría. Será importante para tu éxito como profesional de la seguridad que te familiarices con esa política. Es importante comprender los distintos tipos de clasificación de activos y datos. Te ayuda a priorizar qué datos necesitan más protección. También te ayuda a reconocer qué activos necesitan mayores niveles de seguridad y qué activos necesitan una seguridad mínima.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[4- Seguridad como mentalidad]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos -Detección de Eventos e Incidentes]]

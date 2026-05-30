@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1
 
 ---
 
@@ -274,3 +281,10 @@ En este proceso, descargué y desplegué la máquina "strongjenkins" usando Dock
 [[12- Herramienta para hacer cracking de contraseñas]]
 [[13- Automatización de Cracking de Contraseñas]]
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[2- Ejercicio Práctico Librería Requests]]
+- ➡️ Siguiente: [[4- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 2]]

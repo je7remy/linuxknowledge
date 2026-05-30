@@ -340,7 +340,7 @@ ILF-SQL-01
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[11- SSH]]
 - ➡️ Siguiente: _(último del catálogo)_
 
@@ -348,7 +348,7 @@ ILF-SQL-01
 
 - [[8- RDP]] — cheatsheet rápido enfocado en ataques al protocolo RDP.
 - [[9- SMB]] — protocolo complementario en Windows.
-- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — entorno donde se aplican estos protocolos en conjunto.
+- [[_7- Activie Directory|01 → Active Directory]] — entorno donde se aplican estos protocolos en conjunto.
 - [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — herramientas adicionales (Impacket, evil-winrm).
 
 ## Relacionadas (Nmap y cracking)

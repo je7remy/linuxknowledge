@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Ejercicio Práctico Librería Requests
 
 ---
 
@@ -154,7 +161,10 @@ for direccion in urls:
 
 ---
 
+---
 
+## Navegación
 
-
-
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[1- Uso Básico de la Librería Requests]]
+- ➡️ Siguiente: [[3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1]]

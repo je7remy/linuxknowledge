@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, test-conocimientos, documentacion, swagger]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Documentación API
 
 ### 1. ¿Qué especificación usa FastAPI para generar la documentación de Swagger y ReDoc?
 
@@ -146,3 +153,11 @@
 > Justificación:
 > 
 > Para ocultar la documentación (común en entornos de producción por seguridad), se instancia la app así: app = FastAPI(docs_url=None).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[5- Documentación API]]
+- ➡️ Siguiente: [[7- Prueba de APIs]]

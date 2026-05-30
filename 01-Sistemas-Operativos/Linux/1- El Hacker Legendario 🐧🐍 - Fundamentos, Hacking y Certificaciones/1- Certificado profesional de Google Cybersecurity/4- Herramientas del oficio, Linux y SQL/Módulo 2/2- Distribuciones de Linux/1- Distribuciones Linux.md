@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Distribuciones Linux
 
 ### 🐧 **Aprendamos un poco más sobre Linux y lo que necesita saber sobre este sistema operativo cuando trabaja como analista de Seguridad**
 
@@ -112,3 +119,10 @@ _Seleccione tres respuestas._
 Los **kernels** generalmente son muy similares en todas las distribuciones Linux (aunque algunas pueden usar versiones diferentes del mismo núcleo), por lo que **no** se considera una de las principales diferencias entre distribuciones.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- KALI LINUX]]

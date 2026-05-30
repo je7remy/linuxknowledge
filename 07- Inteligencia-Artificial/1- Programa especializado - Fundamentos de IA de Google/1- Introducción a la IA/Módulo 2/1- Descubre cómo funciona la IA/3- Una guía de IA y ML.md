@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Una guía de IA y ML
 
 Las herramientas de IA generativa pueden crear contenidos nuevos y originales, desde texto e imágenes hasta música y código. Pero, ¿cómo consiguen estas herramientas resultados tan creativos y pertinentes? La respuesta está en la relación entre la inteligencia artificial (IA) y el aprendizaje automático (ML).
 
@@ -39,3 +46,11 @@ Es posible que encuentres IA basada en reglas en herramientas de trabajo diseña
 ## Recursos para obtener más informaciónSi
 
 desea obtener más información, consulte [PAIR Explorables](https://pair.withgoogle.com/explorables/), una colección de artículos interactivos que pueden ayudarle a explorar diferentes conceptos de IA y experimentar cómo funcionan.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[2- Fundamentos de la IA generativa]]
+- ➡️ Siguiente: [[4- Comprende el potencial y las limitaciones de la IA]]

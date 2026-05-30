@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Computación en la nube y redes definidas por software
 
 En esta sección del curso, has estado aprendiendo la arquitectura básica de las redes. Ha aprendido cómo los dispositivos de red físicos, como estaciones de trabajo, servidores, enrutadores y conmutadores, se conectan entre sí para crear una red. Las redes pueden cubrir áreas geográficas pequeñas, como es el caso de una red de área local (LAN). O pueden abarcar un área geográfica grande, como una ciudad, un estado o un país, como es el caso de una red de área amplia (WAN). También aprendió sobre las redes en la nube y cómo ha crecido la computación en la nube en los últimos años.
 
@@ -54,3 +61,10 @@ En esta lectura, aprendió más sobre la computación en la nube y las redes en 
 
 Para obtener más información sobre la computación en la nube y los servicios que se ofrecen, puede revisar [Google Cloud (GC)](https://cloud.google.com/).
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[9- Redes en la nube]]
+- ➡️ Siguiente: [[11- Identificar, Funciones de las herramientas de red]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# La línea de comandos en uso
 
 Anteriormente, exploró las interfaces gráficas de usuario (GUI) y las interfaces de línea de comandos (CLI). En esta lectura, comparará estas dos interfaces y aprenderá más sobre cómo se utilizan en ciberseguridad.
 
@@ -36,3 +43,11 @@ Además, si sospecha que un atacante ha comprometido su sistema, podría ser cap
 ## Puntos clave
 
 Las GUI y las CLI son dos tipos de interfaces de usuario con las que los analistas de Seguridad deberían estar familiarizados. Existen múltiples diferencias entre una GUI y una CLI, incluyendo sus pantallas y su funcionamiento. Cuando se trabaja en ciberseguridad, a menudo se prefiere una CLI a una GUI porque puede manejar múltiples tareas simultáneamente e incluye un archivo de historial.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- La línea de comandos en uso]]
+- ➡️ Siguiente: [[4- Seleccionar la interfaz de usuario]]

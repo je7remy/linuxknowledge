@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, reconocimiento, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Prepárese para la escalada mediante el reconocimiento de la Seguridad
 
 ### 1. Infección por malware
 
@@ -42,3 +49,11 @@ Entonces, ¿cómo saber si un incidente de uso indebido es accidental o intencio
 ---
 
 Como miembro del Equipo de Seguridad de una organización, es probable que se encuentre con una gran variedad de tipos de Incidentes durante su trabajo. Por eso es importante saber cuáles son y cómo escalarlos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[3- Elevación con un propósito]]
+- ➡️ Siguiente: [[5- Reconocer las funciones y responsabilidades durante la Elevación]]

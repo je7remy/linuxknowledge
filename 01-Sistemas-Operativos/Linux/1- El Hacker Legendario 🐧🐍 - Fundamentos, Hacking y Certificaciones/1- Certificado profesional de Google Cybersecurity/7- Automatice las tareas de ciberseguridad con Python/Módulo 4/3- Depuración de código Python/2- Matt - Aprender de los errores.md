@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Matt - Aprender de los errores
 
 
 ## 🧑‍💻 Matt: De Músico a Ingeniero de Seguridad
@@ -53,3 +60,11 @@ Matt comparte su interesante camino:
 - **Momento Actual:** La ciberseguridad está en auge. La gente es cada vez más consciente de los datos que comparte y se preocupa por su protección.
     
 - **Campo Dinámico:** Todos los días hay algo nuevo y emocionante que hacer. Matt está convencido de que "la ciberseguridad es el camino".
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Estrategias de depuración]]
+- ➡️ Siguiente: [[3- Aplicar estrategias de Depuración]]

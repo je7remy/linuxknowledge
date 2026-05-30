@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Herramientas de IA generativa para tareas laborales
 
 Las herramientas de IA generativa están diseñadas para ser socios creativos y colaboradores. Interactúan con los usuarios de forma conversacional a través del lenguaje natural, lo que las hace increíblemente versátiles para una amplia gama de tareas como escribir, planificar, codificar y diseñar. Algunas de estas herramientas son aplicaciones independientes, mientras que otras se integran a la perfección en el software que utilizas a diario. Esta lectura contiene una visión general de las principales categorías de IA generativa, ejemplos clave e información sobre cómo integrarlas estratégicamente en su trabajo para lograr más, más rápido.
 
@@ -95,3 +102,11 @@ Un enfoque práctico para empezar:
     
 
 Una última reflexión: Esta lista es sólo un punto de partida. El mundo de la IA generativa se está expandiendo a un ritmo increíble, con la aparición continua de herramientas nuevas y más potentes. La clave no es convertirse en un experto en cada herramienta, sino desarrollar una mentalidad de curiosidad. Tómate tu tiempo para explorar herramientas que se adapten a tus necesidades específicas, como [Gemini](https://www.youtube.com/watch?v=a-fmRIW8u-8&t=1107s) o [NotebookLM](https://www.youtube.com/watch?v=a-fmRIW8u-8&t=1820s), y considera cómo pueden aumentar tus habilidades y apoyar tu trabajo y el de los que te rodean.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[2- Trabaja con Gemini]]
+- ➡️ Siguiente: [[4- Actividad, Utilizar IA generativa para desarrollar contenidos e imágenes para Redes sociales]]

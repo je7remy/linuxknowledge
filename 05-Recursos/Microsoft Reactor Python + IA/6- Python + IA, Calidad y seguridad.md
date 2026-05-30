@@ -719,4 +719,11 @@ Revisen grabaciones y demos en [aka.ms/PythonIA/grabaciones](aka.ms/PythonIA/gra
 
 Gracias por acompañarme. Conéctense en LinkedIn, revisen los recursos y nos vemos en Discord o el Agents Hack. ¡Abrazos a todos!
 
---- 
+---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]
+- ⬅️ Anterior: [[5- Python + IA, Llamadas a funciones y salidas estructuradas]]

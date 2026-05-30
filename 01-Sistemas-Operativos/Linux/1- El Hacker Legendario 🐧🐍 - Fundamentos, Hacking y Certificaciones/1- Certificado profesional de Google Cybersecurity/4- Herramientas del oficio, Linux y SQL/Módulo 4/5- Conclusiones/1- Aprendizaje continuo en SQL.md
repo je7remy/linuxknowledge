@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Aprendizaje continuo en SQL
 
 # 📘 Funciones de agregación en SQL
 
@@ -200,3 +207,9 @@ _(Aquí se muestra el **total de compras acumuladas** en cada país.)_
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Explorar las aplicaciones de SQL en la seguridad - Dialogo]]

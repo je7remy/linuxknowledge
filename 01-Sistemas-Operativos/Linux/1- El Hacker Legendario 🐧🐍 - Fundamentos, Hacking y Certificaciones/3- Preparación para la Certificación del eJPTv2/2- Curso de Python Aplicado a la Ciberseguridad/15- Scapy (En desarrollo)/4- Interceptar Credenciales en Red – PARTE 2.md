@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Interceptar Credenciales en Red – PARTE 2
 
 ---
 
@@ -244,3 +251,11 @@ El código proporcionado es una versión optimizada y eficiente de los scripts a
 - Usa este código **solo** en entornos autorizados para evitar problemas legales.
 - En redes reales, el tráfico FTP es raro, por lo que este script es más útil en entornos de prueba o auditorías.
 - Protocolos seguros como SFTP o FTPS deben usarse en producción para proteger las credenciales.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]
+- ⬅️ Anterior: [[3- Interceptar Credenciales en Red – PARTE 1]]
+- ➡️ Siguiente: [[5- Interceptar Credenciales en Red – PARTE 3]]

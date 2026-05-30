@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creación de una Barra de Progreso en una Tarea
 
 ---
 
@@ -239,3 +246,9 @@ for linea in tqdm(lineas_totales, desc='Progreso'):
    time.sleep(1)
 `````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_10- Personalización y Estética a Nuestro Código|10- Personalización y Estética a Nuestro Código]]
+- ⬅️ Anterior: [[2- Creación de Banners]]

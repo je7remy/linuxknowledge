@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Niru - Adopte una mentalidad de atacante
 
 ## 1) Resumen corto
 
@@ -98,3 +105,10 @@ D) Incrementar la complejidad del código.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Tipos de agentes de amenaza]]
+- ➡️ Siguiente: [[6- Caminos a través de las defensas]]

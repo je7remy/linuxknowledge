@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Actividad - Asignar variables Python
 
 # 🧠 **Activity: Assign Python Variables**
 
@@ -261,3 +268,10 @@ El tipo de dato de `login_status` es **booleano (`bool`)**, lo que significa que
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Asignar y reasignar variables en Python]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Componentes básicos de Python]]

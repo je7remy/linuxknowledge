@@ -14,10 +14,10 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ➡️ Siguiente: [[2- Descripción General]]
 
 ## Relacionadas
 
-- [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]] — siguiente módulo.
-- [[../Módulo 3 Recopilación de información y análisis de vulnerabilidades/index|Módulo 3]] — fase posterior.
+- [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]] — siguiente módulo.
+- [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]] — fase posterior.

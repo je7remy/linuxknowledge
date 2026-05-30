@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Utilice Gemini en el espacio de trabajo para tomar notas de sus reuniones
 
 ## Realiza Tareas con la Ayuda de Gemini en Google Meet y Docs
 
@@ -68,3 +75,11 @@ Puedes pedirle a Gemini en Docs que haga más con esas notas:
 2. **Incorporar Información Externa:** Puedes traer información de otros documentos usando el símbolo **`@`**.
     
     - **Ejemplo:** Escribe **`@`** seguido del nombre del documento (ej. `@Metas del Proyecto`) y luego dile a Gemini qué hacer con él (ej. "incluye un recordatorio rápido sobre los objetivos de este proyecto").
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[2- Utilice Gemini en el espacio de trabajo para ayudar a analizar el rendimiento empresarial]]
+- ➡️ Siguiente: [[4- Actividad, Aumente la productividad con la ayuda de Gemini para Google Workspace]]

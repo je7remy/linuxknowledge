@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Herramientas importantes de ciberseguridad
 
 ### ✅ **Pregunta 1**
 
@@ -59,3 +66,10 @@ Un **_____** es un manual que proporciona detalles sobre las acciones operativas
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3- Herramientas para proteger las operaciones comerciales]]

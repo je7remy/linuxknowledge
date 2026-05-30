@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Actividad, Evalúa una nueva herramienta de IA
 
 Esta actividad es opcional, pero muy recomendable para ayudarte a practicar el uso de las herramientas de IA. Al final, responderás a preguntas de autoevaluación para reflexionar sobre tu aprendizaje. Si no puedes completar esta actividad, podrás seguir avanzando en el curso y obtener un certificado de Google.
 
@@ -138,3 +145,10 @@ Pregunta 2
 **Autoevaluación**: Reflexiona sobre tu experiencia con el apuntador. ¿Cómo evaluaste la calidad del resultado? Explica cómo has evaluado si el resultado satisfacía tus necesidades. Escribe de 1 a 3 frases.
 
 Evalué la calidad del resultado observando si la herramienta cumplía con el objetivo que había definido inicialmente. Analicé la precisión, la claridad y la utilidad del contenido generado. Si el resultado me ayudaba a completar la tarea de forma eficiente y coherente, consideraba que satisfacía mis necesidades.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[2- Mantente al día con la IA]]

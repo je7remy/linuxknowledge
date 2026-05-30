@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Crear una secuencia de comandos de Python básica
 
 # 💻 **Crear una secuencia de comandos de Python básica**
 
@@ -128,3 +135,11 @@ En este caso:
 - `"username authorized"` → Es una **cadena de texto**, no un comentario.
     
 - `% Display authorized users` → Ese formato pertenece a **MATLAB**, no a Python.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Conozca Python]]
+- ➡️ Siguiente: [[5- Entornos Python]]

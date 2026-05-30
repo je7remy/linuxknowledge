@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Determina si la IA generativa es adecuada para la tarea
 
 ## Cómo Decidir Cuándo Usar la IA Generativa
 
@@ -53,3 +60,10 @@ Pero ¿qué pasa si respondes que no a una o más de las preguntas?
     
 
 **Conclusión del Escenario 2:** Mientras sigues experimentando, intenta hacerte esas preguntas orientativas para decidir si la IA generativa te sería de ayuda.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[2- Kathy, Explora cómo las personas mejoran los modelos de IA]]

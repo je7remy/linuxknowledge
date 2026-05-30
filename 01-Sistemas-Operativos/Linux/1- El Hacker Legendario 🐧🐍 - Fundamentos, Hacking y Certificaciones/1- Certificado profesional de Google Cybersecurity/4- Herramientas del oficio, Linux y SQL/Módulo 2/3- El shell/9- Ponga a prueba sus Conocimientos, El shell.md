@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, El shell
 
 ## **1. Pregunta 1**
 
@@ -78,3 +85,10 @@
 ✅ Correcto
 
 > La entrada estándar se envía al sistema operativo. La salida estándar se envía desde el sistema operativo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[8- Ejemplo, Examinar la entrada y la salida en el Shell]]

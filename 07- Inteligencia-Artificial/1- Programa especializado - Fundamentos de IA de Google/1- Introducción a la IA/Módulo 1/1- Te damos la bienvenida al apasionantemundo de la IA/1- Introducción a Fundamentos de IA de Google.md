@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción a Fundamentos de IA de Google
 
 ### 🚀 El Objetivo del Curso
 
@@ -39,3 +46,10 @@ Este programa abordará las preguntas clave que todos tienen sobre la IA:
     
 
 Como dijo Maya, ¡Empecemos! 18 Estoy listo para el siguiente video o lectura cuando tú lo estés.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ➡️ Siguiente: [[2- Descripción general de Fundamentos de IA de Google]]

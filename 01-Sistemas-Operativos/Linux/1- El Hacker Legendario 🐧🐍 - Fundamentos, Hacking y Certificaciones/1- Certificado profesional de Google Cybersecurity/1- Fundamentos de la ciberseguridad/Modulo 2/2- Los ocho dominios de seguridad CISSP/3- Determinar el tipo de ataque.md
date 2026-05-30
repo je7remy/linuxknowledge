@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Determinar el tipo de ataque
 # Determinar el tipo de ataque
 
 Anteriormente, aprendió sobre los ocho dominios de seguridad de Certified Information Systems Security Professional (CISSP). Los dominios pueden ayudarle a comprender mejor cómo se pueden organizar en categorías las funciones de un analista de seguridad. Además, los dominios pueden ayudar a comprender cómo gestionar el riesgo. En esta lectura, aprenderá sobre métodos adicionales de ataque. También podrá reconocer los tipos de riesgo que presentan estos ataques.
@@ -88,3 +95,11 @@ Los ocho dominios de seguridad CISSP pueden ayudar a una organización y a su eq
 Para ver información detallada y definiciones de los términos cubiertos en esta lectura, visite la [Glosario del Instituto Nacional de Estándares y Tecnología (NIST)](https://csrc.nist.gov/glossary/term/nist).
 
 **Consejo profesional:** Si no puede encontrar un término en el glosario del NIST, ingrese el término de búsqueda apropiado (por ejemplo, "ataque de cumpleaños de ciberseguridad") en su motor de búsqueda preferido para ubicar la definición en otra fuente confiable, como un sitio .edu o .gov.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Introducción a los ocho dominios de seguridad CISSP, Parte 2]]
+- ➡️ Siguiente: [[4- Comprender a los atacantes]]

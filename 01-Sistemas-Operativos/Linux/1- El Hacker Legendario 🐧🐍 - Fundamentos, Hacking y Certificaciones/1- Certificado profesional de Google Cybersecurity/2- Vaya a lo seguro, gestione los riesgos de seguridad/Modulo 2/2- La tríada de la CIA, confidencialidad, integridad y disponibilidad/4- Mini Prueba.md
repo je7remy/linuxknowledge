@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Mini Prueba
 
 ### ✅ **Respuestas Correctas**
 
@@ -15,3 +22,10 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Práctica, Utilizar la tríada CIA en situaciones laborales]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Terminología común sobre ciberseguridad
 
 Como has aprendido, la **ciberseguridad** (también conocida como seguridad) es la práctica de garantizar la confidencialidad, la integridad y la disponibilidad de la información protegiendo las redes, los dispositivos, las personas y los datos del acceso no autorizado o la explotación delictiva. En esta lectura, se le presentarán algunos términos clave utilizados en la profesión de ciberseguridad. A continuación, se le proporcionará un recurso útil para mantenerse informado sobre los cambios en la terminología de ciberseguridad.
 
@@ -33,3 +40,11 @@ Una **amenaza interna** puede ser un empleado actual o anterior, un proveedor ex
 ## Conclusiones clave
 
 Comprender los términos y conceptos técnicos clave utilizados en el campo de la seguridad le ayudará a prepararse para su papel como analista de seguridad. Conocer estos términos puede ayudarle a identificar amenazas, riesgos y vulnerabilidades comunes. Para explorar una variedad de términos de ciberseguridad, visite la [Glosario del Instituto Nacional de Normas y Tecnología](https://csrc.nist.gov/glossary). O utilice su navegador para buscar glosarios de ciberseguridad fiables y de alta calidad de institutos de investigación o autoridades gubernamentales. Los glosarios están disponibles en varios idiomas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3- Nikki, Un día en la vida de un ingeniero de Seguridad]]
+- ➡️ Siguiente: [[5- Cuestionario, Ciberseguridad – Fundamentos]]

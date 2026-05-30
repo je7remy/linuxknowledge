@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Cadenas y el analista de Seguridad
 
 ### 🧠 Cadenas y el Analista de Seguridad
 
@@ -188,3 +195,11 @@ El método `.index()` devuelve el índice `7`, que es donde empieza la subcadena
 ### 💡 Puntos Clave
 
 Como analista de Seguridad, trabajará con cadenas de varias maneras. En primer lugar, es posible que necesite utilizar la notación entre corchetes para trabajar con índices de cadenas. Dos funciones que probablemente utilizará son `str()`, que convierte una entrada en una cadena, y `len()`, que halla la longitud de una cadena. También puede utilizar métodos de cadenas, funciones que sólo trabajan con cadenas. Entre ellas están `.upper()`, que convierte todas las letras de una cadena en mayúsculas, `.lower()`, que convierte todas las letras de una cadena en minúsculas, y `.index()`, que devuelve el índice de la primera aparición de su entrada dentro de una cadena.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Índices y cortes de cadena]]
+- ➡️ Siguiente: [[5- Actividad - Trabajar con cadenas en Python]]

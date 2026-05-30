@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Crear otro algoritmo
 
 ### 🧠 Tarea 1
 
@@ -354,3 +361,11 @@ print(text)
 - **Importancia de la Conversión de Tipos:** Fue necesario convertir la cadena leída del archivo a una lista (`.split()`) para poder iterar y eliminar elementos fácilmente, y luego volver a convertirla en una cadena (`.join()`) para poder escribirla de nuevo en el archivo.
     
 - **Funciones para Reutilización:** Encapsular todo el algoritmo en una función (`update_file`) lo hace mucho más práctico y reutilizable para diferentes archivos o listas de eliminación.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[6- Desarrollar un algoritmo de análisis sintáctico en Python]]
+- ➡️ Siguiente: [[8- Actividad de Portfolio - Actualizar un archivo mediante un algoritmo Python]]

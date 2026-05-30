@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 4
 
 ### 🧠 Pregunta 1
 
@@ -266,3 +273,10 @@ Para implementar esta lógica, necesitas:
 4. Después del bucle (o en cada iteración si se quiere alertar inmediatamente), usar una sentencia if para verificar si el contador ha superado el umbral (3).
     
     La opción de reasignar el contador a 0 si hay un intento fallido es incorrecta; el contador debe incrementarse.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Términos del glosario del Módulo 4]]

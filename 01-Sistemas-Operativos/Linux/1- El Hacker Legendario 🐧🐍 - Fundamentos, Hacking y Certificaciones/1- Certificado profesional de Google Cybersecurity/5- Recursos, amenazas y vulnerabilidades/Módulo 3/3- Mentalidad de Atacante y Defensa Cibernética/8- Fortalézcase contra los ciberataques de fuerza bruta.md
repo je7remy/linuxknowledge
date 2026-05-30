@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Fortalézcase contra los ciberataques de fuerza bruta
 
 Los nombres de usuario y las contraseñas son uno de los controles de Seguridad más comunes e importantes que se utilizan hoy en día. Son como la cerradura de la puerta que las organizaciones utilizan para restringir el acceso a sus redes, servicios y datos. Pero un Problema importante de confiar en las credenciales de inicio de sesión como línea crítica de defensa es que son vulnerables a ser robadas y adivinadas por los atacantes.
 
@@ -83,3 +90,10 @@ El objetivo de cada uno de estos requisitos es crear más combinaciones posibles
 ## Puntos clave
 
 Los ataques de fuerza bruta son formas sencillas pero fiables de obtener acceso no autorizado a los sistemas. Generalmente, cuanto más fuerte es una contraseña, más resistente es a ser descifrada. COMO profesional de la seguridad, es posible que se encuentre utilizando las herramientas descritas anteriormente para comprobar la Seguridad de los sistemas de su organización. Reconocer las tácticas y herramientas utilizadas para llevar a cabo un ataque de fuerza bruta es el primer paso para detener a los atacantes.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[7- Autorreflexión - Superficies y Vectores de Ataque en el Hogar]]

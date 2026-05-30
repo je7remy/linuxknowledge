@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 3
 
 ### **Cuestionario**
 
@@ -389,3 +396,10 @@ Durante una Reunión sobre lecciones aprendidas tras un Incidente, un participan
 - Resumen ejecutivo
     
 - Cronología
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Términos del glosario del Módulo 3]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Filtrar fechas y números
 
 # Filtros en SQL con cadenas, números y fechas
 
@@ -113,3 +120,9 @@ Devuelve todos los registros que tienen un valor de **5, 6, 7 u 8** en la column
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Operadores para filtrar fechas y números]]

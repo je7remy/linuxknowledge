@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad - Revisar un informe final
 
 ### **INFORME FINAL DE INCIDENTE**
 
@@ -99,3 +106,11 @@ Para prevenir futuras recurrencias, estamos tomando las siguientes acciones:
 - **Implementado escaneos rutinarios de vulnerabilidad** ✅
     
 - Prestó servicios de protección de la identidad a los clientes afectados
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Revisión posterior al incidente]]
+- ➡️ Siguiente: [[4- Ponga a prueba sus Conocimientos - Acciones posteriores al incidente]]

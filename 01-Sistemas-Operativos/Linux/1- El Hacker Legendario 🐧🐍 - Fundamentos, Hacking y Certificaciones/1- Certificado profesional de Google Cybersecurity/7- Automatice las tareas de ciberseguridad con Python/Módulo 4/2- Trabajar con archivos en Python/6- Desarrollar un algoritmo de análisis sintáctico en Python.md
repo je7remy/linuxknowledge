@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desarrollar un algoritmo de análisis sintáctico en Python
 
 
 ## 🐍 Desarrollar un Algoritmo de Análisis Sintáctico en Python
@@ -102,3 +109,11 @@ Account locked: eraab
 ## ✅ ¡Éxito!
 
 ¡Acabas de desarrollar tu primer algoritmo de seguridad que analiza un registro! Aunque esta es una solución básica y se puede hacer más eficiente, demuestra cómo combinar diferentes conceptos de Python (manejo de archivos, listas, bucles `for`, contadores, sentencias `if`) para resolver un problema de seguridad real.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Importar y analizar un archivo de texto]]
+- ➡️ Siguiente: [[7- Crear otro algoritmo]]

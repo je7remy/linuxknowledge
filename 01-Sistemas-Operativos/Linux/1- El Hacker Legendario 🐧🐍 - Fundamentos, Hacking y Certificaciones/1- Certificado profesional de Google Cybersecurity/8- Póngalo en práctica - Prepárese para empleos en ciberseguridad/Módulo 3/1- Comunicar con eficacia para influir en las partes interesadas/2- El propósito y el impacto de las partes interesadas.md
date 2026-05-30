@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# El propósito y el impacto de las partes interesadas
 
 Anteriormente aprendió sobre el Escalado de incidentes y los distintos tipos de clasificación de incidentes de Seguridad. También aprendió sobre el impacto que estos incidentes pueden tener en las operaciones comerciales de una organización.
 
@@ -37,3 +44,11 @@ Los directores de operaciones y los gestores de riesgos son partes interesadas q
 ## Puntos clave
 
 Las partes interesadas desempeñan un papel fundamental a la hora de garantizar la Seguridad de una organización. Los analistas principiantes deben tener un conocimiento básico de los distintos niveles de partes interesadas en la Seguridad dentro de una organización. Los analistas principiantes no se comunicarán con todas las partes interesadas en la Seguridad de una empresa, pero hay ciertas partes interesadas a las que el analista deberá proporcionar actualizaciones. Con el tiempo, esas actualizaciones se comunicarán a las partes interesadas de más alto nivel, como el CISO y el CFO.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[1- Partes interesadas en la ciberseguridad]]
+- ➡️ Siguiente: [[3- Comunicación clara y concisa]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Operaciones de respuesta ante incidentes
 
 ### ✅ Pregunta 1
 
@@ -56,5 +63,10 @@
 - **Analista** = investiga alertas.
     
 - **Coordinador** = organiza y supervisa todo el proceso.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[9- Planes de respuesta ante incidentes]]

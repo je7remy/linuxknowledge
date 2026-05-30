@@ -106,7 +106,7 @@ Las pruebas de penetración deben combinar:
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- Introducción a las pruebas de penetración]]
+- ⬆️ Carpeta: [[_2- Introducción a las pruebas de penetración|2- Introducción a las pruebas de penetración]]
 - ⬅️ Anterior: [[1- Introducción]]
 - ➡️ Siguiente: [[3- Áreas y dominios de prueba]] — dónde se aplican estos tipos.
 
@@ -114,4 +114,4 @@ Las pruebas de penetración deben combinar:
 
 - [[1- Introducción]] — las fases del pentesting que enmarcan estos tipos.
 - [[4- Beneficios de las pruebas de penetración]] — el caso financiero aparece como ejemplo aquí.
-- [[../../../../../../02-Ciberseguridad/3- hacking basico/6- Web/index|02 → Hacking básico → Web]] — SQLi mencionado en el ejemplo Black Box.
+- [[_6- Web|02 → Hacking básico → Web]] — SQLi mencionado en el ejemplo Black Box.

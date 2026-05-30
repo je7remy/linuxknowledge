@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# La línea de comandos en uso
 
 ## 🖥️ Comunicación entre el Usuario y el Sistema Operativo
 
@@ -111,3 +118,11 @@ Ambas son importantes. La GUI es ideal para el uso diario general. La CLI es pod
 
 📝 _Explicación:_  
 La **CLI (Command Line Interface)** es una interfaz basada en texto que permite a los usuarios ejecutar múltiples tareas con comandos, lo cual la hace más potente y flexible que la GUI en muchos casos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- GUI frente a CLI]]
+- ➡️ Siguiente: [[3- La línea de comandos en uso]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# La Seguridad comienza con la Clasificación de activos
 
 # Gestión de Activos en Seguridad
 
@@ -142,3 +149,11 @@ Ejemplos:
 - Propiedad intelectual.
     
 - Información financiera, sanitaria o de pago.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[7- Tri - La vida en la Seguridad de los Recursos]]
+- ➡️ Siguiente: [[9- Requisitos comunes de clasificación]]

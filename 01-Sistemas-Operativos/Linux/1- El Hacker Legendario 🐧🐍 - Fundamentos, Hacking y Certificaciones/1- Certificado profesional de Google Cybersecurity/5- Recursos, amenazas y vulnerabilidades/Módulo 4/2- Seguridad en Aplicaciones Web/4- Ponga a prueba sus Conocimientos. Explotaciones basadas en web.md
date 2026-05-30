@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos. Explotaciones basadas en web
 
 # 📘 Evaluación: Explotaciones basadas en la web
 
@@ -109,5 +116,11 @@ En un ataque de inyección de SQL, los atacantes intentan:
 - Obtener **información sensible**.
     
 - Escalar privilegios para lograr **derechos administrativos**.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Prevenir ataques de inyección]]
+- ➡️ Siguiente: [[5- Un enfoque proactivo de la Seguridad]]

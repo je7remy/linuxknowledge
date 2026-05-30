@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Paneles de control SIEM
 
 ## 📊 Paneles SIEM – Visualización de Seguridad en Tiempo Real
 
@@ -77,3 +84,10 @@ Los paneles pueden adaptarse para distintos usuarios:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Registros y herramientas SIEM]]
+- ➡️ Siguiente: [[4- El futuro de las herramientas SIEM]]

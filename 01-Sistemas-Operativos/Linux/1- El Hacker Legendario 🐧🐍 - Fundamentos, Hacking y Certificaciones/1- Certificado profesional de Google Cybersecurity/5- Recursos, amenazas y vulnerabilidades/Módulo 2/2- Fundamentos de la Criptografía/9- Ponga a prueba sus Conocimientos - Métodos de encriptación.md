@@ -1,4 +1,3 @@
-
 ---
 
 # 📝 Cuestionario: Criptografía y PKI
@@ -113,3 +112,10 @@ El **no repudio** significa que no se puede negar la autenticidad de la informac
 También garantiza que el remitente de los datos es realmente quien dice ser, reforzando la confianza en la comunicación.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[8- Actividad - Crear valores hash - Repaso]]

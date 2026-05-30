@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Controles, marcos y cumplimiento
 
 Anteriormente, se le presentaron los marcos de seguridad y cómo proporcionan un enfoque estructurado para implementar un ciclo de vida de seguridad. Como recordatorio, un ciclo de vida de seguridad es un conjunto de políticas y estándares en constante evolución. En esta lectura, aprenderá más sobre cómo los marcos de seguridad, los controles y las regulaciones de cumplimiento, o leyes, se utilizan juntos para administrar la seguridad y asegurarse de que todos hagan su parte para minimizar el riesgo.
 
@@ -102,3 +109,11 @@ El 12 de mayo de 2021, el presidente Joe Biden publicó una orden ejecutiva rela
 En esta lectura, aprendió más sobre controles, marcos y cumplimiento. También aprendió cómo trabajan juntos para ayudar a las organizaciones a mantener un bajo nivel de riesgo.
 
 Como analista de seguridad, es importante mantenerse actualizado sobre los marcos, controles y regulaciones de cumplimiento comunes, y estar al tanto de los cambios en el panorama de la ciberseguridad para ayudar a garantizar la seguridad de las organizaciones y las personas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3- Diseño seguro]]
+- ➡️ Siguiente: [[5- Heather, Proteja la información y los datos confidenciales]]

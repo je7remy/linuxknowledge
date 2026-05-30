@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# El modelo TCP-IP
 
 ## 📡 Comunicación en Red: Modelo TCP/IP
 
@@ -64,3 +71,10 @@ Este modelo es **el estándar para la comunicación entre dispositivos en red**.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Introducción a la comunicación en red]]
+- ➡️ Siguiente: [[3- Las cuatro capas del modelo TCP-IP]]

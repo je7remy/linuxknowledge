@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, http-status-codes, test-conocimientos, 3xx, 5xx]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — HTTP status codes
 
 ### 1. Según su clasificación, ¿para qué se utilizan los códigos de respuesta HTTP 3xx y 5xx?
 
@@ -146,3 +153,11 @@
 > Justificación:
 > 
 > Indica que el recurso solicitado (por ejemplo, un usuario con un ID específico) no fue encontrado en el servidor.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[9- HTTP status codes]]
+- ➡️ Siguiente: [[11- Routers]]

@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web
 ### **Contexto**
 
 Este script realiza pruebas de fuerza bruta en un servidor web utilizando un diccionario (lista de directorios comunes) para identificar directorios o rutas accesibles en el servidor.
@@ -289,3 +296,10 @@ Si el servidor no contiene otros directorios coincidentes con el diccionario, no
 4. **Manejo de errores básicos en el script**.
 5. **Documentación clara sobre cómo interpretar los resultados del script**.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[1- Comando echo en Detalle, Preparación para las Clases Prácticas]]
+- ➡️ Siguiente: [[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]

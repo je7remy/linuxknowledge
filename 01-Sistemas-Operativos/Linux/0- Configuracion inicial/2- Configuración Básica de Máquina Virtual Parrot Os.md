@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [nota]
+actualizado: 2026-05-28
+---
+
+# Configuración Básica de Máquina Virtual Parrot Os
 
 ## **Tutorial: Instalar Parrot OS en VMware ESXi (tipo 1)**
 
@@ -169,3 +176,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_0- Configuracion inicial|0- Configuracion inicial]]
+- ⬅️ Anterior: [[1- Configuración Básica de Máquina Virtual Kali Linux]]

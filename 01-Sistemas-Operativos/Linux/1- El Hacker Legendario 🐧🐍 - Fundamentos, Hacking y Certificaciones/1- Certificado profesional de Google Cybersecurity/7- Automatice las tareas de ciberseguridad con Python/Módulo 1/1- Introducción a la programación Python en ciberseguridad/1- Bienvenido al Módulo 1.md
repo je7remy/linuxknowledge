@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 1
 
 # 🐍 **Fundamentos de la Programación en Python**
 
@@ -72,4 +79,11 @@ El uso de la automatización también me permite **concentrarme en tareas de ing
 
 ## 🚀 **Conclusión**
 
-¿Está preparado para empezar a programar en Python?  
+¿Está preparado para empezar a programar en Python?
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Python y la ciberseguridad]]

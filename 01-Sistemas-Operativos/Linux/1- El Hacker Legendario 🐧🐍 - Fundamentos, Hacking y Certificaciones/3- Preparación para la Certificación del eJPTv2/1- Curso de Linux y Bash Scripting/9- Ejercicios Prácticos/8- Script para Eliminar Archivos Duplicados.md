@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Script para Eliminar Archivos Duplicados
 ### Comando 1: `fdupes`
 
 ```bash
@@ -130,3 +137,10 @@ Este script se encarga de:
 2. Buscar archivos duplicados recursivamente en el directorio actual.
 3. Eliminar los archivos duplicados encontrados.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[7- Análisis de Red con TCPdump y WireShark – PARTE 2]]
+- ➡️ Siguiente: [[9- Detector de Sistemas Operativos – PARTE 1]]

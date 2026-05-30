@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Conclusión
 
 ¡Buen trabajo!  
 Ahora has tenido la oportunidad de obtener más información sobre los conceptos de seguridad que pueden ayudar a una organización a proteger los datos y los activos. Hemos hablado bastante, pero todo será un conocimiento valioso para ti a medida que continúes tu viaje hacia la profesión de la seguridad.
@@ -16,3 +23,9 @@ En la siguiente sección del curso, analizaremos las **herramientas de seguridad
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Glosario de términos del módulo 2]]

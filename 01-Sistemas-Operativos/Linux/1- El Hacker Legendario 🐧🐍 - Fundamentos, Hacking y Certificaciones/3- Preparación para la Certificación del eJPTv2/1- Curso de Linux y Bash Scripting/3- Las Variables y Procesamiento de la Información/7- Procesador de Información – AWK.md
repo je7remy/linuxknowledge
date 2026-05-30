@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Procesador de Información – AWK
 
 ---
 
@@ -86,3 +93,11 @@
 [[6- Procesador de Información – TR]]
 [[8- Procesador de Información – CUT]]
 [[9- Procesador de Información – SED]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[6- Procesador de Información – TR]]
+- ➡️ Siguiente: [[8- Procesador de Información – CUT]]

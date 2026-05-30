@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Anoop - Empodérate con la IA
 
 ## Testimonio de Anoop: La IA como "Tren Bala" de la Innovación
 
@@ -60,3 +67,11 @@ Anoop usa los Modelos de Lenguaje Grande (LLM) para redactar, escribir e incluso
 - **El Beneficio:** La IA le permite trabajar más en "tareas creativas y profundas".
     
 - **La Satisfacción:** "Cuanto más puedo trabajar en tareas... que puedo hacer, más satisfecho estoy, realmente, en el trabajo que estoy haciendo".
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[4- Aprende de casos de éxito de IA]]
+- ➡️ Siguiente: [[6- Glosario de Fundamentos de IA de Google]]

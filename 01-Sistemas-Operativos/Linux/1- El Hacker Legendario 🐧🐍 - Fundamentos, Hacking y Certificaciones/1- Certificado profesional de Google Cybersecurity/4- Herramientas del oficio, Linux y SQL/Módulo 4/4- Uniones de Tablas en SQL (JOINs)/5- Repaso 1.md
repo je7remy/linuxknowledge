@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Repaso 1
 
 # 📌 Consultas y Respuestas del Lab
 
@@ -62,4 +69,11 @@ Has practicado con éxito:
 - `LEFT JOIN` → todos los registros de la tabla izquierda + coincidencias.
     
 - `RIGHT JOIN` → todos los registros de la tabla derecha + coincidencias.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Completar un JOIN]]
+- ➡️ Siguiente: [[6- Repaso 2]]

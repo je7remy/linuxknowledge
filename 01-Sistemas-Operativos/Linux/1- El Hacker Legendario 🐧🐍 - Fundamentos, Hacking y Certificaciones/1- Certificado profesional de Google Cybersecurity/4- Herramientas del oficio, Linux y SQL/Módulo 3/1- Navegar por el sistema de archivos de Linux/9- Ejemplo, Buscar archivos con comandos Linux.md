@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ejemplo, Buscar archivos con comandos Linux
 
 ## 🧪 **Resumen de la Actividad - Laboratorio Linux (Qwiklabs)**
 
@@ -105,3 +112,11 @@ Aprendiste a utilizar:
 Estas habilidades son clave para administración de sistemas y análisis forense en ciberseguridad.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[8- Otro Lab]]
+- ➡️ Siguiente: [[10- Ponga a prueba sus Conocimientos, Navegue por el sistema de archivos de Linux en Bash]]

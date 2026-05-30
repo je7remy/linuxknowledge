@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción del curso 4, Utiliza la IA de forma responsable
 
 Los puntos clave que destaca son:
 
@@ -14,3 +21,9 @@ Los puntos clave que destaca son:
 
 El texto menciona que los siguientes temas a tratar son los sesgos y los daños, lo cual **coincide perfectamente con la imagen que me mostraste antes** ("Reconocer los sesgos de los datos y los perjuicios").
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ➡️ Siguiente: [[2- Comprende los sesgos de la IA]]

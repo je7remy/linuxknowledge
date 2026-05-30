@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Componentes y formatos de registro
 
 1. **Pregunta 1**
    Examine el siguiente registro de autenticación: 
@@ -43,3 +50,9 @@
 
    **Justificación:** XML utiliza etiquetas para definir y estructurar datos dentro de los registros, facilitando la organización y comprensión de la información almacenada.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[7- Visión general de los formatos de los archivos de registro]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# La cláusula WHERE y los operadores básicos
 
 ## 🔹 Cómo ayuda el filtrado
 
@@ -100,3 +107,10 @@ WHERE state LIKE 'N_';
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Filtros básicos en consultas SQL]]
+- ➡️ Siguiente: [[7- Filtrar una consulta SQL]]

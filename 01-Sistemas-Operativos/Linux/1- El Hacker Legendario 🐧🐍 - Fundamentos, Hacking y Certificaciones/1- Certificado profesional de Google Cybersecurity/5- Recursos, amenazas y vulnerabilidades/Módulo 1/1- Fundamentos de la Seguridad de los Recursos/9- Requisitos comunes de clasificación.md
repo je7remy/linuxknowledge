@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Requisitos comunes de clasificación
 
 La **Gestión de activos** es el proceso de seguimiento de los activos y de los riesgos que les afectan. La idea que subyace a este proceso es sencilla: sólo se puede proteger lo que se sabe que se tiene.
 
@@ -63,3 +70,11 @@ La Responsabilidad es sólo una de las características que hacen que clasificar
 ## Puntos clave
 
 Cada Negocio a negocio es diferente. Cada empresa tendrá unos Requisitos específicos que deberá tener en cuenta a la hora de diseñar su estrategia de Seguridad. Saber por qué y cómo clasifican las empresas sus recursos es una habilidad importante que hay que tener como profesional de la Seguridad. La Información es uno de los recursos más importantes del mundo. Como profesional de la ciberseguridad, estará estrechamente implicado en la protección de la Información contra daños, divulgación y uso indebido. Reconocer los retos a los que se enfrentan las empresas al clasificar este tipo de recursos es una clave para ayudarles a resolver sus necesidades de Seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[8- La Seguridad comienza con la Clasificación de activos]]
+- ➡️ Siguiente: [[10- Ponga a prueba sus Conocimientos - Introducción a los recursos]]

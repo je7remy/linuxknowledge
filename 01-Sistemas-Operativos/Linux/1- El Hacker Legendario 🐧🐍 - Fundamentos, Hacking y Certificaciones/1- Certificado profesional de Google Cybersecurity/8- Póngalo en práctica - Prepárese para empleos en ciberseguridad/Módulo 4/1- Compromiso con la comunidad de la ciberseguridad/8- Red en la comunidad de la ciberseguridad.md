@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Red en la comunidad de la ciberseguridad
 
 El mensaje de Sarah ata todo esto con dos puntos clave que son fundamentales para ti ahora mismo:
 
@@ -35,3 +42,11 @@ Esta es una de las sugerencias más valiosas. Las conferencias BSides no son com
         
 
 Te recomiendo encarecidamente que busques la próxima fecha de BSides Santo Domingo y, si puedes, asistas. Es el siguiente paso lógico para poner en práctica todo lo que este curso te está enseñando.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[7- Conecte con otros profesionales de la ciberseguridad]]
+- ➡️ Siguiente: [[9-  Automatización de procesos de programación con Inteligencia Artificial]]

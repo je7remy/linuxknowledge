@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Comando Read – Entrada de Datos por parte del Usuario
 El código  solicita al usuario que introduzca dos datos: su nombre y su edad. A continuación, combina estas dos entradas para generar un mensaje en pantalla. Vamos a analizarlo paso a paso y luego explicaremos cómo lo hace.
 
 ### Código
@@ -131,3 +138,11 @@ echo "Has introducido tu nombre: $variable y tu edad es: $edad"
 2. **En un editor de texto**:
     
     - Si usas un editor como Vim, Nano, o algún IDE, puedes buscar atajos equivalentes. Por ejemplo, en Nano puedes usar `Ctrl + K` para cortar la línea completa.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables]]
+- ➡️ Siguiente: [[4- Los Parámetros]]

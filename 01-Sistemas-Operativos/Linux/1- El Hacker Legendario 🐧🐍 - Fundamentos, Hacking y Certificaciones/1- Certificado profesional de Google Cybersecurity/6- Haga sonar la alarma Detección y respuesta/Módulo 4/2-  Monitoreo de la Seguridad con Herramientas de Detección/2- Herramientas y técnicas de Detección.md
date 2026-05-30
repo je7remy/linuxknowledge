@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Herramientas y técnicas de Detección
 
 En esta lectura, examinará los diferentes tipos de tecnologías de sistemas de detección de intrusiones (IDS) y las alertas que producen. También explorará las dos técnicas de Detección más comunes utilizadas por los sistemas de detección. Comprender las capacidades y limitaciones de las tecnologías IDS y sus técnicas de detección le ayudará a interpretar la información de seguridad para identificar, analizar y responder a los eventos de seguridad.
 
@@ -70,3 +77,11 @@ El**Análisis basado en anomalías** es un Método de Detección que identifica 
 ## Puntos clave
 
 Las tecnologías IDS son una herramienta de Seguridad esencial que encontrará en su viaje por la Seguridad. Para recapitular, un NIDS supervisa toda una red, mientras que un HIDS supervisa puntos finales individuales. Las tecnologías IDS generan diferentes tipos de alertas. Por último, las tecnologías IDS utilizan diferentes técnicas de detección como el análisis basado en firmas o en anomalías para identificar actividades maliciosas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Monitoreo de la Seguridad con herramientas de Detección]]
+- ➡️ Siguiente: [[3- Gracia - Mentalidad de seguridad en la detección y respuesta]]

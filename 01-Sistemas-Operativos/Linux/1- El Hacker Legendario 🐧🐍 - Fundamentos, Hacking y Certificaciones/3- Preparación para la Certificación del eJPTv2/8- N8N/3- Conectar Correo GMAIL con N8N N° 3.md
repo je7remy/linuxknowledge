@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, n8n]
+actualizado: 2026-05-28
+---
+
+# Conectar Correo GMAIL con N8N N° 3
 
 # 📬 Clase 3: Envío de Correos Automáticos con N8N (Gmail)
 
@@ -147,3 +154,9 @@ También puedes usar **otros triggers**:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- N8N|8- N8N]]
+- ⬅️ Anterior: [[2- Hacemos Nuestra Primera Automatización N° 2]]

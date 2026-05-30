@@ -144,7 +144,7 @@ Este proceso es útil para recuperar contraseñas olvidadas de archivos protegid
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|06-Publicaciones-Linkedin]]
+- ⬆️ Sección: [[_06-Publicaciones-Linkedin|06-Publicaciones-Linkedin]]
 
 ## Relacionadas (fuente técnica)
 

@@ -14,13 +14,13 @@ Los hackers tienen otras técnicas bajo la manga. Algunos usan ataques de **fuer
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[2- De qué color es mi sombrero]]
 - ➡️ Siguiente: [[4- Tiempos de craqueo]]
 
 ## Relacionadas
 
 - [[4- Tiempos de craqueo]] — herramientas concretas para los ataques mencionados.
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — práctica con Hashcat, John the Ripper.
+- [[_1- Cracking|02 → Cracking]] — práctica con Hashcat, John the Ripper.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux|MitM con Bettercap]] — rastreo de red aplicado.
-- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/15- Scapy (En desarrollo)/index|Python → Scapy]] — interceptación con Scapy.
+- [[_15- Scapy (En desarrollo)|Python → Scapy]] — interceptación con Scapy.

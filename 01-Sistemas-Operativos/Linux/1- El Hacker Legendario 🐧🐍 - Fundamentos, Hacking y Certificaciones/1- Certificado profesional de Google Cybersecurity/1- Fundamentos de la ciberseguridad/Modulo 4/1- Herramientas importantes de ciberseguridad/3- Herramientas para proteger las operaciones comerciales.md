@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Herramientas para proteger las operaciones comerciales
 Anteriormente, se le presentaron varias habilidades técnicas que los analistas de seguridad necesitan desarrollar. También se le presentaron algunas herramientas que los analistas de seguridad de nivel básico pueden tener en su kit de herramientas. En esta lectura, aprenderá más sobre cómo las habilidades técnicas y las herramientas ayudan a los analistas de seguridad a mitigar los riesgos.
 
 ## Un kit de herramientas para un analista de nivel inicial
@@ -41,3 +48,11 @@ En esta lectura, aprendió sobre algunas herramientas que un analista de segurid
 El equipo de acción de ciberseguridad de Google [Informe de Horizonte de Amenazas](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_sept2022.pdf) Proporciona inteligencia estratégica para hacer frente a las amenazas a la empresa en la nube.
 
 La Agencia de Ciberseguridad y Seguridad de las Infraestructuras (CISA) tiene una lista de [Servicios y herramientas gratuitas de ciberseguridad](https://www.cisa.gov/free-cybersecurity-services-and-tools). Revise la lista para obtener más información sobre las herramientas de ciberseguridad de código abierto.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Herramientas comunes de ciberseguridad]]
+- ➡️ Siguiente: [[4- Pon a prueba tus conocimientos, Herramientas importantes de ciberseguridad]]

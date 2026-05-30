@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Comando echo en Detalle, Preparación para las Clases Prácticas
 1. **echo**
    ```bash
    echo
@@ -38,3 +45,9 @@ Este texto se va a imprimir sin la nueva linea,
  Suspuestamente la nuevea linea
 ```
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ➡️ Siguiente: [[2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web]]

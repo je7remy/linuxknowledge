@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Filtrados con AND, OR y NOT
 
 # Operadores lógicos en SQL aplicados a Seguridad
 
@@ -113,4 +120,11 @@ En cambio:
 - **AND** se usaría cuando ambas condiciones deben cumplirse juntas.
     
 - **NOT** se usaría cuando queremos excluir una condición.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Aplicar más filtros en SQL]]
+- ➡️ Siguiente: [[5- Más sobre filtros con AND, OR y NOT]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Marcos NIST
 
 ## 🎯 **Propósito de los Marcos de Ciberseguridad**
 
@@ -67,3 +74,10 @@ El NIST CSF y el SP 800-53 son herramientas esenciales en el mundo de la ciberse
 Cualquier profesional que aspire a roles en seguridad —especialmente en entornos gubernamentales— debería familiarizarse con ambos marcos.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[1.1- Reflect]]

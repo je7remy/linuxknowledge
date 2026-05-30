@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Security incident report
 
 **Sección 1: Identificar el protocolo de red involucrado en el incidente**  
 El protocolo implicado en el incidente es el **Protocolo de Transferencia de Hipertexto (HTTP)**.  
@@ -27,3 +34,11 @@ Como el problema se presentó al acceder al servidor web de yummyrecipesforme.co
 - **Expiración frecuente:** forzar la actualización de contraseñas cada cierto período (por ejemplo, cada 60–90 días) para limitar la ventana de exposición si una credencial se ve comprometida.
     
 - **Autenticación de dos factores (2FA):** exigir, además de la contraseña, la confirmación con un código de un solo uso (OTP) enviado por SMS o correo electrónico, para bloquear eficazmente los intentos de fuerza bruta.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[5- How to read the tcpdump traffic log]]
+- ➡️ Siguiente: [[8- Ponga a prueba sus Conocimientos, Endurecimiento del OS]]

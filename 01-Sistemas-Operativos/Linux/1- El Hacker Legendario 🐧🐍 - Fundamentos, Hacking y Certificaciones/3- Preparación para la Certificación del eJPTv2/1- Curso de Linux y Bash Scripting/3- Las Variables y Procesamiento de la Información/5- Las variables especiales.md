@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Las variables especiales
 # Las variables especiales | $?, $# y $@
 
 El tema de esta explicación es comprender y usar las **variables especiales** en bash, como `$?`, `$#` y `$@`. Estas variables proporcionan información clave durante la ejecución de scripts en Bash.
@@ -131,3 +138,11 @@ Argumento: tres
 - `$@`: Lista de todos los argumentos.
 
 Estos ejemplos demuestran cómo aprovechar estas variables para scripts dinámicos y adaptables.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[4- Los Parámetros]]
+- ➡️ Siguiente: [[6- Procesador de Información – TR]]

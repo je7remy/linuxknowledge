@@ -299,7 +299,7 @@ Finalmente, podemos probar si el enfoque de carga de archivos funcionó con . Po
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[6- NFS]]
 - ➡️ Siguiente: [[8- RDP]]
 
@@ -312,9 +312,9 @@ Finalmente, podemos probar si el enfoque de carga de archivos funcionó con . Po
 
 - [[12- Herramienta para hacer cracking de contraseñas]] — hashes extraídos de `sys.user$` van a Hashcat/John.
 - [[13- Automatización de Cracking de Contraseñas]] — pipeline automatizado.
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría general.
+- [[_1- Cracking|02 → Cracking]] — teoría general.
 
 ## Relacionadas (Python y BBDD)
 
 - [[1- Instalar Base de datos MySQL]] — setup local de DB para experimentación.
-- [[../../../03-Desarrollo/1- Bases de Datos/1- ¿Qué son las Bases de Datos en MySQL Workbench y Cómo se Crean!|03 → Bases de Datos]] — teoría.
+- [[_1- Bases de Datos|03 → Bases de Datos]] — teoría.

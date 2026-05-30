@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Seguridad de red en la nube
 
 ### 🛡️ **Endurecimiento de redes en la nube: Resumen**
 
@@ -65,3 +72,9 @@ Esto permite a las empresas **no depender de infraestructura física propia** y 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Kelsey, Seguridad de la nube explicada]]

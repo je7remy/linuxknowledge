@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Acciones posteriores al incidente
 
 
 ## 1. Pregunta 1
@@ -65,3 +72,11 @@
     
 
 > **Correcto**. Al preguntarse qué se podría haber hecho de otra manera, el Equipo de Seguridad puede identificar los puntos débiles de su proceso de respuesta ante incidentes, como la falta de un plan de copias de seguridad y recuperación.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Actividad - Revisar un informe final]]
+- ➡️ Siguiente: [[5- Recapitulación]]

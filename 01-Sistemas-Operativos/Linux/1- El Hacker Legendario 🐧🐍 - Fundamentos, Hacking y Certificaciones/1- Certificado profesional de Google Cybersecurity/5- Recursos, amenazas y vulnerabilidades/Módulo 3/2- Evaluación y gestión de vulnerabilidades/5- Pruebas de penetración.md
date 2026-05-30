@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Pruebas de penetración
 
 Un plan de Seguridad eficaz se basa en pruebas periódicas para encontrar los puntos débiles de una organización. Anteriormente, aprendió que las evaluaciones de **vulnerabilidad**, el proceso de revisión interna de los sistemas de Seguridad de una organización, se utilizan para diseñar estrategias de defensa basadas en las debilidades del sistema. En esta lectura, aprenderá cómo los Equipos de Seguridad evalúan la eficacia de sus defensas mediante pruebas de penetración.
 
@@ -63,3 +70,11 @@ Las organizaciones suelen llevar a cabo programas de recompensas por errores que
 ## Puntos clave
 
 Un Riesgo importante para las organizaciones son los hackers malintencionados que irrumpen en sus sistemas. Las pruebas de penetración son otra forma que tienen las organizaciones de asegurar sus sistemas. Los Equipos de Seguridad utilizan estos ataques simulados para hacerse una idea más clara de los puntos débiles de sus defensas. Hay una necesidad creciente de profesionales especializados en Seguridad en este campo. Incluso si empieza ayudando en estas actividades, hay muchas oportunidades para crecer y aprender las habilidades necesarias para ser un "pen tester".
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Omad - Mi viaje de aprendizaje en la ciberseguridad]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Identificar las vulnerabilidades del sistema]]

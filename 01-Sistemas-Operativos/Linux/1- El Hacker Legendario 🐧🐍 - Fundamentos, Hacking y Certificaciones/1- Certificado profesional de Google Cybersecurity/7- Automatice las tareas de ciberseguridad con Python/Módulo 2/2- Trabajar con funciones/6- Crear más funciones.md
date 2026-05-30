@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Crear más funciones
 
 ### 🧠 Tarea 1
 
@@ -249,3 +256,11 @@ if login_analysis >= 3:
 - **Parámetros vs. Argumentos:** Los parámetros son los marcadores de posición en la _definición_ de la función (ej. `username`), mientras que los argumentos son los valores reales pasados durante la _llamada_ a la función (ej. `"ejones"`).
     
 - **`print` vs. `return`:** `print()` solo muestra información al usuario. `return` **envía un valor** de vuelta desde la función, permitiendo que ese valor sea almacenado en una variable y utilizado para tomar decisiones lógicas (como en una sentencia `if`).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Trabajar con funciones integradas]]
+- ➡️ Siguiente: [[7- Ponga a prueba sus Conocimientos - Argumentos, parámetros y sentencias de retorno]]

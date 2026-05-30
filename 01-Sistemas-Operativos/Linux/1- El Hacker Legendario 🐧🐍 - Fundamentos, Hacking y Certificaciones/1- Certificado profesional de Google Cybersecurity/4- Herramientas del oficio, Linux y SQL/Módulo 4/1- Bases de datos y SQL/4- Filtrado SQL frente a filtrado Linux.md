@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Filtrado SQL frente a filtrado Linux
 
 *En esta lectura, explorarás las diferencias entre las dos herramientas en lo que se refiere al filtrado. También aprenderás que una forma de acceder a SQL es a través de la línea de comandos de Linux.
 
@@ -46,3 +53,11 @@ Muchos de los datos utilizados en ciberseguridad se almacenarán en un formato d
 ## **Puntos clave**
 
 El filtrado Linux se centra en la gestión de archivos y directorios en un sistema, mientras que el filtrado SQL se centra en la manipulación de datos estructurados dentro de las bases de datos. Para trabajar con SQL, puedes acceder a él desde múltiples interfaces diferentes, como la línea de comandos de Linux. Tanto SQL como Linux permiten filtrar datos específicos, pero SQL ofrece las ventajas de estructurar los datos y permitir unir datos de varias tablas.*
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Consulta de bases de datos con SQL]]
+- ➡️ Siguiente: [[5- Adedayo SQL en la ciberseguridad]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Marcos
 
 En una organización, se implementan planes para protegerse contra una variedad de **amenazas, riesgos y vulnerabilidades**. Sin embargo, los requisitos para proteger a las organizaciones y a las personas suelen **superponerse**. Por eso, muchas organizaciones utilizan **marcos de seguridad** como punto de partida para desarrollar sus propias políticas y procesos.
 
@@ -13,3 +20,10 @@ A continuación, se abordarán los **controles de seguridad**, que funcionan jun
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 2]]
+- ➡️ Siguiente: [[3- Mandos]]

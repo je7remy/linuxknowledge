@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Más información sobre los cuadernos de estrategias
 
 Anteriormente, aprendió que los manuales de estrategias son herramientas que utilizan los profesionales de la ciberseguridad para identificar y responder a los problemas de seguridad. En esta lectura, aprenderá más sobre los libros de jugadas y su propósito en el campo de la ciberseguridad.
 
@@ -68,3 +75,11 @@ Los manuales de respuesta a incidentes y vulnerabilidades son solo dos ejemplos 
 - [Gobierno de Canadá - Manual de estrategias de ransomware](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
     
 - [Gobierno escocés - Plantillas de libros de jugadas](https://www.gov.scot/publications/cyber-resilience-incident-management/)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Fases de un manual de respuesta a incidentes]]
+- ➡️ Siguiente: [[4- Identificar, Fases de un manual de estrategias de respuesta a incidentes]]

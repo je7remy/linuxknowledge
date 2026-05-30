@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 ### **¡Excelente Progreso y Felicitaciones!** 🎉
 
@@ -21,3 +28,11 @@ Has avanzado mucho en el desarrollo de las habilidades que necesitarás para pre
 A continuación, te sumergirás en el apasionante mundo de la **investigación de incidentes**, donde examinarás los procesos que permiten detectar y contener una brecha de seguridad.
 
 **¡Nos vemos allí!**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Actividad - Investigación de analizadores de protocolos de red]]
+- ➡️ Siguiente: [[3- Términos del glosario del Módulo 2]]

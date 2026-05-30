@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ## Recapitulación: Investigación y Respuesta a Incidentes
 
@@ -17,3 +24,11 @@ Como analista de seguridad, serás responsable de completar procesos involucrado
 ### Próximos Pasos
 
 A continuación, aprenderás sobre los **registros** y tendrás la oportunidad de explorarlos usando un **SIEM**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Ponga a prueba sus Conocimientos - Acciones posteriores al incidente]]
+- ➡️ Siguiente: [[6- Términos del glosario del Módulo 3]]

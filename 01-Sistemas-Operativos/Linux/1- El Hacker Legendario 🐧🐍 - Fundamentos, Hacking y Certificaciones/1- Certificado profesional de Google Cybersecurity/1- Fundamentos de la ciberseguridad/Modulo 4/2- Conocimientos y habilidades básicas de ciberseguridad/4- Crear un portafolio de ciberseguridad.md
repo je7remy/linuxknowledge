@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Crear un portafolio de ciberseguridad
 
 A lo largo de este programa de certificación, tendrá múltiples oportunidades para desarrollar un portafolio profesional de ciberseguridad para mostrar sus habilidades y conocimientos de seguridad.
 
@@ -98,3 +105,11 @@ Como se mencionó anteriormente, tendrá múltiples oportunidades a lo largo del
 ## Conclusiones clave
 
 Ahora que conoces algunas opciones para crear y alojar un portafolio profesional, puedes tenerlas en cuenta a medida que desarrollas elementos para tu portafolio a lo largo del programa de certificación. Cuanto más proactivo seas a la hora de crear un portafolio pulido, mayores serán tus posibilidades de impresionar a un posible empleador y obtener una nueva oportunidad de trabajo en la profesión de ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3-Pon a prueba tus conocimientos, Conocimientos y habilidades básicas de ciberseguridad]]
+- ➡️ Siguiente: [[5- Actividad del portafolio, Redactar una declaración profesional]]

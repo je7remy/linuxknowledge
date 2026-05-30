@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Recursos Linux
 
 Anteriormente, se le presentó a la comunidad Linux y algunos Recursos que existen para ayudar a los usuarios de Linux. Linux tiene muchas opciones disponibles para dar a los usuarios la Información que necesitan. Esta lectura revisará estos Recursos. Cuando sea consciente de los recursos que tiene a su disposición, podrá continuar aprendiendo Linux de forma independiente. También puede descubrir aún más formas en las que Linux puede apoyar su trabajo como analista de Seguridad.
 
@@ -32,3 +39,11 @@ Hay muchos recursos disponibles para la solución de problemas o para obtener so
 ## Recursos para obtener más Información
 
 Hay muchos recursos disponibles en línea que pueden ayudarle a aprender nuevos conceptos de Linux, repasar temas o plantear y responder preguntas con la comunidad global de Linux. La [Pila de intercambio de Unix y Linux](https://unix.stackexchange.com/ "This resource is a great place to ask and answer questions about Linux with the online community.") es un ejemplo, y puede buscar en línea para encontrar otros.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Páginas man dentro del shell]]
+- ➡️ Siguiente: [[4- Actividad, Obtener ayuda en la línea de comandos]]

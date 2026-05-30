@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 2
 
 ### 🧠 Bienvenido al Módulo 2: Escribir Secuencias de Comandos de Python Eficaces
 
@@ -39,5 +46,10 @@ En los próximos vídeos, nos centraremos en tres áreas clave para mejorar la e
     - **Qué es:** Una de las reglas más importantes de la programación.
         
     - **Por qué importa:** Aprenderás a escribir código de forma que cualquier persona (incluido tu yo futuro) pueda entenderlo y trabajar con él fácilmente.
-        
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Introducción a las funciones]]

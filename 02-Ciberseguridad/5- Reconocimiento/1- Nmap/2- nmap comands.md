@@ -65,7 +65,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬆️ Carpeta: [[_1- Nmap|1- Nmap]]
 - ⬅️ Anterior: [[1- Hoja de trucos NMAP]]
 - ➡️ Siguiente: [[3- nmap firewall evasion]] — evasión de firewalls e IDS/IPS.
 

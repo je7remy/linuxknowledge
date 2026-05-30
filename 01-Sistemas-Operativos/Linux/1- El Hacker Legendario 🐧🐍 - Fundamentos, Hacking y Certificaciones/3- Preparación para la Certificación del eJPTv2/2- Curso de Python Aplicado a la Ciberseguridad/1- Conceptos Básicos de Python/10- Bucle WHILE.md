@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Bucle WHILE
 
 ---
 
@@ -202,3 +209,11 @@ Después de imprimir `9`, el bucle se detiene sin mostrar `10`.
 [[7- Los Operadores Lógicos]]
 [[8- Sentencias Condicionales]]
 [[9- Bucle FOR]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[9- Bucle FOR]]
+- ➡️ Siguiente: [[11- Las Funciones]]

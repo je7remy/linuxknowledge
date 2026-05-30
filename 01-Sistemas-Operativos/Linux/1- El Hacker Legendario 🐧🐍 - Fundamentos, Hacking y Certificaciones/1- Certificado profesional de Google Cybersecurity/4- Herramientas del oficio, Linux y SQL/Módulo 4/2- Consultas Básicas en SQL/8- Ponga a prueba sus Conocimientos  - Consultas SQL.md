@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos  - Consultas SQL
 
 ### 📌 Pregunta 1
 
@@ -46,5 +53,10 @@ Ya dominaste lo esencial:
 - `SELECT` para columnas específicas.
     
 - Uso de **comodines** (`%`) en `LIKE`.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[7- Filtrar una consulta SQL]]

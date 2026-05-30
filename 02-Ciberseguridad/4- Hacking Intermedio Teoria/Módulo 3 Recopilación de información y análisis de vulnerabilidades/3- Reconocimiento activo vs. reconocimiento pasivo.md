@@ -108,18 +108,18 @@ El reconocimiento es una fase esencial en ciberseguridad y hacking ético. Un bu
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 3]]
+- ⬆️ Carpeta: [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]]
 - ⬅️ Anterior: [[2- Realización de reconocimiento pasivo]]
 - ➡️ Siguiente: [[3.1- Laboratorio - Uso de herramientas OSINT]]
 
 ## Relacionadas (Nmap y herramientas activas)
 
-- [[../../5- Reconocimiento/1- Nmap/index|02 → Nmap]] — herramienta núcleo mencionada.
+- [[_1- Nmap|02 → Nmap]] — herramienta núcleo mencionada.
 - [[../../5- Reconocimiento/1- Nmap/1- Hoja de trucos NMAP|Nmap cheatsheet]] — `nmap -sS -Pn -p-` aparece aquí.
 - [[../../3- hacking basico/2- basico/0- Comandos de Hacking|0- Comandos de Hacking]] — incluye whois, gobuster, sublist3r.
 
 ## Relacionadas (OSINT y herramientas pasivas)
 
-- [[../../5- Reconocimiento/2- Shodan/index|02 → Shodan]] — motor de búsqueda mencionado.
+- [[_2- Shodan|02 → Shodan]] — motor de búsqueda mencionado.
 - [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/1- OSINT|01 → OSINT en AD]] — OSINT aplicado.
 - [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — incluye herramientas mencionadas.

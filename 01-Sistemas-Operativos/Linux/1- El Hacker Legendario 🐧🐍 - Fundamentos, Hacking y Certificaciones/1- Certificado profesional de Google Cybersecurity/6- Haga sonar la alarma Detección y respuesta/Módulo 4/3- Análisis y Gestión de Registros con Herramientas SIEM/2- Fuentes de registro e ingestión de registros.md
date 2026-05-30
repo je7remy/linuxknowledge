@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Fuentes de registro e ingestión de registros
 
 En esta lectura, explorarás más sobre la importancia de la ingestión de logs. Recordará que las herramientas de **administración de información y eventos de seguridad** **(SIEM**) recopilan y analizan los datos de registro para supervisar las actividades críticas de una organización. También ha aprendido sobre **el análisis** de registros, que es el proceso de examinar registros para identificar eventos de interés. Comprender cómo se introducen las fuentes de registro en las herramientas SIEM es importante porque ayuda a los analistas de seguridad a comprender los tipos de datos que se recopilan y puede ayudar a los analistas a identificar y priorizar los incidentes de seguridad.
 
@@ -44,3 +51,11 @@ Aquí tienes algunos recursos si quieres saber más sobre el proceso de ingesti�
     
 
 **Pro tip:** Más adelante en este módulo, utilizará Splunk Cloud para cargar datos, realizar búsquedas básicas en los datos y responder a una serie de preguntas. Siga las instrucciones en la [Guía de seguimiento para Splunk registro](https://www.coursera.org/learn/detection-and-response/supplement/Wg478/follow-along-guide-for-splunk-sign-up) para completar lo siguiente antes de empezar a usar Splunk. Para empezar a utilizar Splunk rápidamente, regístrese ahora. El correo electrónico de verificación puede tardar un poco en llegar.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Reexaminar las herramientas SIEM]]
+- ➡️ Siguiente: [[3- Consulta de Eventos con Splunk]]

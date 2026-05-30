@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# GUI frente a CLI
 
 ## 🖥️ Comunicación entre el usuario y el sistema operativo
 
@@ -103,4 +110,9 @@ Ambas interfaces son valiosas. **GUI** es más accesible, pero **CLI** es más p
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- La línea de comandos en uso]]

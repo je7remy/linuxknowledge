@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, http, get, verbos-http]
+actualizado: 2026-05-28
+---
+
+# Peticiones HTTP — Operación GET
 
 # Módulo 7: Verbos HTTP y la Operación GET
 
@@ -107,3 +114,9 @@ La URL es la misma, pero la **intención** (el método) cambia.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ➡️ Siguiente: [[2- Test de conocimientos - Peticiones HTTP y operación GET]]

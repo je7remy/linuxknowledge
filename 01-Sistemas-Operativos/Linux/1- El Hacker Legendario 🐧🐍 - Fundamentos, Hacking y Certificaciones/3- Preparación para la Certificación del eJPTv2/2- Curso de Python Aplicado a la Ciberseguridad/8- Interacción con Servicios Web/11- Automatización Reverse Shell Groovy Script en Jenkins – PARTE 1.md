@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatización Reverse Shell Groovy Script en Jenkins – PARTE 1
 
 ### 1. Contexto General
 
@@ -169,5 +176,11 @@ s.close();
 - **Automatización con Python:** La idea es automatizar estos pasos mediante un script en Python que primero realice el login en Jenkins y luego ejecute el exploit, pero en este ejemplo nos centramos en entender y replicar el fragmento Java que se ejecuta para obtener la reverse shell.
     
 - **Resultado:** Al ejecutar el código, la máquina víctima se conecta de forma inversa a la máquina atacante, proporcionando una shell interactiva que permite la ejecución de comandos de forma remota.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[10- Creamos una Herramienta para Enumerar y Atacar Plugins de WordPress]]
+- ➡️ Siguiente: [[12- Automatización Reverse Shell Groovy Script en Jenkins – PARTE 2]]

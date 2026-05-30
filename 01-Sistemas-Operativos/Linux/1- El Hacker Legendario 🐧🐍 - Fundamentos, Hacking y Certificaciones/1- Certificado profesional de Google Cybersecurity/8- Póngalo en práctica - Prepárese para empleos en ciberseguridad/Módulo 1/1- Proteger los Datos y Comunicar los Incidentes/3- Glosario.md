@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Glosario
 
 ## 📖 Glosario: Certificado de Ciberseguridad de Google (Curso 7)
 
@@ -979,3 +986,11 @@
 ### Z
 
 - **Zero-day:** Un exploit que era previamente desconocido.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[2- Dion Mi trayectoria profesional personal]]
+- ➡️ Siguiente: [[4- Seguridad como mentalidad]]

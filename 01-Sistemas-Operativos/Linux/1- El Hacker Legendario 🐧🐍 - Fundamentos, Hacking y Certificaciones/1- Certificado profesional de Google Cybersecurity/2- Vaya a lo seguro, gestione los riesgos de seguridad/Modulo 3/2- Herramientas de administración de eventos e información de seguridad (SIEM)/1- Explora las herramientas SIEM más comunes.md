@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Explora las herramientas SIEM más comunes
 
 ## 🛡️ **Tipos de herramientas SIEM y ejemplos líderes en la industria**
 
@@ -63,3 +70,9 @@ Una **herramienta SIEM (Security Information and Event Management)** permite rec
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Más información sobre herramientas de ciberseguridad]]

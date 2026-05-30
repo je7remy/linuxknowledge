@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Introducción a Linux, SQL y Python
 
 Como hemos comentado anteriormente, las organizaciones utilizan una variedad de herramientas, como **SIEM**, **cuadernos de estrategias (playbooks)** y **rastreadores de paquetes** para administrar, supervisar y analizar mejor las amenazas de seguridad. Pero esas no son las únicas herramientas en el kit de herramientas de un analista. Los analistas también utilizan **lenguajes de programación** y **sistemas operativos** para realizar tareas esenciales.
 
@@ -20,3 +27,10 @@ Como futuro analista, es importante entender que el **kit de herramientas** de c
 ¡Lo estás haciendo muy bien! Más adelante en el curso, aprenderás más sobre Linux y los lenguajes de programación, y practicarás el uso de estas herramientas en **escenarios reales de seguridad**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Utilice herramientas para proteger las operaciones comerciales]]

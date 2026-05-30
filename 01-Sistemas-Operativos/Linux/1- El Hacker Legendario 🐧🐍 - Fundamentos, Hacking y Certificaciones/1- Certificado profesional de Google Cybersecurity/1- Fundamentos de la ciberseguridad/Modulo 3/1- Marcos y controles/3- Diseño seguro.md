@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Diseño seguro
 
 ¡Hola, bienvenido de nuevo!  
 Anteriormente, discutimos los marcos y controles en general. En este vídeo, aprenderás sobre marcos y controles específicos que las organizaciones pueden usar voluntariamente para minimizar los riesgos para sus datos y proteger a los usuarios. ¡Empecemos!
@@ -38,3 +45,11 @@ Es posible que te pregunten en una entrevista si conoces estos marcos y principi
 **A continuación, hablaremos de la ética en la seguridad. ¡Nos vemos luego!**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Introducción a los marcos y controles de seguridad]]
+- ➡️ Siguiente: [[4- Controles, marcos y cumplimiento]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 4
 
 ## **Términos y definiciones del Curso 3, Módulo 4**
 
@@ -20,3 +27,11 @@
 **Administración de información y eventos de seguridad (SIEM):** Aplicación que recopila y analiza los datos de registro para monitorizar las actividades críticas de una organización
 
 **Archivo escribible por todos:** Un archivo que puede ser alterado por cualquier persona del mundo
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Recapitulación]]
+- ➡️ Siguiente: [[4- Módulo 4 desafío]]

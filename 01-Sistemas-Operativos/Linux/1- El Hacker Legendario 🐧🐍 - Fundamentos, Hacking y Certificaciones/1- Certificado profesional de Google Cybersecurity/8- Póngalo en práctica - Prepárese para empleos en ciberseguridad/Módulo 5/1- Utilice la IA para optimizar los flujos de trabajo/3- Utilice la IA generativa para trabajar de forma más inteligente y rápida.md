@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Utilice la IA generativa para trabajar de forma más inteligente y rápida
 
 En la lectura introductoria aprendiste que la IA se refiere a programas informáticos que pueden realizar tareas cognitivas típicamente asociadas a la inteligencia humana. Un tipo específico de IA es **la IA generativa** (gen IA), que es la IA que puede generar nuevos contenidos, como texto, imágenes u otros medios. [Gemini](http://gemini.google.com/), [ChatGPT](https://chat.openai.com/) de OpenAI y [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot/) son ejemplos de herramientas de IA generativa. Puedes interactuar con una herramienta de IA generativa introduciendo una **instrucción**, que es una entrada que proporciona instrucciones a una herramienta de IA sobre cómo generar un resultado. A continuación, la herramienta crea nuevos contenidos basándose en esa instrucción.
 
@@ -15,3 +22,11 @@ En su trabajo como profesional de la ciberseguridad, puede aprovechar las herram
 En la próxima serie de vídeos te presentaremos a Luis, un profesional de la ciberseguridad que trabaja en Google. Luis te presentará las formas en que incorpora la IA a sus flujos de trabajo diarios para hacer cosas como comprobar el código, comprender las vulnerabilidades del sistema, etc.
 
 Las formas en que podrías utilizar la IA generativa en tu trabajo probablemente irán más allá de estos ejemplos a medida que se amplíen las capacidades de las herramientas de IA, y a medida que continúes tu propio desarrollo como profesional de la ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[2- Luis - Impulsar el impacto de la IA en el lugar de trabajo]]
+- ➡️ Siguiente: [[4- Aumente sus conocimientos de ciberseguridad con la IA]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad - Captura tu primer paquete
 
 En este laboratorio, aprenderás a usar la herramienta **`tcpdump`** en un entorno de Linux para capturar, filtrar y analizar tráfico de red, una habilidad fundamental para cualquier analista de seguridad.
 
@@ -126,3 +133,11 @@ Aquí están las respuestas a las preguntas para verificar lo aprendido:
 - **¿Qué comando `tcpdump` puedes usar para identificar las interfaces disponibles?**
     
     - ✅ `sudo tcpdump -D`
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Visión general de tcpdump]]
+- ➡️ Siguiente: [[4- Captura tu primer paquete - Repaso]]

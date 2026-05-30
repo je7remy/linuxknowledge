@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Holly, La importancia de la Ética como profesional de la ciberseguridad
 
 ### Testimonio de Holly – Arquitecta de Seguridad en la Nube (Google Cloud)
 
@@ -49,3 +56,11 @@ Mi consejo para quienes están iniciando este camino es:
 > **Eso es verdaderamente gratificante.**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Conceptos éticos que guían las decisiones de ciberseguridad]]
+- ➡️ Siguiente: [[4- Pon a prueba tus conocimientos, Ética en ciberseguridad]]

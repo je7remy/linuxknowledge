@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Uso Básico del Módulo OS
 
 ---
 
@@ -202,3 +209,10 @@ reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v Updater /t REG_SZ 
 psexec -U admin -P contraseña -H 192.168.1.105 cmd.exe
 ```
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Manipulación de Ficheros e Interacción con el Sistema Operativo|3- Manipulación de Ficheros e Interacción con el Sistema Operativo]]
+- ⬅️ Anterior: [[1- Manipulación de Ficheros con Python]]
+- ➡️ Siguiente: [[3- Uso Básico de SHUTIL]]

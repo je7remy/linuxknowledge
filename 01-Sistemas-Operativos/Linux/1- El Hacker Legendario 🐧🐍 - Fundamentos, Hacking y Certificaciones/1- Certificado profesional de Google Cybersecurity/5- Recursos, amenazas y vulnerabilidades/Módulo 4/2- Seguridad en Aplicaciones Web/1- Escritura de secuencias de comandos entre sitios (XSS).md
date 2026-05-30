@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Escritura de secuencias de comandos entre sitios (XSS)
 
 # Explotaciones Basadas en la Web y Ataques XSS
 
@@ -155,3 +162,9 @@ Los tres tipos de ataques **XSS** son:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Lagunas explotables en las bases de datos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenidos al módulo 2
 
 ## 🎓 **¡Bienvenido!**
 
@@ -41,3 +48,9 @@ A continuación, viajaremos en el tiempo para descubrir algunos de los virus, fi
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Ataques de ciberseguridad pasados]]

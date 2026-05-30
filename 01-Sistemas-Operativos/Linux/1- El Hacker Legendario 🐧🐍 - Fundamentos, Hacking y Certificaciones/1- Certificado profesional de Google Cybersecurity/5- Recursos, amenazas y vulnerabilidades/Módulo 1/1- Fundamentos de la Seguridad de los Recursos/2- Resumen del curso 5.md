@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso 5
 
 
 ![Pancarta de bienvenida al curso 5](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/JHKvYxuQQH6aVm7N2wZH0g_0c757a03bb754e50bac674ccb67d1ef1_x-cert-image_Welcome-banner-C5.png?expiry=1757980800000&hmac=X0J5GNhP8C4nP3T8pO7tpZDlG1A-ZGQ2NcPnGaNholU)
@@ -95,3 +102,11 @@ Cada curso ofrece muchos tipos de oportunidades de aprendizaje:
 - Cuando encuentres enlaces útiles en este curso, márcalos para poder consultar la información más adelante para estudiar o repasar.
     
 - Comprenda y siga el [Código de Conducta de Coursera](https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?) para asegurar que la comunidad de aprendizaje siga siendo un lugar acogedor, amigable y de apoyo para todos los miembros.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Introducción al curso 5]]
+- ➡️ Siguiente: [[3- Da'Queshia Mi ruta de acceso a la ciberseguridad]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1
 
 ---
 
@@ -196,3 +203,11 @@ print("Ataque de fuerza bruta terminado. No se encontraron credenciales válidas
 ---
 
 Con todo lo anterior ya tienes tu **laboratorio preparado** con dos objetivos FTP activos y un esqueleto de script multihilo en Python. En la siguiente clase implementaremos la función `ataque_ftp` con la lógica de fuerza bruta.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_13- Hilos en Python – Programación Concurrente|13- Hilos en Python – Programación Concurrente]]
+- ⬅️ Anterior: [[1- Introducción a la Programación Concurrente]]
+- ➡️ Siguiente: [[3- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 2]]

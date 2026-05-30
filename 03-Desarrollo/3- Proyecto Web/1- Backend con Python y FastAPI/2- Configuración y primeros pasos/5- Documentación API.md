@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, documentacion, swagger, openapi, redoc]
+actualizado: 2026-05-28
+---
+
+# Documentación API (Swagger / ReDoc)
 
 # Módulo 5: Documentación Automática e Interactiva
 
@@ -117,3 +124,11 @@ Vamos a verificar esto con el código que escribimos en la lección anterior.
 |**Redoc**|`/redoc`|Lectura / Referencia|Diseño limpio, estático, ideal para leer la documentación.|
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[4- Test de conocimientos, Hola mundo]]
+- ➡️ Siguiente: [[6- Test de conocimientos, Documentación API]]

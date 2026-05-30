@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Tecnología de virtualización
 
 Has explorado mucho sobre los sistemas operativos. Un aspecto más a tener en cuenta es que los sistemas operativos pueden ejecutarse en máquinas virtuales. En esta lectura, aprenderá sobre las máquinas virtuales y el concepto general de virtualización. Explorará cómo funcionan las máquinas virtuales y las ventajas de usarlas.
 
@@ -40,3 +47,11 @@ Además de las máquinas virtuales, existen otras formas de virtualización. Alg
 ## Conclusiones clave
 
 Las máquinas virtuales son versiones virtuales de computadoras físicas y son un ejemplo de virtualización. La virtualización es una tecnología clave en el sector de la seguridad, y es importante que los analistas de seguridad comprendan los conceptos básicos. El uso de máquinas virtuales tiene muchas ventajas, como el aislamiento de malware y otros riesgos de seguridad. Sin embargo, es importante recordar que sigue existiendo el riesgo de que el software malicioso escape de sus entornos virtualizados.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Asignación de recursos a través del sistema operativo]]
+- ➡️ Siguiente: [[6- Pon a prueba tus conocimientos, el sistema operativo en funcionamiento]]

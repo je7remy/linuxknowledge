@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Automatización de procesos de programación con Inteligencia Artificial
 
 ### **Repaso: Conexión con la Comunidad de Seguridad**
 
@@ -55,3 +62,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[8- Red en la comunidad de la ciberseguridad]]
+- ➡️ Siguiente: [[10- Recapitulación]]

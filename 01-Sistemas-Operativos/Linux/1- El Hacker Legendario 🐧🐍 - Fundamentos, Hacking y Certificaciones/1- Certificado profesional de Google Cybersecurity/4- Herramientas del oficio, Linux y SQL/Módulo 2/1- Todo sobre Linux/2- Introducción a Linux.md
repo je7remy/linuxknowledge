@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Introducción a Linux
 
 ## 🐧 **Linux en la Ciberseguridad – Historia, Características y Aplicación**
 
@@ -99,3 +106,11 @@ Como **analista de seguridad**, usarás Linux para:
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 2]]
+- ➡️ Siguiente: [[3- Phil, Aprender y crecer en el campo de la ciberseguridad]]

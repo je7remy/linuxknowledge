@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Conclusión
 
 ## 🎉 **¡Felicidades por completar la primera sección del curso!**
 
@@ -40,3 +47,9 @@ Antes de continuar, repasemos rápidamente lo aprendido:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Glosario de términos del módulo 1]]

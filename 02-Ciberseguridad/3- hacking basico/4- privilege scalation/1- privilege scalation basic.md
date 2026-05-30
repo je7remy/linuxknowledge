@@ -244,7 +244,7 @@ Como podemos ver, ahora podemos ssh en el usuario . Los módulos [Escalada de p
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|4- privilege scalation]]
+- ⬆️ Carpeta: [[_4- privilege scalation|4- privilege scalation]]
 - ➡️ Siguiente: [[2- python hijacking]] — técnica específica de path hijacking.
 
 ## Relacionadas (siguientes pasos y técnicas)
@@ -256,7 +256,7 @@ Como podemos ver, ahora podemos ssh en el usuario . Los módulos [Escalada de p
 
 - [[../3- hosts/6- NFS]] — escalada vía claves SSH expuestas en NFS shares.
 - [[../3- hosts/11- SSH]] — uso de claves robadas para login remoto.
-- [[../5- shells/index|5- Shells]] — el shell inverso del que partimos.
+- [[_5- shells|5- Shells]] — el shell inverso del que partimos.
 - [[6- Gestión de Usuarios en Linux]] — usuarios, sudoers y permisos.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/2- Gestión de Permisos y Tratamiento de la Información/9- Permisos Especiales – BIt SUID|SUID]] — teoría del bit SUID.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/2- Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit|Sticky Bit]] — otro permiso especial.

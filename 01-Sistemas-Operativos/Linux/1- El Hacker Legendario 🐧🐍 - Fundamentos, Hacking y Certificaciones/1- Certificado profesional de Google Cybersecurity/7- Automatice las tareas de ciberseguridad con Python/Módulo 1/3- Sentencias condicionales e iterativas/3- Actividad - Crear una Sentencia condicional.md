@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Actividad - Crear una Sentencia condicional
 
 # Activity: Create a conditional statement (resuelto)
 
@@ -250,3 +257,11 @@ else:
 - Comparar booleans directamente (`if organization_hours:`) hace el código más **legible**.
     
 - Dividir reglas en pasos y luego combinar condiciones ayuda a construir **validaciones completas** y claras.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Más sobre condicionales en Python]]
+- ➡️ Siguiente: [[4- Bucles For]]

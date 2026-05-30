@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Automatización de Copias de Seguridad en Servidor SSH
 
 ---
 
@@ -110,3 +117,10 @@ rm "$zip_file"
 [[6- Acceso Automatizado SSH Importando Clave Pública]]
 [[5- Automatizar conexión SSH y Ejecución de Comandos con Python]]
 [[11- Automatizar la Gestión de Usuarios en Linux]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de Servidores con Scripts de Bash]]
+- ⬅️ Anterior: [[6- Acceso Automatizado SSH Importando Clave Pública]]

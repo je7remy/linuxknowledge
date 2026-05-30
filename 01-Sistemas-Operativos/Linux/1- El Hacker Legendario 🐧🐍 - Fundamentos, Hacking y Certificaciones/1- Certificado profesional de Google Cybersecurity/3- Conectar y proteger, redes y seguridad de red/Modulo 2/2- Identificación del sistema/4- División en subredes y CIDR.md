@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# División en subredes y CIDR
 
 Anteriormente en este curso, usted aprendió acerca de la segmentación de red, una técnica de seguridad que divide las redes en secciones. Una red privada puede segmentarse para proteger partes de la red de Internet, que es una red global no segura.
 
@@ -24,3 +31,11 @@ La división en subredes permite a los profesionales y analistas de redes crear 
 ## Puntos clave
 
 La división en subredes es una estrategia de Seguridad común utilizada por las organizaciones. La división en subredes permite a las organizaciones crear redes más pequeñas dentro de su red privada. Esto mejora la eficacia de la red y puede utilizarse para crear zonas de seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Zonas de seguridad]]
+- ➡️ Siguiente: [[5- Servidores proxy]]

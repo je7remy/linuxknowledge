@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Los Parámetros
 ### Parametros:
 
 ---
@@ -91,3 +98,11 @@ echo "El resultado es: $resultado"
     - Operaciones aritméticas con `$(( ))`.
 
 Estos scripts son ideales para tareas simples como manejar argumentos o realizar cálculos básicos y sirven como base para desarrollar scripts más avanzados en Bash.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[3- Comando Read – Entrada de Datos por parte del Usuario]]
+- ➡️ Siguiente: [[5- Las variables especiales]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 2
 
 ### Elevación de incidentes
 
@@ -19,3 +26,10 @@ En los siguientes vídeos, analizaremos:
 Próximamente, empezaremos por centrarnos en la escalada de incidentes y en cómo se puede utilizar para evitar que un problema aparentemente pequeño se convierta en un problema mayor.
 
 ¡Empecemos!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ➡️ Siguiente: [[2- La importancia de la Elevación]]

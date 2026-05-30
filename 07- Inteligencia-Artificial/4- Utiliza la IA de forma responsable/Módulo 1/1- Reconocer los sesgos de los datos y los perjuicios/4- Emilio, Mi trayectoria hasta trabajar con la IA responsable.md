@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Emilio, Mi trayectoria hasta trabajar con la IA responsable
 
 ### IA para el bienestar social
 
@@ -41,3 +48,10 @@ Finalmente, **involúcrate**.
 Da retroalimentación constante sobre lo que apruebas o desapruebas, para que los equipos que crean estos sistemas sepan **cómo mejorar**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[3- Identifica daños de la IA]]

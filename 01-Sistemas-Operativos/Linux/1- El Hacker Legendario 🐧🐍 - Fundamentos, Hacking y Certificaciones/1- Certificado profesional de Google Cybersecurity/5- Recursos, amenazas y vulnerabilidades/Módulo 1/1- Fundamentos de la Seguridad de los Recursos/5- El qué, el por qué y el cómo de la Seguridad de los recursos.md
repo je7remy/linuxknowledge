@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# El qué, el por qué y el cómo de la Seguridad de los recursos
 
 # Planificación de los Riesgos en Seguridad
 
@@ -143,3 +150,10 @@ Los **tres elementos clave de la planificación de riesgos de seguridad** son:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Bienvenido al Módulo 1]]
+- ➡️ Siguiente: [[6- Comprender los riesgos, las amenazas y las vulnerabilidades]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Detección y Verificación de Incidentes
 
 ## 🤔 Pregunta 1
 
@@ -70,3 +77,10 @@ El Análisis es la fase en la que se investigan y validan las alertas generadas 
 💡 Explicación:
 
 Un alto volumen de alertas suele ser causado por reglas de detección demasiado amplias (que capturan tráfico normal como si fuera malicioso) y ajustes de alerta mal configurados. Ambas situaciones generan una sobrecarga de trabajo para los analistas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[8- Actividad - Investigar el hash de un archivo sospechoso]]

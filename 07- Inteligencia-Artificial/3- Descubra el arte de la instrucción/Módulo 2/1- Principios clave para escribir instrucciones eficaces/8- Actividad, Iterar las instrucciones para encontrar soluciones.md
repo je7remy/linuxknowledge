@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad, Iterar las instrucciones para encontrar soluciones
 Esta actividad es opcional, pero muy recomendable para ayudarte a practicar el uso de las herramientas de IA. Al final, responderás a preguntas de autoevaluación para reflexionar sobre tu aprendizaje. Si no puedes completar esta actividad, podrás seguir avanzando en el curso y obtener un certificado de Google.
 
 **Acceso a la herramienta de IA**
@@ -90,3 +97,10 @@ Pregunta 2
 
 
 Para un proyecto en el que necesite redactar un informe mensual sobre el rendimiento de un proyecto, en lugar de un prompt vago como "escribe un informe", aplicaría estas técnicas. Especificaría la **tarea** (generar un resumen ejecutivo de 3 párrafos), el **contexto** (audiencia: equipo directivo, datos clave: KPIs de este mes vs. el mes pasado) y el **resultado deseado** (un tono formal y un enfoque en "victorias" y "desafíos"). Esto haría que las sugerencias de la IA fueran inmediatamente más relevantes y requerirían mucha menos edición.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[7- Mejora los resultados de la IA mediante la iteración]]

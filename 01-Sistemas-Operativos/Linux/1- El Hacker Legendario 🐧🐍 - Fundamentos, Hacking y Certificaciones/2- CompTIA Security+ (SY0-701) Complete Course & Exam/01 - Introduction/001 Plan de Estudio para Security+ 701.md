@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [comptia-security-plus, el-hacker-legendario]
+actualizado: 2026-05-28
+---
+
+# Plan de Estudio para Security+ 701
 
 # Plan de Estudio para Security+ 701
 
@@ -200,3 +207,8 @@ Las tarjetas de memoria pueden ser una herramienta de aprendizaje muy efectiva s
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_01 - Introduction|01 - Introduction]]

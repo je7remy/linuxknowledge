@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Listado de Colores
 #!/bin/bash
 
 # Definimos los colores como variables
@@ -97,3 +104,10 @@ sin_color=’\033[0m’
 echo -e “${sin_color}Esta frase está en el color por defecto.”
 
 ![](https://img-b.udemycdn.com/redactor/raw/article_lecture/2023-07-18_11-10-19-5ce1d641b72cb7222036622dabb1a90a.png)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Colores en mi Script|7- Colores en mi Script]]
+- ⬅️ Anterior: [[1- Añadimos Colores a Nuestro Script]]

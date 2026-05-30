@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Comprende los modelos de lenguaje grande
 
 ## 🤖 ¿Cómo funcionan los LLM?
 
@@ -75,3 +82,11 @@ Tanto si utilizas la IA para resumir un informe, generar ideas de marketing o es
 Por último, es importante no hacer suposiciones sobre las capacidades de un LLM. Solo porque produjo un resultado de alta calidad una vez, no des por sentado que obtendrás la misma calidad si utilizas la misma instrucción de nuevo.
 
 Los modelos de lenguaje grandes son herramientas poderosas que requieren **orientación humana** para un uso eficaz.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[1- Introducción al curso 3, Descubra el arte de la instrucción]]
+- ➡️ Siguiente: [[3- Yufeng, Experimente con la instrucción]]

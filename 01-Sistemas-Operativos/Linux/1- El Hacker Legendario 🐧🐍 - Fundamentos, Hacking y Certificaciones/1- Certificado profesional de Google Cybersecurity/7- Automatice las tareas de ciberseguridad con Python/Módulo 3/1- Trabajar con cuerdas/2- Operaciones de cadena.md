@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Operaciones de cadena
 
 ### 🧠 Trabajar con Cadenas (Strings) en Python
 
@@ -126,3 +133,11 @@ Un **método** es una función que _pertenece_ a un tipo de dato específico (en
 ### 💡 Próximos Pasos
 
 A continuación, aprenderás conceptos más avanzados sobre cadenas, como la **indexación** (acceder a caracteres individuales) y la **división** (extraer sub-cadenas).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 3]]
+- ➡️ Siguiente: [[3- Índices y cortes de cadena]]

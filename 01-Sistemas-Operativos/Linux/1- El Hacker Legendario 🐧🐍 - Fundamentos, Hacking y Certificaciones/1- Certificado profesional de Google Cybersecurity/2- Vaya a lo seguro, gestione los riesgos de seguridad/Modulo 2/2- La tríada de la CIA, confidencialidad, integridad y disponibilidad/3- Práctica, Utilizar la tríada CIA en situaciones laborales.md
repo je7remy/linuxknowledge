@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Práctica, Utilizar la tríada CIA en situaciones laborales
 
 ### 🔐 **Correspondencia entre Escenarios y la Tríada CIA**
 
@@ -9,3 +16,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Usar la tríada de la CIA para proteger a las organizaciones]]
+- ➡️ Siguiente: [[4- Mini Prueba]]

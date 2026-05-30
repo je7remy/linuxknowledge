@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Comandos Linux a través del shell Bash
 
 # 🚀 Introducción práctica al uso del shell en Linux
 
@@ -111,3 +118,10 @@ echo "¡Lo estás haciendo genial!"
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 3]]
+- ➡️ Siguiente: [[3- Comandos principales para la navegación y la lectura de archivos]]

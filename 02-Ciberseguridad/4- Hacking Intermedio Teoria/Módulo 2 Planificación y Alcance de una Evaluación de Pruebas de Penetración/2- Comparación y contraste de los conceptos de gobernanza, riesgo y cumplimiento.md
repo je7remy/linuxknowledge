@@ -308,7 +308,7 @@ Por supuesto, estas son ideas generales y mejores prácticas. También puede con
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬆️ Carpeta: [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]]
 - ⬅️ Anterior: [[1- Qué aprenderé en este curso]]
 - ➡️ Siguiente: [[3- Explicar la importancia del alcance y los requisitos de la organización o del cliente]]
 

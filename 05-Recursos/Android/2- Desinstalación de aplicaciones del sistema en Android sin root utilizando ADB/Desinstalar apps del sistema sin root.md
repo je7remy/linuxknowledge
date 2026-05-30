@@ -1,3 +1,11 @@
+---
+tipo: laboratorio
+tags: [android, adb, desinstalar, bloatware, sin-root]
+actualizado: 2026-05-28
+---
+
+# Desinstalar apps del sistema sin root (ADB)
+
 Uso del comando ADB para desinstalar aplicaciones del sistema sin necesidad de root:
 
 ---
@@ -100,3 +108,9 @@ Uso del comando ADB para desinstalar aplicaciones del sistema sin necesidad de r
 - Asegúrate de identificar correctamente el nombre del paquete antes de ejecutar cualquier comando para evitar errores.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Android|Android]]

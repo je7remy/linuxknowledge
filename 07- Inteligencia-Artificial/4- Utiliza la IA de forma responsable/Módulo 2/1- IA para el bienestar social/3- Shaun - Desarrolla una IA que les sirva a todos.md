@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Shaun - Desarrolla una IA que les sirva a todos
 
 ### La equidad y la inclusión en la Inteligencia Artificial
 
@@ -55,3 +62,11 @@ Finalmente, lo llamamos **Dr. Bones** 🐾.
 ---
 
 ¿Quieres que adapte este texto con **tono narrativo tipo video o documental**, por ejemplo, para usarlo como **voz en off** o **guion educativo**? Puedo hacerlo más conversacional y fluido para ese formato.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[2- Sesgo, desvío y límite de conocimientos]]
+- ➡️ Siguiente: [[4- Vint, Utiliza la IA para generar un cambio positivo]]

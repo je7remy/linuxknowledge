@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Comprimir y Descomprimir Archivos
 
 
 ---
@@ -46,3 +53,11 @@ unzip -l fotos.zip
 ```
 
 Esto te mostrará la lista de archivos comprimidos en cada archivo `.zip`.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Gestión de Permisos y Tratamiento de la Información|2- Gestión de Permisos y Tratamiento de la Información]]
+- ⬅️ Anterior: [[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]
+- ➡️ Siguiente: [[5- Comando find y redirección de errores]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 2
 
 ## **Términos y definiciones del Curso 2, Módulo 2**
 
@@ -50,3 +57,11 @@
 **Postura de seguridad:** la capacidad de una organización para gestionar su defensa de activos y datos críticos y reaccionar ante el cambio
 
 **Amenaza:** Cualquier circunstancia o evento que pueda afectar negativamente a los activos
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Conclusión]]
+- ➡️ Siguiente: [[3- Desafío del módulo 2]]

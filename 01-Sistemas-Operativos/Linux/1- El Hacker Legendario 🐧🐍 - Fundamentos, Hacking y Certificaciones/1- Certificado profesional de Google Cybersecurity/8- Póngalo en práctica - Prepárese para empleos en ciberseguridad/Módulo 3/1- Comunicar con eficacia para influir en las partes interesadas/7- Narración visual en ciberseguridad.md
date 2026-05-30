@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Narración visual en ciberseguridad
 
 ### 1. 📊 Elementos Visuales (Gráficos y Tablas)
 
@@ -30,3 +37,11 @@ Esta es la solución al problema de la demora del correo electrónico.
 - **El Valor de la Iniciativa:** El video destaca que no debes solo "esperar". Si enviaste un correo sobre un tema importante y no has recibido respuesta, **toma la iniciativa** de hacer un seguimiento con una llamada o un mensaje instantáneo.
     
 - **El Resultado:** Una simple "llamada amistosa" puede evitar que un problema pequeño se convierta en uno mayor, y además, le demuestra a tu gerencia que eres proactivo y te tomas en serio la seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[6- Ponga a prueba sus Conocimientos - Comunicar para causar impacto]]
+- ➡️ Siguiente: [[8- Cree cuadros de mando visuales para comunicaciones impactantes sobre ciberseguridad]]

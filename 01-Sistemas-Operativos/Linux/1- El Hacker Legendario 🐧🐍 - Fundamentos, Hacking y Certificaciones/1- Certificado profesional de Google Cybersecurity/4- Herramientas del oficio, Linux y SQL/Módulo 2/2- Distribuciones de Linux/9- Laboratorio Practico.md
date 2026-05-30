@@ -1,6 +1,10 @@
-
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, laboratorio, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Laboratorio Practico
 ### 🧪 **Pasos del laboratorio**
 
 #### ✅ **Tarea 1: Verificar que APT esté instalado**
@@ -106,3 +110,11 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[8- Actividad, Instalar software en una distribución Linux 2]]
+- ➡️ Siguiente: [[10- Ejemplo, Instalar software en una distribución Linux]]

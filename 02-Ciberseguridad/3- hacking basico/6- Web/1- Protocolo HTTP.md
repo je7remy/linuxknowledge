@@ -57,8 +57,8 @@ En este caso, el contenido de es leído y devuelto por el servidor web como una 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[../index|3- hacking basico]]
-- 🏠 Sección: [[../../index|02-Ciberseguridad]]
+- ⬆️ Carpeta: [[_3- hacking basico|3- hacking basico]]
+- 🏠 Sección: [[_02-Ciberseguridad|02-Ciberseguridad]]
 
 ## Relacionadas (web)
 

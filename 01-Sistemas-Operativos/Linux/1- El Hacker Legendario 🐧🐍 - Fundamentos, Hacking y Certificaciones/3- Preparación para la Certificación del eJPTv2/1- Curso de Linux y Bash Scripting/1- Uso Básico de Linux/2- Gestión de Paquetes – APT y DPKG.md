@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Gestión de Paquetes – APT y DPKG
 
 como kali linux esta basado en debian, los programas que instalaremos en kali linux seran .deb, hay varias formas de hacerlo:
 
@@ -33,3 +40,11 @@ Usar `./` antes del nombre del archivo asegura que `apt` instale el archivo loca
 `sudo gdebi nombre_del_paquete.deb`
 
 Estas son las formas más comunes de instalar paquetes `.deb` en sistemas basados en Debian, como Ubuntu. Escoge la que te resulte más conveniente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[1- Comandos Basicos - Intermedio]]
+- ➡️ Siguiente: [[3- Transferencia de Archivos por la Red]]

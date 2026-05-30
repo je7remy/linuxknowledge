@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# El valor de los manuales de ciberseguridad
 
 Un **manual de estrategias** (o _playbook_) es un manual que detalla las acciones operativas que los analistas de seguridad deben seguir para responder a un incidente específico. Al igual que un itinerario de viaje organiza un viaje a un lugar nuevo, un _playbook_ proporciona estructura y orden durante un evento de seguridad, que de otro modo podría ser caótico.
 
@@ -23,3 +30,11 @@ Existen tres tipos principales de _playbooks_, que se diferencian por el nivel d
 El panorama de las ciberamenazas está en constante evolución. Por esta razón, los _playbooks_ no son documentos estáticos; deben ser **mantenidos y actualizados regularmente** para seguir siendo efectivos.
 
 Un momento ideal para revisar y proponer cambios a un manual de estrategias es durante la **fase de actividad posterior al incidente**, donde se analizan las lecciones aprendidas de un ataque real.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Buenas prácticas para una documentación eficaz]]
+- ➡️ Siguiente: [[5- Actividad - Utilice un Manual de estrategias para responder a un incidente de Phishing]]

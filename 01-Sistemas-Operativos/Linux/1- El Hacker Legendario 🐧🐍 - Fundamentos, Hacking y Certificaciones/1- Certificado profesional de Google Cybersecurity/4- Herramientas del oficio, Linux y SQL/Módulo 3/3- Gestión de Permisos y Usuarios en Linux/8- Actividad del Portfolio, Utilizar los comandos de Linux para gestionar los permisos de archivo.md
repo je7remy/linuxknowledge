@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo
 
 
 ## **Permisos de archivos en Linux**
@@ -112,3 +119,11 @@ Se verificaron los permisos de los archivos y directorios del directorio `projec
 Estos cambios aseguran que el sistema cumpla con las políticas de seguridad y que solo los usuarios autorizados tengan el acceso correspondiente.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[7- Ejemplo de actividad del Portfolio, Utilizar los comandos de Linux para gestionar los permisos de archivo]]
+- ➡️ Siguiente: [[9- Añadir y eliminar usuarios]]

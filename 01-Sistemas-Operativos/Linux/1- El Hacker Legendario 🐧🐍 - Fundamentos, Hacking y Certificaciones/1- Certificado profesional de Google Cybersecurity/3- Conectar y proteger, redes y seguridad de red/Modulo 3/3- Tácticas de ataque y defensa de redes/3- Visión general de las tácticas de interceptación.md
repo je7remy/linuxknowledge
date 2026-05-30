@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Visión general de las tácticas de interceptación
 
 En los puntos anteriores del curso, aprendió cómo se utilizan el sniffing de paquetes y la Suplantación de IP en los ataques a las redes. Dado que estos ataques interceptan paquetes de datos mientras viajan por la red, se denominan ataques de interceptación.
 
@@ -36,3 +43,11 @@ Como ya ha aprendido, una vez que el actor malicioso ha olfateado el tráfico de
 ## Puntos clave
 
 Esta lectura cubrió varios tipos de ataques comunes de Suplantación de IP. Ha aprendido cómo se realiza el sniffing de paquetes y cómo la recopilación de información a partir de la interceptación de transmisiones de datos puede dar a los actores maliciosos oportunidades para la suplantación de IP. Tanto si se trata de un ataque en ruta, un ataque de suplantación de IP o un ataque Smurf, los analistas deben asegurarse de que existen estrategias de mitigación para limitar la amenaza y prevenir las brechas de Seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Suplantación de IP]]
+- ➡️ Siguiente: [[4- Identificar, Ataques a la red]]

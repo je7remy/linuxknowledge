@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creación de Menús Desplegables
 
 ---
 
@@ -183,3 +190,11 @@ ventana.mainloop()
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]
+- ⬅️ Anterior: [[4- Creación de Pop-Ups y sus Distintos Tipos]]
+- ➡️ Siguiente: [[6- Ejercicio Práctico con Interfaces Gráficas]]

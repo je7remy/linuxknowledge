@@ -166,7 +166,7 @@ git push --force
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Git]]
+- ⬆️ Carpeta: [[_Git|Git]]
 - ⬅️ Anterior: [[1- Comandos Git]]
 - ➡️ Siguiente: [[3- Como Borrar Commit]]
 

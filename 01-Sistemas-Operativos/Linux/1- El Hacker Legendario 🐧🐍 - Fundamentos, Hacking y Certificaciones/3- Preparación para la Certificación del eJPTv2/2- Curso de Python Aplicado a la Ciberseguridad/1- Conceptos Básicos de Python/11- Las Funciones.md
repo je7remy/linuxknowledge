@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Las Funciones
 
 ---
 
@@ -96,3 +103,10 @@ En Python, una **función** es un bloque de código reutilizable que realiza una
 - **Parámetros** permiten personalizar el comportamiento de una función.
 - **`return`** devuelve valores de la función, mientras que **`print`** solo los muestra.
 - Es importante **definir correctamente las variables** y usarlas dentro del alcance adecuado.🚀
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[10- Bucle WHILE]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Principios de seguridad de OWASP
 
 ## 🔐 **Principios de Seguridad del OWASP para Analistas Principiantes**
 
@@ -91,3 +98,9 @@ Conocer estos principios te da una base sólida para comenzar tu carrera en cibe
 
 > **¿Próximo paso?** Relacionar estos principios OWASP con el NIST CSF y la tríada **CIA** (Confidencialidad, Integridad, Disponibilidad) para tener un enfoque de seguridad completo.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Más información sobre los principios de seguridad de OWASP]]

@@ -1,3 +1,11 @@
+---
+tipo: tesis
+tags: [tesis, version-final, sgcm, refinada, unphu, hospital-juan-bosch]
+actualizado: 2026-05-28
+---
+
+# Tesis Final — Sistema de Gestión de Citas Médicas (SGCM) Refinada
+
 # UNIVERSIDAD NACIONAL PEDRO HENRÍQUEZ UREÑA
 
 **(UNPHU)**
@@ -1057,3 +1065,10 @@ CREATE TABLE auditoria (
     ip_origen VARCHAR(45)
 );
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ⬅️ Anterior: [[3- Base de Datos Tentativa]]

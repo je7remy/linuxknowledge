@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Paquetes y capturas de paquetes
 
 ## 🧩 **Tema: Paquetes y Capturas de Paquetes**
 
@@ -110,3 +117,10 @@ Un **paquete de red** se compone de tres partes principales:
     
 
 🔹 La opción **"Red"** no es un componente del paquete, sino el **medio** o **capa** por donde viaja.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Más información sobre la captura de paquetes]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Visión general del certificado de ciberseguridad de Google
 ¡Hola y bienvenido al **Certificado en Ciberseguridad de Google**! En este Programa, explorará el creciente campo de la ciberseguridad, aprenderá cómo la ciberseguridad es crucial para las organizaciones y las personas a las que sirven, y desarrollará habilidades relevantes para una futura carrera en este campo. Al completar los ocho cursos de este programa de certificación, se preparará para puestos de trabajo de nivel inicial en ciberseguridad, como analista de ciberseguridad, analista de seguridad y analista del centro de operaciones de seguridad (SOC). No se requiere experiencia previa en ciberseguridad para completar este programa.
 
 ## Entre en un campo en crecimiento
@@ -45,3 +52,11 @@ Tras completar los ocho cursos, los graduados del Certificado en Ciberseguridad 
     
 
 Enhorabuena por dar este primer paso para desarrollar sus habilidades para una carrera en ciberseguridad. ¡Disfrute del viaje!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Bienvenido al Certificado de Ciberseguridad de Google]]
+- ➡️ Siguiente: [[3- Resumen del curso 1]]

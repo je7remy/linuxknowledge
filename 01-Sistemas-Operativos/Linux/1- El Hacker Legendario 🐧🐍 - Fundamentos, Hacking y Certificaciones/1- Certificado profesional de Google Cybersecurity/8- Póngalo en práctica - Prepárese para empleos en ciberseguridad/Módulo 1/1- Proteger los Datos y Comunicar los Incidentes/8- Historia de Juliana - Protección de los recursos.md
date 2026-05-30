@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Historia de Juliana - Protección de los recursos
 ## 👩‍💻 Historia de Juliana: Protección de los Recursos (Parte 1)
 
 Esta lectura presenta a **Juliana Soto**, una analista de ciberseguridad recién contratada en **Right-On-Time Payment Solutions**, una empresa ficticia de procesamiento de pagos. La historia sigue sus primeros pasos para asumir sus nuevas responsabilidades.
@@ -41,3 +48,11 @@ Juliana decide aplicar la estrategia del ciclo de vida de la información que ap
 - La **estrategia del ciclo de vida de la información** (Identificar, Evaluar, Proteger, Monitorear) es un marco útil para asegurar la protección eficaz de esos recursos.
     
 - Revisar las **políticas de seguridad** de una empresa ayuda a un analista a comprender qué es lo más importante para la organización y cómo debe proteger esos datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[7- Detectar y Proteger sin descuidar]]
+- ➡️ Siguiente: [[9- Ponga a prueba sus Conocimientos - Su impacto en la protección de Datos]]

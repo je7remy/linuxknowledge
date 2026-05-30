@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# El arte criminal de la persuasión
 
 ### Cibercriminales y la ingeniería social
 
@@ -66,3 +73,10 @@ Seleccione **tres** respuestas.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 4]]
+- ➡️ Siguiente: [[3- Tácticas de ingeniería social]]

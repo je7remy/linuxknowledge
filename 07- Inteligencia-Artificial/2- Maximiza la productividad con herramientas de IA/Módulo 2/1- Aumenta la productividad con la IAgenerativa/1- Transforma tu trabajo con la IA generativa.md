@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Transforma tu trabajo con la IA generativa
 
 ## Aumenta la Productividad con la IA Generativa
 
@@ -45,3 +52,10 @@ Digamos que estás empezando un negocio de venta de mochilas. Podrías usar la I
 Al usar la IA generativa de esta forma, se **agilizan los procesos de lluvias de ideas y planificación**. Esto te permite concentrarte en hacer crecer tu negocio.
 
 Las herramientas de IA generativa pueden usarse para mejorar tus destrezas creativas de resolución de problemas y transformar la forma en que encaras tu trabajo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ➡️ Siguiente: [[2- Trabaja con Gemini]]

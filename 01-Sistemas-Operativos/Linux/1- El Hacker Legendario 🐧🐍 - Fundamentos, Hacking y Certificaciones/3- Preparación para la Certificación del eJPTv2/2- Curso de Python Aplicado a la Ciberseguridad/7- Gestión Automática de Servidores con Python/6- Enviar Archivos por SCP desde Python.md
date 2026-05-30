@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Enviar Archivos por SCP desde Python
 
 ---
 
@@ -176,3 +183,11 @@ Este código permite subir un archivo de una máquina local a un servidor remoto
 3. **Crear un cliente SSH** y **conectar al servidor**.
 4. **Subir el archivo con SCP**.
 5. **Manejar errores** y **cerrar la conexión**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ⬅️ Anterior: [[5- Automatizar conexión SSH y Ejecución de Comandos con Python]]
+- ➡️ Siguiente: [[7- Descargar Archivos por SCP desde Python]]

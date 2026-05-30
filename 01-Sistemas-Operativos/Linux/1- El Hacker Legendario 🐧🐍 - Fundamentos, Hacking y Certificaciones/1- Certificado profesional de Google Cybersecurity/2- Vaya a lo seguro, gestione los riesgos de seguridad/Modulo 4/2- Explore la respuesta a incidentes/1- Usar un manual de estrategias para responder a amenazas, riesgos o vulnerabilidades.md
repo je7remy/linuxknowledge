@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Usar un manual de estrategias para responder a amenazas, riesgos o vulnerabilidades
 
 ## 🛡️ **Revisión: Uso combinado de herramientas SIEM y manuales de respuesta**
 
@@ -84,3 +91,10 @@ Un **manual de estrategias** es una guía estructurada que ayuda a los analistas
 > **“Comprender por qué los manuales son importantes y cómo usarlos es esencial para el éxito en ciberseguridad.”**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- La importancia de la diversidad de perspectivas en un equipo de seguridad]]

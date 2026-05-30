@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Gestión de vulnerabilidades
 
 # 🌐 Gestión de vulnerabilidades
 
@@ -110,4 +117,10 @@ La gestión de vulnerabilidades es un ciclo esencial en seguridad. Incluye ident
     
 3. Preparar defensas contra amenazas.  
     _(y después de esto sigue Evaluar defensas, aunque no aparecía en las opciones de la pregunta)._
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Vulnerabilidades de CI - CD]]

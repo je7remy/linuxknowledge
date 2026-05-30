@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 4
 
 ## **Términos y definiciones del Curso 4, Módulo 4**
 
@@ -32,3 +39,11 @@
 **Sintaxis:** Las reglas que determinan lo que se estructura correctamente en un lenguaje informático
 
 **Comodín**: Carácter especial que puede sustituirse por cualquier otro carácter
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Guía de referencia - SQL]]
+- ➡️ Siguiente: [[6- Desafío del módulo 4]]

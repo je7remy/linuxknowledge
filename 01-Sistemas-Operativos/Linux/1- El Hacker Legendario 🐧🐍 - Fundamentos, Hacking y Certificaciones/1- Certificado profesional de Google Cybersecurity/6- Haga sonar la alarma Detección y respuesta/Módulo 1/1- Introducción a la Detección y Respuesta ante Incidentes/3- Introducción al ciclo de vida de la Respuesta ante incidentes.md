@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción al ciclo de vida de la Respuesta ante incidentes
 
 ## Marcos del Ciclo de Vida de los Incidentes
 
@@ -108,3 +115,10 @@ Este framework se enfoca específicamente en la respuesta a incidentes e incluye
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Dave - Haga crecer su carrera en ciberseguridad con mentores]]
+- ➡️ Siguiente: [[4- Actividad de Portfolio - Documentar un incidente con el Diario del gestor de incidentes]]

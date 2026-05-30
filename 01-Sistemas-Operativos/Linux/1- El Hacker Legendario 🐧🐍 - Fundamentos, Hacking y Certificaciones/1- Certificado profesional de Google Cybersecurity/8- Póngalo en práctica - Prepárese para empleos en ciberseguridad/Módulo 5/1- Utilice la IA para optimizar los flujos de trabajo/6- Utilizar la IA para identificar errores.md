@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Utilizar la IA para identificar errores
 
 ### **Uso de la IA para Identificar Errores en el Código**
 
@@ -57,3 +64,11 @@ Cuando se utilizan herramientas de IA generacional para ayudar a depurar el cód
 Esto se debe a que el código, por naturaleza, es preciso y estructurado, por lo que bombardear a la IA con detalles superfluos puede distraerla del problema central. La clave es lograr un equilibrio y proporcionar suficiente información para que la herramienta de la generación de IA comprenda el problema sin demasiados detalles.
 
 Este no es el caso de muchas otras solicitudes, ya que la adición de contexto adicional a menudo produce resultados mejores y más detallados. La precisión y el nivel correcto de contexto son fundamentales a la hora de solicitar código.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[5- Descifrar marcos de seguridad complejos con IA]]
+- ➡️ Siguiente: [[7- Perfeccionar el código con ayuda de la IA]]

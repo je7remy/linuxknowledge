@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creación de Pop-Ups y sus Distintos Tipos
 
 ---
 
@@ -117,3 +124,11 @@ ventana.mainloop()
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]
+- ⬅️ Anterior: [[3- Widgets de Tipo Entry]]
+- ➡️ Siguiente: [[5- Creación de Menús Desplegables]]

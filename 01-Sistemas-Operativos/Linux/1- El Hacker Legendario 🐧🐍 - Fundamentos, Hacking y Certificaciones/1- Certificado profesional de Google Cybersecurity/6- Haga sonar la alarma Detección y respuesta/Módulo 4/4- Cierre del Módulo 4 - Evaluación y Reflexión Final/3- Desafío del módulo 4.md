@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 4
 
 # 🧠 **Desafío del Módulo 4**
 
@@ -128,3 +135,11 @@ Rellene el espacio en blanco: Herramientas SIEM _____ datos en bruto para que su
 **Normalizan**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Términos del glosario del Módulo 4]]
+- ➡️ Siguiente: [[4- Actividad de Portfolio - Finalice su Diario del gestor de incidentes]]

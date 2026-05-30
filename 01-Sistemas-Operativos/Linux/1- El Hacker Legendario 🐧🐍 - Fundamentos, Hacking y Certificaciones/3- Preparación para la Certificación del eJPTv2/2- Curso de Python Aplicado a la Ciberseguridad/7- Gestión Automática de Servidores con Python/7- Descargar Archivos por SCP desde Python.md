@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Descargar Archivos por SCP desde Python
 
 ---
 
@@ -116,3 +123,11 @@ finally:
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ⬅️ Anterior: [[6- Enviar Archivos por SCP desde Python]]
+- ➡️ Siguiente: [[8- Automatizar Copias de Seguridad SSH con Python]]

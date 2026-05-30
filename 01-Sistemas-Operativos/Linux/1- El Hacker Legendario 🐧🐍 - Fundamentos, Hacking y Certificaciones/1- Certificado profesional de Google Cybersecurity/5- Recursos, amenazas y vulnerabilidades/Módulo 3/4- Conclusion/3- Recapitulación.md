@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ## 📌 Recapitulación – Módulo 3
 
@@ -27,3 +34,10 @@ El módulo recalca lo complejo que es el panorama digital, lleno de brechas y am
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Ponga a prueba sus Conocimientos - Mentalidad del ciberatacante]]
+- ➡️ Siguiente: [[4- Términos del glosario del Módulo 3]]

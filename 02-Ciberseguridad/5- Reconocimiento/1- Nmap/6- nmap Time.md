@@ -210,7 +210,7 @@ zunderrubb@htb[/htb]$ cat tnet.T5 | grep "/tcp" | wc -l
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬆️ Carpeta: [[_1- Nmap|1- Nmap]]
 - ⬅️ Anterior: [[5- nmap scripts]]
 
 ## Relacionadas (Nmap)

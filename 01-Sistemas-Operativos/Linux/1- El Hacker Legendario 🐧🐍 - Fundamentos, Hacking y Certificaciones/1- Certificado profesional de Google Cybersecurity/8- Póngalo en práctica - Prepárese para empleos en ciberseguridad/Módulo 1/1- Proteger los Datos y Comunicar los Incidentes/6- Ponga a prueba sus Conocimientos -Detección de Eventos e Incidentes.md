@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos -Detección de Eventos e Incidentes
 
 ### 🧠 Pregunta 1
 
@@ -58,3 +65,11 @@ El texto sugiere "desarrollar el hábito de buscar información sobre las últim
 📘 Justificación:
 
 Tener una mentalidad de seguridad implica estar constantemente alerta a posibles amenazas. Sospechar de correos electrónicos y archivos adjuntos no solicitados o inesperados, y reportar actividades sospechosas, son acciones directas que demuestran esta mentalidad en la práctica. Descargar archivos de desconocidos y reutilizar contraseñas son comportamientos inseguros.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[5- Datos y Clasificación de activos]]
+- ➡️ Siguiente: [[7- Detectar y Proteger sin descuidar]]

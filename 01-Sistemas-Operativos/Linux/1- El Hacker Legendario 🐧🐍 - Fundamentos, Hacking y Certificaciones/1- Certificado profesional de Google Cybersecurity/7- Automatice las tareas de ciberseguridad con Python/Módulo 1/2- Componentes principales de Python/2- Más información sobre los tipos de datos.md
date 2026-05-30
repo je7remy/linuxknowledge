@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Más información sobre los tipos de datos
 
 # 🧠 Tipos de Datos en Python (Versión Extendida)
 
@@ -258,3 +265,10 @@ Dominar estos fundamentos es esencial para avanzar en ciberseguridad y programac
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Tipos de datos en Python]]
+- ➡️ Siguiente: [[3- Trabajar con variables en Python]]

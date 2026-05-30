@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Actividad - Puntuar los riesgos en función de su probabilidad y gravedad
 ## Resumen de la actividad
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/p6bA4_W6Rti2hSc-chizkg_35818ee471f5453cac13218b3236edf1_image.png?expiry=1758153600000&hmac=x-ihdNEfrinhWiZicVBwixjDnwbbEtRtcIOB__aCogw)
@@ -198,3 +205,10 @@ Aunque el banco está en una zona de baja criminalidad, maneja grandes volúmene
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[8- Ponga a prueba sus Conocimientos - Riesgo y Seguridad de los recursos]]
+- ➡️ Siguiente: [[10- Recapitulación]]

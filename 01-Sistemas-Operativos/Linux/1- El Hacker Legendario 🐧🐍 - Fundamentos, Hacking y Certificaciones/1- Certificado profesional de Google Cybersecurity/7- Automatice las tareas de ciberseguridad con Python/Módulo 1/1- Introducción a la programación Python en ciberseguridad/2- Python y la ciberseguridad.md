@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Python y la ciberseguridad
 
 # 🛡️ **Python y la Ciberseguridad**
 
@@ -139,3 +146,11 @@ Un analista de Seguridad podría elegir **Python** para automatizar tareas por l
 
 💬 **En resumen:**  
 Python es elegido en ciberseguridad porque combina **simplicidad, estandarización y soporte global**, lo que lo hace ideal para **automatizar tareas repetitivas**, **procesar datos de seguridad** y **crear herramientas personalizadas** con rapidez y eficacia.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 1]]
+- ➡️ Siguiente: [[3- Conozca Python]]

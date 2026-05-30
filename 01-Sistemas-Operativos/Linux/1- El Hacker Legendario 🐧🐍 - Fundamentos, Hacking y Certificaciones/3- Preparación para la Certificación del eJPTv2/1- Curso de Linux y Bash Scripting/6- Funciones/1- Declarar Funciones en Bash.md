@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Declarar Funciones en Bash
 **Script completo:**
 
 ```bash
@@ -75,3 +82,10 @@ fi
 
 
 [[11- Las Funciones]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Funciones|6- Funciones]]
+- ➡️ Siguiente: [[2- Variables Locales y Globales en las Funciones]]

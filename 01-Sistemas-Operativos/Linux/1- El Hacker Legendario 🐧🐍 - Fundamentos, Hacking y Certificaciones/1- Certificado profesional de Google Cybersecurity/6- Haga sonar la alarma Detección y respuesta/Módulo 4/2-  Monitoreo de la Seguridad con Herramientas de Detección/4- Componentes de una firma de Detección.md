@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Componentes de una firma de Detección
 
 ## 🧩 **Lectura de Firmas en Sistemas de Detección de Intrusiones (IDS)**
 
@@ -79,3 +86,11 @@ Ahora sabes cómo **leer y comprender una firma NIDS**, identificando sus tres c
 3. **Opciones** → personalizan la detección.  
 
 Esta habilidad es fundamental para todo analista de seguridad, ya que permite crear reglas efectivas para **detectar intrusiones** y proteger las redes frente a amenazas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Gracia - Mentalidad de seguridad en la detección y respuesta]]
+- ➡️ Siguiente: [[5- Examinar firmas con Suricata]]

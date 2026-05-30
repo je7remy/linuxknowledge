@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del Curso 3
 1.  
 **Pregunta 1**  
 ¿Cuáles de las siguientes fuentes de datos se utilizan normalmente para entrenar modelos de lenguaje grande (LLM)? Selecciona tres respuestas.  
@@ -60,5 +67,11 @@ Un artista gráfico instruye a una herramienta de IA para que le resuma las últ
 **Explicación:** Cuando se incluyen ejemplos concretos en el prompt para guiar el formato y estilo, se denomina **few-shot prompting** (algunos ejemplos).  
 - “Instrucciones de intento cero” = zero-shot (sin ejemplos).  
 - “Ejemplo de instrucción” sería one-shot (un solo ejemplo).  
-- “Instrucciones ocasionales” no existe como término.  
+- “Instrucciones ocasionales” no existe como término.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]

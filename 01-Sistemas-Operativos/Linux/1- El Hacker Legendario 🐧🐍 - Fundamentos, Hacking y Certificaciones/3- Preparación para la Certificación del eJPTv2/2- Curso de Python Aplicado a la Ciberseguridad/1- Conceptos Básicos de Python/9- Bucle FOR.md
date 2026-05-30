@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Bucle FOR
 
 ---
 
@@ -209,3 +216,11 @@ Estos ejemplos muestran cómo funciona el `for` en Python para recorrer distinto
 [[7- Los Operadores Lógicos]]
 [[8- Sentencias Condicionales]]
 [[10- Bucle WHILE]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[8- Sentencias Condicionales]]
+- ➡️ Siguiente: [[10- Bucle WHILE]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# La importancia de las actualizaciones
 
 Es posible que en algún momento se haya preguntado: "¿Por qué necesitan actualizarse constantemente mis dispositivos?" Para los consumidores, las actualizaciones proporcionan mejoras en el rendimiento, la estabilidad e incluso ¡nuevas funciones! Pero desde el punto de vista de la Seguridad, sirven a un propósito específico. Las actualizaciones permiten a las organizaciones abordar las vulnerabilidades de seguridad que pueden poner en peligro a sus usuarios, dispositivos y redes.
 
@@ -55,3 +62,11 @@ Los Riesgos que presenta el software EOL siguen creciendo a medida que más disp
 ## Puntos clave
 
 Actualizar el software y parchear las vulnerabilidades es una práctica importante en la que todo el mundo debería participar. Por desgracia, no siempre es así. Muchos de los mayores ciberataques del mundo podrían haberse evitado si los sistemas se hubieran mantenido actualizados. Un ejemplo es el ataque WannaCry de 2017. El ataque afectó a computadoras de más de 150 países y causó unos daños estimados en 4.000 millones de dólares. Los investigadores han descubierto desde entonces que WannaCry podría haberse evitado si los sistemas infectados hubieran estado actualizados con un parche de Seguridad que estuvo disponible meses antes del ataque. Mantener el software actualizado requiere esfuerzo. Sin embargo, los Beneficios que proporcionan hacen que merezca la pena.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Enfoques para la exploración de vulnerabilidades]]
+- ➡️ Siguiente: [[4- Omad - Mi viaje de aprendizaje en la ciberseguridad]]

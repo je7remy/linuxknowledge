@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Qué son y cómo Declarar Variables
 ### **¿Qué son las Variables?**
 
 Las variables son espacios en la memoria del ordenador que almacenan datos que pueden ser utilizados y modificados durante la ejecución de un programa. En Python, las variables se crean simplemente asignándoles un valor con el operador `=`.
@@ -118,3 +125,10 @@ La suma de los numeros 1 y 2 es: 3
 Las **f-strings** son más recomendadas por su claridad y eficiencia en comparación con otras formas de formateo.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ➡️ Siguiente: [[2- Las Listas]]

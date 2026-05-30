@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [fastapi]
+actualizado: 2026-05-28
 ---
 
+# Type Hints
 # Módulo 2: Fundamentos de Python Moderno para Backend
 
 ## Lección 2.1: Type Hints (Anotaciones de Tipo) y Tipado Dinámico
@@ -143,3 +147,10 @@ En esta lección hemos aprendido que:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[5- Test de conocimientos, API y FastAPI]]
+- ➡️ Siguiente: [[7- Test de conocimientos, Type Hints]]

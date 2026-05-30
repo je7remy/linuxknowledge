@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 3
 
 ## **Términos y definiciones del Curso 1, Módulo 3**
 
@@ -34,3 +41,11 @@ Marco **de seguridad cibernética (CSF) del Instituto Nacional de Estándares y 
 **Gobernanza de seguridad:** prácticas que ayudan a respaldar, definir y dirigir los esfuerzos de seguridad de una organización
 
 **Información confidencial de identificación personal (SPII):** un tipo específico de PII que se rige por pautas de manejo más estrictas
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Conclusión]]
+- ➡️ Siguiente: [[3- Desafío del módulo 3]]

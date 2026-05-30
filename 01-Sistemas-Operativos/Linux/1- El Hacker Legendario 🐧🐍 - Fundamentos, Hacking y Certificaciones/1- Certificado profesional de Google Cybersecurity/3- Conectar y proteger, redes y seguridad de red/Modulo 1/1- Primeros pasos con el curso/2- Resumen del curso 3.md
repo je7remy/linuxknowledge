@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso 3
 
 
 ![Course 3 welcome banner](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/BtjICPOGTXWUJIBCqAKAVw_531d36f3060f4b81967b6028e199b4f1_x-cert-image_Welcome-banner-C3.png?expiry=1750291200000&hmac=5owBR5LgLxPb8eKQ_RyCWQhb79aG_kB9uG5nk1-A2dY)
@@ -93,3 +100,11 @@ Cada curso ofrece muchos tipos de oportunidades de aprendizaje:
 - Cuando encuentre enlaces útiles en este curso, márquelos para que pueda consultar la información más adelante para estudiarla o revisarla.
     
 - Comprender y seguir el [Código de conducta de Coursera](https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?) para garantizar que la comunidad de aprendizaje siga siendo un lugar acogedor, amigable y de apoyo para todos los miembros.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Introducción al Curso 3]]
+- ➡️ Siguiente: [[3- Recursos y consejos útiles]]

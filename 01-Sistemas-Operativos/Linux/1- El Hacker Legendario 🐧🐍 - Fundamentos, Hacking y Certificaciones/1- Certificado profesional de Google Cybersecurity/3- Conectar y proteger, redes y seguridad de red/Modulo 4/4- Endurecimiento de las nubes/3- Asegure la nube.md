@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Asegure la nube
 
 A principios de este curso, se le presentó la [computación en la nube](https://www.coursera.org/learn/networks-and-network-security/lecture/BGlnq/cloud-networks). **La computación en la nube** es un modelo que permite un acceso cómodo y bajo demanda a un conjunto compartido de recursos informáticos configurables. Estos recursos pueden configurarse y liberarse con un mínimo esfuerzo de gestión o interacción con el proveedor de servicios.
 
@@ -50,3 +57,11 @@ El modelo de responsabilidad compartida garantiza que tanto el CSP como los usua
 ## Puntos clave
 
 Es esencial conocer las consideraciones de seguridad que son exclusivas de la nube y comprender el modelo de responsabilidad compartida para la seguridad de la nube. Las organizaciones son responsables de configurar correctamente y mantener las mejores prácticas de seguridad para sus servicios en la nube. El modelo de responsabilidad compartida garantiza que tanto el CSP como los usuarios estén de acuerdo sobre de qué es responsable la organización y de qué es responsable el CSP a la hora de proteger la infraestructura de la nube.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Kelsey, Seguridad de la nube explicada]]
+- ➡️ Siguiente: [[4- Criptografía y Seguridad de la nube]]

@@ -124,12 +124,12 @@ Mantenerse al día con las amenazas emergentes y realizar pruebas regulares es e
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- Introducción a las pruebas de penetración]]
+- ⬆️ Carpeta: [[_2- Introducción a las pruebas de penetración|2- Introducción a las pruebas de penetración]]
 - ➡️ Siguiente: [[2- Tipos de pruebas de penetración]] — clasificación Black/Grey/White Box.
 
 ## Relacionadas
 
 - [[3- Áreas y dominios de prueba]] — dominios donde se aplican estas fases.
 - [[4- Beneficios de las pruebas de penetración]] — el "por qué" desde lado del negocio.
-- [[../../../../../../02-Ciberseguridad/5- Reconocimiento/1- Nmap/index|02 → Nmap]] — herramienta principal de la fase de Reconocimiento.
-- [[../../../../../../02-Ciberseguridad/4- Hacking Intermedio Teoria/index|02 → Hacking Intermedio Teoría]] — curso paralelo con módulos sobre planificación y alcance.
+- [[_1- Nmap|02 → Nmap]] — herramienta principal de la fase de Reconocimiento.
+- [[_4- Hacking Intermedio Teoria|02 → Hacking Intermedio Teoría]] — curso paralelo con módulos sobre planificación y alcance.

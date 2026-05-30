@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Gracia - Mentalidad de seguridad en la detección y respuesta
 
 ## 🎧 Testimonio: Mentalidad de Seguridad — Grace (Google)
 
@@ -45,3 +52,10 @@ Aprender sobre seguridad puede ser desafiante, pero la **curiosidad, la práctic
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Herramientas y técnicas de Detección]]
+- ➡️ Siguiente: [[4- Componentes de una firma de Detección]]

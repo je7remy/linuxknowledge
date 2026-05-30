@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso
 
 ## ✅ **Resumen final del curso – Fundamentos de Seguridad para Analistas (Coursera)**
 
@@ -96,3 +103,11 @@ En la próxima parte del programa, **Chris** te guiará a través de:
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Reflexiona y conéctate con tus compañeros]]
+- ➡️ Siguiente: [[3- Glosario del curso 2]]

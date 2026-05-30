@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Guía de referencia - Conceptos de Python de la semana 4
 
 ## 🧠 Guía de Referencia: Conceptos de Python (Módulo 4)
 
@@ -34,3 +41,11 @@ Los siguientes métodos son útiles al analizar datos.
 |---|---|---|
 |**`.split()`**|Convierte una cadena en una lista; separa la cadena basándose en el carácter que se pasa como argumento; si no se pasa un argumento, separará la cadena cada vez que encuentre caracteres de espacio en blanco (como espacio o retorno de línea).|`approved_users = "elarson,bmoreno,tshah".split(",")` _(Convierte la cadena `"elarson,bmoreno,tshah"` en la lista `["elarson", "bmoreno", "tshah"]` dividiendo en cada coma)_ `removed_users = "wjaffrey jsoto abernard".split()` _(Convierte la cadena `"wjaffrey jsoto abernard"` en la lista `["wjaffrey", "jsoto", "abernard"]` dividiendo en cada espacio)_|
 |**`.join()`**|Concatena los elementos de un iterable (como una lista) en una cadena; toma el iterable a concatenar como argumento; se añade a un carácter (o cadena) que separará cada elemento una vez unidos en una cadena. **Sintaxis:** `"separador".join(iterable)`|`approved_users = ",".join(["elarson", "bmoreno", "tshah"])` _(Concatena los elementos de la lista en la cadena `"elarson,bmoreno,tshah"`, separando cada elemento con una coma)_|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]
+- ➡️ Siguiente: [[3- Términos del glosario del Módulo 4]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Métodos de Detección de Incidentes de Ciberseguridad
 
 Los analistas de Seguridad utilizan herramientas de Detección para ayudarles a descubrir amenazas, pero existen métodos adicionales de Detección que también pueden ser utilizados.
 
@@ -53,3 +60,11 @@ Si desea saber más sobre la Caza de amenazas y la Inteligencia sobre amenazas, 
 - Un [repositorio de información sobre la caza de amenazas de](https://www.threathunting.net/) The ThreatHunting Proyecto
     
 - Investigación sobre [hackers patrocinados por el](https://blog.google/threat-analysis-group/) estado del Grupo de Análisis de Amenazas (TAG)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- La fase de Detección y Análisis del ciclo de vida]]
+- ➡️ Siguiente: [[4- Supervisión continua de CI-CD]]

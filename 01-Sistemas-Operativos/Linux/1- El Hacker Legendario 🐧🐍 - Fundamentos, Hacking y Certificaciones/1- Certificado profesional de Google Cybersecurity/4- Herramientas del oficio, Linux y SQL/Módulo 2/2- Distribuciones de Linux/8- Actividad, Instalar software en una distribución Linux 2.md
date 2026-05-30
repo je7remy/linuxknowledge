@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad, Instalar software en una distribución Linux 2
 # Actividad: Instalar software en una distribución de Linux
 
 ## Resumen de la actividad
@@ -198,3 +205,11 @@ Antes de finalizar el laboratorio, asegúrese de que está satisfecho de haber c
 2. Otro cuadro emergente le pedirá que califique el laboratorio y proporcione comentarios. Puede completar esto si así lo desea.
 3. Cierre la pestaña del navegador que contiene el laboratorio para volver a su curso.
 4. Actualice la pestaña del navegador del curso para marcar el laboratorio como completo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[7- Actividad, Instalar software en una distribución Linux]]
+- ➡️ Siguiente: [[9- Laboratorio Practico]]

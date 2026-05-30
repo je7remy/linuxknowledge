@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [vision-models, multimodal, llm, python, ms-reactor, gpt-4v, vlm]
+actualizado: 2026-05-28
+---
+
+# Sesión 4 — Python + IA, Modelos de Visión
+
 Hola a todos, bienvenidos a esta sesión de hoy. Soy Larisa, responsable de eventos en Microsoft Reactor, y antes de comenzar, quiero pedirles que lean brevemente el **Código de Conducta de Microsoft**. En resumen, todos aquí somos amigables y respetuosos, incluyendo a los oradores. Microsoft Reactor es un espacio donde todos son bienvenidos. Recuerden que esta sesión será grabada y estará disponible en nuestro canal de YouTube en unas 48 horas. También tenemos un chat para sus preguntas, y contamos con un equipo listo para ayudarles y contestar todas sus dudas. ¡Así que empecemos con la sesión de hoy!
 
 ---
@@ -282,3 +290,11 @@ Otros eventos:
 - **Recursos**: **[aka.ms/thesource/Python_AI](https://aka.ms/thesource/Python_AI)**.
 
 La sesión en inglés es mañana; revisenla para practicar y ver la versión de Pamela. Nos vemos el lunes en Discord y el martes en la próxima sesión. ¡Chao, gracias por acompañarme! Ahora, a cenar y a repasar los deberes.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]
+- ⬅️ Anterior: [[3- Python + IA, Recuperación-Aumentada Generación]]
+- ➡️ Siguiente: [[5- Python + IA, Llamadas a funciones y salidas estructuradas]]

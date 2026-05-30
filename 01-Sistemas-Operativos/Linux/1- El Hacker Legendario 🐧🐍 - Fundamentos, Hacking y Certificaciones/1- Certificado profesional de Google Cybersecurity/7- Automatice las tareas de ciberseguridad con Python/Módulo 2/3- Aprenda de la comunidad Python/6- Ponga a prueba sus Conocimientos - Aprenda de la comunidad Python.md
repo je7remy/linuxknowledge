@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Aprenda de la comunidad Python
 
 ### 🧠 Pregunta 1
 
@@ -101,3 +108,10 @@ Un archivo Python que contiene funciones adicionales, variables y cualquier tipo
 📘 Explicación:
 
 Un Módulo es un archivo .py que agrupa definiciones y sentencias de Python (funciones, variables, etc.) para ser reutilizadas en otros scripts.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Dorsa - Utilizar Python de forma eficaz en un equipo de ciberseguridad]]

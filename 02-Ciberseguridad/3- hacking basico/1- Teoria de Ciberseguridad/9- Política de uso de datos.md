@@ -12,7 +12,7 @@ Si bien usted es el propietario del contenido, la empresa podría reutilizar cua
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[8- Términos del servicio]]
 - ➡️ Siguiente: [[10- Configuración de privacidad]]
 

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Principio de privilegio mínimo
 
 Controles de seguridad son esenciales para mantener los Datos sensibles privados y seguros. Uno de los controles más habituales es el principio de privilegio mínimo, también conocido como PoLP o least privilege. El **principio de privilegio mínimo** es un concepto de Seguridad en el que a un usuario sólo se le concede el nivel mínimo de acceso y autorización necesario para completar una tarea o función.
 
@@ -76,3 +83,11 @@ Los servicios de directorio de cuentas mantienen registros y bitácoras asociado
 ## Puntos clave
 
 El principio de privilegio mínimo es un control de seguridad que puede reducir el riesgo de acceso no autorizado a información y recursos sensibles. Establecer y configurar las cuentas de usuario con los niveles adecuados de acceso y autorización es un paso importante para implementar el mínimo privilegio. Auditar las cuentas de usuario y revocar los derechos de acceso innecesarios es una práctica importante que ayuda a mantener la confidencialidad, integridad y disponibilidad de la Información.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Controles de seguridad]]
+- ➡️ Siguiente: [[4- Ciclo de vida de los datos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Examinar la entrada y salida en el shell
 
 **En este vídeo, vamos a aprender un poco más sobre el shell y cómo comunicarnos con él.**
 
@@ -119,3 +126,11 @@ Después de que un usuario escriba un comando en el shell, éste puede devolver 
 La **entrada estándar** es lo que el usuario escribe (lo que entra al sistema), por lo tanto **no es una respuesta del shell**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Entrada y salida en el shell]]
+- ➡️ Siguiente: [[5- Actividad, Examinar la entrada y salida en el shell]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Operaciones de Lista en Python
 
 ### 🧠 Introducción a las Listas en Python
 
@@ -241,3 +248,10 @@ En la Lista `["elarson", "bmoreno", "tshah", "eraab"]`, el elemento `"eraab"` ti
 |"bmoreno"|1|
 |"tshah"|2|
 |**"eraab"**|**3**|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Escriba un algoritmo sencillo]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Bloques de construcción de las comunicaciones de ciberseguridad
 
 
 ### 📖 La Estructura de una "Historia de Seguridad"
@@ -71,3 +78,11 @@ _Correcto._ Las presentaciones visuales y los correos electrónicos pueden utili
 ⬜ **Notas escritas a mano**
 
 ⬜ **Un informe de datos por escrito**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[3- Comunicación clara y concisa]]
+- ➡️ Siguiente: [[5- Comunicarse eficazmente con las partes interesadas]]

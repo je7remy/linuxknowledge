@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Prueba, Autenticación y autorización de usuarios
 
 **Pregunta 1:** ¿Qué es la autorización?
 
@@ -35,3 +42,10 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[11- Actividad, Añadir y gestionar usuarios con comandos Linux]]

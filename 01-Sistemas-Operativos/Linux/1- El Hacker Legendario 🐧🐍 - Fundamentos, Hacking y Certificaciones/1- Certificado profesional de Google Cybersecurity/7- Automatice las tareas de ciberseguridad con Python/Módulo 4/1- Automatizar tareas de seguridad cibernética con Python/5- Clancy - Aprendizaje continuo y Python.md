@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Clancy - Aprendizaje continuo y Python
 
 ## 🧑‍💻 Clancy: De la Contabilidad a la Ciberseguridad
 
@@ -34,3 +41,11 @@ Clancy comparte su trayectoria y consejos, destacando que no empezó como ingeni
 ## 🧗 Perseverancia
 
 Empezar puede parecer difícil, como subir una gran colina. Clancy anima a **perseverar** y **continuar aprendiendo**, asegurando que será una experiencia muy gratificante al final.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Componentes esenciales de Python para la automatización]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Python y la automatización]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Comunicación clara y concisa
 
 
 ### 📊 Principios de la Comunicación con Partes Interesadas
@@ -27,3 +34,11 @@ El video establece varias reglas fundamentales para que tu comunicación sea efe
         
 
 Tu función es ser un **facilitador**. Ayudas a las partes interesadas a hacer su trabajo eficazmente al proporcionarles la información de seguridad que _necesitan_, de la forma en que la necesitan.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[2- El propósito y el impacto de las partes interesadas]]
+- ➡️ Siguiente: [[4- Bloques de construcción de las comunicaciones de ciberseguridad]]

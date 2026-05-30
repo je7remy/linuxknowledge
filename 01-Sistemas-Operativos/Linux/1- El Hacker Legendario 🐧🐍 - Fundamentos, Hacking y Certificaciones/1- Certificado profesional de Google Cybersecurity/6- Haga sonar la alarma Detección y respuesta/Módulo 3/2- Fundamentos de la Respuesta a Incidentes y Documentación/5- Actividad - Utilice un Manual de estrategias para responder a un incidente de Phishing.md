@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad - Utilice un Manual de estrategias para responder a un incidente de Phishing
 
 ### **Contexto del Escenario**
 
@@ -89,3 +96,11 @@ Las razones para la escalada son las siguientes:
 - **Detalles del Remitente Sospechosos**: El correo electrónico del remitente, `<76tguyhh6tgftrt7tg.su>`, es una cadena de caracteres aparentemente aleatoria y no coincide con el nombre del remitente "Def Communications" ni con el nombre de la firma, "Clyde West"22222222. Esto es un fuerte indicador de suplantación de identidad.
     
 - **Contenido del Correo Electrónico**: El asunto y el cuerpo del correo electrónico contienen errores gramaticales y de ortografía, como "Infrastructure Egnieer role" y "I am writing for to express"23232323. Los correos electrónicos de phishing a menudo contienen este tipo de errores. La solicitud de usar una contraseña, `paradise10789`, para abrir el archivo adjunto es una táctica de ingeniería social para crear una falsa sensación de seguridad. 24
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- El valor de los manuales de ciberseguridad]]
+- ➡️ Siguiente: [[6- Función del triaje en la Respuesta ante incidentes]]

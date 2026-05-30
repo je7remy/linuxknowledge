@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Omad - Mi viaje de aprendizaje en la ciberseguridad
 
 # Historia de Omad – De prisión a Google
 
@@ -105,3 +112,10 @@ Cambió mi vida, y **cambiará la tuya también**.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- La importancia de las actualizaciones]]
+- ➡️ Siguiente: [[5- Pruebas de penetración]]

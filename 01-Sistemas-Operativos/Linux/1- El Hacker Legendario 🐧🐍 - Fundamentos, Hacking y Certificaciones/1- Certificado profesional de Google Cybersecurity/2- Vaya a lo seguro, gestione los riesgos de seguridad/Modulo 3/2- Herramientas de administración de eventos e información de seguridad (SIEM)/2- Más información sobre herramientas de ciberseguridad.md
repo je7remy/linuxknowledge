@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Más información sobre herramientas de ciberseguridad
 
 Anteriormente, aprendió sobre varias herramientas que utilizan los miembros del equipo de ciberseguridad para monitorear e identificar posibles amenazas, riesgos y vulnerabilidades de seguridad. En esta lectura, aprenderá más sobre las herramientas de ciberseguridad comunes de código abierto y propietarias que puede utilizar como profesional de la ciberseguridad.
 
@@ -34,3 +41,11 @@ Suricata fue desarrollado por la Open Information Security Foundation (OISF). OI
 ## Conclusiones clave
 
 Las herramientas de código abierto son muy utilizadas en la profesión de la ciberseguridad. A lo largo del programa de certificación, tendrá múltiples oportunidades para aprender y explorar tanto las herramientas de código abierto como las propietarias con más profundidad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Explora las herramientas SIEM más comunes]]
+- ➡️ Siguiente: [[3- Talya, Mitos sobre el ámbito de la ciberseguridad]]

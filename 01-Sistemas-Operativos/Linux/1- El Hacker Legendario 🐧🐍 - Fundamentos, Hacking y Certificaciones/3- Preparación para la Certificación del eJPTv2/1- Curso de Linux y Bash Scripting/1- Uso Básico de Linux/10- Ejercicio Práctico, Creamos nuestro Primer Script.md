@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Ejercicio Práctico, Creamos nuestro Primer Script
 Un **script** es un conjunto de instrucciones que se escriben en un archivo de texto y se ejecutan secuencialmente por un intérprete, en este caso, el intérprete de **Bash** (Bourne Again Shell) en sistemas Linux o similares:
 
 1. **Creación del archivo del script**:
@@ -47,4 +54,12 @@ Un **script** es un conjunto de instrucciones que se escriben en un archivo de t
 
 
 
-[[11- Ejercicio Práctico, Script Siempre en Ejecución]] 
+[[11- Ejercicio Práctico, Script Siempre en Ejecución]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[9- Uso de Grep]]
+- ➡️ Siguiente: [[11- Ejercicio Práctico, Script Siempre en Ejecución]]

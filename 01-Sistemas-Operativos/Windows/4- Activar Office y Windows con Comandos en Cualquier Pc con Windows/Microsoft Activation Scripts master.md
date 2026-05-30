@@ -56,7 +56,7 @@ Si el script es malicioso, **no lo ejecutes** en tu máquina principal. Usa una 
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|01 → Windows]]
+- ⬆️ Sección: [[_Windows|01 → Windows]]
 
 ## Relacionadas
 

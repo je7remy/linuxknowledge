@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Cómo Utilizar WGET
 
 ---
 
@@ -29,3 +36,11 @@ Se refiere a su función principal: obtener (GET) archivos desde la web.
 **[[1- Protocolo HTTP]]**
 **[[3- Securización de Servidores Web Apache – PARTE 1]]**
 **[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[4- Cómo Utilizar CURL con HTTP]]
+- ➡️ Siguiente: [[6- Gestión de Usuarios en Linux]]

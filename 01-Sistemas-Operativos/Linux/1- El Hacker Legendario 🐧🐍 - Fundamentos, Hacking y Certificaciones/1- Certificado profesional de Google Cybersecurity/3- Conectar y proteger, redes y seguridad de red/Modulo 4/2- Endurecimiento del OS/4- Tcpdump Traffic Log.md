@@ -1,4 +1,3 @@
-
 ---
 
 **1. Resolución DNS de yummyrecipesforme.com**
@@ -96,3 +95,11 @@
 - A las 14:20 se redirige a un segundo dominio (greatrecipesforme.com) con una IP distinta, y vuelve a iniciarse un nuevo flujo HTTP.
     
 - Este cambio repentino de DNS y de puerto local es un indicio de posible redireccionamiento malicioso o sitio spoofeado.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Actividad, Aplicar técnicas de endurecimiento del OS]]
+- ➡️ Siguiente: [[5- How to read the tcpdump traffic log]]

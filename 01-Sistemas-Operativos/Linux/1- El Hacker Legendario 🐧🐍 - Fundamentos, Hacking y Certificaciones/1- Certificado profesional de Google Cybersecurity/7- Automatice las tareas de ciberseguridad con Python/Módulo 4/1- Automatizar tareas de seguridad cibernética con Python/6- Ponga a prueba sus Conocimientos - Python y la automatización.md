@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Python y la automatización
 
 ## 🧠 Pregunta 1
 
@@ -166,3 +173,9 @@ Saber trabajar con archivos es importante para la automatización, ya que la inf
 
 Los formatos de archivo habituales para los registros de Seguridad son .txt (texto plano) y .csv (valores separados por comas). Ambos formatos son tipos de archivos de texto, lo que significa que sólo contienen texto sin formato, facilitando la extracción de datos mediante programación. .jpeg y .gif son formatos de imagen.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Clancy - Aprendizaje continuo y Python]]

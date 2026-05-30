@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, el sistema operativo en funcionamiento
 
 ## ✅ Evaluación: Fundamentos del Sistema Operativo
 
@@ -43,3 +50,10 @@
 📝 _El proceso de arranque sigue esta secuencia: BIOS/UEFI → Cargador de arranque → Sistema operativo._
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Tecnología de virtualización]]

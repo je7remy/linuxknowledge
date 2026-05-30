@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Conclusión
 
 Ahora estás mejor preparado para comprender y ayudar a tomar decisiones con respecto a la evaluación y gestión de riesgos. Repasemos lo que hemos cubierto:
 
@@ -11,3 +18,10 @@ Ahora estás mejor preparado para comprender y ayudar a tomar decisiones con res
 Ya casi terminas; solo queda una sección más en este curso. A continuación, aprenderás sobre las **herramientas comunes** y los **lenguajes de programación** que usan los analistas de seguridad para proteger las operaciones de la organización.
 
 ¡Espero que estés tan emocionado como yo por seguir adelante!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Glosario de términos del módulo 3]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Más sobre filtros con AND, OR y NOT
 
 
 # Operadores lógicos en SQL
@@ -107,3 +114,10 @@ WHERE NOT country = 'Canada' AND NOT country = 'USA';
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Filtrados con AND, OR y NOT]]
+- ➡️ Siguiente: [[6- Laboratorio Filtrado con AND, OR y NOT]]

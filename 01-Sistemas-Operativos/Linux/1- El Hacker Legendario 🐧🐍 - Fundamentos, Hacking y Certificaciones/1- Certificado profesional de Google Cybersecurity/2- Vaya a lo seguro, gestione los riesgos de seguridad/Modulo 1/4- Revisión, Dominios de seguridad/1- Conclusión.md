@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Conclusión
 
 ### ✅ **Resumen de la Sección 1 del Curso**
 
@@ -24,3 +31,10 @@ Has completado con éxito la primera sección del curso, donde aprendiste lo sig
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Glosario de términos del módulo 1]]

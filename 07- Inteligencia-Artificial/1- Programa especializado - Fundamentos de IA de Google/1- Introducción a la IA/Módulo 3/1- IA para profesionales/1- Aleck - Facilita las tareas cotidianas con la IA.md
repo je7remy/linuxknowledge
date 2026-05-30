@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Aleck - Facilita las tareas cotidianas con la IA
 
 ## Testimonio de Aleck: Usar la IA para Organizar el Conocimiento
 
@@ -46,3 +53,10 @@ Aleck usa la IA para que su trabajo sea más eficiente y satisfactorio.
     3. La IA le ayuda a **crear elementos de acción** inmediatos, **resumir la reunión** y proporcionar las **conclusiones clave**.
         
     4. **Resultado:** "Me ahorra de una hora a una hora y media de tiempo".
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ➡️ Siguiente: [[2- Actividad - Utilizar la IA para crear un correo electrónico]]

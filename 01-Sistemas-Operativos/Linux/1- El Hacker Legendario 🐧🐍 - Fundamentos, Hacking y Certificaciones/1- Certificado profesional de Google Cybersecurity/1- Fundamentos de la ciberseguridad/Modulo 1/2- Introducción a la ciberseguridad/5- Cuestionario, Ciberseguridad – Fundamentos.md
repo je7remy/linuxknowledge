@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Cuestionario, Ciberseguridad – Fundamentos
 
 ---
 
@@ -46,3 +53,10 @@ Realizar _____ permite a los profesionales de la seguridad revisar los registros
 ❌ Reducción de la productividad empresarial (Incorrecta)
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[4- Terminología común sobre ciberseguridad]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad - Depuración de código Python
 
 ## 📝 Actividad: Depurar Código Python
 
@@ -291,3 +298,11 @@ elif system == "OS 3":
 >     
 > - Los errores lógicos requieren **probar el código** con diferentes entradas y comparar los resultados con lo esperado para identificar dónde falla la lógica.
 >
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Explore las técnicas de depuración]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Depuración de código Python]]

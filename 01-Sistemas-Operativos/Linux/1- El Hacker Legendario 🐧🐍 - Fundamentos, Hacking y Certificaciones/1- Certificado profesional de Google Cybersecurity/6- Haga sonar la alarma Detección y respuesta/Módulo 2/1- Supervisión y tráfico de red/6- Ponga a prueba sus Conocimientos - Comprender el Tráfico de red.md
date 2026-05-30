@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Comprender el Tráfico de red
 
 **1. ¿Cómo ayudan los Indicadores de compromiso (IoC) a los analistas de seguridad a detectar anomalías en el tráfico de redes?**  
 ✅ **Permiten identificar un ataque.**
@@ -32,3 +39,10 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Ataques de robo de datos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ataques comunes y su efectividad
 
 Anteriormente, aprendió sobre los ataques pasados y presentes que ayudaron a dar forma a la industria de la ciberseguridad. Estos incluyeron el ataque LoveLetter, también llamado virus ILOVEYOU, y el gusano Morris. Uno de los resultados fue el establecimiento de equipos de respuesta, que ahora se conocen comúnmente como equipos de respuesta a incidentes de seguridad informática (CSIRT). En esta lectura, aprenderá más sobre los métodos comunes de ataque. Familiarizarse con los diferentes métodos de ataque _y_ con las tácticas y técnicas en evolución que utilizan los actores de amenazas le ayudará a proteger mejor a las organizaciones y a las personas.
 
@@ -72,3 +79,11 @@ Las razones por las que los ataques de ingeniería social son efectivos incluyen
 ## Conclusiones clave
 
 En esta lectura, aprendiste sobre algunos ataques comunes y sus impactos. También aprendiste sobre ingeniería social y por qué tiene tanto éxito. Si bien esta es solo una breve introducción a los tipos de ataque, tendrá muchas oportunidades a lo largo del programa para desarrollar aún más su comprensión de cómo identificar y defenderse de los ataques de ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3- Ataques en la era digital]]
+- ➡️ Siguiente: [[5- Sean, Mantén la calma durante una filtración de datos]]

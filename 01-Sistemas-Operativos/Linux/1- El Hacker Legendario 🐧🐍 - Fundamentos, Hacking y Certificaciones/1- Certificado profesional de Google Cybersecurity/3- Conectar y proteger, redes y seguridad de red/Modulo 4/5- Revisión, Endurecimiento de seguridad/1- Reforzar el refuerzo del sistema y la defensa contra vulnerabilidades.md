@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Reforzar el refuerzo del sistema y la defensa contra vulnerabilidades
 
 ## 🧠 **Ejercicio Interactivo - Endurecimiento del Sistema Operativo, la Red y la Nube**
 
@@ -153,3 +160,9 @@ _Una IP desconocida intenta acceder a un servidor. ¿Qué harías para investiga
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Recapitulación]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Más información sobre los principios de seguridad de OWASP
 
 Anteriormente, aprendió que los analistas de ciberseguridad ayudan a mantener los datos seguros y a reducir el riesgo para una organización mediante el uso de una variedad de marcos de seguridad, controles y principios de seguridad. En esta lectura, aprenderá más sobre los principios de seguridad del Proyecto de Seguridad de Aplicaciones Web Abiertas, recientemente rebautizado como Proyecto® de Seguridad de Aplicaciones Mundiales Abiertas (OWASP), y cómo los utilizan los analistas de nivel básico.
 
@@ -45,3 +52,11 @@ La seguridad de una aplicación no debe depender de mantener en secreto el códi
 ## Conclusiones clave
 
 Los profesionales de la ciberseguridad aplican constantemente los principios de seguridad para proteger a las organizaciones y a las personas a las que sirven. Como analista de seguridad de nivel básico, puede utilizar estos principios de seguridad para promover prácticas de desarrollo seguras que reduzcan los riesgos tanto para las empresas como para los usuarios.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Principios de seguridad de OWASP]]
+- ➡️ Siguiente: [[3- Wajih, Mantente al día sobre las últimas amenazas de ciberseguridad]]

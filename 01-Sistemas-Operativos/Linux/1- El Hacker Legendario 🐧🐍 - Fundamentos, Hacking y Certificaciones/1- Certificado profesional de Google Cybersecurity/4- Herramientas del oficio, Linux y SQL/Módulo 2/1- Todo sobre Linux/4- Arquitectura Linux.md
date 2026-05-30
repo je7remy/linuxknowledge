@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Arquitectura Linux
 
 ## 🏛️ **Arquitectura de Linux: Componentes clave**
 
@@ -156,3 +163,10 @@ El **kernel** es el **núcleo** del sistema operativo. Actúa como un puente ent
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Phil, Aprender y crecer en el campo de la ciberseguridad]]
+- ➡️ Siguiente: [[5- Explicación de la arquitectura de Linux]]

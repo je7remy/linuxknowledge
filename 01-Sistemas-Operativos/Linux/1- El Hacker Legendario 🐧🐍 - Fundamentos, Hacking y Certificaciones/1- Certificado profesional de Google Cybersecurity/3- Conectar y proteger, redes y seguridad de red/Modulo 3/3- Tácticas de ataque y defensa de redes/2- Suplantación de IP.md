@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Suplantación de IP
 
 ## 🔐 **Suplantación de IP (IP Spoofing)**
 
@@ -151,3 +158,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Sniffing de paquetes malicioso]]
+- ➡️ Siguiente: [[3- Visión general de las tácticas de interceptación]]

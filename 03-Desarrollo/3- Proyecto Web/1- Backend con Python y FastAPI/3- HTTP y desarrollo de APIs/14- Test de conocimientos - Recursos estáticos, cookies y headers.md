@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, recursos-estaticos, cookies, headers, test-conocimientos]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Recursos estáticos, cookies y headers
 
 # Módulo 14: Recursos Estáticos, Headers y Cookies
 
@@ -249,3 +256,10 @@ Aquí tienes la tabla definitiva basada en tus imágenes:
 > **Justificación:**
 > 
 > La clase `Cookie` se utiliza en los parámetros de la función para leer los valores de las cookies enviadas por el navegador.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[13- Recursos estáticos, cookies y headers]]

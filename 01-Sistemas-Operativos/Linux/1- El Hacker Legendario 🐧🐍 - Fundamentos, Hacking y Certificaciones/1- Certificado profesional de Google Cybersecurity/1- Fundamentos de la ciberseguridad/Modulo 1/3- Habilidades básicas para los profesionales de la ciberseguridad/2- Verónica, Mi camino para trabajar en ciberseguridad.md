@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Verónica, Mi camino para trabajar en ciberseguridad
 
 ### Testimonio de Verónica – Ingeniera de Seguridad en Google
 
@@ -19,3 +26,10 @@ No creo que alguien necesite un **título universitario** para dedicarse a la ci
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Habilidades básicas para los profesionales de la ciberseguridad]]
+- ➡️ Siguiente: [[3- Competencias transferibles y técnicas en ciberseguridad]]

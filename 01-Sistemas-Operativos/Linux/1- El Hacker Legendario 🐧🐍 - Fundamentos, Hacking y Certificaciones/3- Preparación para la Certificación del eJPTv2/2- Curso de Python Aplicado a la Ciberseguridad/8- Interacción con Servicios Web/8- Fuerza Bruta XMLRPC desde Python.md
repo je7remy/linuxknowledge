@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Fuerza Bruta XMLRPC desde Python
 
 ## 1. **Lectura del Diccionario de Contraseñas**
 
@@ -303,3 +310,10 @@ La evolución del código fue la siguiente:
 
 Este desarrollo gradual permitió transformar un script inicial de lectura de contraseñas en un brute-force funcional y robusto, ajustado al entorno de la máquina vulnerable **"escolares"** de DockerLabs.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[7- Explicación XMLRPC en WordPress]]
+- ➡️ Siguiente: [[9- Explicación de cómo Enumerar Plugins de WordPress de forma Manual]]

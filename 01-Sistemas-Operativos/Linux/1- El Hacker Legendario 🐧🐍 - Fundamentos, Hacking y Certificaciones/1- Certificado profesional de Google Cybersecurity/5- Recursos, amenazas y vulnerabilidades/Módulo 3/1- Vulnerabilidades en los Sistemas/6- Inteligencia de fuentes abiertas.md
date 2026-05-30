@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Inteligencia de fuentes abiertas
 
 Los ciberataques a veces pueden prevenirse con la información adecuada, que empieza por saber dónde son vulnerables sus sistemas. Anteriormente, aprendió que la Lista de vulnerabilidades y exposiciones comunes (CVE®) y las herramientas de escaneado son dos formas útiles de encontrar puntos débiles. Pero existen otras formas de identificar vulnerabilidades y amenazas.
 
@@ -52,3 +59,11 @@ Existen muchas otras herramientas OSINT que pueden utilizarse para encontrar tip
 ## Puntos clave
 
 La recopilación de información y la inteligencia son aspectos importantes de la ciberseguridad. La OSINT se utiliza para tomar decisiones basadas en pruebas que pueden utilizarse para prevenir ataques. Hay mucha información disponible, por lo que es importante que los profesionales de la seguridad sean hábiles en la búsqueda de información. Estar familiarizado con las herramientas y Recursos OSINT más populares hará que su investigación sea más fácil a la hora de reunir información y recopilar inteligencia.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- El OWASP Top 10]]
+- ➡️ Siguiente: [[7- Ponga a prueba sus Conocimientos - Defectos del sistema]]

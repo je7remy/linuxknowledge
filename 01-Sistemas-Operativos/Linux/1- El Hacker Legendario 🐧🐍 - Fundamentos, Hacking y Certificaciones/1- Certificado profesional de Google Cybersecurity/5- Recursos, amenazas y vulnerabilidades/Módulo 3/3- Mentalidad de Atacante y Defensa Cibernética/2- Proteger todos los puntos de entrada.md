@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Proteger todos los puntos de entrada
 
 ## 📌 Ideas principales del texto
 
@@ -76,5 +83,11 @@ Porque:
     - Un empleado descontento es una **amenaza interna**, no una superficie.
         
     - Un archivador restringido también pertenece a la **superficie física**.
-        
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Actividad de Portfolio - Analizar un sistema vulnerable para una pequeña empresa]]
+- ➡️ Siguiente: [[3- Enfoque la ciberseguridad con mentalidad de atacante]]

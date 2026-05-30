@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
 ---
 
+# Qué son las redes
 # 🛡️ Introducción a Redes – Transcripción
 
 ## ¿Qué es una red?
@@ -59,3 +63,11 @@ Existen dos tipos principales de redes:
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Chris, Mi camino hacia la ciberseguridad]]
+- ➡️ Siguiente: [[4- Tina, Trabajar en seguridad de redes]]

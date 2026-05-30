@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Explorar las funciones integradas
 
 ### 🧠 Resumen: Funciones Integradas (Built-in) de Python
 
@@ -78,3 +85,11 @@ Aquí hay un par de nuevas funciones integradas muy útiles:
 |**`sorted()`**|Ordena los componentes de una lista. Para números, los ordena de menor a mayor. Para cadenas, los ordena **alfabéticamente**.|`usernames = ["bmoreno", "tshah", "elarson"]` `print(sorted(usernames))`|`['bmoreno', 'elarson', 'tshah']`|
 
 Estas son solo algunas de las muchas funciones integradas que Python ofrece. A medida que trabajes más con Python, te familiarizarás con más funciones que pueden ayudarte a simplificar tus programas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Funciones y variables]]
+- ➡️ Siguiente: [[5- Trabajar con funciones integradas]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Desafío del Modulo 1
 
 ### ✅ **Pregunta 1**
 
@@ -151,3 +158,9 @@ ______ garantiza que la capacidad limitada de un sistema informático se utilice
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Términos del glosario del Módulo 1]]

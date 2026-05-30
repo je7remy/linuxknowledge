@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Competencias transferibles y técnicas en ciberseguridad
 
 Anteriormente, aprendió que los analistas de ciberseguridad necesitan desarrollar ciertas habilidades básicas para tener éxito en el trabajo. **Las habilidades transferibles** son habilidades de otras áreas de estudio o práctica que se pueden aplicar a diferentes carreras. **Las habilidades técnicas** también pueden aplicarse a varias profesiones; sin embargo, generalmente requieren el conocimiento de herramientas, procedimientos y políticas específicas. En esta lectura, explorarás más a fondo tanto las habilidades transferibles como las habilidades técnicas.
 
@@ -38,3 +45,11 @@ Además de adquirir habilidades que te ayudarán a tener éxito como profesional
 ## Conclusiones clave
 
 Comprender los beneficios de las habilidades básicas, transferibles y técnicas puede ayudarlo a prepararse para ingresar con éxito a la fuerza laboral de ciberseguridad. A lo largo de este programa, tendrás múltiples oportunidades para desarrollar estas y otras habilidades clave de analista de ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Verónica, Mi camino para trabajar en ciberseguridad]]
+- ➡️ Siguiente: [[4- La importancia de la ciberseguridad]]

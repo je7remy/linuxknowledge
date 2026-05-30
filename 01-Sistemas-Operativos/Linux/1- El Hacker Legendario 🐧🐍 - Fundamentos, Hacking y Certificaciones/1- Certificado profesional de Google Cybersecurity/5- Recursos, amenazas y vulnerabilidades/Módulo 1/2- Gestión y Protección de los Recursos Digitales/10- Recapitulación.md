@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 # 📌 Resumen de la Sección – Gestión de Riesgos y Fundamentos de Seguridad
 
@@ -57,3 +64,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[9- Actividad - Puntuar los riesgos en función de su probabilidad y gravedad]]
+- ➡️ Siguiente: [[11- Términos del glosario del Módulo 1]]

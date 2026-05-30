@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Captura de paquetes con tcpdump
 
 
 `tcpdump` es un **analizador de tráfico de red** que funciona a través de la **línea de comandos**. Es una herramienta poderosa preinstalada en muchas versiones de Linux 🐧 y disponible para otros sistemas tipo Unix, como macOS. Sirve para capturar y examinar paquetes de datos de la red en tiempo real.
@@ -61,3 +68,10 @@ Al ejecutar el comando anterior, `tcpdump` muestra una gran cantidad de informac
 - **cksum (Suma de Comprobación):** Un valor usado para verificar si el encabezado del paquete tiene errores.
     
 - **Flags (Banderas TCP):** Indicadores del estado de una conexión TCP. El texto menciona `[P.]`, que significa que las banderas **PUSH** y **ACK** están activas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Visión general de tcpdump]]

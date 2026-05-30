@@ -14,7 +14,7 @@ Mientras más información personal comparta en línea, más fácil será para a
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[11- Proteja sus datos]]
 - ➡️ Siguiente: [[13- Dispositivos de seguridad]]
 

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Análisis de Seguridad Automático de Archivos
 
 ## 1. Contextualización y Objetivo
 
@@ -232,3 +239,9 @@ reportes = respuesta['results']['positives']
 print("El numero de antivirus que han detectado como malicioso el archivo es: ", reportes)
 `````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ciberseguridad Defensiva|9- Ciberseguridad Defensiva]]
+- ➡️ Siguiente: [[2- Automatización de Análisis de IPs desde Python PARTE 1]]

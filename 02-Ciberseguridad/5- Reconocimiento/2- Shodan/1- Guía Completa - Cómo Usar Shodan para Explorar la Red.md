@@ -145,12 +145,12 @@ Un **dork** es una consulta específica que filtra resultados en Shodan. Vamos c
 
 ## Navegación
 
-- ⬆️ Carpeta padre: [[../index|5- Reconocimiento]]
-- 🏠 Sección: [[../../index|02-Ciberseguridad]]
+- ⬆️ Carpeta padre: [[_5- Reconocimiento|5- Reconocimiento]]
+- 🏠 Sección: [[_02-Ciberseguridad|02-Ciberseguridad]]
 
 ## Relacionadas
 
-- [[../1- Nmap/index|1- Nmap]] — reconocimiento activo complementario.
+- [[_1- Nmap|1- Nmap]] — reconocimiento activo complementario.
 - [[../1- Nmap/3- nmap firewall evasion|Nmap → Evasión]] — combinar Shodan con escaneos sigilosos.
 - [[../3- Geolocalización de IPs/1- Guía Completa para Rastrear y Geolocalizar una Dirección IP|Geolocalización IPs]] — siguiente paso tras descubrir hosts.
 - [[../../3- hacking basico/3- hosts/9- SMB|02 → SMB]] — EternalBlue (MS17-010) en SMB explotado vía Shodan + Metasploit.

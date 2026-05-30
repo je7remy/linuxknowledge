@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, cors, test-conocimientos, creacion-api]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Creación API
 
 ### 1. ¿Qué es CORS en el contexto de APIs?
 
@@ -128,3 +135,11 @@
 > **Justificación:** Pydantic permite validar y tipar datos mediante clases basadas en BaseModel.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[3- Creación API]]
+- ➡️ Siguiente: [[5- Path y Query]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Sentencias Condicionales
 
 ---
 
@@ -173,3 +180,11 @@ else:
 [[7- Los Operadores Lógicos]]
 [[9- Bucle FOR]]
 [[10- Bucle WHILE]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[7- Los Operadores Lógicos]]
+- ➡️ Siguiente: [[9- Bucle FOR]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Greg, Sigue explorando con la IA
 
 ## **Transcripción: Innovar con la Inteligencia Artificial (Greg, investigador de Google)**
 
@@ -75,3 +82,11 @@ No se trata solo de construir IA, sino de **descubrir nuevas formas de usarla pa
 > _La oportunidad de innovación y creatividad está en tus manos, no en las de nadie más._
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[1- Inspírate en la innovación de la IA]]
+- ➡️ Siguiente: [[3- Actividad, Planifica futuras oportunidades con la IA]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Análisis del endurecimiento de la red 1
 
 ## Resumen de la actividad
 
@@ -96,3 +103,10 @@ Tres herramientas de endurecimiento que la organización puede utilizar para abo
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Aplicaciones de Seguridad de red]]
+- ➡️ Siguiente: [[3.1- Tareas de Endurecimiento de Seguridad]]

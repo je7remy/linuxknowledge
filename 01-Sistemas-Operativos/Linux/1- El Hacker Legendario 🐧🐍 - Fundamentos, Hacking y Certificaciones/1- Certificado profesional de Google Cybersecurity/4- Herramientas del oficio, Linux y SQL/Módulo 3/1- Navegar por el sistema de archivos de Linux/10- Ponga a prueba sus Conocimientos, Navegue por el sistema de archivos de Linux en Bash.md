@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Navegue por el sistema de archivos de Linux en Bash
 ### ✅**Preguntas y Respuestas**
 
 | Nº  | Pregunta                                       | Respuesta Correcta                                                                 | Explicación Breve                                                            |
@@ -10,3 +17,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[9- Ejemplo, Buscar archivos con comandos Linux]]

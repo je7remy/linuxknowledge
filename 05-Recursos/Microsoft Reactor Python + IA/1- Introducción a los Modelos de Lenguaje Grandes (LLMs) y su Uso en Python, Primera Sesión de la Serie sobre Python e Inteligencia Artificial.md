@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [llm, python, ms-reactor, ollama, quart, tokenizacion, contexto]
+actualizado: 2026-05-28
+---
+
+# Sesión 1 — Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python
 
 # Python + IA (Español) (Microsoft Reactor)
 
@@ -493,3 +500,10 @@ Este enfoque práctico inspira a los desarrolladores a ir más allá de las inte
 [[9- Bucle FOR]]
 [[10- Bucle WHILE]]
 [[11- Las Funciones]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]
+- ➡️ Siguiente: [[2- Embeddings Vectoriales]]

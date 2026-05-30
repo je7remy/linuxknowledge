@@ -736,4 +736,8 @@ actualizado: 2026-05-28
 - **Zip**  
     Formato de compresión que permite reducir el tamaño de archivos y carpetas para facilitar su almacenamiento y transmisión.
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_05-Recursos|05-Recursos]]

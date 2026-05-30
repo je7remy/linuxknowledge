@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Glosario de Fundamentos de IA de Google
 
 ## **Términos y Definiciones del Curso de IA**
 
@@ -127,3 +134,10 @@ S
 - **Conjunto de entrenamiento:** Conjunto de datos utilizados para enseñar IA.
     
 - **Transparencia:** La idea de que una herramienta de IA debe proporcionar información sobre cómo funciona, por qué ha obtenido un resultado determinado y qué factores han contribuido a ese resultado.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[5- Anoop - Empodérate con la IA]]

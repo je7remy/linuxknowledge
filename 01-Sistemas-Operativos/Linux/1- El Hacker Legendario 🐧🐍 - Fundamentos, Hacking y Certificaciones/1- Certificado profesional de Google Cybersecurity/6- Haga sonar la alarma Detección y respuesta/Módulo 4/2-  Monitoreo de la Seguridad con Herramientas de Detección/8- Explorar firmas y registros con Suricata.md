@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Explorar firmas y registros con Suricata
 
 ## 🧠 **Actividad: Examina alertas, registros y reglas con Suricata**
 
@@ -184,3 +191,10 @@ Este ejercicio te brinda una comprensión práctica de cómo Suricata **detecta,
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[7- Panorama de Suricata]]
+- ➡️ Siguiente: [[9- Repaso - Explorar firmas y registros con Suricata]]

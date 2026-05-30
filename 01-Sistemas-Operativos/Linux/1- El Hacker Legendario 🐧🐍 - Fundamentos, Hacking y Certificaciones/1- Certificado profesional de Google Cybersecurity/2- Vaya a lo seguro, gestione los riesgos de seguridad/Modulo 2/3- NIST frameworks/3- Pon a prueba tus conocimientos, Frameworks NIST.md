@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Frameworks NIST
 
 ## ✅ **Evaluación sobre el NIST CSF**
 
@@ -9,3 +16,10 @@
 | 4️⃣   | ¿Cuál es el rol del analista durante la función de recuperación?                                                          | **Devolver los sistemas afectados al funcionamiento normal**                                                                         |
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2.1- Reflect]]

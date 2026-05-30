@@ -1,12 +1,4 @@
 ---
-tipo: laboratorio
-tags: [forense, dfir, volatility, ransomware, rdp, memoria-ram, ioc, caso-practico]
-actualizado: 2026-05-28
----
-
-# Informe Forense Digital: Caso "¿Un Hacker entró a mi equipo?"  
-
----
 
 ## **Escenario del Incidente**  
 
@@ -182,7 +174,7 @@ La conexión a **20.7.1.246** (Microsoft) se descarta como maliciosa.
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|6- Forense Digital]]
+- ⬆️ Carpeta: [[_6- Forense Digital|6- Forense Digital]]
 - ⬅️ Anterior: [[3- Introducción Práctica y Demostración Parte 2]]
 
 ## Relacionadas

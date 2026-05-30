@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# De una simple actividad a una importante filtración de datos
 
 ### 🎯 El Peligro de No Escalar (El Efecto "Bola de Nieve")
 
@@ -69,3 +76,11 @@ En resumen, la lección fundamental es: **La urgencia de un incidente se mide po
 ### ✅ Explicación
 
 > **Correcto.** Los incidentes de Seguridad de alto nivel deben ser escalados y tratados **inmediatamente**. Cuanto más tiempo pase antes de que un incidente sea escalado, mayor será el riesgo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[6- Ponga a prueba sus Conocimientos - Escalar o no escalar]]
+- ➡️ Siguiente: [[8- Cuándo y cómo escalar un incidente de Seguridad]]

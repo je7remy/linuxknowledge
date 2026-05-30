@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Analizar un archivo de texto en Python
 
 ## 📄 Analizar un Archivo de Texto en Python
 
@@ -76,3 +83,11 @@ Ahora tienes una lista (`lista_usuarios`) que puedes usar fácilmente en bucles 
 ## 💡 Conclusión
 
 ¡Felicidades! Acabas de aprender lo básico para **parsear** (analizar sintácticamente) un archivo de texto en Python usando el método `.split()`. En los próximos vídeos, explorarás más técnicas para trabajar con datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Importar archivos a Python]]
+- ➡️ Siguiente: [[4- Trabajar con archivos en Python]]

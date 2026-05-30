@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Uso de Signal
 
 ---
 
@@ -106,3 +113,10 @@ while True:
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Manejo de Excepciones|6- Manejo de Excepciones]]
+- ⬅️ Anterior: [[1- Introducción a las Excepciones en Python]]

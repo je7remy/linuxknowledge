@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Control del Flujo – CASE
 ### 1. Primer Script
 
 ```bash
@@ -208,3 +215,10 @@ esac
 - Si el usuario introduce `"archivo"`, se crea el archivo `archivo_creado`.
 - Si introduce `"carpeta"`, se crea el directorio `carpteta_creada/`.
 - Para cualquier otro valor, muestra el mensaje ofensivo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Sentencias Condicionales|4- Sentencias Condicionales]]
+- ⬅️ Anterior: [[3- Creamos un Script para Automatizar Actualizaciones del Sistema]]

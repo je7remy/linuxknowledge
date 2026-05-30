@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [nota]
+actualizado: 2026-05-28
+---
+
+# Saltar conexión Wi-Fi Windows
 
 Para saltarte la conexión a una red Wi-Fi durante la configuración inicial de Windows 11, puedes seguir estos métodos:
 
@@ -35,4 +42,11 @@ Para saltarte la conexión a una red Wi-Fi durante la configuración inicial de 
 
 ---
 
-Estos métodos funcionan en la mayoría de los casos. 
+Estos métodos funcionan en la mayoría de los casos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Instalacion de Sistemas Operativos con Ventoy|2- Instalacion de Sistemas Operativos con Ventoy]]
+- ⬅️ Anterior: [[1- 📌 Guía para Instalación de Sistemas Operativos con Ventoy]]

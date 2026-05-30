@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 1
 
 ## **Términos y definiciones del Curso 6, Módulo 1**
 
@@ -36,3 +43,11 @@
 **Negativo verdadero:** Un estado en el que no hay detección de actividad maliciosa
 
 **Positivo** verdadero Una alerta que detecta correctamente la presencia de un ataque
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Recapitulación]]
+- ➡️ Siguiente: [[6- Desafío del Módulo 1]]

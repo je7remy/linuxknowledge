@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Uso de Grep
 
 ---
 
@@ -133,3 +140,11 @@ root:x:0:0:root:/root:/bin/bash
 [[1- Comandos Basicos - Intermedio]]
 [[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]
 [[5- Comando find y redirección de errores]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[8- Gestión de Procesos]]
+- ➡️ Siguiente: [[10- Ejercicio Práctico, Creamos nuestro Primer Script]]

@@ -123,7 +123,7 @@ msf6 auxiliary(scanner/ipmi/ipmi_dumphashes) > run
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[1- FTP]]
 - ➡️ Siguiente: [[3- Ldap]]
 
@@ -133,4 +133,4 @@ msf6 auxiliary(scanner/ipmi/ipmi_dumphashes) > run
 - [[5- nmap scripts]] — NSE para identificar BMC.
 - [[12- Herramienta para hacer cracking de contraseñas]] — Hashcat con modo 7300 para descifrar hashes IPMI RAKP.
 - [[13- Automatización de Cracking de Contraseñas]] — automatización del proceso de cracking.
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría general de ataques a hashes.
+- [[_1- Cracking|02 → Cracking]] — teoría general de ataques a hashes.

@@ -16,10 +16,10 @@ El primer paso que da un actor de amenazas al planificar un ataque es recopilar 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 3]]
+- ⬆️ Carpeta: [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]]
 - ➡️ Siguiente: [[2- Realización de reconocimiento pasivo]]
 
 ## Relacionadas
 
-- [[../Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/index|Módulo 1]] — fundamentos del hacking ético.
-- [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]] — alcance antes del reconocimiento.
+- [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]] — fundamentos del hacking ético.
+- [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]] — alcance antes del reconocimiento.

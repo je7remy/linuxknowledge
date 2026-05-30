@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 3
 ¡Hola! 👋  
 ¡Excelente que estés avanzando en este tema tan crucial como lo es la **protección de redes**! Aquí tienes un breve resumen de lo que aprenderás en esta sección del curso:
 
@@ -16,4 +23,11 @@ Vas a explorar:
 
 ---
 
-Este conocimiento te prepara para aplicar **medidas proactivas** y tomar decisiones basadas en evidencias cuando enfrentas riesgos reales.  
+Este conocimiento te prepara para aplicar **medidas proactivas** y tomar decisiones basadas en evidencias cuando enfrentas riesgos reales.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- El caso de la seguridad de las redes]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Empieza en el próximo curso
 
 ¡Enhorabuena por completar el Curso 1 del Certificado de Ciberseguridad de Google: **Fundamentos de Ciberseguridad**! En esta parte del programa, aprendiste sobre posibles trayectorias profesionales y habilidades clave para los profesionales de la ciberseguridad. También se le presentaron los términos y conceptos fundamentales de ciberseguridad que continuará explorando a lo largo del programa de certificación.
 
@@ -26,3 +33,10 @@ El Certificado de Ciberseguridad de Google cuenta con ocho cursos:
 Ahora que ha completado este curso, está listo para pasar al siguiente curso: [**Vaya a lo seguro: gestione los riesgos de seguridad**](https://www.coursera.org/learn/manage-security-risks/home/week/1).
 
 ¡Sigan con el gran trabajo!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3- Glosario del curso 1]]

@@ -1,4 +1,3 @@
-
 ---
 
 ## Título del Proyecto
@@ -86,3 +85,8 @@ El sistema estará estructurado en los siguientes módulos principales:
 - **Entorno de operación:** Intranet del hospital, accesible solo desde computadoras dentro de la red interna.
 - **Propósito:** Optimizar la programación y gestión de citas, mejorando la eficiencia operativa y la experiencia del paciente.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]

@@ -1,3 +1,10 @@
+---
+tipo: tesis
+tags: [tesis, base-de-datos, plantuml, modelo-datos, uml]
+actualizado: 2026-05-28
+---
+
+# Base de Datos Tentativa — Modelo PlantUML
 
 @startuml
 skinparam classAttributeIconSize 0
@@ -78,3 +85,11 @@ Paciente "1" -- "*" Cita : solicita >
 Cita "1" -- "0..1" NotaMedica : genera >
 
 @enduml
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ⬅️ Anterior: [[2- INDICE FINAL]]
+- ➡️ Siguiente: [[4- Tesis_Final_SGCM_Refinada]]

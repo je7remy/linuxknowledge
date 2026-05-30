@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ### 🧠 Resumen del Módulo: Código Eficaz y Eficiente
 
@@ -31,3 +38,10 @@ Este módulo se centró en ir más allá de los fundamentos para escribir códig
 Con esta base, ahora estás preparado para el siguiente gran tema: ¡aprender lo potente que puede ser Python para la **Automatización de tareas** y cómo te ayudará en tu carrera como analista de seguridad!
 
 ¡Mucho éxito en los próximos vídeos!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Guía de referencia - Conceptos de Python del Módulo 2]]

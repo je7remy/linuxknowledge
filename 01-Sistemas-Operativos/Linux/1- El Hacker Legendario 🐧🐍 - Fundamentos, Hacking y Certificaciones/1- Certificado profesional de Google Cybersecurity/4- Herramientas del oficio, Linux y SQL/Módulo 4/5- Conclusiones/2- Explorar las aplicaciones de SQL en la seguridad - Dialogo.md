@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Explorar las aplicaciones de SQL en la seguridad - Dialogo
 
 ### Sesión: SQL aplicado a la ciberseguridad
 
@@ -211,3 +218,11 @@ Jeremy ha demostrado cómo SQL puede aplicarse a:
     
 
 SQL es sin duda una herramienta indispensable en la caja de herramientas de cualquier profesional de la ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Aprendizaje continuo en SQL]]
+- ➡️ Siguiente: [[3- Recapitulación]]

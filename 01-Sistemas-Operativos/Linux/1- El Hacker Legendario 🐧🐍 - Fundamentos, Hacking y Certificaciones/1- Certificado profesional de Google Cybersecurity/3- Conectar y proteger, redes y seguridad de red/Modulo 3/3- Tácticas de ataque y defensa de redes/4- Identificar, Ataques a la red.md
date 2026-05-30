@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Identificar, Ataques a la red
 
 ### 📘 **Glosario de Ataques de Red y Técnicas de Intercepción**
 
@@ -12,3 +19,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Visión general de las tácticas de interceptación]]
+- ➡️ Siguiente: [[5- Actividad, Analizar los ataques a la red]]

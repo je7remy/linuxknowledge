@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad, Aplicar técnicas de endurecimiento del OS
 
 ## Resumen de la actividad
 
@@ -132,3 +139,10 @@ Asegúrese de abordar los siguientes criterios en su actividad finalizada:
     
 - Recomiende una medida de seguridad
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Ataques de fuerza bruta y endurecimiento del OS]]
+- ➡️ Siguiente: [[4- Tcpdump Traffic Log]]

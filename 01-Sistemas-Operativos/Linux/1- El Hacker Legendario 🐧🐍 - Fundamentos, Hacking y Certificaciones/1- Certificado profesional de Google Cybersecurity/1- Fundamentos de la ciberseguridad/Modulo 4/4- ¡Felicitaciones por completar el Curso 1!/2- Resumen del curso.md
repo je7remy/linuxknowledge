@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso
 
 ## 🎉 ¡Felicidades por completar el primer curso!
 
@@ -45,3 +52,11 @@ En el **próximo curso**, profundizarás en los dominios de seguridad y aprender
 💬 Ashley será tu guía en esta siguiente etapa del programa. ¡Has tenido un excelente comienzo y el mejor está por venir!
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Únete a la comunidad]]
+- ➡️ Siguiente: [[3- Glosario del curso 1]]

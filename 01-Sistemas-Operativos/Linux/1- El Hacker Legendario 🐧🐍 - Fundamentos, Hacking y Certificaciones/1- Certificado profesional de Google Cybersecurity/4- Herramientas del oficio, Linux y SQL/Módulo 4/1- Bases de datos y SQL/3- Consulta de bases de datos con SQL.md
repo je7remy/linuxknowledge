@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Consulta de bases de datos con SQL
 
 ### 🔹 Importancia de SQL
 
@@ -74,3 +81,10 @@ Los analistas de seguridad suelen utilizar **SQL para encontrar información rel
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Introducción a las bases de datos]]
+- ➡️ Siguiente: [[4- Filtrado SQL frente a filtrado Linux]]

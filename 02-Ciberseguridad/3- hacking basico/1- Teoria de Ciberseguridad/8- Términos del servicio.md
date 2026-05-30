@@ -12,7 +12,7 @@ Los Términos de servicio, también conocidos como Términos de uso o Términos 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[7- Mantenimiento de datos]]
 - ➡️ Siguiente: [[9- Política de uso de datos]]
 

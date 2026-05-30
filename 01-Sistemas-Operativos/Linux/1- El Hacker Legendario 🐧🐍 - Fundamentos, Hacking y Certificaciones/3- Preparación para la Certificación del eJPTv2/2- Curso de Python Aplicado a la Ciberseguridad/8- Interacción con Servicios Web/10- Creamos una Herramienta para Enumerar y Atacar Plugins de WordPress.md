@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creamos una Herramienta para Enumerar y Atacar Plugins de WordPress
 ¡Muy buenas a todos! Bienvenidos una vez más al curso de Python aplicado a la ciberseguridad. En esta ocasión, vamos a desarrollar paso a paso una herramienta unificada en Python que combine dos técnicas que hemos aprendido en clases anteriores: la enumeración de plugins de WordPress y el ataque de fuerza bruta contra el archivo `xmlrpc.php` de WordPress. El objetivo es crear un solo script que permita al usuario elegir entre estas dos tareas mediante una interfaz simple. A continuación, te explico todo el proceso de manera detallada, coherente y sin omitir ningún paso, para que quede clarísimo cómo llegamos al resultado final.
 
 ---
@@ -1021,3 +1028,11 @@ else:
 
 print("Opcion no valida, Introduce un 1 o 2")
 `````
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[9- Explicación de cómo Enumerar Plugins de WordPress de forma Manual]]
+- ➡️ Siguiente: [[11- Automatización Reverse Shell Groovy Script en Jenkins – PARTE 1]]

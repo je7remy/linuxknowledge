@@ -22,7 +22,7 @@ El objetivo de un hacker ético es analizar la postura de seguridad de la infrae
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ⬅️ Anterior: [[1- Qué aprenderé en este curso]]
 - ➡️ Siguiente: [[3- Por qué necesitamos hacer pruebas de penetración]]
 

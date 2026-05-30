@@ -1,7 +1,10 @@
-
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Desafío del módulo 2
 ### Pregunta 1
 
 ¿Cuál de las siguientes es una parte esencial del Escalado de incidentes?
@@ -169,3 +172,10 @@ Un nuevo analista de Seguridad acaba de ser contratado... se le aconseja que lea
     
 
 > **Justficiación:** Al igual que las preguntas 5 y 6, todo se reduce al activo. Una aplicación de fabricación es un **activo esencial para el negocio** (genera dinero). Si se detiene, la empresa pierde dinero cada minuto. Los otros incidentes son de impacto operativo mucho menor.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[13- Términos del glosario del Módulo 2]]

@@ -77,7 +77,7 @@ Finalmente, quiero saber si ese correo inventado (o uno real que tuviera) ha sid
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|7- Active Directory]]
+- ⬆️ Carpeta: [[_7- Activie Directory|7- Active Directory]]
 - ⬅️ Anterior: [[2- Tools]]
 
 ## Relacionadas
@@ -86,4 +86,4 @@ Finalmente, quiero saber si ese correo inventado (o uno real que tuviera) ha sid
 - [[2- Tools]] — herramientas técnicas que complementan el OSINT manual.
 - [[Extraer Metadatos]] — metadata como vector OSINT.
 - [[../../../02-Ciberseguridad/6- Forense Digital/1- Investigación de Spear Phishing - Caso Luxury Design JFK|Caso de Spear Phishing]] — investigación OSINT en un caso real de phishing.
-- [[../../../06-Publicaciones-Linkedin/index|06 → LinkedIn]] — publicaciones derivadas (este tipo de contenido es buen post).
+- [[_06-Publicaciones-Linkedin|06 → LinkedIn]] — publicaciones derivadas (este tipo de contenido es buen post).

@@ -1,3 +1,10 @@
+---
+tipo: tesis
+tags: [tesis, readme, sgcm, ci, github-actions, unphu]
+actualizado: 2026-05-28
+---
+
+# README — Guía UNPHU del SGCM
 
 # SGCM — Sistema Web de Gestión de Citas Médicas
 

@@ -28,7 +28,7 @@ Una amenaza interna es una amenaza que proviene del interior de una organizació
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ⬅️ Anterior: [[3- Por qué necesitamos hacer pruebas de penetración]]
 - ➡️ Siguiente: [[5- Por qué debemos seguir una metodología para las pruebas de penetración]]
 

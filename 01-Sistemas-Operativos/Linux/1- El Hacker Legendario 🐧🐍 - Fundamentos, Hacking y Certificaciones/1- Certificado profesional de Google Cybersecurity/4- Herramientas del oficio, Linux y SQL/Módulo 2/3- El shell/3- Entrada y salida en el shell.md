@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Entrada y salida en el shell
 
 Exploremos la **entrada estándar**, la **salida estándar** y los **mensajes de error** con más detalle.
 
@@ -83,3 +90,11 @@ Después de que un usuario escribe un comando en el shell:
     
 
 La **entrada estándar** es lo que el usuario proporciona, **no lo que devuelve el shell**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Diferentes tipos de conchas]]
+- ➡️ Siguiente: [[4- Examinar la entrada y salida en el shell]]

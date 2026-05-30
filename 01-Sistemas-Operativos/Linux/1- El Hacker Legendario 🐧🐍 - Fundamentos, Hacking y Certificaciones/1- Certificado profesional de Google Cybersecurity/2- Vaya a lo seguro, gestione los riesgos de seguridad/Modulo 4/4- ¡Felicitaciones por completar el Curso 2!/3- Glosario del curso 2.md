@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Glosario del curso 2
 
 # 📘 Glosario de Ciberseguridad — Curso 2
 
@@ -173,3 +180,11 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Resumen del curso]]
+- ➡️ Siguiente: [[4- Empieza en el próximo curso]]

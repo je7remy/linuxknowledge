@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Más información sobre marcos y controles
 
 ### ✅ **Pregunta 1**
 
@@ -46,3 +53,10 @@ Cada control (como cifrado o autenticación) apunta a riesgos **concretos**.
 La autenticación valida la identidad (usuario, voz, huella, etc.) antes de otorgar acceso. El vishing intenta burlar este proceso.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[4- La relación entre marcos y controles]]

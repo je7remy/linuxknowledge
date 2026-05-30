@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Autorreflexión - Superficies y Vectores de Ataque en el Hogar
 
 # Actividad — Autorreflexión: Superficies y Vectores de Ataque (completa)
 
@@ -45,3 +52,11 @@ Los vectores de ataque más probables son la red Wi-Fi mal configurada, enlaces 
 
 **Comentarios del curso:**  
 Gran trabajo reforzando su comprensión de la mentalidad de un atacante con una autorreflexión reflexiva. Aplicar una mentalidad de atacante requiere ver el mundo de forma diferente. La mayoría de las cosas se fabrican asumiendo que se utilizarán tal y como fueron diseñadas. Como profesional de la Seguridad, es importante pensar siempre en cómo se puede hacer un mal uso o abuso de las cosas. Hacerlo es clave para reducir la probabilidad de un Riesgo de Seguridad y tener un plan sólido.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[6- Caminos a través de las defensas]]
+- ➡️ Siguiente: [[8- Fortalézcase contra los ciberataques de fuerza bruta]]

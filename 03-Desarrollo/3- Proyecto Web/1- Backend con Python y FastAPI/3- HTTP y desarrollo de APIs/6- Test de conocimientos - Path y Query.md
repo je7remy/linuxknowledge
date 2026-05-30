@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, path, query, test-conocimientos]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Path y Query
 
 # Fundamentos de FastAPI - Path y Query Parameters
 
@@ -105,3 +112,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[5- Path y Query]]
+- ➡️ Siguiente: [[7- Peticiones HTTP - Operaciones POST, PUT y DELETE]]

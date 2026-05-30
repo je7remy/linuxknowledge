@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Más información sobre el modelo TCP-IP
 
 En esta lectura, se basará en lo que ha aprendido sobre el modelo de Protocolo de control de transmisión/Protocolo de Internet (TCP/IP), considerará las diferencias entre el modelo de interconexión de sistemas abiertos (OSI) y el modelo TCP/IP, y aprenderá cómo se relacionan. A continuación, revisará cada capa del modelo TCP/IP y repasará los protocolos comunes que se usan en cada capa.
 
@@ -64,3 +71,11 @@ El modelo TCP/IP combina varias capas del modelo OSI. Hay muchas similitudes ent
 ## Conclusiones clave
 
 Tanto el modelo TCP/IP como el OSI son modelos conceptuales que ayudan a los profesionales de redes a visualizar los procesos y protocolos de red en lo que respecta a la transmisión de datos entre dos o más sistemas. El modelo TCP/IP contiene cuatro capas y el modelo OSI contiene siete capas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Las cuatro capas del modelo TCP-IP]]
+- ➡️ Siguiente: [[5- El modelo OSI]]

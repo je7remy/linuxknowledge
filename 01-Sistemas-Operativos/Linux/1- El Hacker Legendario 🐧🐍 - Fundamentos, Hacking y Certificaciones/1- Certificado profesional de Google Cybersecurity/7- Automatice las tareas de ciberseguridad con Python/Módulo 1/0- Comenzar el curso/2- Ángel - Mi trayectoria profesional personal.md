@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ángel - Mi trayectoria profesional personal
 
 # 👨‍💻 **Historia de Ángel – Ingeniero de Seguridad en Google**
 
@@ -65,3 +72,9 @@ La diversidad de perspectivas enriquece la industria y mejora la capacidad de re
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Introducción al curso 7]]

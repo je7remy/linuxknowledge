@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Guía de referencia - Conceptos de Python del Módulo 2
 
 ### 🧠 Guía de Referencia: Conceptos de Python (Módulo 2)
 
@@ -120,3 +127,11 @@ La siguiente sintaxis se utiliza para crear un comentario. (Un comentario es una
 |---|---|---|
 |**`#`**|Inicia una línea que contiene un comentario de Python.|`# Print approved usernames` _(Contiene un comentario que indica que el propósito del código que sigue es imprimir nombres de usuario aprobados.)_|
 |**`"""..."""`** (documentation strings)|Inicia y finaliza una cadena multilínea que a menudo se usa como un comentario de Python; los comentarios multilínea se usan cuando necesitas más de 79 caracteres en un solo comentario.|`"""` `La función estimate_attempts() toma un total` `de intentos de inicio de sesión mensual y un número de meses` `y devuelve su producto.` `"""` _(Contiene un comentario multilínea que indica el propósito de la función `estimate_attempts()`.)_|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Recapitulación]]
+- ➡️ Siguiente: [[3- Términos del glosario del Módulo 2]]

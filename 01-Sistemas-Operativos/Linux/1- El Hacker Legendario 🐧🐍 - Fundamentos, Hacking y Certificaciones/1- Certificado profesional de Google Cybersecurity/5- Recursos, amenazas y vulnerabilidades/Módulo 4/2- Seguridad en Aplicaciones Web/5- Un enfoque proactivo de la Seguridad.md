@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Un enfoque proactivo de la Seguridad
 
 # 🛡️ Modelado de Amenazas
 
@@ -161,3 +168,10 @@ El proceso de **modelado de amenazas** consta de seis pasos:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Ponga a prueba sus Conocimientos. Explotaciones basadas en web]]
+- ➡️ Siguiente: [[6- Chantelle - El valor de la diversidad en la ciberseguridad]]

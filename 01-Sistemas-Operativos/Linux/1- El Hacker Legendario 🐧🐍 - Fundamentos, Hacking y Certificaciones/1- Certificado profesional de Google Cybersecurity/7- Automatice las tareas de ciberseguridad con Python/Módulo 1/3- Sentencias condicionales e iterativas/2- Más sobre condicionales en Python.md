@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Más sobre condicionales en Python
 
 Anteriormente, usted exploró las sentencias condicionales y cómo son útiles en la automatización de tareas en Python. Hasta ahora, se ha centrado en las palabras clave if y else. En esta lectura, las revisará y aprenderá otra palabra clave, elif. También aprenderá cómo puede aplicar los operadores and, or y not a sus condiciones.
 
@@ -149,3 +156,11 @@ Python comprueba primero si el valor de estado es mayor o igual que 200 y menor 
 ## Puntos clave
 
 Es importante que los analistas de Seguridad se familiaricen con las Sentencias condicionales. Las sentencias condicionales requieren la palabra clave if. También puede utilizar else y elif cuando trabaje con condicionales para especificar acciones adicionales a realizar. Los operadores lógicos and, or y not también son útiles al escribir condicionales.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Sentencias condicionales en Python]]
+- ➡️ Siguiente: [[3- Actividad - Crear una Sentencia condicional]]

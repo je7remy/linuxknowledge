@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Vint, Utiliza la IA para generar un cambio positivo
 
 ### La Inteligencia Artificial y el Futuro de la Innovación
 
@@ -47,3 +54,10 @@ creo que el **mundo de la inteligencia artificial tendrá un efecto similar**, a
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[3- Shaun - Desarrolla una IA que les sirva a todos]]
+- ➡️ Siguiente: [[5- Lista de comprobación para usar la IA de forma responsable]]

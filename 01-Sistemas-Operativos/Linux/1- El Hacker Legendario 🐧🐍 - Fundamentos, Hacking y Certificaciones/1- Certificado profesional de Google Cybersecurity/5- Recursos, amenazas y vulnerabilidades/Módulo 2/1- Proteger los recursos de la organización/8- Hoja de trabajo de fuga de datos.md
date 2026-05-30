@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Hoja de trabajo de fuga de datos
 
 # 📄 Hoja de trabajo de fuga de datos
 
@@ -51,3 +58,10 @@ Un gerente de ventas compartió el acceso a una carpeta de documentos internos c
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[7- Actividad - Determinar las prácticas adecuadas de tratamiento de Datos]]
+- ➡️ Siguiente: [[9- Ponga a prueba sus Conocimientos - Salvaguardar la Información]]

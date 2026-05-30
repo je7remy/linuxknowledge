@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# No repudio y hash
 
 # 🔐 Funciones Hash en Seguridad
 
@@ -129,3 +136,11 @@ Los valores hash se utilizan principalmente para **verificar la integridad** de 
 Además, los hashes ayudan a mantener la **confidencialidad**, ya que son procesos unidireccionales y no pueden desencriptarse para revelar la información original.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Actividad - Desencriptación de un mensaje encriptado]]
+- ➡️ Siguiente: [[6- La evolución de las funciones hash]]

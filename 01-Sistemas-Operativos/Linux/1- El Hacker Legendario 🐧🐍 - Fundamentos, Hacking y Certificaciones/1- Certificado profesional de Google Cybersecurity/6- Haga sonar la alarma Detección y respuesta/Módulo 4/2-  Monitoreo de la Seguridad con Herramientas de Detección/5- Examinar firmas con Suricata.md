@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Examinar firmas con Suricata
 
 ## 🧠 **Análisis de Firmas con Suricata (IDS Basado en Firmas)**
 
@@ -173,3 +180,11 @@ Algunas acciones comunes son:
 - `drop` o `reject` → bloquea el tráfico.  
 
 Esto permite que el IDS reaccione adecuadamente ante comportamientos sospechosos detectados en la red.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Componentes de una firma de Detección]]
+- ➡️ Siguiente: [[6- Examinar los registros de Suricata]]

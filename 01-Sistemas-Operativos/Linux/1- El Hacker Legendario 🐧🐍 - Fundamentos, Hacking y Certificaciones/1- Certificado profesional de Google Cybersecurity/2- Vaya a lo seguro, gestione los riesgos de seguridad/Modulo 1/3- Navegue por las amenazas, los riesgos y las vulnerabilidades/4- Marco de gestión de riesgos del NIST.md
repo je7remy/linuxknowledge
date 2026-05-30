@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Marco de gestión de riesgos del NIST
 
 ## 🧭 Marco de Gestión de Riesgos del NIST (RMF)
 
@@ -36,3 +43,10 @@ Aunque puede que no te encargues directamente de definir estos procedimientos, *
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Herbert, Gestione las amenazas, los riesgos y las vulnerabilidades]]
+- ➡️ Siguiente: [[5- Gestione las amenazas, los riesgos y las vulnerabilidades comunes]]

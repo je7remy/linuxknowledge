@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Las cuatro capas del modelo TCP-IP
 
 ## 🧱 Modelo TCP/IP: Capas y Funciones
 
@@ -101,3 +108,11 @@ Comprender estas capas permite:
 
 **✔️ Correcto:**  
 La **capa de Internet** es la **segunda capa** del modelo TCP/IP. En esta capa se **añaden las direcciones IP** a los paquetes de datos para identificar la ubicación del emisor y el receptor. También se encarga de **cómo las redes se interconectan** entre sí.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- El modelo TCP-IP]]
+- ➡️ Siguiente: [[4- Más información sobre el modelo TCP-IP]]

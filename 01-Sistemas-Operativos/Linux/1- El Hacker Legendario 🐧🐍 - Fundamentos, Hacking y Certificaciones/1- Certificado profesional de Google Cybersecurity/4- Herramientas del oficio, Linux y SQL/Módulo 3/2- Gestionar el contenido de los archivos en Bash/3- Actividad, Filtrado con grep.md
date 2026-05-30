@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad, Filtrado con grep
 
 ## ✅ TAREA 1: Buscar mensajes de error
 
@@ -51,3 +58,10 @@ grep "Human Resources" Q4_added_users.txt
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Filtrado de contenidos en Linux]]
+- ➡️ Siguiente: [[4- Ejemplar opcional, Filtrado con grep]]

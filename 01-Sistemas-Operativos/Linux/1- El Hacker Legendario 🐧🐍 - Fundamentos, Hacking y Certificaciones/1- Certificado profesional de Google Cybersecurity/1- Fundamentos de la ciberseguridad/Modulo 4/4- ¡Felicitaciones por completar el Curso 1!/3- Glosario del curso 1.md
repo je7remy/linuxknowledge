@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Glosario del curso 1
 
 # 📚 Glosario de Ciberseguridad – Curso 1
 
@@ -196,3 +203,11 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Resumen del curso]]
+- ➡️ Siguiente: [[4- Empieza en el próximo curso]]

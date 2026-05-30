@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatización Reverse Shell Groovy Script en Jenkins – PARTE 2
 
 ## 1. Preparación del Entorno y Consideraciones Iniciales
 
@@ -322,3 +329,10 @@ Cada paso se implementa cuidadosamente para garantizar que:
     
 
 Esta metodología es un ejemplo clásico de cómo se puede interactuar con un servicio web vulnerable (en este caso, Jenkins) utilizando Python para automatizar tareas de ciberseguridad, y puede ampliarse o modificarse según las necesidades del atacante o del auditor de seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[11- Automatización Reverse Shell Groovy Script en Jenkins – PARTE 1]]

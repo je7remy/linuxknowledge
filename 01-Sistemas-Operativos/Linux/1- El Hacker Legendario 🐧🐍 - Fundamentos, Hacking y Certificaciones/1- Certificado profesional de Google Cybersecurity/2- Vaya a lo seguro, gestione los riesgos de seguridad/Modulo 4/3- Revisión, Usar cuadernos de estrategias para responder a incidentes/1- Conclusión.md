@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Conclusión
 
 ## ✅ **Resumen de la sección: Manuales de Estrategias (Playbooks) y Respuesta a Incidentes**
 
@@ -66,3 +73,10 @@ Analizaste cómo un **playbook guía la respuesta ante una alerta SIEM** por un 
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Glosario de términos del módulo 4]]

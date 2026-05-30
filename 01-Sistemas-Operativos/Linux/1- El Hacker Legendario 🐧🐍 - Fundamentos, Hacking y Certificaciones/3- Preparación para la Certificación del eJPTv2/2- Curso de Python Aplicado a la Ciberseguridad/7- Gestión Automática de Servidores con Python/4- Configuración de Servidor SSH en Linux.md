@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Configuración de Servidor SSH en Linux
 
 ---
 
@@ -102,3 +109,11 @@ hola
 [[2- Puertos Principales]]
 [[5- Cómo Crear un Servidor SSH con OPENSSH]]
 [[1- Protección del Protocolo SSH]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ⬅️ Anterior: [[3- Automatizar Copias de Seguridad FTP con Python]]
+- ➡️ Siguiente: [[5- Automatizar conexión SSH y Ejecución de Comandos con Python]]

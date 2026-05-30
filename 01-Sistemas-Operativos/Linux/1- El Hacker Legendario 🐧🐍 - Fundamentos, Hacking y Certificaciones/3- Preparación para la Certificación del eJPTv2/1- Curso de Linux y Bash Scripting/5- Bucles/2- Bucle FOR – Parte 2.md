@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Bucle FOR – Parte 2
 
 ---
 
@@ -127,3 +134,11 @@ cd servidor/ && python3 -m http.server 80
 [[1- Bucle FOR – Parte 1]]
 [[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]
 [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]
+- ⬅️ Anterior: [[1- Bucle FOR – Parte 1]]
+- ➡️ Siguiente: [[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]

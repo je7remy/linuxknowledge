@@ -1,4 +1,3 @@
-
 ---
 
 ### ✅ **Cuestionario Corregido**
@@ -92,3 +91,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Glosario de términos del módulo 1]]

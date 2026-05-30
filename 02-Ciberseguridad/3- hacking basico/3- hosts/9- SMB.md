@@ -35,7 +35,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[8- RDP]]
 - ➡️ Siguiente: [[10- SNMP]]
 
@@ -43,7 +43,7 @@ actualizado: 2026-05-28
 
 - [[6- NFS]] — equivalente en Linux/Unix.
 - [[12- Windows Hosts]] — RDP/WinRM/WMI complementarios para admin remoto Windows.
-- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — SMB es protocolo central en AD.
+- [[_7- Activie Directory|01 → Active Directory]] — SMB es protocolo central en AD.
 - [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — herramientas adicionales.
 
 ## Relacionadas (Nmap y cracking)
@@ -51,4 +51,4 @@ actualizado: 2026-05-28
 - [[1- Hoja de trucos NMAP]] — categoría NSE `smb-*`.
 - [[5- nmap scripts]] — scripts SMB específicos.
 - [[12- Herramienta para hacer cracking de contraseñas]] — hashes NTLM extraídos de SAM van a Hashcat.
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría general de cracking.
+- [[_1- Cracking|02 → Cracking]] — teoría general de cracking.

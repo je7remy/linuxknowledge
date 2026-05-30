@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Responsabilidades de un analista de ciberseguridad de nivel inicial
 
 **¿Qué hacen los analistas de seguridad?**
 
@@ -20,3 +27,11 @@ Realizan auditorías de seguridad periódicas, que consisten en revisar los regi
 ---
 
 Los analistas de seguridad son una parte fundamental de cualquier organización. Sus tareas diarias protegen a pequeñas empresas, grandes compañías, organizaciones sin ánimo de lucro y organismos gubernamentales, garantizando que las personas a las que sirven permanezcan seguras.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Introducción a la ciberseguridad]]
+- ➡️ Siguiente: [[3- Nikki, Un día en la vida de un ingeniero de Seguridad]]

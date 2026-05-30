@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 4
 
 ## 🧠 Bienvenido al Módulo 4: Poner Python en Práctica
 
@@ -23,3 +30,10 @@ Este módulo se centrará en tres áreas prácticas clave:
         
 
 Al finalizar esta sección, tendrás una mejor comprensión de cómo utilizar Python como analista de seguridad. ¡Vamos a empezar!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Automatice las tareas de ciberseguridad con Python]]

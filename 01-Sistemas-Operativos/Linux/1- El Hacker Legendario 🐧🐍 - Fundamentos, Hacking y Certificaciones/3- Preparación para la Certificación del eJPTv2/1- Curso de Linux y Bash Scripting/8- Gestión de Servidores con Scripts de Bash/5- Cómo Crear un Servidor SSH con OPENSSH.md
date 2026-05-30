@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Cómo Crear un Servidor SSH con OPENSSH
 
 ---
 
@@ -53,3 +60,11 @@
 [[1- Protección del Protocolo SSH]]
 [[2- Protección del Protocolo FTP]]
 [[2- Puertos Principales]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de Servidores con Scripts de Bash]]
+- ⬅️ Anterior: [[4- Gestión y Automatización de Servidores FTP – PARTE 2]]
+- ➡️ Siguiente: [[6- Acceso Automatizado SSH Importando Clave Pública]]

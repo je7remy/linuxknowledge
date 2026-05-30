@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatización de Análisis de IPs desde Python PARTE 3
 ¡Hola amigos! Bienvenidos una vez más a este curso de Python aplicado a la ciberseguridad. Hoy vamos a desarrollar paso a paso y de manera superdetallada cómo hemos trabajado con un código que consulta reportes de direcciones IP usando la API de AbuseIPDB. Veremos dos tareas principales: **guardar reportes de IPs en un archivo .txt** y **leer IPs desde un archivo .txt para analizarlas**. Explicaremos cada parte de forma coherente, enfatizando la evolución del código en cada etapa. ¡Vamos a ello!
 
 ---
@@ -383,4 +390,11 @@ Hemos visto dos procesos clave:
 - **Guardar reportes**: Evolucionamos desde imprimir en consola hasta guardar en `reportes.txt` con formato y filtro.
 - **Leer IPs**: Pasamos de una lista estática a leer desde `listado_ip.txt`, limpiando datos y filtrando resultados.
 
-Estos ejemplos muestran cómo Python puede automatizar tareas de ciberseguridad, como analizar cientos de IPs de forma eficiente. 
+Estos ejemplos muestran cómo Python puede automatizar tareas de ciberseguridad, como analizar cientos de IPs de forma eficiente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ciberseguridad Defensiva|9- Ciberseguridad Defensiva]]
+- ⬅️ Anterior: [[3- Automatización de Análisis de IPs desde Python PARTE 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Gestione las amenazas, los riesgos y las vulnerabilidades comunes
 Anteriormente, aprendió que la seguridad implica proteger a las organizaciones y a las personas de amenazas, riesgos y vulnerabilidades. Comprender el panorama actual de amenazas brinda a las organizaciones la capacidad de crear políticas y procesos diseñados para ayudar a prevenir y mitigar este tipo de problemas de seguridad. En esta lectura, explorará más a fondo cómo gestionar el riesgo y algunas tácticas y técnicas comunes de los actores de amenazas, de modo que esté mejor preparado para proteger a las organizaciones y a las personas a las que sirven cuando ingrese al campo de la ciberseguridad.
 
 ## Gestión de riesgos
@@ -105,3 +112,11 @@ Para obtener más información, haga clic en los términos vinculados en esta le
 - [Los diez mejores de OWASP](https://owasp.org/www-project-top-ten/) 
     
 - [NIST RMF](https://csrc.nist.gov/projects/risk-management/about-rmf)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[4- Marco de gestión de riesgos del NIST]]
+- ➡️ Siguiente: [[6- Tarea de práctica, Pon a prueba tus conocimientos, navega por las amenazas, los riesgos y las vulnerabilidades]]

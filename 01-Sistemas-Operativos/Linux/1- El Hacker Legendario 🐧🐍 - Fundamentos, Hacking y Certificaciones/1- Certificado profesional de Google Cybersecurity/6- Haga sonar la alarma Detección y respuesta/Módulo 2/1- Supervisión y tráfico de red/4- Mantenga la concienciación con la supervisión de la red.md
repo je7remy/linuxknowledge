@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Mantenga la concienciación con la supervisión de la red
 
 ¡La Comunicación en Red puede ser ruidosa! Eventos como el envío de un correo electrónico, la transmisión de un vídeo o la visita a una página web producen comunicaciones de red en forma de Tráfico de red y Datos de red. Como recordatorio, el **Tráfico de** red es la cantidad de datos que se mueven a través de una red. También puede incluir el tipo de datos que se transfieren, como HTTP. **Datos de** **red** son los datos que se transmiten entre los dispositivos de una red.
 
@@ -59,3 +66,11 @@ Monitorear y proteger las redes de intrusiones y ataques son responsabilidades c
 - Si desea obtener más información sobre los componentes de red que pueden supervisar las organizaciones, consulte [Tráfico de red - MITRE ATT&CK®](https://attack.mitre.org/datasources/DS0029/)
     
 - Los atacantes pueden aprovechar diferentes técnicas para exfiltrar datos, si desea saber más, consulte [técnicas de exfiltración de datos - MITRE ATT&CK®](https://attack.mitre.org/tactics/TA0010/)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- La importancia de los flujos de tráfico en la Red]]
+- ➡️ Siguiente: [[5- Ataques de robo de datos]]

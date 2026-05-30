@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a la POO – Ejercicio Práctico PARTE 1
 Hola, bienvenidos nuevamente al curso de Python aplicado a la ciberseguridad. En esta oportunidad, vamos a analizar y desarrollar paso a paso un ejemplo de programación orientada a objetos (POO) que nos permitirá entender cómo funciona este paradigma en Python. El código que vamos a desglosar crea una clase llamada `SistemaOperativo`, la cual simula un sistema básico capaz de crear carpetas, crear documentos y eliminar ambos. A continuación, explicaré cada parte del código con lujo de detalle para que quede claro cómo se construye y cómo funciona.
 
 ---
@@ -218,3 +225,11 @@ usuario1.crear_carpeta()
 #usuario1.borrar_todo()
 
 `````
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_12- Programación Orientada a Objetos (POO)|12- Programación Orientada a Objetos (POO)]]
+- ⬅️ Anterior: [[1- Introducción a la POO – Métodos Built-In y Métodos de Instancia de Clase]]
+- ➡️ Siguiente: [[3- Introducción a la POO – Ejercicio Práctico PARTE 2]]

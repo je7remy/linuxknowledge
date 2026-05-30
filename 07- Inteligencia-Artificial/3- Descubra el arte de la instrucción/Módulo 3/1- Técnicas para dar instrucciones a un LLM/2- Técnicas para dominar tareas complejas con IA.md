@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Técnicas para dominar tareas complejas con IA
 
 Desglosar tareas complejas en pasos manejables puede ser todo un reto cuando se trabaja con modelos lingüísticos de gran tamaño (LLM). Afortunadamente, existen técnicas especializadas que pueden ayudarle a guiar a la IA en las tareas más complicadas. Dos métodos eficaces son **las Indicaciones de cadena de pensamiento** y **el encadenamiento de indicaciones**.
 
@@ -98,3 +105,11 @@ Para superar estos retos y garantizar un encadenamiento eficaz de las instruccio
     
 
 Estas estrategias le permitirán obtener resultados más precisos y pertinentes de una herramienta de IA. ASÍ COMO CON CUALQUIER OTRA TÉCNICA DE PREGUNTAS, EL ENCADENAMIENTO DE PREGUNTAS depende de encontrar el equilibrio adecuado entre proporcionar el contexto necesario y evitar la sobrecarga de información.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[1- Descubre la técnica de algunos ejemplos de instrucciones]]
+- ➡️ Siguiente: [[3- Rachna, Mejora las instrucciones mediante la exploración]]

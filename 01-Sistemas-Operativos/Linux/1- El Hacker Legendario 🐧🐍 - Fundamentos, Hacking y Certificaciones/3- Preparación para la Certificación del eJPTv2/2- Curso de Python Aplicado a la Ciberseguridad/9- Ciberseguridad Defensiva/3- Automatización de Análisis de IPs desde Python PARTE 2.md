@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatización de Análisis de IPs desde Python PARTE 2
 
 ## 1. Introducción y Objetivo
 
@@ -309,3 +316,10 @@ for cada_ip in lista_ips:
         print(f"La IP {ip} tiene mas de 5 reportes, tiene {reportes}")
 `````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ciberseguridad Defensiva|9- Ciberseguridad Defensiva]]
+- ⬅️ Anterior: [[2- Automatización de Análisis de IPs desde Python PARTE 1]]
+- ➡️ Siguiente: [[4- Automatización de Análisis de IPs desde Python PARTE 3]]

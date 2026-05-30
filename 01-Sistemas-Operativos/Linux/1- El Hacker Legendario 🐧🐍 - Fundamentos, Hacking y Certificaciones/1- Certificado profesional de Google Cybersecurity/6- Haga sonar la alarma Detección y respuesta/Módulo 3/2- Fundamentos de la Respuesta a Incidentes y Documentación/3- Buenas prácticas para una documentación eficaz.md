@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Buenas prácticas para una documentación eficaz
 
 **Documentación** es cualquier forma de contenido registrado que se utiliza para un fin específico, y es esencial en el Campo de la Seguridad. Los Equipos de Seguridad utilizan la documentación para apoyar las investigaciones, completar las tareas y comunicar los resultados. Esta lectura explora los Beneficios de la Documentación y le proporciona una Lista de Prácticas Comunes para ayudarle a crear una documentación eficaz en su carrera de Seguridad.
 
@@ -45,3 +52,11 @@ En materia de Seguridad, se descubren y explotan nuevas vulnerabilidades constan
 ## Puntos clave
 
 Una Documentación eficaz produce Beneficios para todos en una organización. Saber cómo crear documentación es una habilidad esencial que hay que tener como analista de Seguridad. A medida que avance en su camino para convertirse en un profesional de la Seguridad, asegúrese de tener en cuenta estas prácticas para crear una documentación eficaz.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Documentación de pruebas con formularios de cadena de custodia]]
+- ➡️ Siguiente: [[4- El valor de los manuales de ciberseguridad]]

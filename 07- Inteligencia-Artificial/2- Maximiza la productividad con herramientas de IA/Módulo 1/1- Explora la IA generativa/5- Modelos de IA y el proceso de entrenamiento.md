@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Modelos de IA y el proceso de entrenamiento
 
 Ya ha estudiado cómo los modelos de IA potencian las herramientas de IA. Pero, ¿cómo se crean exactamente los modelos de IA? ¿Y cómo puede la comprensión de los entresijos de un modelo ayudarle a liberar todo el potencial de las herramientas de IA?
 
@@ -41,3 +48,10 @@ Los diseñadores de IA desarrollan modelos de IA a través de un proceso llamado
 El entrenamiento de modelos es un proceso iterativo. Los diseñadores e ingenieros de IA pueden repetir cada paso tantas veces como sea necesario y hacer ajustes hasta crear el mejor modelo posible.
 
 Pero el proceso no se detiene en el despliegue. Una vez que los usuarios interactúan con un modelo en situaciones prácticas, el modelo puede verse expuesto a nuevos retos. Los diseñadores de IA deben supervisar continuamente sus modelos y recabar comentarios sobre ellos, para asegurarse de que siguen funcionando de forma fiable e identificar áreas de mejora. Este proceso iterativo de perfeccionamiento continuo hace que los modelos de IA sean precisos y versátiles, lo que se traduce en herramientas de IA eficaces y fiables.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[4- Entiende cómo funcionan las herramientas de IA]]

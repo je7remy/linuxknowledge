@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
 ---
 
+# Tina, Trabajar en seguridad de redes
 # 👩‍💻 Testimonio de Tina – Ingeniera de Software en Google
 
 Hola, me llamo **Tina** y soy **ingeniera de software en Google**.
@@ -52,3 +56,10 @@ Mi parte favorita es el **impacto** que puedo tener en la comunidad a la que sir
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Qué son las redes]]
+- ➡️ Siguiente: [[5- Emmanuel, Habilidades útiles para la seguridad de la red]]

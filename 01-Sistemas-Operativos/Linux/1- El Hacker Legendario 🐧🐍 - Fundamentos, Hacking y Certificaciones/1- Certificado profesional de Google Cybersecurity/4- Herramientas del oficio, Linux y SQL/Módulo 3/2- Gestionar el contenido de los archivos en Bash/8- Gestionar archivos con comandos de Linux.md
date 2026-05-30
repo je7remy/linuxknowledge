@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Gestionar archivos con comandos de Linux
 
 # 📂 Lab – Administrar archivos con comandos de Linux
 
@@ -285,3 +292,11 @@ En este lab se practicó:
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[7- Gestionar directorios y archivos]]
+- ➡️ Siguiente: [[9- Ponga a prueba sus Conocimientos, Gestionar el contenido de los archivos en Bash]]

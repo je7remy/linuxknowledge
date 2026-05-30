@@ -105,10 +105,10 @@ Este método es útil para ejecutar programas sin activar el **Control de Cuenta
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|01 → Windows]]
+- ⬆️ Sección: [[_Windows|01 → Windows]]
 
 ## Relacionadas
 
-- [[../../../02-Ciberseguridad/3- hacking basico/4- privilege scalation/index|02 → Escalación de privilegios]] — UAC bypass es vector clásico de privesc en Windows.
+- [[_4- privilege scalation|02 → Escalación de privilegios]] — UAC bypass es vector clásico de privesc en Windows.
 - [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/12- Windows Hosts|02 → Windows Hosts]] — combinación con WinRM/WMI.
 - [[../7- Activie Directory/2- Tools|AD → Tools]] — herramientas relacionadas (Mimikatz, evil-winrm).

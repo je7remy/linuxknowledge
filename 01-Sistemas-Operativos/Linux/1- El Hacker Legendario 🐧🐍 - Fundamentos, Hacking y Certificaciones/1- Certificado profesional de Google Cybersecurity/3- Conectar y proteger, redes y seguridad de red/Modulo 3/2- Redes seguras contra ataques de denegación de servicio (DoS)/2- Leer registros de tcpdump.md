@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Leer registros de tcpdump
 
 Un **analizador de protocolos de red**, a veces denominado sniffer de paquetes o analizador de paquetes, es una herramienta diseñada para capturar y analizar el tráfico de datos dentro de una red. Suelen utilizarse como herramientas de investigación para monitorizar redes e identificar actividades sospechosas. Existe una gran variedad de analizadores de protocolos de red, pero algunos de los más comunes son:
 
@@ -59,3 +66,11 @@ Sin embargo, los atacantes también pueden utilizar los analizadores de protocol
 ## Puntos clave
 
 Los analizadores de protocolos de red, como tcpdump, son herramientas comunes que pueden utilizarse para supervisar los patrones de tráfico de red e investigar actividades sospechosas. tcpdump es un analizador de protocolos de red de línea de comandos compatible con Linux/Unix y macOS®. Cuando ejecute un comando tcpdump, la herramienta mostrará información sobre el enrutamiento de paquetes, como la marca de tiempo, la dirección IP de origen y el número de puerto, y la dirección IP de destino y el número de puerto. Por desgracia, los atacantes también pueden utilizar analizadores de protocolos de red para capturar paquetes de datos que contengan información confidencial, como nombres de usuario y contraseñas de cuentas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Ataques de denegación de servicio (DoS)]]
+- ➡️ Siguiente: [[3- Ataque DDoS en la vida real]]

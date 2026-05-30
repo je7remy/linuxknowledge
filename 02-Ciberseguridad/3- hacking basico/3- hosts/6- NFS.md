@@ -200,7 +200,7 @@ zunderrubb@htb[/htb]$ sudo umount ./target-NFS
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[5- MySQL]]
 - ➡️ Siguiente: [[7- Oracle TNS]]
 
@@ -218,4 +218,4 @@ zunderrubb@htb[/htb]$ sudo umount ./target-NFS
 ## Relacionadas (privesc)
 
 - [[1- privilege scalation basic]] — escalada a partir de claves SSH expuestas en NFS.
-- [[../../4- privilege scalation/index|4- Escalación de privilegios]] — vectores como cargar binarios SUID al share NFS.
+- [[_4- privilege scalation|4- Escalación de privilegios]] — vectores como cargar binarios SUID al share NFS.

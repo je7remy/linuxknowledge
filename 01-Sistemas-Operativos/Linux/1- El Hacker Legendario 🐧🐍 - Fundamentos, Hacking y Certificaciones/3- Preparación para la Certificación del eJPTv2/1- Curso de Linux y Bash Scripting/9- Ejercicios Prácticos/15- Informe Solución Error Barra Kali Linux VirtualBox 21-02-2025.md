@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Informe Solución Error Barra Kali Linux VirtualBox 21-02-2025
 
 ---
 
@@ -63,3 +70,10 @@ Jeremy José de la Cruz Pérez
 21-02-25
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux]]

@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Ponga a prueba sus Conocimientos - Captura y visualización del tráfico de red
 ### Pregunta 1
 
 **¿Qué componente de un paquete contiene los datos reales que se pretende enviar a su destino?**
@@ -66,3 +70,10 @@
     
 
 **Explicación:** **Wireshark** es un analizador de protocolos de red al que se accede a través de una interfaz gráfica de usuario.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Analice su primer paquete]]

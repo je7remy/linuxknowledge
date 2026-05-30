@@ -14,7 +14,7 @@ Y no olvidemos que las amenazas no siempre vienen del exterior.
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[1- Qué quieren los hackers]]
 - ➡️ Siguiente: [[3- Descifrado de contraseñas de Wi-Fi]]
 

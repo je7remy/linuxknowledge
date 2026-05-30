@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Herramientas comunes de ciberseguridad
 
 ## 🔐 Herramientas de Seguridad para Analistas de Nivel Básico
 
@@ -100,3 +107,11 @@ Como analista de nivel inicial, **no necesitas dominar todas estas herramientas 
 A medida que avances en el programa de certificación y adquieras práctica, **irás desarrollando tu comprensión** sobre cómo usarlas para identificar, evaluar y mitigar riesgos.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 4]]
+- ➡️ Siguiente: [[3- Herramientas para proteger las operaciones comerciales]]

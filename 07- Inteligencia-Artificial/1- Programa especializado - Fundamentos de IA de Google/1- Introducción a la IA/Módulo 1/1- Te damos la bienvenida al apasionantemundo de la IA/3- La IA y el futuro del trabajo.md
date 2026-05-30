@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-1]
+actualizado: 2026-05-28
+---
+
+# La IA y el futuro del trabajo
 
 ### 🚗 Comprendiendo la Inteligencia Artificial (IA)
 
@@ -22,3 +29,11 @@ Este video establece la definición fundamental de la IA que se usará en el cur
     
 
 El video concluye animándote a explorar cómo la IA puede optimizar tu trabajo y cómo funciona.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[2- Descripción general de Fundamentos de IA de Google]]
+- ➡️ Siguiente: [[4- Aprende de casos de éxito de IA]]

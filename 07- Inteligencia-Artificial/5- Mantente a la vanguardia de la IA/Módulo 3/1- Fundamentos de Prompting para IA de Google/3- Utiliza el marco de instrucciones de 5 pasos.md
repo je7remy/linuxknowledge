@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Utiliza el marco de instrucciones de 5 pasos
 
 ## **Cómo crear instrucciones eficaces**
 
@@ -103,3 +110,11 @@ Lo esencial es incluir todos los elementos que hagan tu instrucción clara y com
 Mientras **crees tácticamente, realmente, excelentes inputs**, tus **salidas serán geniales**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[2- Descubre cómo la IA puede ayudar en el trabajo]]
+- ➡️ Siguiente: [[4- IA en la vida real, Mejora tus instrucciones añadiendo contexto y arquetipo]]

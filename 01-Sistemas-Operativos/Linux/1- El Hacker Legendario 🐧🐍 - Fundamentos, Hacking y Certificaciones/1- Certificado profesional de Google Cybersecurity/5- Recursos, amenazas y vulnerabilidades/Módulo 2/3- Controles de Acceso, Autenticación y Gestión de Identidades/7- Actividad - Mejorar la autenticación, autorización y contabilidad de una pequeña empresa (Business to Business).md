@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad - Mejorar la autenticación, autorización y contabilidad de una pequeña empresa (Business to Business)
 
 # 📄 Actividad: Evaluación de controles de acceso
 
@@ -98,4 +105,10 @@ Se sugieren las siguientes acciones para fortalecer los controles de acceso:
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[6- Gestión de identidad y acceso]]
+- ➡️ Siguiente: [[8- Ponga a prueba sus Conocimientos - Autenticación, autorización y contabilidad]]

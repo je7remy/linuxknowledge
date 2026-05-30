@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 3
 
 ## Términos y definiciones del Curso 3, Módulo 3
 
@@ -29,3 +36,10 @@
 
 **Ataque de inundación sincronizada (SYN flood):** Un tipo de ataque DoS que simula una conexión TCP/IP e inunda un servidor con paquetes SYN flood
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Recapitulación]]
+- ➡️ Siguiente: [[3- Desafío del módulo 3]]

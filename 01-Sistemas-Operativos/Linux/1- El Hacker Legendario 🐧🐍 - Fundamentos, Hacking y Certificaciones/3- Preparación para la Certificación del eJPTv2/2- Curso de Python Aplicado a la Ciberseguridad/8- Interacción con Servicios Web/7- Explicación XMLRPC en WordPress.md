@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Explicación XMLRPC en WordPress
 
 XML-RPC en WordPress es un protocolo que permite la comunicación entre diferentes sistemas y plataformas de manera remota a través de XML (Extensible Markup Language) utilizando HTTP como transporte. Originalmente introducido en WordPress en 2002, XML-RPC facilita la interacción con tu sitio web desde aplicaciones externas, como clientes de escritorio, aplicaciones móviles y servicios web.
 
@@ -598,3 +605,11 @@ add_filter('xmlrpc_enabled', '__return_false');
 ## **📌 Conclusión**
 
 Los ataques de fuerza bruta con `system.multicall` en XML-RPC **son extremadamente rápidos** y permiten probar cientos de combinaciones en una sola solicitud. **Si administras un WordPress, protege tu sitio YA**. 🚀
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]
+- ⬅️ Anterior: [[6- Inicio de Sesión en WordPress desde Python]]
+- ➡️ Siguiente: [[8- Fuerza Bruta XMLRPC desde Python]]

@@ -22,7 +22,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[7- Oracle TNS]]
 - ➡️ Siguiente: [[9- SMB]]
 
@@ -30,5 +30,5 @@ actualizado: 2026-05-28
 
 - [[12- Windows Hosts]] — versión extendida con teoría de RDP + WinRM + WMI.
 - [[9- SMB]] — combinación clásica con Pass-The-Hash desde SMB hashes.
-- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — RDP es vector estándar en pentest AD.
+- [[_7- Activie Directory|01 → Active Directory]] — RDP es vector estándar en pentest AD.
 - [[1- Hoja de trucos NMAP]] — scripts `rdp-enum-encryption`, `rdp-ntlm-info` NSE.

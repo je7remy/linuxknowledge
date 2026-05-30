@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ## 📝 Resumen del Módulo: Trabajo con Cadenas y Listas
 
@@ -29,3 +36,10 @@
 ---
 
 Estos conceptos son complejos pero fundamentales. Te dan las herramientas para manejar datos y empezar a escribir los algoritmos que usan los profesionales de la seguridad. ¡Sigue adelante con el resto del curso!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Guía de referencia - Conceptos de Python del Módulo 3]]

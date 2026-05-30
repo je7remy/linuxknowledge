@@ -573,7 +573,7 @@ Esto se debe a que el certificado SSL nos permite reconocer el , por ejemplo, y 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: _(primero del catálogo)_
 - ➡️ Siguiente: [[2- IPMI]]
 

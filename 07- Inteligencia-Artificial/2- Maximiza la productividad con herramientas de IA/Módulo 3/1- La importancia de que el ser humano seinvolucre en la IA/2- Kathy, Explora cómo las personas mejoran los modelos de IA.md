@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Kathy, Explora cómo las personas mejoran los modelos de IA
 
 ## Testimonio de Kathy: La IA como Herramienta para la Conexión Humana
 
@@ -33,3 +40,11 @@
 - Kathy cree que la IA tiene un potencial enorme de hacer un bien para el mundo.
     
 - **Visión Final:** La IA es una herramienta que los humanos crearon como ayuda para **conectarnos los unos con los otros y ayudarnos a ser más humanos**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[1- Aprovecha el criterio de “humano en el ciclo” en la IA]]
+- ➡️ Siguiente: [[3- Determina si la IA generativa es adecuada para la tarea]]

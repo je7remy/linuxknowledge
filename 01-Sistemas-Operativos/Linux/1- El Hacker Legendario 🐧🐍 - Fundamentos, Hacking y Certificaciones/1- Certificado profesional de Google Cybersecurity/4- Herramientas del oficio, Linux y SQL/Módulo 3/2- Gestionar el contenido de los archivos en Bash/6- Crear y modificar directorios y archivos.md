@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Crear y modificar directorios y archivos
 
 **concepto base**  
 
@@ -98,3 +105,11 @@ el sistema de archivos de linux se puede visualizar como un árbol donde el dire
 
 **respuesta correcta:**  
 puede utilizar el comando **touch** para crear un nuevo archivo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Ejemplar, Filtrado con grep]]
+- ➡️ Siguiente: [[7- Gestionar directorios y archivos]]

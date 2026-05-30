@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Operadores para filtrar fechas y números
 
 # Números, Fechas y Horas en Ciberseguridad
 
@@ -89,3 +96,11 @@ WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01';
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Filtrar fechas y números]]
+- ➡️ Siguiente: [[3- Aplicar más filtros en SQL]]

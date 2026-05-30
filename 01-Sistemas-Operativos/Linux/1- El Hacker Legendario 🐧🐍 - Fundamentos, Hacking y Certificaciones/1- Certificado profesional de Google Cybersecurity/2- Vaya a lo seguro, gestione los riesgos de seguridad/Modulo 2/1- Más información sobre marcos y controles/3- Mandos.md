@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Mandos
 
 Mientras que los **marcos de ciberseguridad** se utilizan para crear planes que aborden los riesgos, las amenazas y las vulnerabilidades, los **controles de seguridad** son salvaguardas concretas diseñadas para **reducir riesgos específicos**. Si no se implementan los controles adecuados, una organización podría sufrir consecuencias financieras graves y daños a su reputación por riesgos como la intrusión, creación de cuentas falsas de empleados o entrega de beneficios no autorizados.
 
@@ -53,3 +60,11 @@ Estos controles forman parte de un modelo de seguridad más amplio conocido como
 Este modelo es utilizado por los equipos de ciberseguridad para diseñar estrategias robustas de protección organizacional.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Marcos]]
+- ➡️ Siguiente: [[4- La relación entre marcos y controles]]

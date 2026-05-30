@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 2
 
 ## Términos y definiciones del Curso 3, Módulo 2
 
@@ -52,3 +59,11 @@
 **Red privada virtual (VPN):** Servicio de seguridad de red que cambia su dirección IP pública y enmascara su ubicación virtual para que pueda mantener la privacidad de sus datos cuando utilice una red pública como Internet
 
 **Acceso Wi-Fi protegido (WPA):** Un protocolo de seguridad inalámbrico para que los dispositivos se conecten a Internet
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]
+- ➡️ Siguiente: [[3- Desafío del módulo 2]]

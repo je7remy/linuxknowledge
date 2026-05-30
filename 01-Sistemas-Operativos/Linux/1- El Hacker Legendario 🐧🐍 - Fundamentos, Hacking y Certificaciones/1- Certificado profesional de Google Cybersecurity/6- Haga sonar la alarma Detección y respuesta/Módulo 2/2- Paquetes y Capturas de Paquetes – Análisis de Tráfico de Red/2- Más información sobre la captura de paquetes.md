@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Más información sobre la captura de paquetes
 
 La función de los analistas de seguridad consiste en supervisar y analizar los flujos de tráfico de la red. Una forma de hacer esto es generando capturas de paquetes y luego analizando el tráfico capturado para identificar actividad inusual en una red.
 
@@ -78,3 +85,11 @@ Los analizadores de protocolos de red son útiles herramientas de investigación
 ## Recursos para obtener más información
 
 Este artículo de Infosec describe los riesgos del [packet crafting](https://resources.infosecinstitute.com/topic/packet-crafting-a-serious-crime/), una técnica utilizada para comprobar la estructura de una red.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Paquetes y capturas de paquetes]]
+- ➡️ Siguiente: [[3- Interpretar las comunicaciones de red con paquetes]]

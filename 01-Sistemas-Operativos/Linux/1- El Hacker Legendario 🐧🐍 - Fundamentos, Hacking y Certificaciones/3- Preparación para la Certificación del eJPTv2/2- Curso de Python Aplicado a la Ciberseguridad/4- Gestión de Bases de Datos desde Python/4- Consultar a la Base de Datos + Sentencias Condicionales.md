@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Consultar a la Base de Datos + Sentencias Condicionales
 
 ---
 
@@ -200,3 +207,10 @@ crear_tabla()
 **[[1- FTP]]**
 **[[9- SMB]]**
 **[[11- SSH]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Gestión de Bases de Datos desde Python|4- Gestión de Bases de Datos desde Python]]
+- ⬅️ Anterior: [[3- Consultas a la Base de Datos]]

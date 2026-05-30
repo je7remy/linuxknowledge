@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ejemplo opcional, Examinar la entrada y la salida en el shell
 
 Un ejemplar de laboratorio es un recurso opcional que proporciona un Modelo completado de la actividad de laboratorio que le precede. Puede revisar este ejemplar o pasar al siguiente elemento del curso sin revisarlo.
 
@@ -27,3 +34,10 @@ Si no necesita revisar ninguna sección del laboratorio, puede pasar al siguient
 
 ## **Este laboratorio es el mismo que el:** [[01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/3- El shell/6- Lab]]
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Lab]]
+- ➡️ Siguiente: [[8- Ejemplo, Examinar la entrada y la salida en el Shell]]

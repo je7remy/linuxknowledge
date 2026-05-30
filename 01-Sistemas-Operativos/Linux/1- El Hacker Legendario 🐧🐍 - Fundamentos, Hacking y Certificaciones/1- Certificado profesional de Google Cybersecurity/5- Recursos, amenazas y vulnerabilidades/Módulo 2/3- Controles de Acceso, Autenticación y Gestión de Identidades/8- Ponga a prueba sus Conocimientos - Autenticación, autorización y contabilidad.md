@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Autenticación, autorización y contabilidad
 
 ### **Pregunta 1**
 
@@ -66,3 +73,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[7- Actividad - Mejorar la autenticación, autorización y contabilidad de una pequeña empresa (Business to Business)]]

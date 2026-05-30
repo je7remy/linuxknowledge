@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Cómo Crear un Servidor FTP con VSFTPD
 ### **1. Preparación en el Servidor Ubuntu**
 
 #### **1.1. Actualiza el sistema**
@@ -246,3 +253,11 @@ Estos comandos configuran el servidor FTP, habilitan la escritura, y permiten la
 
 [[1- Configuración de Servidor FTP en Linux]]
 [[2- Puertos Principales]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de Servidores con Scripts de Bash]]
+- ⬅️ Anterior: [[1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso]]
+- ➡️ Siguiente: [[3- Gestión y Automatización de Servidores FTP – PARTE 1]]

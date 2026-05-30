@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Momento de la Elevación
 
 Anteriormente aprendió sobre el impacto potencial que incluso el incidente más pequeño puede tener en una organización si el incidente no se escala adecuadamente. También descubrió lo importante que será su papel como analista de nivel básico para la eficacia del proceso de Elevación de una organización.
 
@@ -38,3 +45,11 @@ Una gran parte de su Función en la Ciberseguridad consistirá en determinar cu�
 ## Puntos clave
 
 Escalado de incidentes será una parte importante de su función dentro de un Equipo de Seguridad. Se espera que los analistas de nivel básico identifiquen y escalen los incidentes relacionados con su trabajo diario. Leer y comprender la Política de escalado de su organización le será útil en esta responsabilidad. La política de escalado describirá cómo y a quién debe escalar los incidentes. En caso de duda, no tema preguntar a un supervisor sobre el proceso de Elevación a Nivel. Esto le ayudará a estar bien informado sobre su trabajo y a tomar decisiones con conocimiento de causa.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[8- Cuándo y cómo escalar un incidente de Seguridad]]
+- ➡️ Siguiente: [[10- Historia de Juliana - Atención al detalle]]

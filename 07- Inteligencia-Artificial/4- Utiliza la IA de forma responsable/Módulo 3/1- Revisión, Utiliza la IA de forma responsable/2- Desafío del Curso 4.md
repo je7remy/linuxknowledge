@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Desafío del Curso 4
 
 # 1 — Promotor de viviendas asequibles (elige 3)
 
@@ -93,3 +100,9 @@ _Justificación:_ «Estancamiento» (staleness) describe cuando un modelo no ha 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]

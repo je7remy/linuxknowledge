@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad - Investigación de analizadores de protocolos de red
 
 
 ### **Resumen de la Actividad: Investigación de Analizadores de Protocolos de Red**
@@ -51,3 +58,10 @@ A continuación se presenta el análisis comparativo solicitado, estructurado pa
 - **Código Abierto (Open Source):** Tanto Wireshark como tcpdump son proyectos de software libre y de código abierto. Esto significa que son gratuitos, transparentes y mantenidos por una comunidad global de desarrolladores.
     
 - **Compatibilidad de Formato:** Ambas herramientas utilizan la librería subyacente **`libpcap`** para la captura de paquetes. Como resultado, son totalmente compatibles con el formato de archivo estándar **`.pcap`**, permitiendo que los datos capturados con una herramienta sean analizados con la otra.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Actividad de cierre]]

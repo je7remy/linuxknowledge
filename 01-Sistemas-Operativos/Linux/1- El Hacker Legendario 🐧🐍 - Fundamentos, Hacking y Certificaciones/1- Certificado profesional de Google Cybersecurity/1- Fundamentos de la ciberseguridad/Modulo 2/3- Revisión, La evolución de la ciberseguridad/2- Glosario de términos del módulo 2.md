@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 2
 
 ## **Términos y definiciones del Curso 1, Módulo 2**
 
@@ -38,3 +45,11 @@ Phishing en redes **sociales:** Un tipo de ataque en el que un actor de amenazas
 **Vishing:** La explotación de la comunicación electrónica de voz para obtener información confidencial o para hacerse pasar por una fuente conocida.
 
 **Ataque de abrevadero**: un tipo de ataque cuando un actor de amenazas compromete un sitio web visitado con frecuencia por un grupo específico de usuarios
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Conclusión]]
+- ➡️ Siguiente: [[3- Desafío del módulo 2]]

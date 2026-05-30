@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Endurecimiento de seguridad
 
 > Usemos un ejemplo que compare una red con una casa. La superficie de ataque serían todas las puertas y ventanas que un ladrón podría utilizar para acceder a esa casa.
 > 
@@ -65,3 +72,10 @@
 > Las organizaciones luego usan esta información para elaborar un plan de mitigación.
 > 
 > **El endurecimiento de la seguridad es esencial en la seguridad de redes**, ya que fortalece los sistemas y reduce el número de ataques exitosos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Introducción]]

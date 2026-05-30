@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [fastapi]
+actualizado: 2026-05-28
 ---
 
+# Routers
 # Módulo 13: Arquitectura Modular con APIRouter
 
 ## Lección 13.1: ¿Por qué usar Routers?
@@ -134,4 +138,11 @@ Si ejecutas esto (`uvicorn main:app --reload`) y vas a la documentación (`/docs
 2. Los endpoints de **Products** estarán en su propia sección.
     
 3. La URL `/products/` funcionará aunque en el código solo pusiste `/`.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[10- Test de conocimientos - HTTP status codes]]
+- ➡️ Siguiente: [[12- Test de conocimientos - Routers]]

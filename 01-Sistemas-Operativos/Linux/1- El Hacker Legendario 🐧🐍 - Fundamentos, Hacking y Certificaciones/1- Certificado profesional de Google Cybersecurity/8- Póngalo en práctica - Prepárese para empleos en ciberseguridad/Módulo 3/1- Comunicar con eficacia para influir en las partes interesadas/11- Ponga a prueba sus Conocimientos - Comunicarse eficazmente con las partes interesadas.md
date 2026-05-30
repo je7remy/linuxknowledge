@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Comunicarse eficazmente con las partes interesadas
 
 ## Cuestionario: Comunicación con Partes Interesadas
 
@@ -77,3 +84,11 @@ Rellene el espacio en blanco: El uso de _____ para contar una Historia de Seguri
     
 
 > **Justificación:** El video del tutorial ("¡vamos a divertirnos un poco!") mencionó explícitamente "Apache OpenOffice" y "Google Sheets" como dos opciones sin costo para crear hojas de cálculo y representaciones visuales. Linux es un sistema operativo y Bloc de notas es un editor de texto simple que no puede crear gráficos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[10- Historia de Juliana - Comunicación efectiva]]
+- ➡️ Siguiente: [[12- Recapitulación]]

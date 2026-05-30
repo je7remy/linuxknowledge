@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Descripción general de Fundamentos de IA de Google
 
 ![Bienvenido a Google IA Essentials](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5bYekvWfR4-RRfEHGJc22Q_191f8546b138431391c82def952318f1_kghjkjh.png?expiry=1762905600000&hmac=PlSEUG7h3B2SBkOD0DDkvIlLk4AA24m5FOx3HzEcrzU)
 
@@ -36,3 +43,10 @@ Cuando termines este curso, obtendrás un certificado de Google que podrás comp
 
 ![Certificado Google IA Essentials](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_5a22a5ae7dd74f99a9d507c563eb1392_image.png?expiry=1762905600000&hmac=CCq6GlPnZS7VRS-1ke27oxaLaGtST0aBoPaFGf_R5Hw)
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[1- Introducción a Fundamentos de IA de Google]]
+- ➡️ Siguiente: [[3- La IA y el futuro del trabajo]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Bienvenidos al módulo 1
 
 # 🧱 Comprendiendo el Diseño Básico de una Red
 
@@ -47,3 +54,10 @@ Este conocimiento te ayudará a proteger la red de tu organización contra:
 Prepárate para fortalecer tu entendimiento sobre redes y dar el siguiente paso en tu carrera en ciberseguridad.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Chris, Mi camino hacia la ciberseguridad]]

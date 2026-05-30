@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Gestión y Automatización de Servidores FTP – PARTE 1
 
 El script Bash utiliza el comando `curl` para subir un archivo local llamado `log.txt` al servidor FTP con la IP `192.168.1.109`, usando las credenciales del usuario `jeremyserver`. A continuación, detallo lo que hace cada sección del script y los posibles resultados:
 
@@ -43,3 +50,11 @@ curl -u $usuario -T "$ruta_archivo_local" ftp://$servidor/$archivo_remoto
 
 **[[3- Transferencia de Archivos por la Red]]** 
 [[3- Automatizar Copias de Seguridad FTP con Python]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de Servidores con Scripts de Bash]]
+- ⬅️ Anterior: [[2- Cómo Crear un Servidor FTP con VSFTPD]]
+- ➡️ Siguiente: [[4- Gestión y Automatización de Servidores FTP – PARTE 2]]

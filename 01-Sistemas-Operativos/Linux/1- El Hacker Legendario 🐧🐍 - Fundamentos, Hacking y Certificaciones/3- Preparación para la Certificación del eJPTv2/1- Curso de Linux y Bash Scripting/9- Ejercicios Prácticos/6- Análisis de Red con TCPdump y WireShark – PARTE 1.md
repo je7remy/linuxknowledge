@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Análisis de Red con TCPdump y WireShark – PARTE 1
 
 ---
 
@@ -237,3 +244,11 @@ Este tráfico confirma que `tcpdump` capturó correctamente la sesión FTP. Pued
 **[[1- Hoja de trucos NMAP]]**
 **[[3- nmap firewall evasion]]**
 **[[4- nmap output]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[5- Análisis de la Red con Bash – PARTE 3]]
+- ➡️ Siguiente: [[7- Análisis de Red con TCPdump y WireShark – PARTE 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Seguridad como mentalidad
 
 ## 🧠 Seguridad como Mentalidad
 
@@ -45,3 +52,10 @@ Implica reconocer no solo **qué** defiendes (activos esenciales), sino también
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[3- Glosario]]
+- ➡️ Siguiente: [[5- Datos y Clasificación de activos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Entrada de Información por parte del Usuario (Argumentos)
 
 ---
 
@@ -124,3 +131,11 @@ Este código es útil cuando queremos manejar argumentos desde la terminal en lu
 [[2- Las Listas]]
 [[3- Las Tuplas]]
 [[6- Los Diccionarios]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[4- Entrada de Información por parte del Usuario]]
+- ➡️ Siguiente: [[6- Los Diccionarios]]

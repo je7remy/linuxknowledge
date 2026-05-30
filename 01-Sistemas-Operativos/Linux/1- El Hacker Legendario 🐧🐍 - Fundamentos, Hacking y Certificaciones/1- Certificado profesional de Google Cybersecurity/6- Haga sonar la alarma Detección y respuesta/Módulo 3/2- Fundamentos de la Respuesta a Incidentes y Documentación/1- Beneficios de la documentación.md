@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Beneficios de la documentación
 
 La documentación es fundamental para los equipos de seguridad porque ofrece **transparencia**, establece **estandarización** y mejora la **claridad** en todos los procesos, permitiendo que las operaciones de seguridad crezcan y se mantengan eficientes.
 
@@ -49,3 +56,10 @@ El campo de la ciberseguridad está en constante evolución. Por ello, es vital 
 ✅ **Claridad**
 
 > Proporciona a los miembros del equipo una comprensión clara de sus funciones, deberes y de cómo completar un proceso.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Documentación de pruebas con formularios de cadena de custodia]]

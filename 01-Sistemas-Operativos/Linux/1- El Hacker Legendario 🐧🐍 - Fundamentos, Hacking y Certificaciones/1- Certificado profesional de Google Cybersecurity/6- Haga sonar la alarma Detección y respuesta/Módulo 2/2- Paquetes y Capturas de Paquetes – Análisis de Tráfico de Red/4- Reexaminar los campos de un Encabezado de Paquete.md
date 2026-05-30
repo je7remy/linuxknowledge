@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Reexaminar los campos de un Encabezado de Paquete
 
 # 🧩 Encabezados IP y Campos del Paquete
 
@@ -77,3 +84,10 @@ El encabezado contiene **campos de datos esenciales** que permiten identificar, 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Interpretar las comunicaciones de red con paquetes]]
+- ➡️ Siguiente: [[5- Investigar los detalles del Paquete]]

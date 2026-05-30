@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Introducción a los marcos y controles de seguridad
 
 Imagina que trabajas como analista de seguridad y recibes múltiples alertas sobre actividades sospechosas en la red. Te das cuenta de que tendrás que implementar medidas de seguridad adicionales para evitar que estas alertas se conviertan en incidentes graves. Pero, ¿por dónde empezar?
 
@@ -45,3 +52,10 @@ En los siguientes videos, se hablará sobre algunos marcos y principios ampliame
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 3]]
+- ➡️ Siguiente: [[3- Diseño seguro]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenidos al módulo 2
 
 ## 🔐 Introducción: Operaciones de red, herramientas y protocolos
 
@@ -24,3 +31,9 @@ Los **actores maliciosos** pueden interceptar o manipular datos mientras se tran
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Protocolos de red]]

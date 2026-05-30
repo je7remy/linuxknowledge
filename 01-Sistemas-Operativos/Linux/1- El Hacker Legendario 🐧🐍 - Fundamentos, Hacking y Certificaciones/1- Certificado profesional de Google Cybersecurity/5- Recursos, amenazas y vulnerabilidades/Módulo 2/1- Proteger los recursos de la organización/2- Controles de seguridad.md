@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Controles de seguridad
 
 # Controles de Seguridad
 
@@ -111,3 +118,10 @@ Los **tres tipos de Controles de seguridad** son:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 2]]
+- ➡️ Siguiente: [[3- Principio de privilegio mínimo]]

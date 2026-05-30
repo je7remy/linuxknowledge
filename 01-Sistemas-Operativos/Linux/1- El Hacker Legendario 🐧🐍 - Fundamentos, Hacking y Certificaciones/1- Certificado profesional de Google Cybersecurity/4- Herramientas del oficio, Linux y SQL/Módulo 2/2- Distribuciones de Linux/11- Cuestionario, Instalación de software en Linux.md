@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Cuestionario, Instalación de software en Linux
 
 **1.**  
 **Pregunta:**  
@@ -34,3 +41,10 @@ Rellene el espacio en blanco: Dado que _____ es de código abierto, cualquiera p
 ✅ _CentOS_  
 ✅ _Parrot_  
 ✅ _Red Hat_
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[10- Ejemplo, Instalar software en una distribución Linux]]

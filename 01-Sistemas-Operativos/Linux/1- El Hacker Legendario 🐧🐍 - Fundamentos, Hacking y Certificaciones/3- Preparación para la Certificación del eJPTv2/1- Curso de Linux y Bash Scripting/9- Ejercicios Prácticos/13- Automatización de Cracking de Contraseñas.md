@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash, cracking]
+actualizado: 2026-05-28
+---
+
+# Automatización de Cracking de Contraseñas
 
 ---
 
@@ -113,3 +120,11 @@ chmod +x script.sh
 **[[Hoja de Trucos HASHCAT]]**
 **[[12- Herramienta para hacer cracking de contraseñas]]**
 [[14- Prueba de lápiz interno]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[12- Herramienta para hacer cracking de contraseñas]]
+- ➡️ Siguiente: [[14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux]]

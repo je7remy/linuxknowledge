@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ## ✅ **Resumen: Fortalecimiento de la Seguridad (Hardening)**
 
@@ -59,3 +66,10 @@ Este conocimiento es esencial para proteger la información y los activos de cua
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Reforzar el refuerzo del sistema y la defensa contra vulnerabilidades]]
+- ➡️ Siguiente: [[3- Términos del glosario del Módulo 4]]

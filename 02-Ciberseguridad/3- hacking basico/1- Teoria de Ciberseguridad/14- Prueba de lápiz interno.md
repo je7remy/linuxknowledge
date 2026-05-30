@@ -1,12 +1,4 @@
 ---
-tipo: teoria
-tags: [pentest, huella-red, escaneo-objetivos, mantener-acceso, fases]
-actualizado: 2026-05-28
----
-
-# Prueba de lápiz (pen test) interno
-
----
 
 #HuellasDeRed #Intrusión #AtaqueSimulado #EscaneoDeObjetivos #VulnerabilidadesExplotables #AccesoARed #SimulaciónDeAtaque #SeguridadEnRed #MantenimientoDeAcceso #Ciberseguridad #EvaluaciónDeSeguridad #MejorasDeSeguridad #AnálisisDeVulnerabilidades #PruebasDePenetración
 
@@ -22,7 +14,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[13- Dispositivos de seguridad]]
 - ➡️ Siguiente: [[15- Enfoque de Cisco para la ciberseguridad]]
 
@@ -30,7 +22,7 @@ actualizado: 2026-05-28
 
 - [[2- De qué color es mi sombrero]] — el sombrero blanco realiza estas pruebas.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/1- Introducción|HackTheBox → Intro pentesting]] — fases equivalentes (Reconocimiento → Reporting).
-- [[../../4- Hacking Intermedio Teoria/index|4- Hacking Intermedio Teoría]] — curso completo de pruebas de penetración.
+- [[_4- Hacking Intermedio Teoria|4- Hacking Intermedio Teoría]] — curso completo de pruebas de penetración.
 
 ## Relacionadas (cracking — enlaces originales)
 

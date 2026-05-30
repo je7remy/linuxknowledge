@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [fastapi]
+actualizado: 2026-05-28
 ---
 
+# Qué es un backend
 # 🌐 Lección: Introducción al Frontend, Backend y FastAPI
 
 ## 📝 **Descripción ampliada**
@@ -166,3 +170,9 @@ Al finalizar esta lección deberías comprender:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ➡️ Siguiente: [[3- Test de conocimientos, Qué es un backend]]

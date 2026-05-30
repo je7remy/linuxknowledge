@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# El marco de ciberseguridad del NIST
 
 # 📖 Cumplimiento normativo y el NIST Cybersecurity Framework (CSF)
 
@@ -125,3 +132,10 @@ El núcleo es una versión simplificada de las funciones u obligaciones de un pl
 
 📌 **Respuesta final**: Las tres funciones faltantes son **Proteger, Responder y Recuperar**.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- Elementos de un plan de Seguridad]]
+- ➡️ Siguiente: [[7- Directrices de Seguridad en acción]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Índice
 
 # Curso de Python Aplicado a la Ciberseguridad
 
@@ -125,3 +132,9 @@
 
 ## Despedida + Aviso Importante
 - Despedida + Aviso Importante
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Curso de Python Aplicado a la Ciberseguridad|2- Curso de Python Aplicado a la Ciberseguridad]]

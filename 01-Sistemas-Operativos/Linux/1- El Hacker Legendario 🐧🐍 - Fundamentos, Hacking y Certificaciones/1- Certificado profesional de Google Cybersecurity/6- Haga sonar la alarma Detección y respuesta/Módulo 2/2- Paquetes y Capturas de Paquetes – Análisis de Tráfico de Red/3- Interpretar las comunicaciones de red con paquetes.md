@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Interpretar las comunicaciones de red con paquetes
 
 # 🧩 Análisis de Paquetes
 
@@ -74,3 +81,11 @@ Por eso, **filtrar y clasificar** los datos es clave para identificar actividade
 |**Resultado esperado**|Identificación rápida de amenazas o comportamientos sospechosos|
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Más información sobre la captura de paquetes]]
+- ➡️ Siguiente: [[4- Reexaminar los campos de un Encabezado de Paquete]]

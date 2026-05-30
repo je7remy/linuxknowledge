@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Comando XARGS
 
 ---
 
@@ -70,3 +77,11 @@
 
 [[5- Comando find y redirección de errores]]
 [[3- Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Gestión de Permisos y Tratamiento de la Información|2- Gestión de Permisos y Tratamiento de la Información]]
+- ⬅️ Anterior: [[5- Comando find y redirección de errores]]
+- ➡️ Siguiente: [[7- Stdout, Stderr y Stdin]]

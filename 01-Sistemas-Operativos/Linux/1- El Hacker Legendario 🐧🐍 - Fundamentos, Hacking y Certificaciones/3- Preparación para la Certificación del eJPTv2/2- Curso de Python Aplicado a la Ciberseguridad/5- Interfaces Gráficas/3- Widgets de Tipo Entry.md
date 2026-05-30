@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Widgets de Tipo Entry
 
 ---
 
@@ -87,3 +94,11 @@ ventana.mainloop()
 ```
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]
+- ⬅️ Anterior: [[2- Widgets de Tipo Button y Label]]
+- ➡️ Siguiente: [[4- Creación de Pop-Ups y sus Distintos Tipos]]

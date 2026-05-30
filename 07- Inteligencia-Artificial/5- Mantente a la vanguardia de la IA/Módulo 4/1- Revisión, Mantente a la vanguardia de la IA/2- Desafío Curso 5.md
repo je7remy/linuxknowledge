@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío Curso 5
 
 ### **1. Evaluar una herramienta de IA para depurar código**
 
@@ -64,3 +71,10 @@ El uso eficaz de la IA implica **evaluar, optimizar y automatizar**, no intentar
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]
+- ➡️ Siguiente: [[3- Conclusión de Fundamentos de IA de Google]]

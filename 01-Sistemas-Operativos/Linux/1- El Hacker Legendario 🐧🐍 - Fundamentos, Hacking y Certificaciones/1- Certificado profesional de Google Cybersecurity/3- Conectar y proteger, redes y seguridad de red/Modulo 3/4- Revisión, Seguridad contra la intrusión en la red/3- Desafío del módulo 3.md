@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 3
 
 ### 🧠 **Respuestas correctas:**
 
@@ -84,3 +91,10 @@
     
 - **¿Qué ataque combina DDoS + suplantación de IP?**  
     ✔ **Ataque Smurf**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Términos del glosario del Módulo 3]]

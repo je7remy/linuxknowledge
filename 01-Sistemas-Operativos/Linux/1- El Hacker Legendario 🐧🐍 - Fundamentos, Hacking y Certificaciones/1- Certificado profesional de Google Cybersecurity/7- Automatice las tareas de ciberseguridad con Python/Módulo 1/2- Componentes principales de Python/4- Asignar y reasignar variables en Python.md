@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Asignar y reasignar variables en Python
 
 Anteriormente, has explorado las variables y cómo asignarlas y reasignarlas en Python. En esta lectura, ampliarás tu comprensión de estos temas. También aprenderás sobre la práctica general de nombrar variables para evitar errores de sintaxis y mejorar la legibilidad del código.
 
@@ -89,3 +96,10 @@ Además, debes seguir estas pautas de estilo para que tu código sea más fácil
 
 Es importante que los analistas de seguridad tengan una comprensión fundamental de las variables. Las variables son contenedores de datos. Se les asignan valores y también se les pueden reasignar otros valores o variables. Es útil recordar las mejores prácticas para nombrar variables con el fin de crear un código más funcional y legible.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Trabajar con variables en Python]]
+- ➡️ Siguiente: [[5- Actividad - Asignar variables Python]]

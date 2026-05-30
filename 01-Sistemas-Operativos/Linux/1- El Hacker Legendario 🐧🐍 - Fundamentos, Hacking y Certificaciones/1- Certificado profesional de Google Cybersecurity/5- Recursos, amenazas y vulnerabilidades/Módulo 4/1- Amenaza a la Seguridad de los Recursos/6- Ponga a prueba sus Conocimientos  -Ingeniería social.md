@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos  -Ingeniería social
 
 ### Pregunta 1
 
@@ -70,3 +77,10 @@ Seleccione **tres** respuestas.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- Tipos de phishing]]
+- ➡️ Siguiente: [[7- Actividad - Filtrar correos electrónicos maliciosos]]

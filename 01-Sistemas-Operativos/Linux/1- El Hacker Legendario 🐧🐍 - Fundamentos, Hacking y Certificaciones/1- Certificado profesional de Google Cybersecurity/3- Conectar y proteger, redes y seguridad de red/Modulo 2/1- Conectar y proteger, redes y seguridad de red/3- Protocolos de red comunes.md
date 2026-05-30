@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Protocolos de red comunes
 
 En esta sección del curso, aprendió sobre los protocolos de red y cómo organizan la comunicación a través de una red. En esta lectura se analizarán los protocolos de red con más profundidad y se revisarán algunos protocolos básicos que ha aprendido anteriormente. También aprenderá nuevos protocolos y discutirá algunas de las formas en que los protocolos están involucrados en la seguridad de la red.
 
@@ -47,3 +54,11 @@ Los protocolos de seguridad son protocolos de red que garantizan que los datos s
 ## Conclusiones clave
 
 Los protocolos que aprendió en esta lectura son protocolos de red básicos que los analistas de ciberseguridad de nivel básico deben conocer. Comprender cómo funcionan los protocolos en una red es esencial. Los analistas de ciberseguridad pueden aprovechar su conocimiento de los protocolos para mitigar con éxito las vulnerabilidades de una red y, potencialmente, prevenir futuros ataques.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Protocolos de red]]
+- ➡️ Siguiente: [[4- Protocolos de red adicionales]]

@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Automatizar la Gestión de Usuarios en Linux
 
 ---
 
@@ -320,3 +327,11 @@ Este script es un menú interactivo básico para gestión de usuarios, pero nece
 **[[1- Protección del Protocolo SSH]]** 
 [[7- Automatización de Copias de Seguridad en Servidor SSH]]
 [[6- Acceso Automatizado SSH Importando Clave Pública]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[10- Detector de Sistemas Operativos – PARTE 2]]
+- ➡️ Siguiente: [[12- Herramienta para hacer cracking de contraseñas]]

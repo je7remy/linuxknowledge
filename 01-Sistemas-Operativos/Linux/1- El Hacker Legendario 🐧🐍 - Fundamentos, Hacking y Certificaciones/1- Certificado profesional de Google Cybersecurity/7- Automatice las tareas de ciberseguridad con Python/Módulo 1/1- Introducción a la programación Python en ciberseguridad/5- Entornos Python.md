@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Entornos Python
 
 Puede ejecutar Python a través de una gran variedad de entornos. Estos entornos incluyen notebooks, entornos de desarrollo integrados (IDE) y la línea de comandos. Esta lectura le presentará estos entornos. Se centrará principalmente en los notebooks porque así es como interactuará con Python en este curso.
 
@@ -28,3 +35,11 @@ La línea de comandos es otro entorno que le permite ejecutar programas Python. 
 ## Puntos clave
 
 Los analistas de Seguridad pueden acceder a Python a través de una gran variedad de entornos, incluyendo notebooks, entornos de desarrollo integrados y la línea de comandos. En este curso, utilizará los cuadernos, que son interfaces en línea para interactuar con el código. Los Notebooks contienen celdas de Código para escribir y ejecutar código, así como celdas Markdown para descripciones en texto plano.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Crear una secuencia de comandos de Python básica]]
+- ➡️ Siguiente: [[6- Consejos de laboratorio y pasos para la solución de problemas]]

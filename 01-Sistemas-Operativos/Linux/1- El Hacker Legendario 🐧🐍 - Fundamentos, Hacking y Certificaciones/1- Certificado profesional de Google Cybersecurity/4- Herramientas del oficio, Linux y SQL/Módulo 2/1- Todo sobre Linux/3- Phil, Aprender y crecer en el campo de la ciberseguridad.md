@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Phil, Aprender y crecer en el campo de la ciberseguridad
 
 ## 🎙️ Testimonio de Phil – Director de Seguridad de la Información, Google Cloud
 
@@ -69,3 +76,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Introducción a Linux]]
+- ➡️ Siguiente: [[4- Arquitectura Linux]]

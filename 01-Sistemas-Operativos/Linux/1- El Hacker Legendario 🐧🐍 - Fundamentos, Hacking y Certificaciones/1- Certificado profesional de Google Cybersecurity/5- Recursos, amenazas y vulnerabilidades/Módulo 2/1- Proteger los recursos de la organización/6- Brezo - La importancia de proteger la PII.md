@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Brezo - La importancia de proteger la PII
 
 
 Hola, me llamo Heather y soy la vicepresidenta de ingeniería de seguridad de Google.  
@@ -31,3 +38,11 @@ Tienen que poder confiar en la experiencia que están teniendo.
 Para mí, esa es la misión: ayudar a mantener a miles de millones de personas seguras en línea todos los días.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- Privacidad de la información - Regulaciones y Cumplimiento normativo]]
+- ➡️ Siguiente: [[7- Actividad - Determinar las prácticas adecuadas de tratamiento de Datos]]

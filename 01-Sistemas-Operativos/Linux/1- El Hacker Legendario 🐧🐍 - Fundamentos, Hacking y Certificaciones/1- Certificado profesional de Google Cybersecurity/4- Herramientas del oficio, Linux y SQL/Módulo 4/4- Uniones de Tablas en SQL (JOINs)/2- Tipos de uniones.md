@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Tipos de uniones
 
 # 📌 Uniones Externas en SQL (LEFT, RIGHT y FULL OUTER JOIN)
 
@@ -115,4 +122,11 @@ FULL OUTER JOIN machines
 - **INNER JOIN** → Solo filas coincidentes.
     
 - **OUTER JOIN** → Filas coincidentes **y también** las no coincidentes (con `NULL` en las columnas faltantes).
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Unir tablas en SQL]]
+- ➡️ Siguiente: [[3- Comparar tipos de uniones]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Yufeng, Experimente con la instrucción
 
 ## 👨‍💻 Conoce a Yufeng: Ingeniero en Google Cloud
 
@@ -47,3 +54,10 @@ Prueba cosas. Puedes escribir mucha información o simplemente escribir poco, lu
 A medida que experimentes y pruebes cosas nuevas, descubrirás que tu **fluidez y soltura** con estas herramientas de IA conversacional estarán por las nubes y querrás seguir probando diferentes instrucciones.
 
 ¿Y quién sabe? Quizá tenga un gran impacto en tu vida. Solo el tiempo lo dirá.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[2- Comprende los modelos de lenguaje grande]]

@@ -1,4 +1,3 @@
-
 ---
 
 #Ventoy #BootableUSB #OSInstallation #Windows #Linux #Cybersecurity #Tech #ITSupport #ISO #OperatingSystems #EthicalHacking #KaliLinux
@@ -67,3 +66,10 @@
 Con Ventoy, puedes instalar múltiples sistemas operativos sin necesidad de volver a formatear la USB cada vez. Es una herramienta ideal para técnicos, entusiastas de la informática y quienes trabajan con sistemas operativos constantemente.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Instalacion de Sistemas Operativos con Ventoy|2- Instalacion de Sistemas Operativos con Ventoy]]
+- ➡️ Siguiente: [[2- Saltar conexión Wi-Fi Windows]]

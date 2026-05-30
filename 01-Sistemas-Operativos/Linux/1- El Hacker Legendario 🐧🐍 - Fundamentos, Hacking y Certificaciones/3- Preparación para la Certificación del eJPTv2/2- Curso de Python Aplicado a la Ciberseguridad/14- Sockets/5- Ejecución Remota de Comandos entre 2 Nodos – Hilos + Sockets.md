@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Ejecución Remota de Comandos entre 2 Nodos – Hilos + Sockets
 
 ¡Hola! Soy el desarrollador de esta herramienta de chat en Python diseñada con un enfoque en ciberseguridad, y estoy emocionado de compartir contigo cómo la construí paso a paso. Este proyecto comenzó como una aplicación sencilla de mensajería cliente-servidor, pero lo adapté para permitir la ejecución remota de comandos en una máquina Windows, lo que le da un giro práctico para aplicaciones en ciberseguridad. A continuación, te explico cada etapa del desarrollo, desde la idea inicial hasta los códigos finales, Vamos a desglosar el código del cliente y del servidor, explicando cada decisión y cómo evolucionó el proyecto. ¡Empecemos!
 
@@ -290,3 +297,9 @@ Si tuviera que seguir desarrollando, consideraría:
 - Añadir autenticación para que solo usuarios autorizados envíen comandos.
 - Implementar cifrado (por ejemplo, con SSL) para proteger la comunicación.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_14- Sockets|14- Sockets]]
+- ⬅️ Anterior: [[4- Creamos una Aplicación de Chat con Sockets PARTE 2]]

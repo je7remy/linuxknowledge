@@ -1,3 +1,11 @@
+---
+tipo: tesis
+tags: [tesis, tecnologias, fastapi, python, stack-tecnologico]
+actualizado: 2026-05-28
+---
+
+# Tecnologías del Proyecto
+
 Nuevas Tecnologías
 
 🚀 Backend (La Lógica)
@@ -98,3 +106,9 @@ Nuevas Tecnologías
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ➡️ Siguiente: [[2- INDICE FINAL]]

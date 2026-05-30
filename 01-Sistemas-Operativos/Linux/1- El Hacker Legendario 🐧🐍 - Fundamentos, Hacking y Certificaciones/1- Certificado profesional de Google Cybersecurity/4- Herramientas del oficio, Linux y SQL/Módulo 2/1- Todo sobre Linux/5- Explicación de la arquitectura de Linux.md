@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Explicación de la arquitectura de Linux
 
 Comprender la arquitectura de Linux es importante para un analista de Seguridad. Cuando se comprende cómo está organizado un sistema, resulta más fácil entender cómo funciona. En esta lectura, aprenderá más sobre los componentes individuales de la arquitectura Linux. Una solicitud para completar una tarea comienza con el usuario y luego fluye a través de las aplicaciones, el shell, el Estándar de jerarquía del sistema de archivos, el kernel y el hardware.
 
@@ -45,3 +52,11 @@ El**hardware** interno son los componentes necesarios para hacer funcionar la co
 ## Puntos clave
 
 Es importante que los analistas de Seguridad comprendan la arquitectura de Linux y cómo están organizados estos componentes. Los componentes de la arquitectura Linux son el usuario, las aplicaciones, el shell, el Estándar de jerarquía del sistema de archivos, el kernel y el hardware. Cada uno de estos componentes es importante en el funcionamiento de Linux.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Arquitectura Linux]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos, Todo sobre Linux]]

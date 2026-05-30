@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Bucle FOR – Parte 1
 
 ---
 
@@ -290,3 +297,10 @@ done
 [[2- Bucle FOR – Parte 2]]
 [[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]
 [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]
+- ➡️ Siguiente: [[2- Bucle FOR – Parte 2]]

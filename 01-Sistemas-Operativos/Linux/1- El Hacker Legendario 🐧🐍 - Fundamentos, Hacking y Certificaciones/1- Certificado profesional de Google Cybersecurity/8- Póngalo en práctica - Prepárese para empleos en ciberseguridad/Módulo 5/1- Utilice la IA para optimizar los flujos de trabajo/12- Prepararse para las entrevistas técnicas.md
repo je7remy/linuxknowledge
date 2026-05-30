@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Prepararse para las entrevistas técnicas
 
 Anteriormente ha aprendido sobre el proceso de entrevista, que generalmente consiste en una entrevista introductoria, una segunda entrevista con el responsable de contratación y una entrevista de grupo. En esta lectura, se centrará más en las entrevistas técnicas que tienen lugar durante el proceso de entrevista. Aunque las entrevistas técnicas pueden variar de una empresa a otra, los conceptos tratados en esta lectura le ayudarán a prepararse para cualquier entrevista técnica.
 
@@ -37,3 +44,10 @@ Las herramientas SIEM son herramientas de administración de información y even
 ## Puntos clave
 
 Las entrevistas técnicas son una gran oportunidad para mostrar a tu potencial empleador tus habilidades técnicas en ciberseguridad, como la codificación, durante la entrevista. Incluso si no tienes experiencia previa en seguridad, puedes aprovechar este momento para compartir lo que has aprendido en el programa del Certificado de Ciberseguridad de Google y expresar tu entusiasmo por poner en práctica lo aprendido. Si te preparas para el proceso de la entrevista técnica, estarás en el buen camino para labrarte una carrera en el ámbito de la ciberseguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[11- Claves de la IA en ciberseguridad]]

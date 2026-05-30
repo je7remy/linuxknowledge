@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 1
 
 ## **Términos y definiciones del Curso 4, Módulo 1**
 
@@ -24,3 +31,11 @@
 **Interfaz de usuario:** Programa que permite al usuario controlar las funciones del sistema operativo
 
 **Máquina virtual (VM**): Una versión virtual de una computadora física
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Recapitulación]]
+- ➡️ Siguiente: [[3- Desafío del Modulo 1]]

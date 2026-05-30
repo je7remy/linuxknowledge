@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Trabajar con funciones integradas
 
 ### 🧠 Funciones Integradas (Explicación)
 
@@ -124,3 +131,11 @@ Las Funciones integradas son poderosas herramientas en Python que le permiten re
 Estas son sólo algunas de las funciones integradas de Python. Puede seguir aprendiendo sobre otras por su cuenta:
 
 - **Documentación de la Biblioteca estándar de Python**: Lista de las funciones integradas de Python e Información sobre cómo utilizarlas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Explorar las funciones integradas]]
+- ➡️ Siguiente: [[6- Crear más funciones]]

@@ -1,4 +1,3 @@
-
 ---
 
 # 📌 Evaluación – Uniones SQL
@@ -103,3 +102,10 @@ INNER JOIN invoice_items
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Repaso 2]]

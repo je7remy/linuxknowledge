@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario]
+actualizado: 2026-05-28
 ---
 
+# Orden
 ### **Puntos Débiles del Orden Original**  
 
 1. **Docker después de eJPTv2**:  
@@ -60,4 +64,10 @@ El orden original es viable, pero **no aprovecha las sinergias entre herramienta
 
 Si sigues el orden optimizado, al final del paso 5 (eJPTv2) tendrás claridad para elegir:  
 - **Red Team**: Profundiza en Certificaciones OSCP, Hack The Box, etc.  
-- **Blue Team**: Certificaciones como Splunk Core Certified User, Blue Team Level 1 (BTL1), o SIEM específicos.  
+- **Blue Team**: Certificaciones como Splunk Core Certified User, Blue Team Level 1 (BTL1), o SIEM específicos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones|1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones]]

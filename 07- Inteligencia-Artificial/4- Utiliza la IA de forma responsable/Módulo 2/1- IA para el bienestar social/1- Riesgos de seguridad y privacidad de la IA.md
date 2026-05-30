@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Riesgos de seguridad y privacidad de la IA
 
 ### Privacidad y seguridad en el uso responsable de la IA
 
@@ -52,3 +59,9 @@ Saber cómo proteger tanto tu información como la de tu organización es una pa
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ➡️ Siguiente: [[2- Sesgo, desvío y límite de conocimientos]]

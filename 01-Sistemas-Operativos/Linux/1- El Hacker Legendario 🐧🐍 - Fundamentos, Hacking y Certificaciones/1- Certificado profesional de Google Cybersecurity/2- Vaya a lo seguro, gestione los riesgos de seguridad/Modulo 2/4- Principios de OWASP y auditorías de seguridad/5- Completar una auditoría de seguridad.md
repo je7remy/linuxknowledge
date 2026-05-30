@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Completar una auditoría de seguridad
 
 
 ## 🔐 **Últimos Elementos de una Auditoría de Seguridad Interna**
@@ -68,4 +75,10 @@ Aunque pueden parecer complejas, son una **herramienta fundamental de mejora con
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[4- Planificar una auditoría de seguridad]]
+- ➡️ Siguiente: [[6- Más información sobre las auditorías de seguridad]]

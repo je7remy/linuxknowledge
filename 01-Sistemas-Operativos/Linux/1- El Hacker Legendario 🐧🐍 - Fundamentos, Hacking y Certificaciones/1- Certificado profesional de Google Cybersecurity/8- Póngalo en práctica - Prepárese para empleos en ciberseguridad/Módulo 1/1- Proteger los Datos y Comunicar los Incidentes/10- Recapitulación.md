@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 Ha tenido la oportunidad de aprender más sobre la importante función que desempeña un analista de nivel básico en la protección de los datos y activos de una organización. Revisemos rápidamente lo que hemos tratado.
 
@@ -12,3 +19,11 @@ Comprender lo valioso que es usted como miembro del Equipo de seguridad puede ay
 Espero que haya disfrutado de nuestro debate tanto como yo. ¿Está preparado para continuar su viaje en el mundo de la seguridad?
 
 Próximamente, hablaremos de la importancia de escalar los incidentes de seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[9- Ponga a prueba sus Conocimientos - Su impacto en la protección de Datos]]
+- ➡️ Siguiente: [[11- Términos del glosario del Módulo 1]]

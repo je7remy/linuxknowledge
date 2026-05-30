@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ### 🧠 Repaso de Conceptos Aprendidos
 
@@ -49,3 +56,10 @@ Aprendiste a reconocer los cinco tipos de datos principales:
 ### 💡 Próximos Pasos
 
 Este conocimiento es la base que utilizarás a medida que avanzas en el curso y en tu carrera. En la siguiente sección, explorarás otros componentes importantes de Python, incluidas las **funciones**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Guía de referencia - Conceptos de Python del Módulo 1]]

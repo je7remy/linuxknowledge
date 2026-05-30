@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creación y Gestión de Entornos Virtuales
 
 ---
 
@@ -158,3 +165,10 @@ porque el entorno virtual que contenía `requests` ya no existe.
 10. Eliminamos el entorno (`rm -rf librerias_proyecto`).
 
 Ahora, cada vez que necesites un entorno limpio, simplemente repites este proceso. 🚀
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Introducción a los Módulos y uso de PIP|2- Introducción a los Módulos y uso de PIP]]
+- ⬅️ Anterior: [[2- Instalación de Módulos Externos]]

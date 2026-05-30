@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, splunk, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Guía de seguimiento para el registro en Splunk
 
 _**Nota:**_ _La siguiente lectura es un complemento opcional del siguiente tema del curso,_ [_Actividad: Realice una Consulta con Splunk_](https://www.coursera.org/learn/detection-and-response/quiz/QGT1e/activity-perform-a-query-with-splunk)_._ _**Tanto esta lectura como la siguiente actividad son opcionales y no afectarán a su finalización del curso.**_ _Puede optar por saltarse esta lectura y/o la actividad por cualquier motivo, y continuar avanzando por el resto del curso._
 
@@ -134,3 +141,11 @@ Una vez que haya aceptado los Términos de servicio, será redirigido automátic
 **Ya ha terminado** Una vez que su cuenta de Splunk Cloud esté configurada, puede comenzar el siguiente punto del curso, [Actividad: Realizar una Consulta con Splunk](https://www.coursera.org/learn/detection-and-response/quiz/QGT1e/activity-perform-a-query-with-splunk).
 
 _**¿Necesita ayuda adicional?**_ _Si tiene algún problema con su cuenta de Splunk Cloud, póngase en contacto con_ [_el Centro de Ayuda de Splunk_](https://www.splunk.com/en_us/about-splunk/contact-us.html)_._ _**Recuerde que el siguiente elemento del curso,**_ Actividad[_**:**_](https://www.coursera.org/learn/detection-and-response/quiz/QGT1e/activity-perform-a-query-with-splunk)[_**Realizar una**_](https://www.coursera.org/learn/detection-and-response/quiz/QGT1e/activity-perform-a-query-with-splunk) consulta con Splunk_**, es opcional y no afectará a su finalización del curso.**_ _Si no puede crear y configurar una cuenta Splunk Cloud, puede omitir la actividad._
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Métodos de búsqueda con herramientas SIEM]]
+- ➡️ Siguiente: [[7- Ponga a prueba sus Conocimientos - Visión general de las herramientas SIEM]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 1
 
 |**Término**|**Definición**|
 |---|---|
@@ -8,3 +15,11 @@
 |**Datos públicos**|Datos que ya son accesibles al público y que suponen un riesgo mínimo para la organización si son vistos o compartidos por otros.|
 |**Mentalidad de seguridad**|La capacidad de evaluar el Riesgo y buscar e identificar constantemente la violación potencial o real de un sistema, aplicación o datos.|
 |**Datos sensibles**|Un tipo de datos que incluye información personal identificable (PII), información de identificación personal sensible (SPII) e información sanitaria protegida (PHI|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[10- Recapitulación]]
+- ➡️ Siguiente: [[12- Desafío del Módulo 1]]

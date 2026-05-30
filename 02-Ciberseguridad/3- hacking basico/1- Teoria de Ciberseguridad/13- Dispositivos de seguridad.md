@@ -44,7 +44,7 @@ Es importante tener en cuenta que el escaneo de puertos debe verse como un precu
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[12- Social Sharing]]
 - ➡️ Siguiente: [[14- Prueba de lápiz interno]]
 
@@ -53,5 +53,5 @@ Es importante tener en cuenta que el escaneo de puertos debe verse como un precu
 - [[15- Enfoque de Cisco para la ciberseguridad]] — IPS, IDS, DLP, SIEM en mayor profundidad.
 - [[6- Protegiendo sus dispositivos y su red]] — versión usuario final.
 - [[../3- hosts/12- Windows Hosts]] — RDP/WinRM/WMI en entornos donde se usan estos dispositivos.
-- [[../../5- Reconocimiento/1- Nmap/index|Nmap]] — herramienta para el escaneo de puertos mencionado.
+- [[_1- Nmap|Nmap]] — herramienta para el escaneo de puertos mencionado.
 - [[../../5- Reconocimiento/1- Nmap/3- nmap firewall evasion|Nmap → Firewall evasion]] — perspectiva ofensiva contra estos firewalls.

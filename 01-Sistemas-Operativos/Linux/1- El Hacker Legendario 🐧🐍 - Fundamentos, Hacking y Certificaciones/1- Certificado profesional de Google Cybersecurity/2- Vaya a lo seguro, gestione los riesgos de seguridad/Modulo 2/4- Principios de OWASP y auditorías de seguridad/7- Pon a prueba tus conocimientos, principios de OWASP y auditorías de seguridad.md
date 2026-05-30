@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, principios de OWASP y auditorías de seguridad
 
 ### ✅ **Pregunta 1**
 
@@ -59,3 +66,11 @@ _(Selecciona tres respuestas correctas)_
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[6- Más información sobre las auditorías de seguridad]]
+- ➡️ Siguiente: [[8- Actividad de la cartera, Realizar una auditoría de seguridad]]

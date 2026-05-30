@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ejemplo, Examinar la entrada y la salida en el Shell
 
 # 🧪 Laboratorio Bash Shell: Entrada y Salida en Linux
 
@@ -159,3 +166,10 @@ Estas habilidades son **la base para tareas más avanzadas en ciberseguridad y a
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[7- Ejemplo opcional, Examinar la entrada y la salida en el shell]]
+- ➡️ Siguiente: [[9- Ponga a prueba sus Conocimientos, El shell]]

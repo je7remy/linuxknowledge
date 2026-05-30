@@ -1,2 +1,16 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al modulo 1
 
 ¿Cuántas veces a la semana utiliza una computadora? Para algunos de nosotros, la respuesta podría ser “muchas”! Son máquinas increíbles que nos permiten hacer de todo desde utilizar aplicaciones especializadas al completar una tarea en el trabajo hasta enviar correos electrónicos a seres queridos en un lugar lejano. ¿Ha pensado alguna vez cómo pueden los ordenadores hacer todo esto? Pues bien, ahí es donde entran en juego los sistemas operativos. En esta sección, aprenderemos sobre los sistemas operativos más comunes y exploraremos las funciones principales de un sistema operativo. Luego, aprenderemos la relación entre sistemas operativos, aplicaciones y hardware. Por último, compararemos las interfaces gráficas de usuario y las interfaces de línea de comandos. La interfaz de línea de comandos será una parte esencial de su trabajo como analista de seguridad. Comprender los sistemas operativos es una base importante para su carrera en seguridad. Hay mucho que explorar. Comencemos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Kim, Mi viaje a la informática]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad, Definir y llamar a una función
 
 ### 🧠 Pregunta 1
 
@@ -275,3 +282,11 @@ También se puede notar que hay una coma y un espacio extra (", ") al final de t
 - **Cuerpo de la Función:** El cuerpo de una función (el código con sangría) puede contener cualquier lógica de Python que ya conozcas, incluyendo bucles `for` y sentencias `print`.
     
 - **Concatenación de Cadenas:** El operador `+` es muy útil dentro de los bucles para "acumular" o construir una nueva cadena de texto a partir de los elementos de una lista, como hiciste al crear `sum_variable`.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Funciones de Python en ciberseguridad]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Introducción a las funciones]]

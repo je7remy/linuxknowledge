@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Instrucción de buenas prácticas
 
 La orientación es una habilidad esencial para sacar el máximo partido de la IA generativa. Pero, ¿cómo se elabora exactamente un buen aviso? Recomendamos seguir este sencillo esquema: **Tarea,** **Contexto**, **Referencias**, **Evaluar** e **Iterar**. En esta lectura, explorarás cómo poner en práctica este marco y liberar todo el potencial de la IA.
 
@@ -103,3 +110,11 @@ No se trata de obtener un resultado perfecto a la primera, sino de estar dispues
 ## **Continúa tu aprendizaje**
 
 Después de completar Google IA Essentials, lleva tus habilidades al siguiente nivel con [Google Prompting Essentials](https://www.coursera.org/learn/google-prompting-essentials). Impartido por expertos en IA de Google, este curso autodidacta se puede completar en menos de 10 horas, no requiere experiencia previa y es aplicable a todos los sectores. Descubra cómo la IA puede ayudarle a generar contenido, analizar datos y resumir información.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[1- Escribe instrucciones claras y específicas]]
+- ➡️ Siguiente: [[3- Actividad, Escribe un mensaje eficaz para Géminis]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Adedayo SQL en la ciberseguridad
 
 # 👩🏽‍💻 Adedayo: SQL en la Ciberseguridad
 
@@ -38,3 +45,11 @@ sino porque también tengo **grandes compañeros de equipo** con los que colabor
 
 Al final del día, poder irme a dormir sabiendo que mi trabajo contribuye al bienestar de los **usuarios y empleados de Google**  
 es una sensación muy gratificante.”
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Filtrado SQL frente a filtrado Linux]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - SQL y bases de datos]]

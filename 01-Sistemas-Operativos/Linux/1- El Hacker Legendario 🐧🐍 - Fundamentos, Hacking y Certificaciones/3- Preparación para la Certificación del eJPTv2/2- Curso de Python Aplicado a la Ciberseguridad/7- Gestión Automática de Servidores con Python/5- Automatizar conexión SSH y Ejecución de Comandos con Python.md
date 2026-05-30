@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatizar conexión SSH y Ejecución de Comandos con Python
 
 ---
 
@@ -131,3 +138,11 @@ finally:
 [[7- Stdout, Stderr y Stdin]]
 [[7- Automatización de Copias de Seguridad en Servidor SSH]]
 [[11- Automatizar la Gestión de Usuarios en Linux]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ⬅️ Anterior: [[4- Configuración de Servidor SSH en Linux]]
+- ➡️ Siguiente: [[6- Enviar Archivos por SCP desde Python]]

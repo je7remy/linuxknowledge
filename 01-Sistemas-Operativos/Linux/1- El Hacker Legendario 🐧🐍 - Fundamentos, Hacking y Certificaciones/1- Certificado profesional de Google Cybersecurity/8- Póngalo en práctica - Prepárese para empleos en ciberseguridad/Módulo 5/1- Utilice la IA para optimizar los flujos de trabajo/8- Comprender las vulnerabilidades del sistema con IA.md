@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Comprender las vulnerabilidades del sistema con IA
 
 ### **Comprensión de las Vulnerabilidades del Sistema con IA**
 
@@ -91,3 +98,11 @@ No te olvides del enfoque humano-in-the-loop del que hablamos anteriormente. **A
 ### **💡 Consejo Profesional Adicional: Preparación de Entrevistas**
 
 Si te estás preparando para las entrevistas, puedes pedirle a una herramienta de IA generacional, como Gemini, ejemplos de preguntas de entrevista sobre vulnerabilidades. Y una vez que hayas practicado cómo responder las preguntas por ti mismo, pídele a la herramienta que dé sus respuestas a las mismas preguntas para que puedas comparar. Esto realmente puede ayudarte a preparar y practicar tus respuestas. Pruébalo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[7- Perfeccionar el código con ayuda de la IA]]
+- ➡️ Siguiente: [[9- Priorizar las alertas con IA]]

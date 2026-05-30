@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# El OWASP Top 10
 
 Para prepararse ante futuros riesgos, los profesionales de la Seguridad deben mantenerse informados. Anteriormente, conoció la **Lista** de vulnerabilidades y exposiciones **comunes (CVE®**), un diccionario de vulnerabilidades y exposiciones comunes de libre acceso. La Lista de CVE® es una importante fuente de información que la comunidad mundial de seguridad utiliza para compartir información entre sí.
 
@@ -68,3 +75,11 @@ Las falsificaciones de peticiones del lado del servidor (SSRF) se producen cuand
 ## Puntos clave
 
 Mantenerse informado y estar al tanto de las últimas tendencias en ciberseguridad puede ser una forma útil de defenderse de los ataques y prepararse para los riesgos futuros en su carrera de seguridad. [El OWASP Top 10](https://owasp.org/www-project-top-ten/) es un recurso útil donde puede obtener más información sobre estas vulnerabilidades.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Vulnerabilidades y exposiciones comunes]]
+- ➡️ Siguiente: [[6- Inteligencia de fuentes abiertas]]

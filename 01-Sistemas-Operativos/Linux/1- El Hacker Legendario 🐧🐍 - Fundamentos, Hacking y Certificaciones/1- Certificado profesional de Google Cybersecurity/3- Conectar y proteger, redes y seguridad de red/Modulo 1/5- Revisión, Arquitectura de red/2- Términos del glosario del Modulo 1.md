@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Modulo 1
 
 ## Términos y definiciones del Curso 3, Módulo 1
 
@@ -42,3 +49,11 @@
 **Protocolo de Datagramas de Usuario (UDP):** Un protocolo no orientado a la conexión que no establece una conexión entre dispositivos antes de las transmisiones
 
 **Red de área extensa (WAN):** Una red que abarca una gran área geográfica como una ciudad, un estado o un país
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]
+- ➡️ Siguiente: [[3- Desafío del módulo 1]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 4
 
 ### **Registros: La Clave de las Investigaciones de Seguridad**
 
@@ -22,3 +29,9 @@ En seguridad, los registros documentan los detalles de los eventos, y estos deta
 
 Los eventos son una valiosa fuente de datos. Ayudan a crear un contexto en torno a una alerta, por lo que podrás interpretar las acciones que tuvieron lugar en un sistema. Saber leer, analizar y conectar diferentes eventos te ayudará a identificar comportamientos maliciosos y a proteger los sistemas de los ataques.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- La importancia de los registros]]

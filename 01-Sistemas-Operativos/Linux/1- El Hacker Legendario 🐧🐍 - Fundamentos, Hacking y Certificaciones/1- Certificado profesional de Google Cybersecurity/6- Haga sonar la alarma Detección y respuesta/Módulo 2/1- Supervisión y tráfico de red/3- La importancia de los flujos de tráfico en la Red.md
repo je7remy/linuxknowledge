@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# La importancia de los flujos de tráfico en la Red
 
 # 🌐 **La importancia de los flujos de tráfico en la red**
 
@@ -71,3 +78,11 @@ Conocer qué es “normal” en una red permite **detectar lo anormal** antes de
 > 💡 _Próximamente, se explorará un ataque de exfiltración de datos en tiempo real para comprender cómo identificarlo mediante la observación del tráfico de red._
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[2- Casey - Aplicar las Habilidades interpersonales en la ciberseguridad]]
+- ➡️ Siguiente: [[4- Mantenga la concienciación con la supervisión de la red]]

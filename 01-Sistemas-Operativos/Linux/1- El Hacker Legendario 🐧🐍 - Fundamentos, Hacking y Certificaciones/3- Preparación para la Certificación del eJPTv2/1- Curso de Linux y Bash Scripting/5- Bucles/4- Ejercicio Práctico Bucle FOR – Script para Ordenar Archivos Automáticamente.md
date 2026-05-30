@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente
 
 ---
 
@@ -131,3 +138,11 @@ Este script organiza archivos en carpetas según sus extensiones y proporciona r
 [[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]
 [[4- Ejercicio Práctico con OS y SHUTIL]]
 [[6- Ejercicio Práctico con Interfaces Gráficas]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]
+- ⬅️ Anterior: [[3- Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático]]
+- ➡️ Siguiente: [[5- Bucle WHILE – PARTE 1]]

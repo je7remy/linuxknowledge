@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Glosario del curso 6
 
 # 📘 **Course 6: Detection and Response — Terms & Definitions / Términos y Definiciones**
 
@@ -214,3 +221,10 @@
 |**Zero-day**|Vulnerabilidad o exploit desconocido previamente.|
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Resumen del curso]]

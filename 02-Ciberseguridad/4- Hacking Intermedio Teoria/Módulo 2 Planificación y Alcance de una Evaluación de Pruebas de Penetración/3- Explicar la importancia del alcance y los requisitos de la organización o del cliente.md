@@ -194,7 +194,7 @@ En una prueba de entorno conocido, el ámbito podría ser solo identificar una r
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬆️ Carpeta: [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]]
 - ⬅️ Anterior: [[2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento]]
 - ➡️ Siguiente: [[4- Laboratorio - Alcance y planificación previa al compromiso]]
 

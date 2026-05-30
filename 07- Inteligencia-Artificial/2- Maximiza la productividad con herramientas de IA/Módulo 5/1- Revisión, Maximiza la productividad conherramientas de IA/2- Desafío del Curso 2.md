@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Desafío del Curso 2
 
 
 | # | Pregunta | Respuesta correcta | Justificación |
@@ -8,3 +15,9 @@
 | 4 | ¿Cuál es la principal finalidad de aplicar un criterio de “humano en el ciclo” al utilizar la IA? | **Garantizar que los resultados de la IA sean útiles y seguros** | El concepto “human-in-the-loop” (HITL) busca mitigar sesgos, errores, alucinaciones y riesgos éticos mediante revisión humana. No acelera el procesamiento ni elimina la supervisión; al contrario, la refuerza para obtener resultados confiables y seguros. |
 | 5 | Una empresa especializada en insumos de oficina personalizados está considerando la posibilidad de utilizar IA generativa para elaborar argumentos de venta a medida… ¿qué pregunta clave debe plantearse? | **¿El contenido generado por IA tendrá supervisión humana adecuada?** | La pregunta clave debe centrarse en la **calidad, precisión y ética** del contenido personalizado. La supervisión humana (human-in-the-loop) garantiza que los argumentos se ajusten exactamente a las necesidades del cliente, eviten información falsa y cumplan normativas. Las otras preguntas se centran en resultados comerciales inciertos, no en la responsabilidad del proceso. |
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]

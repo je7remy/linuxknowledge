@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 3
 
 ### 🧠 Introducción: Gestión de Datos para Analistas de Seguridad
 
@@ -39,3 +46,9 @@ En esta sección, te basarás en ese conocimiento y te centrarás en tres áreas
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Operaciones de cadena]]

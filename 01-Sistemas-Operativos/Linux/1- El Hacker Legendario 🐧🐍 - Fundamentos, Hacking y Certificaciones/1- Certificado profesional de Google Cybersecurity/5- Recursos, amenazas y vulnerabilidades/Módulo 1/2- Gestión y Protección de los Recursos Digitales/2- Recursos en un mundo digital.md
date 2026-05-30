@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Recursos en un mundo digital
 
 # 📖 Estados de los datos
 
@@ -51,3 +58,10 @@ Los equipos de seguridad deben proteger los datos en **todos sus estados**:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Actividad - Clasificar los recursos conectados a una red doméstica]]
+- ➡️ Siguiente: [[3- La emergencia de la Seguridad de la nube]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 ## 🧭 Revisión: Mantente a la vanguardia de la IA
 
@@ -37,3 +44,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ➡️ Siguiente: [[2- Desafío Curso 5]]

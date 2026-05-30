@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Mantente al día con la IA
 
 Como muchas otras tecnologías, la Inteligencia artificial (IA) está en continua evolución, con nuevas herramientas y avances que se anuncian casi a diario. Mantenerse informado sobre estos cambios es clave para mejorar su trabajo y optimizar sus habilidades. Esta guía ofrece un conjunto de estrategias y recursos prácticos que le ayudarán a mantener actualizados sus conocimientos sobre IA.
 
@@ -21,3 +28,11 @@ Crear el hábito de mantenerse informado no tiene por qué llevar mucho tiempo. 
     
 
 El mundo de la IA puede parecer que avanza a la velocidad del rayo. Mantenerse informado no consiste en saberlo todo, sino en crear un hábito de aprendizaje sencillo y constante. Crear su propio conjunto de recursos de confianza le ayudará a convertir los últimos avances en IA en un flujo de inspiración manejable. Este enfoque le permite descubrir nuevas posibilidades y mantener la confianza en un mundo que cambia rápidamente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[1- Introducción al curso 5, Mantente a la vanguardia de la IA]]
+- ➡️ Siguiente: [[3- Actividad, Evalúa una nueva herramienta de IA]]

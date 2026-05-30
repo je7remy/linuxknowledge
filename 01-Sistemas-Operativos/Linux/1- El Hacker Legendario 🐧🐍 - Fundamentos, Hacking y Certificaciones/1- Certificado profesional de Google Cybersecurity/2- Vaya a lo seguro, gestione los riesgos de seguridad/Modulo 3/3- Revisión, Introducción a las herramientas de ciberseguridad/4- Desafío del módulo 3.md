@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 3
 
 ### **Pregunta 1**
 
@@ -187,3 +194,10 @@ La amplia exposición y el acceso inmediato al código fuente de las herramienta
 
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Glosario de términos del módulo 3]]

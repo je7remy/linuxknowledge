@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 1
 
 ## **Términos y definiciones del Curso 5,** Módulo **1**
 
@@ -36,3 +43,11 @@
 **Amenaza:** Cualquier circunstancia o Evento que pueda impactar negativamente en los recursos
 
 **Vulnerabilidad:** Una debilidad que puede ser explotada por una amenaza
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[10- Recapitulación]]
+- ➡️ Siguiente: [[12- Desafío del Módulo 1]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción al curso 3, Descubra el arte de la instrucción
 
 ## 💡 ¿Qué es la Ingeniería de Instrucciones?
 
@@ -40,3 +47,9 @@ Estoy deseando ayudarte a aprender más sobre la elaboración de instrucciones e
 
 Redactar instrucciones eficaces implica **pensamiento crítico y creatividad**. También puede ser un proceso divertido, y es una habilidad muy importante que se debe practicar si quieres utilizar la IA eficazmente en el trabajo.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ➡️ Siguiente: [[2- Comprende los modelos de lenguaje grande]]

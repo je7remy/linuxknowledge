@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Operadores Lógicos
 ###### Los **operadores lógicos** en Bash son herramientas que permiten combinar o comparar expresiones para tomar decisiones dentro de un script. Estas decisiones pueden ser condiciones simples o compuestas que determinan si un bloque de código se ejecuta o no.
 
 ---
@@ -145,3 +152,10 @@ fi
 7. **`||`**: Lógico OR, al menos una condición verdadera.
 8. **`&&`**: Lógico AND, todas las condiciones deben ser verdaderas.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Sentencias Condicionales|4- Sentencias Condicionales]]
+- ⬅️ Anterior: [[1- Sentencias Condicionales – IF, ELIF y ELSE]]
+- ➡️ Siguiente: [[3- Creamos un Script para Automatizar Actualizaciones del Sistema]]

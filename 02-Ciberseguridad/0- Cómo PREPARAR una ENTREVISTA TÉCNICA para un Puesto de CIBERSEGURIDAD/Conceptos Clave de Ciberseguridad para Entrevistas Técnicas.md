@@ -141,14 +141,14 @@ Este es un resumen de los conceptos esenciales de ciberseguridad, explicados de 
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+- ⬆️ Sección: [[_02-Ciberseguridad|02-Ciberseguridad]]
 
 ## Relacionadas
 
 - [[../3- hacking basico/1- Teoria de Ciberseguridad/15- Enfoque de Cisco para la ciberseguridad|Cisco → IPS/IDS/SIEM]] — base teórica del SIEM.
-- [[../3- hacking basico/1- Teoria de Ciberseguridad/index|1- Teoría de Ciberseguridad]] — curso introductorio que cubre estos conceptos.
+- [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]] — curso introductorio que cubre estos conceptos.
 - [[../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — Mimikatz, Rubeus, AS-REP Roasting con GetNPUsers.py.
-- [[../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — base de Kerberos y AD.
+- [[_7- Activie Directory|01 → Active Directory]] — base de Kerberos y AD.
 - [[../1- Cracking/Hoja de Trucos HASHCAT|Hashcat]] — cracking de hashes obtenidos.
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/index|Google → 6- Detección y respuesta]] — SIEM/EDR en profundidad.
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/8- Póngalo en práctica - Prepárese para empleos en ciberseguridad/index|Google → 8- Prepárese para empleos]] — preparación profesional complementaria.
+- [[_6- Haga sonar la alarma Detección y respuesta|Google → 6- Detección y respuesta]] — SIEM/EDR en profundidad.
+- [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|Google → 8- Prepárese para empleos]] — preparación profesional complementaria.

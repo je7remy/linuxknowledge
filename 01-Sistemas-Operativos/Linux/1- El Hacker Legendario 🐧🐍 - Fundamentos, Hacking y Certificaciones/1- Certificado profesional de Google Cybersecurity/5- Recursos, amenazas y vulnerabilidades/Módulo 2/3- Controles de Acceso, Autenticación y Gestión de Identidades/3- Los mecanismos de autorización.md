@@ -1,4 +1,3 @@
-
 ---
 
 # 🔑 Controles de Acceso – Autorización
@@ -129,3 +128,11 @@ Los **controles de autorización** garantizan que los usuarios tengan acceso sol
 📌 En conjunto, estos principios reducen riesgos de **fallos, abusos y accesos indebidos**, reforzando la seguridad de la información en cualquier organización.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- El auge de SSO y MFA]]
+- ➡️ Siguiente: [[4- Por qué auditamos la actividad de los usuarios]]

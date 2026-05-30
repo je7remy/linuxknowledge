@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Automatización de tareas en CI-CD
 
 # **Automatizando Tareas en CI/CD: Usando Python para Construir Seguridad Directamente en su Pipeline**
 
@@ -102,3 +109,11 @@ La automatización de la seguridad en su tubería de CI/CD es ahora algo que deb
 7. Creación de herramientas de ciberseguridad personalizadas con Python: Guía para principiantes. https://www. [linkedin.com/pulse/building-custom-cybersecurity-tools-python-bi6if](https://www.linkedin.com/pulse/building-custom-cybersecurity-tools-python-bi6if)
     
 8. Codificación segura en Python: Essential Practices for Data Engineers. https://www. [linkedin.com/pulse/secure-coding-python-essential-practices-data-engineers-priyanka-sain-wewkc](https://www.linkedin.com/pulse/secure-coding-python-essential-practices-data-engineers-priyanka-sain-wewkc)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[4- Componentes esenciales de Python para la automatización]]

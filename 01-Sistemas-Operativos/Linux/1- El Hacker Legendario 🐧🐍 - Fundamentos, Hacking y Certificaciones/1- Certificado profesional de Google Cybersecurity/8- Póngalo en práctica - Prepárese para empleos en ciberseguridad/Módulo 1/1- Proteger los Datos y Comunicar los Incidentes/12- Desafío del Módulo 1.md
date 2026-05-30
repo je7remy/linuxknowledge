@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Desafío del Módulo 1
 
 ### Pregunta 1
 
@@ -117,3 +124,10 @@
 - **Respuesta Correcta:** Pérdida financiera
     
 - **Justificación:** La interrupción de las operaciones comerciales (por ejemplo, si un sistema de ventas, producción o logística se cae debido a un ciberataque) conduce directamente a una incapacidad para generar ingresos, lo que resulta en una **pérdida financiera** inmediata.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[11- Términos del glosario del Módulo 1]]

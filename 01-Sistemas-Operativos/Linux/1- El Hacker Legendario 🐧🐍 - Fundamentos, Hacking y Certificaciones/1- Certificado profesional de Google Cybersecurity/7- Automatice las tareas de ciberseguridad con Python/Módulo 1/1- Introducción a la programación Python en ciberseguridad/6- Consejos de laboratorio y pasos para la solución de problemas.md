@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, laboratorio, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Consejos de laboratorio y pasos para la solución de problemas
 
 A lo largo de este certificado utilizará Qwiklabs y Notebooks de Jupyter para completar actividades prácticas que incluyen tareas de línea de comandos de Linux, captura de paquetes y programación en Python. En esta lectura, cubriremos algunos consejos y pasos de solución de problemas para utilizar Qwiklabs y los Notebooks de Jupyter en su computadora.
 
@@ -26,3 +33,11 @@ Para resumir, estos son los pasos de solución de problemas que debe probar si e
 4. Intente reiniciar Qwiklabs o los Notebooks de Jupyter de nuevo.
     
 5. **Sólo para Qwiklabs:** Si los problemas persisten o recibe un mensaje indicando que ha superado la cuota de un Qwiklab, envíe este [formulario](https://qwiklab.zendesk.com/hc/en-us/requests/new) al soporte de Qwiklabs para obtener ayuda.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Entornos Python]]
+- ➡️ Siguiente: [[7- Practica escribiendo código en Python]]

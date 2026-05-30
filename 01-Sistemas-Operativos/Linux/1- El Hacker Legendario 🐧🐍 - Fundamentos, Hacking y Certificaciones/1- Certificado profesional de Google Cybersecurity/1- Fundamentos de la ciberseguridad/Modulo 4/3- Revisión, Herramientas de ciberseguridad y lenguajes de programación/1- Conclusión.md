@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Conclusión
 
 ## ✅ Introducción a las Herramientas de Seguridad y Lenguajes de Programación
 
@@ -10,3 +17,10 @@ Finalmente, se presentaron los fundamentos del sistema operativo **Linux** y los
 🔁 **Recuerda**: Estas herramientas requieren tiempo y práctica para dominarlas. Sin embargo, adquirir una base sólida en ellas puede abrirte muchas puertas en el campo de la ciberseguridad y ayudarte a avanzar profesionalmente.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Glosario de términos del módulo 4]]

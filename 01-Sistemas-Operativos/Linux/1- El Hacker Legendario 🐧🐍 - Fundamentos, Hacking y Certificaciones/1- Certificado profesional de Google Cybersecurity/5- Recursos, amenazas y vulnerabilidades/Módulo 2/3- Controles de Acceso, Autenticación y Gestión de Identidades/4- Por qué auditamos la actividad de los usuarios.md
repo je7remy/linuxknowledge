@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Por qué auditamos la actividad de los usuarios
 
 # 📊 Contabilidad en el Framework AAA
 
@@ -81,3 +88,10 @@ Aunque las cookies fortalecen la seguridad, presentan riesgos:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Los mecanismos de autorización]]
+- ➡️ Siguiente: [[5- Tim - Encontrar un propósito en la protección de los recursos]]

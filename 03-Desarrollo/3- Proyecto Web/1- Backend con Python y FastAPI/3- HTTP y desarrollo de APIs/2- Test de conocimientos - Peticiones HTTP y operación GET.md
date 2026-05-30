@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, http, get, test-conocimientos]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Peticiones HTTP y GET
 
 ### 1. ¿Qué significa la sigla HTTP?
 
@@ -146,3 +153,11 @@
 > Justificación:
 > 
 > Indica una jerarquía lógica: los productos pertenecen al usuario. Representa que los recursos hijos están relacionados directamente con el recurso padre.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[1- Peticiones HTTP, Operación GET]]
+- ➡️ Siguiente: [[3- Creación API]]

@@ -254,13 +254,13 @@ Una empresa está colaborando con un consultor de ciberseguridad para realizar p
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬆️ Carpeta: [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]]
 - ⬅️ Anterior: [[7- Laboratorio - Código de Conducta Personal]]
-- ➡️ Siguiente: [[../Módulo 3 Recopilación de información y análisis de vulnerabilidades/index|Módulo 3]]
+- ➡️ Siguiente: [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]]
 
 ## Relacionadas
 
-- [[../Módulo 3 Recopilación de información y análisis de vulnerabilidades/index|Módulo 3]] — siguiente módulo: OSINT en práctica.
-- [[../Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/index|Módulo 1]] — módulo previo.
+- [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]] — siguiente módulo: OSINT en práctica.
+- [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]] — módulo previo.
 
 --- 

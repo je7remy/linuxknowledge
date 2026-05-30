@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 4
 
 ### ✅ **1. ¿Cuál de las siguientes instrucciones describe correctamente los registros?**
 
@@ -102,3 +109,10 @@
 > ❌ "Mapea claramente los datos" y "captura tráfico de red" son funciones más propias de otras herramientas (como visualizadores de datos o rastreadores de paquetes).
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Glosario de términos del módulo 4]]

@@ -1,0 +1,18 @@
+---
+tipo: indice
+seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 3 / 2- Evaluación y gestión de vulnerabilidades
+actualizado: 2026-05-28
+---
+
+# 2- Evaluación y gestión de vulnerabilidades
+
+Índice generado automáticamente para esta carpeta.
+## Notas en esta carpeta
+
+- [[1- Evaluaciones de vulnerabilidades]]
+- [[2- Enfoques para la exploración de vulnerabilidades]]
+- [[3- La importancia de las actualizaciones]]
+- [[4- Omad - Mi viaje de aprendizaje en la ciberseguridad]]
+- [[5- Pruebas de penetración]]
+- [[6- Ponga a prueba sus Conocimientos - Identificar las vulnerabilidades del sistema]]
+

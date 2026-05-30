@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad del Portfolio, Utilizar el marco de Ciberseguridad del NIST para responder a un Incidente de Seguridad
 
 ## Resumen de la Actividad
 
@@ -203,3 +210,10 @@ La empresa multimedia sufrió un ataque de denegación de servicio distribuido (
 ## 🧠 **Reflexión / Notas**
 
 Este incidente demuestra la importancia de una configuración segura en los dispositivos de red y de la supervisión proactiva. Aplicar el CSF de NIST permite no solo responder, sino mejorar la ciberresiliencia a futuro. La prevención, formación y monitoreo son pilares clave.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Módulo 4 desafío]]

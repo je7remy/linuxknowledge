@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Herramienta para Encontrar Equipos en mi Red con Scapy
 
 ---
 
@@ -223,3 +230,11 @@ El resto del script es idéntico al primero:
 - **Segundo Script**: Mejora la experiencia del usuario al reducir el ruido en la consola mediante `conf.logLevel = "ERROR"`.
 - **Evolución**: La adición de la configuración de `logLevel` muestra una preocupación por la usabilidad, pero el núcleo del script permanece sin cambios.
 - **Uso**: Ideal para administradores de red o entusiastas de la seguridad que deseen una solución ligera para mapear una red local.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]
+- ⬅️ Anterior: [[5- Interceptar Credenciales en Red – PARTE 3]]
+- ➡️ Siguiente: [[7- Qué es y cómo Efectuar un Ataque ARP Spoofing con Python]]

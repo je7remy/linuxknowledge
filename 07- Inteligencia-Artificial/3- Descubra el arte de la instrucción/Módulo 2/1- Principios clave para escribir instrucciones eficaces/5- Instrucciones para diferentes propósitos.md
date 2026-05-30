@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Instrucciones para diferentes propósitos
 
 Una guía eficaz puede ayudar a una herramienta de IA a generar resultados útiles para diversas tareas, desde la creación de contenidos hasta la resolución de problemas. En esta lectura, ofrecemos algunos ejemplos que demuestran cómo utilizar el marco de instrucciones **-Tarea**, **Contexto**, **Referencias**, **Evaluar**, **Iterar- para**obtener resultados fiables y útiles en diferentes casos.
 
@@ -105,3 +112,11 @@ _A continuación, elige tres plantas de la lista que proporcionen a los niños l
 Este ejercicio comienza con un contexto útil sobre el programa, como su objetivo principal y su calendario. También descompone lo que de otro modo sería una tarea compleja en pasos manejables. Al igual que en cualquier otro caso de uso, la clave para obtener resultados fiables y útiles de las herramientas de IA es aplicar técnicas de orientación eficaces y ajustarlas a sus necesidades específicas.
 
 Los ejemplos de esta lectura demuestran cómo debe adaptarse el enfoque de las instrucciones a las distintas tareas del lugar de trabajo. Aunque cada caso de uso puede requerir técnicas específicas, los principios básicos siguen siendo los mismos: **tarea**, **contexto**, **referencias**, **evaluación** e **iteración**. Con la práctica, puedes llegar a ser más hábil en la elaboración de indicaciones para cualquier situación y obtener el resultado exacto que necesitas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[4- Aprovecha el potencial de un LLM en el trabajo]]
+- ➡️ Siguiente: [[6- Transformar un aviso]]

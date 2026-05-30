@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Utilice las herramientas SIEM para proteger a las organizaciones
 
 Anteriormente, se le presentaron las herramientas de administración de eventos e información de seguridad (SIEM) y algunos paneles de SIEM. También aprendió sobre las diferentes amenazas, riesgos y vulnerabilidades que puede experimentar una organización. En esta lectura, aprenderá más sobre los datos del panel SIEM y cómo los profesionales de la ciberseguridad utilizan esos datos para identificar una posible amenaza, riesgo o vulnerabilidad.
 
@@ -67,3 +74,11 @@ El panel de información general sobre el inicio de sesión del usuario proporci
 ## Conclusiones clave
 
 Las herramientas SIEM proporcionan paneles que ayudan a los profesionales de la seguridad a organizar y centrar sus esfuerzos de seguridad. Esto es importante porque permite a los analistas reducir el riesgo identificando, analizando y remediando los elementos de mayor prioridad de manera oportuna. Más adelante en el programa, tendrá la oportunidad de practicar el uso de varias funciones y comandos de la herramienta SIEM para consultas de búsqueda.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Talya, Mitos sobre el ámbito de la ciberseguridad]]
+- ➡️ Siguiente: [[5- Pon a prueba tus conocimientos, Identifica amenazas y vulnerabilidades con herramientas SIEM]]

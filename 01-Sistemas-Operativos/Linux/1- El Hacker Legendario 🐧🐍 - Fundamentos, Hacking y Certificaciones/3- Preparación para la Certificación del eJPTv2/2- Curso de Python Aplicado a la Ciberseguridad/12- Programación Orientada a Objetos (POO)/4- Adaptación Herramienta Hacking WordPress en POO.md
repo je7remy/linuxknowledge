@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Adaptación Herramienta Hacking WordPress en POO
 Lo que haremos hoy será convertir el código siguiente en programación orientada a objectos:
 
 ````python
@@ -477,3 +484,10 @@ Hemos transformado con éxito el script original en una versión orientada a obj
 
 
 [[10- Creamos una Herramienta para Enumerar y Atacar Plugins de WordPress]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_12- Programación Orientada a Objetos (POO)|12- Programación Orientada a Objetos (POO)]]
+- ⬅️ Anterior: [[3- Introducción a la POO – Ejercicio Práctico PARTE 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Variables Locales y Globales en las Funciones
 ### Script inicial:
 
 ```bash
@@ -80,3 +87,9 @@ hola soy una variable global
 
 Esto muestra cómo el alcance de las variables afecta el comportamiento y el resultado de un script Bash.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Funciones|6- Funciones]]
+- ⬅️ Anterior: [[1- Declarar Funciones en Bash]]

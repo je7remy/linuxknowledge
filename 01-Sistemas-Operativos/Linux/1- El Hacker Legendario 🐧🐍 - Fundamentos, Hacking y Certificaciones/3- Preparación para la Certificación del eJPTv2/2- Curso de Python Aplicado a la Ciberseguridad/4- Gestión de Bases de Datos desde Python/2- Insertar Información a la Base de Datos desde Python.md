@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Insertar Información a la Base de Datos desde Python
 
 ---
 
@@ -251,3 +258,10 @@ crear_tabla()
 **[[9- SMB]]**
 **[[11- SSH]]**
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Gestión de Bases de Datos desde Python|4- Gestión de Bases de Datos desde Python]]
+- ⬅️ Anterior: [[1- Instalar Base de datos MySQL]]
+- ➡️ Siguiente: [[3- Consultas a la Base de Datos]]

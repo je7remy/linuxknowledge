@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a los Módulos
 
 ---
 
@@ -101,3 +108,10 @@ _(El número puede cambiar en cada ejecución porque es generado aleatoriamente)
 - Se puede importar un módulo con `import nombre_modulo`.
 - Se pueden usar tanto módulos creados por el usuario como módulos estándar de Python (`random`, `math`, etc.).
 - Ejecutar `python nombre_script.py` en la terminal permite probar los módulos en acción.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Introducción a los Módulos y uso de PIP|2- Introducción a los Módulos y uso de PIP]]
+- ➡️ Siguiente: [[2- Instalación de Módulos Externos]]

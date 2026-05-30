@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Actividad de cierre
 ### ✅ **Resumen: Operaciones de Red y Seguridad**
 
 #### 🔹 **Protocolos de red fundamentales**
@@ -74,3 +78,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Términos del glosario del Módulo 2]]

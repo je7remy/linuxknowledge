@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, recursos-estaticos, cookies, headers, http-avanzado]
+actualizado: 2026-05-28
+---
+
+# Recursos estáticos, cookies y headers
 
 # Módulo 14: Recursos Estáticos y Protocolo HTTP Avanzado
 
@@ -90,4 +97,11 @@ Tu archivo `main.py` ahora cumple tres funciones arquitectónicas:
 3. Ejecuta el servidor: `uvicorn main:app --reload`.
     
 4. Abre en tu navegador: `http://127.0.0.1:8000/static/logo.png`. ¡Deberías ver la imagen!
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[12- Test de conocimientos - Routers]]
+- ➡️ Siguiente: [[14- Test de conocimientos - Recursos estáticos, cookies y headers]]

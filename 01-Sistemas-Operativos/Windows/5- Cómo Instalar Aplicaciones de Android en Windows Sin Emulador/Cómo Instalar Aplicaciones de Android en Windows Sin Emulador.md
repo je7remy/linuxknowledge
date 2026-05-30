@@ -1,13 +1,10 @@
 ---
-tipo: laboratorio
-tags: [android, wsa, windows-subsystem-android, virtualizacion, downloader, play-store]
+tipo: teoria
+tags: [nota]
 actualizado: 2026-05-28
 ---
 
 # Cómo Instalar Aplicaciones de Android en Windows Sin Emulador
-
----
-
 ### **Paso 1: Activar la Virtualización en tu PC**
 
 Lo primero que necesitamos es asegurarnos de que la virtualización esté activada en tu computadora. Esto es clave para que todo funcione.
@@ -120,10 +117,10 @@ Con Downloader, puedes instalar cualquier app de Android con un código.
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|01 → Windows]]
+- ⬆️ Sección: [[_Windows|01 → Windows]]
 
 ## Relacionadas
 
-- [[../../../05-Recursos/Android/index|05 → Android]] — guías relacionadas con Android.
-- [[../../../05-Recursos/Android/1- Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)/index|Play Store Amazon Fire]] — equivalente para tablets Amazon Fire.
+- [[_Android|05 → Android]] — guías relacionadas con Android.
+- [[_1- Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)|Play Store Amazon Fire]] — equivalente para tablets Amazon Fire.
 - [[../6- Evaluación e Instalación de Sistemas Alternativos en Chromebook/Evaluación e Instalación de Sistemas Alternativos en Chromebook|Chromebook PrimeOS]] — alternativa Android-x86 en Chromebook.

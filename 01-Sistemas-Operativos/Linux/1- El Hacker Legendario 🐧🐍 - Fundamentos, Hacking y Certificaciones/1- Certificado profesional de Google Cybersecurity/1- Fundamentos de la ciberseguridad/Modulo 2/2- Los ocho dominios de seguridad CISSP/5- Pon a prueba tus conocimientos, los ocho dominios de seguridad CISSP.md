@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, los ocho dominios de seguridad CISSP
 
 1. Algunos ejemplos de **Dominios** de seguridad son la seguridad y la gestión de riesgos, así como la arquitectura e ingeniería de seguridad.
     
@@ -9,5 +16,10 @@
     
 4. Se le pide que investigue una alerta relacionada con un dispositivo desconocido que está conectado a la red interna de la empresa. Una vez completada la investigación, debe seguir las políticas y procedimientos de la empresa para implementar medidas preventivas que detengan la amenaza potencial que representa el dispositivo. ¿Con qué dominio de seguridad se relaciona este escenario?  
     **Operaciones de seguridad**
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[4- Comprender a los atacantes]]

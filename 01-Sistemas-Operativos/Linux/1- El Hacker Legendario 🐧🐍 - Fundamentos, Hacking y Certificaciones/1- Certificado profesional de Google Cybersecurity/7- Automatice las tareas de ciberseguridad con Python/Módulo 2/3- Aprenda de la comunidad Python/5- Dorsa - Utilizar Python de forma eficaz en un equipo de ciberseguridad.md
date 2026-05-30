@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Dorsa - Utilizar Python de forma eficaz en un equipo de ciberseguridad
 
 # 👩‍💻 Colaboración en Python: Experiencia de Dorsa, Ingeniera de Seguridad
 
@@ -69,3 +76,11 @@ Un recurso realmente bueno para **aprender nuevas habilidades** y **ampliar tus 
 Cada persona tiene algo que aportar sobre cómo mejorar tus habilidades de codificación, **especialmente en ciberseguridad**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Garantizar una sintaxis y legibilidad adecuadas en Python]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Aprenda de la comunidad Python]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Analice los indicadores de compromiso con herramientas de investigación
 
 Hasta ahora, ha aprendido sobre los diferentes tipos de Métodos de Detección que se pueden utilizar para detectar Incidentes de Seguridad. Esta lectura explora cómo pueden utilizarse las herramientas de investigación durante las investigaciones para analizar los **Indicadores de compromiso (IoC** ) sospechosos y crear un contexto en torno a las alertas. Recuerde que un IoC es una prueba observable que sugiere indicios de un posible incidente de Seguridad.
 
@@ -75,3 +82,11 @@ El análisis de[software malicioso](https://virusscan.jotti.org/) de Jotti es un
 ## Puntos clave
 
 Como analista de Seguridad, analizará los IoC. Es importante comprender cómo añadir contexto a las investigaciones puede ayudar a mejorar las capacidades de detección y a tomar decisiones informadas y eficaces.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Indicadores de compromiso]]
+- ➡️ Siguiente: [[8- Actividad - Investigar el hash de un archivo sospechoso]]

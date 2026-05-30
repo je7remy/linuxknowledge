@@ -1,3 +1,10 @@
+---
+tipo: hub
+tags: [hub, vault-principal, linux, ciberseguridad]
+actualizado: 2026-05-28
+---
+
+# 🔒🐧 Hub Principal del Vault
 
 ### 🐧💻 **Vault de Obsidian – Linux & Cybersecurity Knowledge Hub**
 
@@ -63,3 +70,23 @@ G --> I[Infraestructura como Código]
 🔥 **No es solo conocimiento. Es práctica.** Cada archivo dentro de este vault es una pieza de código, una metodología o un experimento listo para ejecutarse.
 
 🚀 **Empieza ahora. Hackea, automatiza y domina Linux.**
+
+---
+
+## 🗺️ Navegación principal del vault
+
+Las 7 secciones raíz del cerebro digital:
+
+- [[_01-Sistemas-Operativos|01 — Sistemas Operativos]] — Linux, Windows, redes, el curso **El Hacker Legendario** (Google Cybersecurity, CompTIA, eJPTv2).
+- [[_02-Ciberseguridad|02 — Ciberseguridad]] — Pentesting, hosts, reconocimiento (Nmap, Shodan), forense, criptografía.
+- [[_03-Desarrollo|03 — Desarrollo]] — Tesis universitaria (sistema de citas médicas) + proyecto web con FastAPI.
+- [[_04-Laboratorios|04 — Laboratorios]] — Catálogos de ejercicios prácticos en Bash y Python.
+- [[_05-Recursos|05 — Recursos]] — Cheatsheets, glosarios, fundamentos de lenguajes, cursos de IA.
+- [[_06-Publicaciones-Linkedin|06 — Publicaciones LinkedIn]] — Posts redactados para divulgación.
+- [[_07- Inteligencia-Artificial|07 — Inteligencia Artificial]] — Cursos de IA (Google + Microsoft Reactor).
+
+## 📚 Documentación del proyecto
+
+- [[schema|Schema del vault]] — Convenciones de organización.
+- [[log|Bitácora de cambios]] — Historial de evolución del vault.
+- [[CODE_OF_CONDUCT|Código de Conducta]] — Reglas del proyecto.

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Aprovecha el potencial de un LLM en el trabajo
 
 ## 🚀 Capacidades Clave de un LLM para la Productividad
 
@@ -77,3 +84,11 @@ Puedes utilizar un LLM para generar soluciones para diversos retos en el lugar d
 Es una habilidad muy importante para practicar si quieres utilizar la IA eficazmente en el trabajo. Próximamente en tu curso, se centrarán más en evaluar los resultados y hacer iteraciones de tu instrucción.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[3- Actividad, Escribe un mensaje eficaz para Géminis]]
+- ➡️ Siguiente: [[5- Instrucciones para diferentes propósitos]]

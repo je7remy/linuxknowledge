@@ -205,7 +205,7 @@ gAAAAABnzE_eSYvY2JrDZFb_EBC023c4huAn9Bu27YdqbCSkTzbsqW0F8r_gCBXe6z541aZA3LfCeQXW
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+- ⬆️ Sección: [[_02-Ciberseguridad|02-Ciberseguridad]]
 
 ## Relacionadas
 
@@ -213,4 +213,4 @@ gAAAAABnzE_eSYvY2JrDZFb_EBC023c4huAn9Bu27YdqbCSkTzbsqW0F8r_gCBXe6z541aZA3LfCeQXW
 - [[Guía rápida de fundamentos en Python]] — base del lenguaje.
 - [[2- Laboratorios de Python]] — catálogo de laboratorios Python.
 - [[../3- hacking basico/1- Teoria de Ciberseguridad/5- Aprovechamiento de las vulnerabilidades de seguridad|Cisco → Vulnerabilidades]] — el módulo recomienda cifrar contraseñas.
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/index|Python → 9- Defensiva]] — más técnicas defensivas con Python.
+- [[_9- Ciberseguridad Defensiva|Python → 9- Defensiva]] — más técnicas defensivas con Python.

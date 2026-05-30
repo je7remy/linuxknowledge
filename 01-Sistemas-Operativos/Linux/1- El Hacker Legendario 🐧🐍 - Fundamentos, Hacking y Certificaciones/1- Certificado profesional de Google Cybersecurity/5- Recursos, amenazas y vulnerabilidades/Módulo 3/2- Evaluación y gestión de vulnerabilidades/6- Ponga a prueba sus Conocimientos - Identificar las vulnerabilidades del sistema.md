@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Identificar las vulnerabilidades del sistema
 
 # ✅ Repaso de Evaluación de Vulnerabilidades
 
@@ -70,3 +77,10 @@
 ---
 
 ¿Quieres que te prepare un **cuadro comparativo en tabla Markdown** con preguntas, respuestas correctas y explicación breve para que lo tengas más visual y fácil de repasar?
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- Pruebas de penetración]]

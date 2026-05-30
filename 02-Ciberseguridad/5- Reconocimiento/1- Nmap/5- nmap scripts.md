@@ -176,7 +176,7 @@ Los scripts utilizados para el último escaneo interactúan con el servidor web 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬆️ Carpeta: [[_1- Nmap|1- Nmap]]
 - ⬅️ Anterior: [[4- nmap output]]
 - ➡️ Siguiente: [[6- nmap Time]] — modificadores de tiempo y rendimiento.
 

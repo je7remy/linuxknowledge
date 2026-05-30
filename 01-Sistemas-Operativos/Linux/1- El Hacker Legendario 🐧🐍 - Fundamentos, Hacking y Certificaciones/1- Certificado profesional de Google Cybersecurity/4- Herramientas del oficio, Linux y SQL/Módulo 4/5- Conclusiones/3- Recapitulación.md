@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 ✨ **Repaso final de la unidad de SQL aplicada a la ciberseguridad** ✨
 
@@ -70,3 +77,11 @@ Con todo lo que has practicado:
 El aprendizaje de SQL es continuo. Cada consulta que escribas te dará más soltura. Siempre que lo necesites, vuelve a tus apuntes, practica con nuevas bases de datos y **piensa en SQL como tu lupa de investigación en ciberseguridad**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Explorar las aplicaciones de SQL en la seguridad - Dialogo]]
+- ➡️ Siguiente: [[4- Guía de referencia - SQL]]

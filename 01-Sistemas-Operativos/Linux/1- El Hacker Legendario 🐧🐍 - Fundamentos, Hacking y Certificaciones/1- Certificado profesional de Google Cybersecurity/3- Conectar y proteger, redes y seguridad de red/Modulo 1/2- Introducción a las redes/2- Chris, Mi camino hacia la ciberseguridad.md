@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Chris, Mi camino hacia la ciberseguridad
 
 # 👨‍💼 Chris – Director de Seguridad de la Información en Google Fiber
 
@@ -78,3 +85,10 @@ Esto le permitió construir una **reputación profesional** y acceder a nuevas *
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 1]]
+- ➡️ Siguiente: [[3- Qué son las redes]]

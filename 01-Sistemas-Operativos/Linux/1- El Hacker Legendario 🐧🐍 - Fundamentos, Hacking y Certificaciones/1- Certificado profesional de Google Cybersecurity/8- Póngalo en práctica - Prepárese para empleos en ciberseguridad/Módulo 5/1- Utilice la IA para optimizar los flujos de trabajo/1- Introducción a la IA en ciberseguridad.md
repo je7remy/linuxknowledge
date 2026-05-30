@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Introducción a la IA en ciberseguridad
 
 ### 🚀 **Nuevo Módulo: IA en la Ciberseguridad**
 
@@ -40,3 +47,10 @@ Al final de este módulo, podrás:
     
 
 ¡Estás listo para empezar!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ➡️ Siguiente: [[2- Luis - Impulsar el impacto de la IA en el lugar de trabajo]]

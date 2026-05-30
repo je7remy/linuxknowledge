@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Ejercicio Práctico, Script Siempre en Ejecución
 ### **Definición de `nohup`**
 
 `nohup` significa "no hang up" y permite ejecutar un comando o script de manera que siga funcionando incluso si se cierra la terminal. El comando redirige la salida estándar y el error estándar al archivo `nohup.out` por defecto (o a uno especificado).
@@ -83,4 +90,9 @@ Para evitarlo:
 - Usa `nohup`.
 - O usa `screen` o `tmux`, que permiten sesiones persistentes.
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[10- Ejercicio Práctico, Creamos nuestro Primer Script]]

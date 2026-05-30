@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Planes de respuesta ante incidentes
 
 # 📌 Plan de Respuesta ante Incidentes (PRI)
 
@@ -84,3 +91,10 @@ El Plan de Respuesta ante Incidentes es un **documento vivo**, adaptado a cada o
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[8- Funciones en la respuesta]]
+- ➡️ Siguiente: [[10- Ponga a prueba sus Conocimientos - Operaciones de respuesta ante incidentes]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Argumentos, parámetros y sentencias de retorno
 
 ### 🧠 Pregunta 1
 
@@ -125,3 +132,10 @@ def doubles(num):
 📘 Explicación:
 
 La palabra clave return se utiliza para devolver información de una función. Se coloca antes de la información que se desea devolver (sin un signo =). En este caso, se devuelve el valor almacenado en la variable result, no la cadena de texto "result".
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[6- Crear más funciones]]

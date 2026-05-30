@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, La historia de la ciberseguridad
 
 **1. Pregunta:**  
 _Rellene el espacio en blanco: Un virus informático es un _____ malicioso que interfiere con las operaciones informáticas y causa daños._
@@ -31,3 +38,10 @@ _La ingeniería social, como el phishing, es una técnica de manipulación que s
 ✅ **Respuesta correcta:** `Falso`
 
 > _(Explicación: la ingeniería social se basa en la manipulación humana, no en errores informáticos.)_
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[5- Sean, Mantén la calma durante una filtración de datos]]

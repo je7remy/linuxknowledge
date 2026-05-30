@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Detector de Sistemas Operativos – PARTE 1
 ### **Explicación General**
 
 El objetivo de estos scripts es realizar un ping a una dirección IP dada y, dependiendo del valor TTL (Time To Live) en la respuesta, determinar si el sistema operativo del host es Linux o Windows. Los valores típicos de TTL son:
@@ -143,4 +150,12 @@ fi
 
 ### **Conclusión**
 
-Estos scripts son ejemplos básicos de cómo usar herramientas de red (como `ping`) y comandos de análisis de texto (`grep`) para identificar información de un sistema remoto de manera sencilla. 
+Estos scripts son ejemplos básicos de cómo usar herramientas de red (como `ping`) y comandos de análisis de texto (`grep`) para identificar información de un sistema remoto de manera sencilla.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[8- Script para Eliminar Archivos Duplicados]]
+- ➡️ Siguiente: [[10- Detector de Sistemas Operativos – PARTE 2]]

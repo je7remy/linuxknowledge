@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Redes en la nube
 
 # ☁️ Redes en la Nube y Seguridad
 
@@ -77,3 +84,10 @@ Los profesionales de la ciberseguridad deben adaptarse a este cambio y **enfocar
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[8- Diseño de una red de área local]]
+- ➡️ Siguiente: [[10- Computación en la nube y redes definidas por software]]

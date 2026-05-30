@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 4
 
 ## 🧠 Términos y Definiciones (Curso 7, Módulo 4)
 
@@ -17,3 +24,11 @@
 |**Análisis sintáctico (Parsing)**|El proceso de convertir Datos a un formato más legible o estructurado.|
 |**Error de sintaxis**|Un error que implica el uso no válido de un lenguaje de programación (ej. olvidar `:`, escribir mal una palabra clave).|
 |**Variable**|Un contenedor que almacena Datos.|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Guía de referencia - Conceptos de Python de la semana 4]]
+- ➡️ Siguiente: [[4- Desafío del módulo 4]]

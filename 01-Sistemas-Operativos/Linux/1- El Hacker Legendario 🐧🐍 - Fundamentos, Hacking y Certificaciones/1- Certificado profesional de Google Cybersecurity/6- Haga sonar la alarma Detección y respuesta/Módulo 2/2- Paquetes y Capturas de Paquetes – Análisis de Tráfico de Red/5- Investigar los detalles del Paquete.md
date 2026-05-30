@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Investigar los detalles del Paquete
 
 Hasta ahora, ha aprendido cómo los Analizadores de protocolos de red (packet sniffers) interceptan las comunicaciones de red. También ha aprendido cómo puede analizar las capturas de paquetes (p-caps) para obtener una visión de la actividad que tiene lugar en una red. Como analista de seguridad, utilizará sus habilidades de análisis de paquetes para inspeccionar los paquetes de red e identificar actividades sospechosas durante las investigaciones.
 
@@ -182,3 +189,11 @@ En esta lectura, ha explorado los filtros de visualización básicos con Wiresha
 ## Recursos
 
 - Para saber más sobre todas las características y capacidades de Wireshark, explore la [guía oficial del usuario de Wireshark](https://www.wireshark.org/docs/wsug_html/).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Reexaminar los campos de un Encabezado de Paquete]]
+- ➡️ Siguiente: [[6- Analice su primer paquete]]

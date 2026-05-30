@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Explore SIEM y registros a través del análisis de escenarios
 
 En esta actividad, entablarás una conversación con la guía impulsada por IA de Coursera. Esta actividad se centra en un escenario realista que requiere que vincule las diversas responsabilidades fundamentales y las medidas de protección de un analista de seguridad de nivel básico con el objetivo principal de proteger los activos digitales.
 
@@ -68,3 +75,9 @@ Completaste con éxito la actividad demostrando que:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Conclusión]]

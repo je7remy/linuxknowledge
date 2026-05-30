@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Una introducción al software malicioso
 
 Anteriormente, usted aprendió que el **software malicioso** es un software diseñado para dañar dispositivos o redes. Desde su primera aparición en las computadoras personales hace décadas, el software malicioso se ha desarrollado en una variedad de cepas. Ser capaz de identificar los diferentes tipos de software malicioso y comprender las formas en que se propagan le ayudará a mantenerse alerta y a estar informado como profesional de la Seguridad.
 
@@ -58,3 +65,11 @@ El ransomware describe un ataque malicioso en el que los actores de la amenaza e
 ## Puntos clave
 
 La Variedad del software malicioso es asombrosa. El número de formas en que se propaga es aún más asombroso. El software malicioso es una amenaza compleja que puede requerir su propia especialización en ciberseguridad. Un lugar donde aprender más sobre el análisis de software malicioso es [el curso de introducción al análisis de software malicioso de INFOSEC](https://www.infosecinstitute.com/skills/courses/malware-analysis-introduction/). Incluso sin especializarse en el análisis de malware, reconocer los tipos de software malicioso y cómo se propagan es una parte importante de la defensa contra estos ataques como analista de Seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[8- Software malicioso]]
+- ➡️ Siguiente: [[10- El auge del Criptojacking]]

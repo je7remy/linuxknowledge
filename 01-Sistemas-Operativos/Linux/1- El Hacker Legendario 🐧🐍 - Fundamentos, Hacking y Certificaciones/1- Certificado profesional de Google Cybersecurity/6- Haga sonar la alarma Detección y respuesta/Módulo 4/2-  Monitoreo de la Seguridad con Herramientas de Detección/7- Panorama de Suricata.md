@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Panorama de Suricata
 
 Hasta ahora, ha aprendido sobre las firmas de detección y se le presentó Suricata, un Sistema de detección de intrusiones (IDS).
 
@@ -87,3 +94,11 @@ Si desea obtener más información sobre Suricata, incluida la gestión y el ren
 - [Introducción a la redacción de reglas de Suricata](https://youtu.be/tvoqFBVSShA)
     
 - [Ejemplos jq de Eve.json](https://suricata.readthedocs.io/en/latest/output/eve/eve-json-examplesjq.html)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Examinar los registros de Suricata]]
+- ➡️ Siguiente: [[8- Explorar firmas y registros con Suricata]]

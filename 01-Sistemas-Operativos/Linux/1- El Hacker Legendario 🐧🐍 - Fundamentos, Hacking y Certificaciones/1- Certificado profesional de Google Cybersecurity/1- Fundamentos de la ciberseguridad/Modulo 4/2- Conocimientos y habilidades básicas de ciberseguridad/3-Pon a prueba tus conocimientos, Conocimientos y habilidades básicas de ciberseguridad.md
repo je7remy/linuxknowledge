@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Conocimientos y habilidades básicas de ciberseguridad
 
 
 ---
@@ -62,3 +69,10 @@ Linux es una **_____** de código abierto que se puede utilizar para examinar re
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Utilice herramientas para proteger las operaciones comerciales]]
+- ➡️ Siguiente: [[4- Crear un portafolio de ciberseguridad]]

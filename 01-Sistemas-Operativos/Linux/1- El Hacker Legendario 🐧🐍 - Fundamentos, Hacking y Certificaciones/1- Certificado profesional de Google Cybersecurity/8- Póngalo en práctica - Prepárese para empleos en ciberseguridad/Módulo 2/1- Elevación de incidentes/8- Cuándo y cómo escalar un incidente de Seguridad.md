@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Cuándo y cómo escalar un incidente de Seguridad
 
 
 ### 📜 La Política de Escalamiento: El "Manual" de Acción
@@ -11,4 +18,11 @@
 - **No memorizar, sino guardar:** La recomendación práctica es **guardar o marcar como favorita** la política en tu dispositivo de trabajo. Son documentos que pueden ser largos, pero necesitas tener acceso rápido a ellos en el momento de crisis.
     
 - **La atención al detalle es clave:** Prestar atención a los detalles de la política te ayuda a diferenciar la **urgencia** (priorizar) y a asegurar que el incidente llegue a la **persona correcta**.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[7- De una simple actividad a una importante filtración de datos]]
+- ➡️ Siguiente: [[9- Momento de la Elevación]]

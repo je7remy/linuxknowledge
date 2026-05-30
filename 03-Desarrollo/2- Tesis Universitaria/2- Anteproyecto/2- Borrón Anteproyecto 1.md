@@ -1,4 +1,3 @@
-
 ---
 
 # Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, El Pino, La Vega, República Dominicana, Período 2025
@@ -188,3 +187,10 @@ Secretarias y médicos del hospital.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ⬅️ Anterior: [[1- Formato y Contenido del Anteproyecto]]
+- ➡️ Siguiente: [[3- Capítulo 1, Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025]]

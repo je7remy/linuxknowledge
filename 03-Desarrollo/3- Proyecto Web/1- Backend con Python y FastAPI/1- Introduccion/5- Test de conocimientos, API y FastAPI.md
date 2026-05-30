@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, api, test-conocimientos, quiz]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — API y FastAPI
 
 ### 1- ¿Qué significa API?
 
@@ -178,3 +185,10 @@ _Seleccione solamente LA MEJOR respuesta_
 > 
 > FastAPI es un framework moderno de Python para construir APIs de alto rendimiento.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[4- API y FastAPI]]
+- ➡️ Siguiente: [[6- Type Hints]]

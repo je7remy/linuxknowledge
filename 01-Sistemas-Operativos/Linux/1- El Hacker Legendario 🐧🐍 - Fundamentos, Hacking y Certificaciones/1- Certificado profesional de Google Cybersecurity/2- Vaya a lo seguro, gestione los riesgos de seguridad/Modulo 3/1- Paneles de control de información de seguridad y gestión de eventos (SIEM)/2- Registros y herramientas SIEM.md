@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Registros y herramientas SIEM
 
 ## 🔍 **Análisis de Registros y Herramientas SIEM – Resumen para Analistas de Seguridad**
 
@@ -63,3 +70,10 @@ Una herramienta SIEM permite:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 3]]
+- ➡️ Siguiente: [[3- Paneles de control SIEM]]

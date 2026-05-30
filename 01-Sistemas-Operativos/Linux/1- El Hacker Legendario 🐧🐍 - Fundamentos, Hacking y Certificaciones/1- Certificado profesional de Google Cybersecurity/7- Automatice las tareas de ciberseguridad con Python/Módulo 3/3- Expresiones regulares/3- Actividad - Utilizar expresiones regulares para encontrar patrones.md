@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad - Utilizar expresiones regulares para encontrar patrones
 
 ### 🧠 Tarea 1
 
@@ -309,3 +316,11 @@ for address in valid_ip_addresses:
 - **Refinamiento Iterativo:** A menudo, el primer patrón regex no es perfecto. Es un proceso iterativo refinar el patrón (`\d\d\d` -> `\d+` -> `\d{1,3}`) para obtener exactamente las coincidencias deseadas y excluir las no deseadas.
     
 - **Integración con otras estructuras:** Las listas devueltas por `re.findall()` pueden ser procesadas fácilmente con bucles `for` y condicionales `if` (usando el operador `in`) para realizar análisis posteriores (como verificar contra una lista de IPs marcadas).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Más información sobre expresiones regulares]]
+- ➡️ Siguiente: [[4- Ponga a prueba sus Conocimientos - Expresiones regulares]]

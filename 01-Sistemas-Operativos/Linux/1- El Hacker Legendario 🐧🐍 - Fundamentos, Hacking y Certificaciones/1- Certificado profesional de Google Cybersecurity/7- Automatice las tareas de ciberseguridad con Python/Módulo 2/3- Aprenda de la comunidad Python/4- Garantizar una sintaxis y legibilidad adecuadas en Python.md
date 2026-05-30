@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Garantizar una sintaxis y legibilidad adecuadas en Python
 
 Anteriormente, se le presentó la Guía de estilo PEP 8 y sus directrices de estilo para los programadores que trabajan en Python. También aprendió cómo añadir comentarios y utilizar una correcta indentación hace que su código sea más legible. Además, una correcta indentación garantiza que su código se ejecute correctamente. Esta lectura profundiza en estas ideas y también se centra en los elementos comunes que debe comprobar en la sintaxis de su código para asegurarse de que se ejecuta.
 
@@ -115,3 +122,11 @@ La Guía de estilo PEP 8 ofrece recomendaciones para escribir código que pueda 
 Aprender a escribir código legible puede ser todo un reto, así que asegúrese de revisar la Guía de estilo PEP 8 y conocer otros aspectos de la legibilidad del código.
 
 - PEP 8[- Guía de estilo para código Python](https://peps.python.org/pep-0008/): La Guía de estilo PEP 8 contiene todos los Estándares del Código Python. Cuando lea esta guía, es útil utilizar la tabla de contenidos para navegar por los conceptos que aún no ha aprendido.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Legibilidad del Código]]
+- ➡️ Siguiente: [[5- Dorsa - Utilizar Python de forma eficaz en un equipo de ciberseguridad]]

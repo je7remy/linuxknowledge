@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Ética en ciberseguridad
 
 ### ✅ Pregunta 1
 
@@ -76,3 +83,10 @@ La protección de la privacidad significa salvaguardar _____ del uso no autoriza
 **🧮 Puntuación:** 1 / 1 punto
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3-Holly, La importancia de la Ética como profesional de la ciberseguridad]]

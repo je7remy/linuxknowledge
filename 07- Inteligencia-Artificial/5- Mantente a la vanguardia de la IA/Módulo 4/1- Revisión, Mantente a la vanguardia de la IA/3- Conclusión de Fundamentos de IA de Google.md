@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Conclusión de Fundamentos de IA de Google
 
 
 **En primer lugar, exploramos los fundamentos de la IA.**
@@ -31,3 +38,10 @@
 *   O puede que empieces a aprovechar la IA en tu trabajo diario utilizando las herramientas introducidas en este curso o nuevas herramientas de IA que identifiques.
 
 No importa cuál sea tu próximo paso, estoy orgulloso de que hayas hecho este curso y por haber aprendido más sobre la IA.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[2- Desafío Curso 5]]

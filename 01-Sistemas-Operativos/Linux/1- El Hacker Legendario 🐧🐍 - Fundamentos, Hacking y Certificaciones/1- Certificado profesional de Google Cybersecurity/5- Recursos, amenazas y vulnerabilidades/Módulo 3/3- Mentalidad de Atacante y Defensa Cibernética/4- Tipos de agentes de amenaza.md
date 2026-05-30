@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Tipos de agentes de amenaza
 
 Anticiparse a los ataques es una habilidad importante que necesitará para ser un profesional eficaz de la Seguridad. Desarrollar esta habilidad requiere que tenga una mentalidad abierta y flexible acerca de dónde pueden provenir los ataques. Anteriormente, aprendió sobre las **superficies de ataque**, que son todas las vulnerabilidades potenciales que un agente de amenaza podría explotar.
 
@@ -79,3 +86,11 @@ Cualquiera de estos vectores de ataque puede proporcionar accesibilidad a un sis
 La defensa de una superficie de ataque empieza por pensar como un agente de amenaza. Como profesional de la Seguridad, es importante comprender _por qué_ alguien supondría una amenaza para los recursos de la organización. Esto incluye reconocer que no todos los agentes de amenaza quieren causar daño intencionadamente.
 
 Es igualmente importante reconocer las formas en que un actor de amenaza podría obtener acceso a un sistema. Hacer coincidir las intenciones con los vectores de ataque es una habilidad inestimable a medida que continúa desarrollando una mentalidad de atacante.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Enfoque la ciberseguridad con mentalidad de atacante]]
+- ➡️ Siguiente: [[5- Niru - Adopte una mentalidad de atacante]]

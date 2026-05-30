@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, hola-mundo, async, primera-api]
+actualizado: 2026-05-28
+---
+
+# Hola Mundo en FastAPI
 
 # Módulo 4: Construyendo tu Primera API Asíncrona
 
@@ -142,5 +149,11 @@ uvicorn main:app --reload
 3. Utilizamos **`async def`** para preparar nuestra API para alta concurrencia y rendimiento moderno.
     
 4. FastAPI se encarga de **convertir** nuestros diccionarios de Python a **JSON** automáticamente para que cualquier cliente (React, móvil, otro servidor) pueda entenderlos.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[2- Test de conocimientos - Configuración FastAPI]]
+- ➡️ Siguiente: [[4- Test de conocimientos, Hola mundo]]

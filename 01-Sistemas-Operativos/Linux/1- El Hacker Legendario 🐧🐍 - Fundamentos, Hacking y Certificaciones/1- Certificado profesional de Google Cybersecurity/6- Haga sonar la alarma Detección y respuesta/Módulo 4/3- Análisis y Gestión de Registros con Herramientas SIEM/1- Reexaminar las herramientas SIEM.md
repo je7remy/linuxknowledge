@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Reexaminar las herramientas SIEM
 
 ## 🧩 Revisión: Funcionamiento de las Herramientas SIEM
 
@@ -100,3 +107,10 @@ El flujo **recoger → normalizar → indexar** garantiza que los analistas de s
 - Analizar incidentes en tiempo real.
 
 Estas tres fases son la base del funcionamiento de cualquier **herramienta SIEM moderna**, como **Splunk**, **Chronicle (Google SecOps)** o **IBM QRadar**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Fuentes de registro e ingestión de registros]]

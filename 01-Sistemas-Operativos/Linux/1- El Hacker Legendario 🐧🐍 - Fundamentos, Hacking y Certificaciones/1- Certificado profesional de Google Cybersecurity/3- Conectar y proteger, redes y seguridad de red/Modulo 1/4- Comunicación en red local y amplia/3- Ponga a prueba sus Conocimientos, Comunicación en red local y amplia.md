@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Comunicación en red local y amplia
 
 ### ✅ Pregunta 1
 
@@ -72,3 +79,9 @@ Los switches usan una **tabla de direcciones MAC** para registrar qué dispositi
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Componentes de la capa de red comunicación]]

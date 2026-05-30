@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, api, python, asgi, uvicorn, openapi]
+actualizado: 2026-05-28
+---
+
+# API y FastAPI
 
 ### **Módulo 1: Introducción Práctica a FastAPI**
 
@@ -134,3 +141,11 @@ Para profundizar en los conceptos que hemos cubierto, te recomendamos explorar l
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[3- Test de conocimientos, Qué es un backend]]
+- ➡️ Siguiente: [[5- Test de conocimientos, API y FastAPI]]

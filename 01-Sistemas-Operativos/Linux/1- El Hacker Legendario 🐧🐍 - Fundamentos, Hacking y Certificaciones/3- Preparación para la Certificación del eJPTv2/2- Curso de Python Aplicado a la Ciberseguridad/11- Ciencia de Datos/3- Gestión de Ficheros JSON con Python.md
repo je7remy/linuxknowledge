@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Gestión de Ficheros JSON con Python
 
 ---
 
@@ -179,3 +186,10 @@ print(dataframe)
 - **JSON**: Es un formato universal para datos, comúnmente usado en APIs y almacenamiento. Aquí, lo usaste para estructurar información sobre libros.
 - **DataFrame**: Es una herramienta poderosa de Pandas para analizar datos. Una vez que tienes los datos en este formato, puedes realizar operaciones como filtrado, ordenamiento o cálculos estadísticos.
 - **Buenas prácticas**: El uso de `with` para abrir archivos y la importación clara de bibliotecas son ejemplos de código bien estructurado.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_11- Ciencia de Datos|11- Ciencia de Datos]]
+- ⬅️ Anterior: [[2- Manipulación y Filtros de un DataFrame]]

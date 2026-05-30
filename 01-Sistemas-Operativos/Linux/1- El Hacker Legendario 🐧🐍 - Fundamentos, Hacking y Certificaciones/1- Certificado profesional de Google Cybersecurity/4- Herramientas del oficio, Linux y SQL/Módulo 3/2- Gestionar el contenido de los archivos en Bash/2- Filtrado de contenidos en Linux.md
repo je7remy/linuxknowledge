@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Filtrado de contenidos en Linux
 
 En esta lectura, continuarás explorando los comandos de Linux, que pueden ayudarte a filtrar la información que necesitas. Aprenderás un nuevo comando de Linux, find, que puede ayudarte a buscar información específica en archivos y directorios.
 
@@ -63,3 +70,11 @@ La búsqueda de la opción -mtime se basa en días, por lo que al introducir -mt
 El filtrado de información mediante comandos de Linux es una habilidad importante para los analistas de seguridad, de modo que puedan adaptar los datos a sus necesidades. Tres comandos clave de Linux para esto son grep, piping (|), y find. Estos comandos pueden utilizarse para navegar y filtrar información en el sistema de archivos.
 
 - **Considera las implicaciones de la IA para la privacidad y la seguridad**. Considera cómo el uso de herramientas de IA puede afectar a la seguridad de otras personas u organizaciones.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Encuentre lo que necesita con Linux]]
+- ➡️ Siguiente: [[3- Actividad, Filtrado con grep]]

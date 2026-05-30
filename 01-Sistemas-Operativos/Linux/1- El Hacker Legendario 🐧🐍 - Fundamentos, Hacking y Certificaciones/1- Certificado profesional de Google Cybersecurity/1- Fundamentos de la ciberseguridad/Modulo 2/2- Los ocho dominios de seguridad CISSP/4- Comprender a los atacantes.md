@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Comprender a los atacantes
 
 Anteriormente, se le presentó el concepto de actores de amenazas. Como recordatorio, un **actor de amenazas** es cualquier persona o grupo que presente un riesgo para la seguridad. En esta lectura, aprenderá sobre los diferentes tipos de actores de amenazas. También aprenderá sobre sus motivaciones, intenciones y cómo han influido en la industria de la seguridad.
 
@@ -75,3 +82,11 @@ Los actores de amenazas se definen por su intención maliciosa y los piratas inf
 ## Recursos para más información
 
 Para obtener más información sobre cómo trabajan los equipos de seguridad para mantener seguras a las organizaciones y a las personas, explore la [Hackeo de Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H) serie de vídeos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[3- Determinar el tipo de ataque]]
+- ➡️ Siguiente: [[5- Pon a prueba tus conocimientos, los ocho dominios de seguridad CISSP]]

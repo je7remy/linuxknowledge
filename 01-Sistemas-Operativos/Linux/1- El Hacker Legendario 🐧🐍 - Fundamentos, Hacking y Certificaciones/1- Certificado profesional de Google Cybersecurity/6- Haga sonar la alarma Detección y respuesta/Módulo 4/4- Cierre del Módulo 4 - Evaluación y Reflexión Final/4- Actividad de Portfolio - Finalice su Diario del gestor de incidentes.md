@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad de Portfolio - Finalice su Diario del gestor de incidentes
 
 # 🧾 Diario del Gestor de Incidentes
 
@@ -212,3 +219,10 @@ Puedes añadir evidencia (hashes, IPs, eventos SIEM, patrones detectados, captur
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Desafío del módulo 4]]
+- ➡️ Siguiente: [[5- Diario del Gestor de Incidentes]]

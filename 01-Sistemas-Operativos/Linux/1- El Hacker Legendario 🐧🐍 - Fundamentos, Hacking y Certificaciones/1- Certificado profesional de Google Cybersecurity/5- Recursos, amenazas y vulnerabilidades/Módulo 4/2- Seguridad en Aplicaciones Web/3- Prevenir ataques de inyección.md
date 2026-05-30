@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Prevenir ataques de inyección
 
 Anteriormente, aprendió que el **Lenguaje de Consulta Estructurado** (SQL) es un lenguaje de programación utilizado para crear, interactuar y solicitar información a una base de datos. SQL es uno de los lenguajes de programación más utilizados para interactuar con bases de datos porque está ampliamente soportado por una amplia gama de productos de bases de datos.
 
@@ -66,3 +73,11 @@ El uso de una combinación de estas técnicas puede ayudar a prevenir los ataque
 ## Puntos clave
 
 Muchas aplicaciones web recuperan datos de bases de datos utilizando SQL, y los ataques de inyección son bastante comunes debido a la popularidad de este lenguaje. Como ocurre con otros tipos de ataques de inyección, las inyecciones de SQL son el resultado de una entrada inesperada del usuario. Es importante colaborar con los desarrolladores de aplicaciones para ayudar a prevenir este tipo de ataques compartiendo su conocimiento de las técnicas de inyección de SQL y las defensas que deben ponerse en marcha.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Lagunas explotables en las bases de datos]]
+- ➡️ Siguiente: [[4- Ponga a prueba sus Conocimientos. Explotaciones basadas en web]]

@@ -412,3 +412,9 @@ pip install nombre_del_modulo
 [[10- Bucle WHILE]]
 [[11- Las Funciones]]
 [[1- Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python, Primera Sesión de la Serie sobre Python e Inteligencia Artificial]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_05-Recursos|05-Recursos]]

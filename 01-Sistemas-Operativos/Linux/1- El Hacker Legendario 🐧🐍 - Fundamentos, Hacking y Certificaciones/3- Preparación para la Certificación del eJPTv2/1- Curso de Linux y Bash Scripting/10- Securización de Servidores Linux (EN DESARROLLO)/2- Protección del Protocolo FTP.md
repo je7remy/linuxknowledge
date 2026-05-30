@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Protección del Protocolo FTP
 
 ---
 
@@ -299,4 +306,10 @@ Este proceso mejora la seguridad del servidor FTP al ocultarlo en un puerto no e
 [[1- Protección del Protocolo SSH]]
 [[5- Cómo Crear un Servidor SSH con OPENSSH]]
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_10- Securización de Servidores Linux (EN DESARROLLO)|10- Securización de Servidores Linux (EN DESARROLLO)]]
+- ⬅️ Anterior: [[1- Protección del Protocolo SSH]]
+- ➡️ Siguiente: [[3- Securización de Servidores Web Apache – PARTE 1]]

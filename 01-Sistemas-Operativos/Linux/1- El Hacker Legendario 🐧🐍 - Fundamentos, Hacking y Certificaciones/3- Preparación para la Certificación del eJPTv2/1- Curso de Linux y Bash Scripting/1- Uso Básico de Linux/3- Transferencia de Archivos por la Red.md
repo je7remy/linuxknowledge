@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Transferencia de Archivos por la Red
 
 ---
 
@@ -42,3 +49,11 @@ Cuando ejecutas este comando:
 **[[4- Cómo Utilizar CURL con HTTP]]**
 **[[3- Securización de Servidores Web Apache – PARTE 1]]**
 **[[4- Gestión y Automatización de Servidores FTP – PARTE 2]]**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[2- Gestión de Paquetes – APT y DPKG]]
+- ➡️ Siguiente: [[4- Cómo Utilizar CURL con HTTP]]

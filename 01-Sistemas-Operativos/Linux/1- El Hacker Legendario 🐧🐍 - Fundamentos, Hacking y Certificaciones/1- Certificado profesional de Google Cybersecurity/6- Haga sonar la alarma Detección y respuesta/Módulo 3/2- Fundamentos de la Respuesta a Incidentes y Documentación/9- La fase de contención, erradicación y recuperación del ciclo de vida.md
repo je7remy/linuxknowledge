@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# La fase de contención, erradicación y recuperación del ciclo de vida
 
 ## Fase 3: Contención, Erradicación y Recuperación
 
@@ -86,3 +93,11 @@ Recuerde que el ciclo de vida de la respuesta ante incidentes es **cíclico**. P
 ---
 
 - **Triaje** ❌
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[8- El proceso de Triaje]]
+- ➡️ Siguiente: [[10- Consideraciones sobre la continuidad del negocio (Business-to-Business)]]

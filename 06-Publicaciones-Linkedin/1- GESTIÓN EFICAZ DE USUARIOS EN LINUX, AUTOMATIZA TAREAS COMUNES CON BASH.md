@@ -359,12 +359,12 @@ Este script y los comandos básicos proporcionan una forma eficiente y segura de
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|06-Publicaciones-Linkedin]]
+- ⬆️ Sección: [[_06-Publicaciones-Linkedin|06-Publicaciones-Linkedin]]
 
 ## Relacionadas (fuente técnica)
 
 - [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/6- Gestión de Usuarios en Linux|Bash → Gestión de Usuarios]] — fundamento teórico.
 - [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/11- Automatizar la Gestión de Usuarios en Linux|Automatizar Gestión Usuarios]] — laboratorio del script.
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/4- Sentencias Condicionales/index|Bash → Condicionales]] — `case` y `if` usados aquí.
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/5- Bucles/index|Bash → Bucles]] — `while true` del menú.
+- [[_4- Sentencias Condicionales|Bash → Condicionales]] — `case` y `if` usados aquí.
+- [[_5- Bucles|Bash → Bucles]] — `while true` del menú.
 

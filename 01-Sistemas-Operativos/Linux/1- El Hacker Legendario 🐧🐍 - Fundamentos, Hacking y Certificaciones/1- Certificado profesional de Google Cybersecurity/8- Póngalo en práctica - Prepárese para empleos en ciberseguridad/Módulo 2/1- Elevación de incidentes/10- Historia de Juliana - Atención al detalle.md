@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Historia de Juliana - Atención al detalle
 
 Esta es la segunda lectura del escenario sobre Juliana Soto, una analista de ciberseguridad que fue contratada recientemente por Right-On-Time Payment Solutions. En la lectura sobre la [protección de los recursos](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/supplement/ywUED/julianas-story-asset-protection), Juliana identificó los recursos importantes para su organización e ideó un plan para protegerlos. En esta lectura, revisará cómo Juliana utilizó la política de escalado de su empresa y su atención a los detalles para resolver los Problemas de Seguridad que encontró en el trabajo.
 
@@ -31,3 +38,11 @@ El supervisor de Juliana está impresionado con su iniciativa y su capacidad par
 ## Puntos clave
 
 La atención al detalle es importante para un analista de Seguridad de nivel inicial. Ayuda al analista a Monitorear los registros de datos y a seguir eficazmente una política de escalamiento. También es fundamental que el analista reconozca qué recursos son los más importantes para una organización. Esto ayuda al analista a priorizar la rapidez con la que deben escalarse ciertos incidentes.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[9- Momento de la Elevación]]
+- ➡️ Siguiente: [[11- Ponga a prueba sus Conocimientos - El momento oportuno lo es todo]]

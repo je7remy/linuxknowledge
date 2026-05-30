@@ -1,4 +1,3 @@
-
 ---
 
 ## ✅ **Resumen de Respuestas: Desafío del Módulo 1**
@@ -79,3 +78,10 @@
 ✔️ **Respuesta:** `IPv6`
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Términos del glosario del Modulo 1]]

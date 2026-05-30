@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# La importancia de la diversidad de perspectivas en un equipo de seguridad
 
 ## 👩‍💻 **Testimonio de Erin – Ingeniera de Privacidad en Google**
 
@@ -65,3 +72,11 @@
 Erin nos recuerda que **la ciberseguridad y la privacidad no son solo técnicas**, sino **campos profundamente humanos** que necesitan representación, empatía y participación activa desde todas las realidades sociales.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Usar un manual de estrategias para responder a amenazas, riesgos o vulnerabilidades]]
+- ➡️ Siguiente: [[3- Cuadernos de estrategias, herramientas SIEM y herramientas SOAR]]

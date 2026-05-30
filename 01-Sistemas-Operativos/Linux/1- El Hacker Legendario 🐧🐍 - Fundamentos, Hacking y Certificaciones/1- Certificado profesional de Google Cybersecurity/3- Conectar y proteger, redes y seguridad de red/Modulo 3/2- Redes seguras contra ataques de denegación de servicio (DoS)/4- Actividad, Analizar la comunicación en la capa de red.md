@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
 ---
 
+# Actividad, Analizar la comunicación en la capa de red
 ## 🛡️ Informe de Incidente de Ciberseguridad
 
 ### 📌 Parte 1: Resumen del análisis del registro `tcpdump`
@@ -67,3 +71,10 @@ El **puerto 53 UDP** del servidor DNS `203.0.113.2` **no está disponible** para
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Ataque DDoS en la vida real]]
+- ➡️ Siguiente: [[5- Ejemplar de actividad, Analizar la comunicación en la capa de red]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Securización de Servidores Web Apache – PARTE 2
 
 ---
 
@@ -119,3 +126,11 @@ El problema era que Apache seguía accediendo a `password.txt` en su `DocumentRo
 [[3- Securización de Servidores Web Apache – PARTE 1]]
 [[5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3]]
 [[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_10- Securización de Servidores Linux (EN DESARROLLO)|10- Securización de Servidores Linux (EN DESARROLLO)]]
+- ⬅️ Anterior: [[3- Securización de Servidores Web Apache – PARTE 1]]
+- ➡️ Siguiente: [[5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3]]

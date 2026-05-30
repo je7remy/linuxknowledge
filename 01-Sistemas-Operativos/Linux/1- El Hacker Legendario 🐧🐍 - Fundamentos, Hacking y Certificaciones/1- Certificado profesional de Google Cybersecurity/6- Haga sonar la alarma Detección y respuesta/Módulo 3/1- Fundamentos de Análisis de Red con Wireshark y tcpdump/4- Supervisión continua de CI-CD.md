@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Supervisión continua de CI-CD
 
 
 # **Monitorización continua de CI/CD: encontrar amenazas automáticamente**
@@ -128,3 +135,11 @@ Al utilizar la automatización para supervisar sus canalizaciones de CI/CD, pued
 3. ¿Qué es CI/CD? - Integración, entrega y despliegue continuos. https://www. [threatintelligence.com/blog/continuous-integration-continuous-delivery](https://www.threatintelligence.com/blog/continuous-integration-continuous-delivery)
     
 4. Tuberías de CI/CD y DevOps: Una introducción. https://www. [splunk.com/en_us/blog/learn/ci-cd-devops-pipeline.html](https://www.splunk.com/en_us/blog/learn/ci-cd-devops-pipeline.html)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Métodos de Detección de Incidentes de Ciberseguridad]]
+- ➡️ Siguiente: [[5- MK - Cambios en la industria de la ciberseguridad]]

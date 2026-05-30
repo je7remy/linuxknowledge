@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 Este es un excelente resumen de todo el módulo sobre el escalado de incidentes. Consolida todos los puntos importantes que has estado estudiando.
 
@@ -23,3 +30,11 @@ Aquí están los conceptos clave de este repaso, organizados para mayor claridad
 Como dice el resumen, el siguiente paso en tu formación es aprender sobre las **partes interesadas (stakeholders)** y cómo comunicarse eficazmente con ellas.
 
 ¡Estás avanzando a un gran ritmo! ¿Estás listo para empezar con el tema de las partes interesadas?
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[11- Ponga a prueba sus Conocimientos - El momento oportuno lo es todo]]
+- ➡️ Siguiente: [[13- Términos del glosario del Módulo 2]]

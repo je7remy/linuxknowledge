@@ -26,7 +26,7 @@ Nuestra lista de puntos de datos anterior se puede recopilar de muchas maneras d
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|7- Active Directory]]
+- ⬆️ Carpeta: [[_7- Activie Directory|7- Active Directory]]
 - ➡️ Siguiente: [[2- Tools]]
 
 ## Relacionadas
@@ -35,6 +35,6 @@ Nuestra lista de puntos de datos anterior se puede recopilar de muchas maneras d
 - [[3- OSINT, Cómo encontrar información pública de cualquier persona]] — guía práctica OSINT sobre personas.
 - [[5- nmap scripts]] — fase activa: NSE complementa el OSINT pasivo.
 - [[Extraer Metadatos]] — técnica OSINT específica de documentos.
-- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/index|02 → hosts]] — enumeración activa de los servicios descubiertos.
+- [[_3- hosts|02 → hosts]] — enumeración activa de los servicios descubiertos.
 - [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/9- SMB|SMB]] — protocolo central en AD.
 - [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/3- Ldap|LDAP]] — protocolo central en AD.

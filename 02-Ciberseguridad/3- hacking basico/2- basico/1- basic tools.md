@@ -108,7 +108,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- basico]]
+- ⬆️ Carpeta: [[_2- basico|2- basico]]
 - ⬅️ Anterior: [[0- Comandos de Hacking]]
 - ➡️ Siguiente: [[2- escalada de privilegios]]
 

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Captura tu primer paquete - Repaso
 
 ### Tarea 1: Identificar Interfaces de Red
 
@@ -100,3 +107,11 @@ Una vez que tienes el archivo `.pcap`, puedes usar `tcpdump` para leerlo y exami
 - **¿Qué comando `tcpdump` puedes usar para identificar las interfaces disponibles?**
     
     - ✅ `sudo tcpdump -D`
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Actividad - Captura tu primer paquete]]
+- ➡️ Siguiente: [[5- Ejemplar - Capture su primer Paquete]]

@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, test-conocimientos, hola-mundo]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Hola mundo
 
 ### 1. ¿Para qué sirve el comando `pip install "fastapi[all]"`?
 
@@ -146,3 +153,11 @@
 > Justificación:
 > 
 > Uvicorn es el servidor que ejecuta aplicaciones FastAPI, rápido y con recarga automática.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[3- Hola mundo]]
+- ➡️ Siguiente: [[5- Documentación API]]

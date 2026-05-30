@@ -118,13 +118,13 @@ Comprender estas áreas ayuda a los evaluadores a planificar y ejecutar pruebas 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- Introducción a las pruebas de penetración]]
+- ⬆️ Carpeta: [[_2- Introducción a las pruebas de penetración|2- Introducción a las pruebas de penetración]]
 - ⬅️ Anterior: [[2- Tipos de pruebas de penetración]]
 - ➡️ Siguiente: [[4- Beneficios de las pruebas de penetración]]
 
 ## Relacionadas
 
-- [[../../../../../../02-Ciberseguridad/5- Reconocimiento/1- Nmap/index|02 → Nmap]] — herramienta núcleo del dominio "Infraestructura de Red".
-- [[../../../../../../02-Ciberseguridad/3- hacking basico/6- Web/index|02 → Web]] — vectores SQLi/XSS del dominio "Aplicaciones Web".
-- [[../../../../../../02-Ciberseguridad/3- hacking basico/3- hosts/index|02 → hosts]] — explotación de servicios sobre infraestructura de red.
+- [[_1- Nmap|02 → Nmap]] — herramienta núcleo del dominio "Infraestructura de Red".
+- [[_6- Web|02 → Web]] — vectores SQLi/XSS del dominio "Aplicaciones Web".
+- [[_3- hosts|02 → hosts]] — explotación de servicios sobre infraestructura de red.
 - [[../../1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux|MitM con Bettercap]] — ejemplo aplicado al dominio inalámbrico.

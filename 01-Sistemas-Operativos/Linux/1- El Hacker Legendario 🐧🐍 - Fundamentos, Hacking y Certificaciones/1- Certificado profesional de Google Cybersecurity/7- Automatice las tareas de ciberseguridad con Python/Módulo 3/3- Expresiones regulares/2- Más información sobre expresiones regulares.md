@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Más información sobre expresiones regulares
 
 ### 🧠 Importar Módulos y Bibliotecas en Python
 
@@ -211,3 +218,10 @@ print(re.findall(pattern, employee_logins_string))
 
 Las expresiones regulares le permiten buscar en cadenas para encontrar coincidencias con patrones específicos. Puede utilizar expresiones regulares importando el módulo `re`. Este módulo contiene múltiples funciones, entre ellas `re.findall()`, que devuelve todas las coincidencias con un patrón en forma de lista. Para formar un patrón, se utilizan caracteres y símbolos. Los símbolos le permiten especificar tipos de caracteres (`\w`, `\d`, `\s`, `.`) y cuantificar cuántas repeticiones de un carácter o tipo de carácter pueden darse en el patrón (`+`, `*`, `{n}`, `{n,m}`).
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Expresiones regulares en Python]]
+- ➡️ Siguiente: [[3- Actividad - Utilizar expresiones regulares para encontrar patrones]]

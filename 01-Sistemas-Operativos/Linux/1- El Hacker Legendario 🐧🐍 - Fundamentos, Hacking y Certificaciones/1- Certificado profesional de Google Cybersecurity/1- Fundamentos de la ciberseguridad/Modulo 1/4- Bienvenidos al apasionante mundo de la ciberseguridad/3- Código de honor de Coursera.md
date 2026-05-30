@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Código de honor de Coursera
 
 Se espera que todos los usuarios de los materiales de aprendizaje alojados en la plataforma de Coursera cumplan con los siguientes estándares para garantizar la integridad del aprendizaje dentro de las experiencias de aprendizaje de Coursera. Se espera que los estudiantes se familiaricen y cumplan con los [Términos de uso de](https://www.coursera.org/about/terms) la plataforma Coursera y cualquier código de conducta, política académica, código de honor o cualquier requisito de la institución asociado con los programas en los que un estudiante se haya inscrito a través de la plataforma Coursera haya establecido.
 
@@ -30,3 +37,11 @@ No se emitirán **reembolsos** en el caso de cualquier acción correctiva por 
 
 **En** el  
 caso de los programas de grado y los programas de certificación universitaria, las consecuencias quedan a la entera discreción del proveedor del contenido.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Glosario de términos del módulo 1]]
+- ➡️ Siguiente: [[4- Desafío del módulo 1]]

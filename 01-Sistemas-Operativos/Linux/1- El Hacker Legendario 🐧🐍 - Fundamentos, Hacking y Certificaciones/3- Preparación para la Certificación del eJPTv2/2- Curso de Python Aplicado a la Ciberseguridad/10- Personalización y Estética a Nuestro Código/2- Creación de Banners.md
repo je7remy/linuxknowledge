@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Creación de Banners
 
 ---
 
@@ -159,3 +166,10 @@ print(Fore.GREEN + '''
 print(Style.RESET_ALL + '')
 ````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_10- Personalización y Estética a Nuestro Código|10- Personalización y Estética a Nuestro Código]]
+- ⬅️ Anterior: [[1- Aplicar Colores a Nuestros Scripts]]
+- ➡️ Siguiente: [[3- Creación de una Barra de Progreso en una Tarea]]

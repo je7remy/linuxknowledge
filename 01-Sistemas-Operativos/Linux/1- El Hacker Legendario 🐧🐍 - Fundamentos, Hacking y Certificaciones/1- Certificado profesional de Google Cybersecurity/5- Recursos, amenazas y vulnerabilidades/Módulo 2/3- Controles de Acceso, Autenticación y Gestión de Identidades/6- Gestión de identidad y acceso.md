@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Gestión de identidad y acceso
 
 Seguridad es más que simplemente combinar procesos y tecnologías para proteger los recursos. En su lugar, la Seguridad consiste en garantizar que estos procesos y tecnologías están creando un entorno seguro que respalda una estrategia de defensa. Una clave para lograrlo es implementar dos principios fundamentales de Seguridad que limitan el acceso a los recursos de la organización:
 
@@ -89,3 +96,11 @@ El control de la accesibilidad requiere un conjunto de sistemas y herramientas. 
 El sector de la Gestión de identidad y acceso crece a un ritmo vertiginoso. ASÍ COMO en otros dominios de la Seguridad, es importante mantenerse informado.
 
 - [IDPro©](https://idpro.org/)es una organización profesional dedicada a compartir los conocimientos esenciales del sector IAM.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- Tim - Encontrar un propósito en la protección de los recursos]]
+- ➡️ Siguiente: [[7- Actividad - Mejorar la autenticación, autorización y contabilidad de una pequeña empresa (Business to Business)]]

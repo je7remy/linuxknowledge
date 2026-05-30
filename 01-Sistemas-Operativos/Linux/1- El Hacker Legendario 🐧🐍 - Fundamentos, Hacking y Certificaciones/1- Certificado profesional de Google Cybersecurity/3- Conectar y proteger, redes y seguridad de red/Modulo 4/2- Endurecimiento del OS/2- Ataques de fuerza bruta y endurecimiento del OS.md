@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ataques de fuerza bruta y endurecimiento del OS
 
 En esta lectura, aprenderá sobre los ataques de fuerza bruta. Estudiará cómo se pueden evaluar las vulnerabilidades utilizando máquinas virtuales y cajas de arena, y aprenderá formas de prevenir los ataques de fuerza bruta utilizando una combinación de medidas de autenticación. Implementar varias tareas de endurecimiento del OS puede ayudar a prevenir los ataques de fuerza bruta. Un atacante puede utilizar un ataque de fuerza bruta para obtener acceso y comprometer una red.
 
@@ -49,3 +56,10 @@ Algunas medidas comunes que las organizaciones utilizan para evitar que se produ
 
 Los ataques de fuerza bruta son un proceso de ensayo y error para adivinar contraseñas. Los ataques pueden lanzarse manualmente o mediante herramientas de software. Los métodos incluyen ataques de fuerza bruta simples y ataques de diccionario. Para protegerse contra los ataques de fuerza bruta, los analistas de ciberseguridad pueden utilizar sandboxes para probar archivos sospechosos, comprobar vulnerabilidades o simular ataques reales y máquinas virtuales para realizar pruebas de vulnerabilidad. Algunas medidas comunes para prevenir los ataques de fuerza bruta incluyen: hash y salting, MFA y/o 2FA, CAPTCHA y reCAPTCHA, y políticas de contraseña.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Prácticas de endurecimiento del OS]]
+- ➡️ Siguiente: [[3- Actividad, Aplicar técnicas de endurecimiento del OS]]

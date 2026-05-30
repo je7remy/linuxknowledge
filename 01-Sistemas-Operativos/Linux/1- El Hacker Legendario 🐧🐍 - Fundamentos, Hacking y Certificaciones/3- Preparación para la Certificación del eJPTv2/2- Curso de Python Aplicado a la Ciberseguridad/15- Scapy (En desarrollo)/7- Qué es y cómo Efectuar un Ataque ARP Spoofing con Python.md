@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Qué es y cómo Efectuar un Ataque ARP Spoofing con Python
 
 # Versión corta:
 ---
@@ -444,3 +451,10 @@ except KeyboardInterrupt:
 El código es una implementación básica de ARP Spoofing que envenena la tabla ARP de una víctima para redirigir su tráfico al atacante. Aunque funcional, tiene limitaciones (como ser unidireccional y no restaurar las tablas ARP). La versión mejorada aborda estas limitaciones al envenenar ambos dispositivos, restaurar tablas ARP y obtener direcciones MAC específicas.
 
 **ARP Spoofing** es una técnica poderosa para entender las vulnerabilidades de las redes locales, pero debe usarse con responsabilidad y solo en entornos autorizados. Combinado con herramientas de captura de tráfico y un buen entendimiento de los protocolos de red, puede ser una herramienta valiosa para pruebas de seguridad, pero siempre bajo un marco ético y legal.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]
+- ⬅️ Anterior: [[6- Herramienta para Encontrar Equipos en mi Red con Scapy]]

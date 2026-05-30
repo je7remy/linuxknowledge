@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Visión general de la tecnología SIEM
 
 Anteriormente, usted aprendió sobre el proceso SIEM. En esta lectura, explorará más sobre este proceso y por qué las herramientas SIEM son una parte importante de la detección y respuesta ante incidentes. A modo de repaso, una herramienta de **información de seguridad y gestión de eventos****(SIEM**) es una aplicación que recopila y analiza datos de registro para monitorizar actividades críticas en una organización. Quizá recuerde que las herramientas SIEM ayudan a los analistas de Seguridad a realizar el **análisis** de registros, que es el proceso de examinar los registros para identificar los eventos de interés.
 
@@ -84,3 +91,11 @@ Existen muchas herramientas SIEM. Las siguientes son algunas herramientas SIEM u
 ## Puntos clave
 
 Las herramientas SIEM recopilan y organizan enormes cantidades de Datos para crear estadísticas significativas para los Equipos de Seguridad. Si comprende cómo funcionan las herramientas SIEM, qué incluye el proceso y cómo las aprovechan las organizaciones, podrá contribuir a los esfuerzos para detectar y responder a los incidentes de Seguridad con eficacia. Con estos Conocimientos, podrá ayudar a analizar los datos de registro, identificar las amenazas y contribuir a las actividades de respuesta ante incidentes para ayudar a mejorar la Postura de seguridad y Proteger los recursos valiosos de las amenazas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Gestión de alertas y eventos con herramientas SIEM y SOAR]]
+- ➡️ Siguiente: [[3- Ponga a prueba sus Conocimientos - Herramientas de Gestion]]

@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [rag, retrieval-augmented-generation, llm, python, ms-reactor, embeddings, vector-db]
+actualizado: 2026-05-28
+---
+
+# Sesión 3 — Python + IA, Recuperación-Aumentada Generación (RAG)
+
 Hola a todos, bienvenidos a esta explicación detallada sobre Retrieval-Augmented Generation (RAG), o en español, Generación Aumentada por Recuperación. Hoy voy a darles una visión completa y paso a paso de qué es RAG, cómo funciona, y cómo podemos implementarlo en diferentes contextos usando Python y herramientas de inteligencia artificial. Mi objetivo es que al final de esta explicación, tengan una comprensión profunda del tema, con ejemplos prácticos y detalles técnicos que puedan aplicar en sus propios proyectos. ¡Así que empecemos!
 
 ---
@@ -291,3 +299,11 @@ Para seguir aprendiendo:
 ### Conclusión
 
 Hemos cubierto desde los fundamentos de RAG hasta implementaciones avanzadas. Espero que esta explicación detallada les haya dado una visión clara de cómo usar RAG para superar las limitaciones de los LLMs y aplicar estas técnicas en sus proyectos. ¡Gracias por su atención, y nos vemos en la próxima sesión!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]
+- ⬅️ Anterior: [[2- Embeddings Vectoriales]]
+- ➡️ Siguiente: [[4- Python + IA, Modelos de Visión]]

@@ -1,4 +1,3 @@
-
 ---
 
 ## 🌐 Protocolos de Red: ¿Qué son y cómo funcionan?
@@ -73,3 +72,10 @@ El **TCP** es un protocolo de comunicación por Internet que permite que **dos o
 |**HTTPS**|Transfiere páginas web de forma segura.|
 |**ARP**|Traduce direcciones IP a direcciones MAC.|
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 2]]
+- ➡️ Siguiente: [[3- Protocolos de red comunes]]

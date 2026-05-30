@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Conozca Python
 
 En esta lectura, explorará cómo funciona la programación, cómo procesa una computadora el lenguaje de programación Python y cómo se utiliza Python en la ciberseguridad.
 
@@ -39,3 +46,11 @@ En ciberseguridad, Python se utiliza especialmente para la Automatización. La *
 ## Puntos clave
 
 Python es un lenguaje de programación o, en otras palabras, un lenguaje utilizado para crear instrucciones para que una computadora complete tareas. Los lenguajes de programación se convierten a números binarios que una máquina puede entender. Es importante ser consciente de que existen varias versiones de Python y de que tienen diferencias en la sintaxis. Python es especialmente útil en ciberseguridad para automatizar tareas repetitivas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Python y la ciberseguridad]]
+- ➡️ Siguiente: [[4- Crear una secuencia de comandos de Python básica]]

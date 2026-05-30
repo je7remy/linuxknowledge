@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Descubre la técnica de algunos ejemplos de instrucciones
 
 ### Resumen de los puntos clave del texto:
 
@@ -28,3 +35,9 @@
 
 **¡Ahora, pongámoslo en práctica!**
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ➡️ Siguiente: [[2- Técnicas para dominar tareas complejas con IA]]

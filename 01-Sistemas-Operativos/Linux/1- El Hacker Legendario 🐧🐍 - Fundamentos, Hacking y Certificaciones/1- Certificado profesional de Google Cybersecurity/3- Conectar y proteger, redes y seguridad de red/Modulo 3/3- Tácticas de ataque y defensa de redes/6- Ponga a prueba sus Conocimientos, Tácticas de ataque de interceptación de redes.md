@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Tácticas de ataque de interceptación de redes
 
 #### **1. El Rastreo pasivo de paquetes implica manipulación de datos en tránsito.**
 
@@ -34,3 +41,10 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[5.3- Plantilla llena, Informe de Incidente de Ciberseguridad]]

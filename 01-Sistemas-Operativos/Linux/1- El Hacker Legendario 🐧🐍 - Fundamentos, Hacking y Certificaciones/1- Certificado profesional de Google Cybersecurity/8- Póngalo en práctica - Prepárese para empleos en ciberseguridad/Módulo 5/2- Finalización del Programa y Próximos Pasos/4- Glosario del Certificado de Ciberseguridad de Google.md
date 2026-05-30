@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
 ---
 
+# Glosario del Certificado de Ciberseguridad de Google
 ## **Glosario de Términos del Certificado**
 
 ### A
@@ -1063,3 +1067,10 @@
 ### Z
 
 - **Día cero (Zero-day):** Un _exploit_ que era previamente desconocido.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[3- Resumen del Programa de certificación en ciberseguridad de Google]]

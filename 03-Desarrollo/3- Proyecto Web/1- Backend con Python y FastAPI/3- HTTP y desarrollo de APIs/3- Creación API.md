@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, rest, api, metodos-http]
+actualizado: 2026-05-28
+---
+
+# Creación API
 
 # Módulo 8: Arquitectura REST y Métodos HTTP
 
@@ -242,3 +249,11 @@ Como aprendimos en el Módulo 6, no puedes probar POST, PUT o DELETE desde la ba
 1. **Swagger UI:** Ve a `http://127.0.0.1:8000/docs`. Ahora verás botones verdes (POST), naranjas (PUT) y rojos (DELETE). ¡Pruébalos ahí mismo!
     
 2. **Thunder Client / Postman:** Crea una petición POST, selecciona "Body" -> "JSON" y envía los datos de un nuevo usuario.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[2- Test de conocimientos - Peticiones HTTP y operación GET]]
+- ➡️ Siguiente: [[4- Test de conocimientos - Creación API]]

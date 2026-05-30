@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Paneles de control de gestión de eventos e información de seguridad (SIEM)
 
 ---
 
@@ -71,3 +78,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[5- Parisa, Los paralelismos entre la accesibilidad y la seguridad]]

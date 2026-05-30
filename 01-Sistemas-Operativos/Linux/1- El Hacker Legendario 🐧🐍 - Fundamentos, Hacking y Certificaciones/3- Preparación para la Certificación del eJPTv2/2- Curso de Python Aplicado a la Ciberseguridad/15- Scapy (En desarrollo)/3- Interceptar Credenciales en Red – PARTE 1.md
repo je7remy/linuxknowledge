@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Interceptar Credenciales en Red – PARTE 1
 
 ---
 
@@ -312,3 +319,11 @@ if __name__ == "__main__":
 
 ### **Conclusión**
 Los cinco fragmentos muestran una progresión en el desarrollo de un script para capturar credenciales FTP. El código evoluciona desde una captura básica y ruidosa hacia un enfoque más específico y práctico, aunque sigue teniendo limitaciones como la falta de manejo de errores en los últimos fragmentos y un límite arbitrario de paquetes. Este tipo de script es útil para fines educativos o pruebas de seguridad, pero debe usarse con responsabilidad y en cumplimiento de las leyes locales.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]
+- ⬅️ Anterior: [[2- Uso Básico de Scapy]]
+- ➡️ Siguiente: [[4- Interceptar Credenciales en Red – PARTE 2]]

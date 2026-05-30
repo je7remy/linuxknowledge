@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Vulnerabilidades de CI - CD
 
 **Proteja su canal de software: Seguridad CI/CD**
 
@@ -121,3 +128,11 @@ La esencia de la seguridad de su canal de CI/CD es aportar una seguridad sólida
 3. GitLab CI/CD - Laboratorio práctico: Securing Scanning. [https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9/](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9/)
     
 4. ¿Cómo puede mantenerse al día con las últimas técnicas de resolución de problemas en la computación en la nube como gerente. https://www. [linkedin.com/advice/1/how-can-you-stay-current-latest-problem-solving-msk5e](https://www.linkedin.com/advice/1/how-can-you-stay-current-latest-problem-solving-msk5e)
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Gestión de vulnerabilidades]]
+- ➡️ Siguiente: [[3- Estrategia de defensa en profundidad]]

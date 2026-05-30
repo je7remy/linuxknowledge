@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Enfoques para la exploración de vulnerabilidades
 
 Anteriormente, usted aprendió acerca de una evaluación de **vulnerabilidad**, que es el proceso de revisión interna de los sistemas de Seguridad de una organización. Una organización realiza evaluaciones de vulnerabilidad para identificar debilidades y prevenir ataques. Las herramientas de exploración de vulnerabilidades se utilizan habitualmente para simular amenazas encontrando vulnerabilidades en una superficie de ataque. También ayudan a los Equipos de Seguridad a tomar medidas proactivas para implementar su estrategia de remediación.
 
@@ -63,3 +70,11 @@ Los escaneados_exhaustivos_ analizan todos los dispositivos conectados a una red
 Encontrar vulnerabilidades requiere pensar en todas las posibilidades. Los escaneos de vulnerabilidad varían en función de las superficies que una organización esté evaluando. Por lo general, los profesionales de seguridad experimentados lideran el esfuerzo de configurar y realizar este tipo de escaneos para crear un perfil de la postura de seguridad de una empresa. Sin embargo, los analistas también desempeñan una función importante en el proceso. Los resultados de un escaneado de vulnerabilidad a menudo conducen a la renovación de los esfuerzos de cumplimiento, a cambios en los procedimientos y a la aplicación de parches en el sistema. Comprender los objetivos de los tipos comunes de escáneres de vulnerabilidad le ayudará a participar en estos ejercicios proactivos de Seguridad siempre que sea posible.
 
 **Consejo:** Para explorar el software escáner de vulnerabilidades utilizado habitualmente en el sector de la ciberseguridad, en su navegador preferido introduzca términos de búsqueda similares a "software escáner de vulnerabilidades popular" y/o "software escáner de vulnerabilidades de código abierto utilizado en ciberseguridad".
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Evaluaciones de vulnerabilidades]]
+- ➡️ Siguiente: [[3- La importancia de las actualizaciones]]

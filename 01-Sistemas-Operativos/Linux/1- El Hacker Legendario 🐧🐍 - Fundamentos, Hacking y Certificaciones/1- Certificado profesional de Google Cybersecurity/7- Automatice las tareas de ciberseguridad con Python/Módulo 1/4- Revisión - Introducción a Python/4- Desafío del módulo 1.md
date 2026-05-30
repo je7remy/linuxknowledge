@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 1
 
 ### 🧠 Pregunta 1
 
@@ -312,3 +319,10 @@ El bucle comienza imprimiendo 0 (que es par). Para obtener el siguiente número 
 - ...así hasta imprimir `10`. `count` se vuelve `10 + 2 = 12`.
     
 - En la siguiente comprobación, `12 <= 10` es `False` y el bucle termina.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Términos del glosario del Módulo 1]]

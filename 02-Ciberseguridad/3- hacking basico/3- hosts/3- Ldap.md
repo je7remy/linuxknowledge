@@ -16,18 +16,18 @@ Puntos a cubrir cuando se redacte:
 - Enumeración con `ldapsearch`, `windapsearch`, `enum4linux-ng`.
 - Null binds y binds anónimos.
 - Extracción de usuarios, grupos, política de contraseñas.
-- Integración con [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|Active Directory]].
+- Integración con [[_7- Activie Directory|Active Directory]].
 
 ---
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[2- IPMI]]
 - ➡️ Siguiente: [[4- MSSQL]]
 
 ## Relacionadas
 
-- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — LDAP es el protocolo central de AD.
+- [[_7- Activie Directory|01 → Active Directory]] — LDAP es el protocolo central de AD.
 - [[9- SMB]] — protocolo complementario en entornos Windows.
 - [[12- Windows Hosts]] — administración remota de hosts AD.

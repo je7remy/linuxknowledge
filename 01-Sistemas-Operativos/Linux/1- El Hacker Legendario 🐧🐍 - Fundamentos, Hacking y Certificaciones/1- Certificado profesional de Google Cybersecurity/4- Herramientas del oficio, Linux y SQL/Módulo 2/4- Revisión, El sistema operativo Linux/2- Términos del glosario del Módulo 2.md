@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 2
 
 ## **Términos y definiciones del Curso 4, Módulo 2**
 
@@ -62,3 +69,11 @@
 **Ubuntu:** Una distribución de código abierto y fácil de usar que se utiliza ampliamente en los sectores de la Seguridad y otros
 
 **Usuario**: La persona que interactúa con una computadora
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]
+- ➡️ Siguiente: [[3- Desafío del módulo 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Comparar tipos de uniones
 
 Anteriormente, exploró las uniones SQL y cómo utilizarlas para unir datos de varias tablas cuando éstas comparten una columna común. También examinó cómo existen diferentes tipos de uniones y cómo cada una de ellas devuelve filas diferentes de las tablas que se están uniendo. En esta lectura, repasará estos conceptos y analizará más detenidamente la sintaxis necesaria para cada tipo de unión.
 
@@ -100,3 +107,11 @@ Los resultados de una consulta FULL OUTER JOIN incluyen todos los registros de a
 ## Claves
 
 Cuando se trabaja en SQL, existen múltiples formas de unir tablas. Todas las uniones devuelven los registros que coinciden en una columna especificada. INNER JOIN devolverá sólo estos registros. Las uniones externas también devuelven todos los demás registros de una o ambas tablas. LEFT JOIN devuelve todos los registros de la primera tabla o tabla izquierda, RIGHT JOIN devuelve todos los registros de la segunda tabla o tabla derecha y FULL OUTER JOIN devuelve todos los registros de ambas tablas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Tipos de uniones]]
+- ➡️ Siguiente: [[4- Completar un JOIN]]

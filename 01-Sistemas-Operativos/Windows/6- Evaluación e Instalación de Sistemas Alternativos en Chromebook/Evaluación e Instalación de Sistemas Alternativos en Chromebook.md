@@ -266,13 +266,13 @@ sudo bash firmware-util.sh
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|01 → Windows]]
+- ⬆️ Sección: [[_Windows|01 → Windows]]
 
 ## Relacionadas
 
 - [[../5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador/Cómo Instalar Aplicaciones de Android en Windows Sin Emulador|Android en Windows]] — alternativa en hardware Windows.
-- [[../2- Instalacion de Sistemas Operativos con Ventoy/index|Ventoy]] — preparación de USB booteables (mencionado).
-- [[../../Linux/0- Configuracion inicial/index|Configuración inicial Linux]] — base para antiX.
+- [[_2- Instalacion de Sistemas Operativos con Ventoy|Ventoy]] — preparación de USB booteables (mencionado).
+- [[_0- Configuracion inicial|Configuración inicial Linux]] — base para antiX.
     
 
 ---

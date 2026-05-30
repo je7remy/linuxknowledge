@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [comptia-security-plus, el-hacker-legendario]
+actualizado: 2026-05-28
+---
+
+# Guía de Estudio para CompTIA Security+ SY0-701
 
 # CompTIA Security+ (SY0-701) (Resumen Notas de Estudio)
 
@@ -1270,3 +1277,8 @@ Entiendo que ya tienes una parte de tu contenido en español hasta la sección *
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_01 - Introduction|01 - Introduction]]

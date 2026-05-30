@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Sentencias condicionales e iterativas
 
 ### 🧠 Pregunta 1
 
@@ -153,3 +160,10 @@ Este es un bucle while que se ejecuta basado en el valor de la variable count.
 El bucle se ejecutará para los siguientes valores de `count`: **0, 1, 2, 3, 4, 5, 6, 7, 8, 9**.
 
 Estos son 10 valores distintos. Cuando `count` se incrementa a `10`, la condición `10 < 10` se evalúa como `False` y el bucle se detiene. Por lo tanto, el mensaje se imprimió **10 veces**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[7- Actividad - Crear bucles]]

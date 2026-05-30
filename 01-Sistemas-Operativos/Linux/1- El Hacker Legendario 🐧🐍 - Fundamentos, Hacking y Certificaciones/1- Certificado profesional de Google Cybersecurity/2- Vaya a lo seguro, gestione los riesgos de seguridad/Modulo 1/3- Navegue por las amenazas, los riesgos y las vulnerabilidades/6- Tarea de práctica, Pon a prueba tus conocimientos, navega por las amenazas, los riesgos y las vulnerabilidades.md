@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Tarea de práctica, Pon a prueba tus conocimientos, navega por las amenazas, los riesgos y las vulnerabilidades
 
 ## ✅ **Resumen de Evaluación – Gestión de Riesgos y Seguridad**
 
@@ -10,3 +17,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[5- Gestione las amenazas, los riesgos y las vulnerabilidades comunes]]

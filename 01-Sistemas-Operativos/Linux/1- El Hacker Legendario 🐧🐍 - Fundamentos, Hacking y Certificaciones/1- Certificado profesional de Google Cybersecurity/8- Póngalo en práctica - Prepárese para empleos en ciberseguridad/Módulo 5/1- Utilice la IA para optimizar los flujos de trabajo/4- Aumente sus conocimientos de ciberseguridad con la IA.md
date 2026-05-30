@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Aumente sus conocimientos de ciberseguridad con la IA
 
 ### **Trabajar de Forma más Inteligente con IA en Ciberseguridad**
 
@@ -226,3 +233,11 @@ La IA ya desempeña un papel importante a la hora de proteger a las personas y l
 Como profesionales de la ciberseguridad, la IA puede ayudarnos a **centrarnos en iniciativas de nivel superior** que necesitan nuestra experiencia, habilidades de resolución de problemas y conocimientos únicos para poder aportar más valor a la organización en su conjunto.
 
 Así que empecemos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[3- Utilice la IA generativa para trabajar de forma más inteligente y rápida]]
+- ➡️ Siguiente: [[5- Descifrar marcos de seguridad complejos con IA]]

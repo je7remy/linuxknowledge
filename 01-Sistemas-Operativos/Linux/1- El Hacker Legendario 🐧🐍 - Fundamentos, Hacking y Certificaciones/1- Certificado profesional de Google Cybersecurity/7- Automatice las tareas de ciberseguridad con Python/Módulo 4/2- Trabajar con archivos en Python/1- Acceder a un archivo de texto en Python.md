@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Acceder a un archivo de texto en Python
 
 
 ## 📂 Acceder a un Archivo de Texto en Python
@@ -126,3 +133,10 @@ Las otras opciones son incorrectas porque:
 - `"r"` solo indica el modo de lectura, no que se escriba esa letra en el archivo.
     
 - Abrir en modo lectura (`"r"`) no crea un archivo si no existe (eso lo haría el modo escritura `"w"` o añadir `"a"`).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Importar archivos a Python]]

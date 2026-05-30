@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Utilizar parámetros en las funciones
 
 ### 🧠 Introducción a Parámetros y Argumentos
 
@@ -152,3 +159,10 @@ En este bloque de código, el componente que es un **argumento** es `"bmoreno"`.
 - **Parámetro:** `username` (es la variable "marcador de posición" en la _definición_ de la función, `def`).
     
 - **Argumento:** `"bmoreno"` (son los datos reales que se introducen en la función cuando esta es _llamada_).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Sentencias de retorno]]

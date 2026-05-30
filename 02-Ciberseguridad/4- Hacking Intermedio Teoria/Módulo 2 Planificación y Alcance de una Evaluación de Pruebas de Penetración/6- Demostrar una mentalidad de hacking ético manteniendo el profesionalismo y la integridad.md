@@ -96,7 +96,7 @@ Definir el principio subyacente para el enfoque del bien común en la toma de de
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬆️ Carpeta: [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]]
 - ⬅️ Anterior: [[5- Laboratorio - Crear un acuerdo de pentesting]]
 - ➡️ Siguiente: [[7- Laboratorio - Código de Conducta Personal]]
 

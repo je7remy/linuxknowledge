@@ -65,5 +65,10 @@ Para instalar correctamente los servicios de Google en tu tablet Fire, debes seg
 
 🔹 Ahora puedes iniciar sesión en Google Play Store y descargar aplicaciones sin problemas. 🎉
 
-#fire #google #play  
+#fire #google #play
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Android|Android]]

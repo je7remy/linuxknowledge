@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, post, put, delete, crud, escritura]
+actualizado: 2026-05-28
+---
+
+# Peticiones HTTP — Operaciones POST, PUT y DELETE
 
 # Módulo 11: Operaciones de Escritura: POST, PUT y DELETE
 
@@ -146,5 +153,11 @@ Has implementado un sistema CRUD completo en memoria.
 - **DELETE**: Borra (`del list[index]`).
     
 - **GET**: Lee.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[6- Test de conocimientos - Path y Query]]
+- ➡️ Siguiente: [[8- Test de conocimientos - Operaciones POST, PUT y DELETE]]

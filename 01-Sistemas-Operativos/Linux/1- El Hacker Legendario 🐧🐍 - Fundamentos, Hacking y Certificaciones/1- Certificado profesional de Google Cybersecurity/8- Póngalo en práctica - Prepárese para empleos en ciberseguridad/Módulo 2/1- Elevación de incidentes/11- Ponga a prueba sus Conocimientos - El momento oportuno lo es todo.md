@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - El momento oportuno lo es todo
 
 ## Pregunta 1
 
@@ -68,3 +75,11 @@ Rellene el espacio en blanco: Un(a) _____ es un conjunto de acciones que describ
 **Correcto**
 
 > El tipo de clasificación de incidentes de Uso indebido se produce cuando un empleado infringe la política de uso aceptable de la organización.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[10- Historia de Juliana - Atención al detalle]]
+- ➡️ Siguiente: [[12- Actividad de cierre]]

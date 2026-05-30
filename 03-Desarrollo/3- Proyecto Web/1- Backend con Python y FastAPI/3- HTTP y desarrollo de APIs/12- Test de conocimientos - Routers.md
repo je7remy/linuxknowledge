@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, routers, test-conocimientos]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Routers
 
 ### 1. ¿Qué es un router en FastAPI?
 
@@ -146,3 +153,11 @@
 > Justificación:
 > 
 > Se define en el parámetro prefix al instanciar la clase APIRouter. De esta forma, todas las rutas que pertenezcan a ese router heredarán automáticamente esa base (ej. /users) sin tener que repetirla.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[11- Routers]]
+- ➡️ Siguiente: [[13- Recursos estáticos, cookies y headers]]

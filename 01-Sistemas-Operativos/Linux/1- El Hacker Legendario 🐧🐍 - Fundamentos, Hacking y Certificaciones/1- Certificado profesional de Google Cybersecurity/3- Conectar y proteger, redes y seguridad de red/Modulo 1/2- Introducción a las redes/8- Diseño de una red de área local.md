@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Diseño de una red de área local
 
 # 📡 Diseño de una Red de Área Local (LAN)
 
@@ -69,3 +76,11 @@
 ---
 
 ![[ChatGPT Image 17 jun 2025, 11_29_39 a.m..png]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[7- Componentes, dispositivos y diagramas de red]]
+- ➡️ Siguiente: [[9- Redes en la nube]]

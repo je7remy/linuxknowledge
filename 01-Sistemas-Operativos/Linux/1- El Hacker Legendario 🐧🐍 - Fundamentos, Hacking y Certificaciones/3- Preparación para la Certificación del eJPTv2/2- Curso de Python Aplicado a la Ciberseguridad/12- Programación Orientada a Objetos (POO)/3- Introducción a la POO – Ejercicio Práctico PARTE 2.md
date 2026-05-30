@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a la POO – Ejercicio Práctico PARTE 2
 Hola a todos, en esta vuelta vamos a desarrollar paso a paso el proceso de mejora del código proporcionado en el curso de Python aplicado a la ciberseguridad. Vamos a analizar detalladamente ambas versiones del código: la primera versión inicial y la segunda versión mejorada, explicando cada parte del código, los problemas identificados y cómo se resolvieron con la implementación de sentencias condicionales y excepciones. El objetivo es que quede claro el propósito de cada sección y cómo se logra un código más robusto y eficiente.
 
 ---
@@ -208,4 +215,12 @@ Hemos transformado un código básico con problemas de estabilidad en una versi�
 - **Excepciones:** Para manejar errores como archivos existentes o inexistentes.
 - **Programación Orientada a Objetos:** Manteniendo la estructura de la clase `SistemaOperativo`.
 
-Este ejemplo ilustra cómo combinar conceptos fundamentales de Python (POO, condicionales, excepciones) para crear programas más confiables, especialmente en contextos como la ciberseguridad, donde la interacción con el sistema de archivos es común. Espero que esta explicación detallada haya aclarado cada parte del código y su evolución. 
+Este ejemplo ilustra cómo combinar conceptos fundamentales de Python (POO, condicionales, excepciones) para crear programas más confiables, especialmente en contextos como la ciberseguridad, donde la interacción con el sistema de archivos es común. Espero que esta explicación detallada haya aclarado cada parte del código y su evolución.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_12- Programación Orientada a Objetos (POO)|12- Programación Orientada a Objetos (POO)]]
+- ⬅️ Anterior: [[2- Introducción a la POO – Ejercicio Práctico PARTE 1]]
+- ➡️ Siguiente: [[4- Adaptación Herramienta Hacking WordPress en POO]]

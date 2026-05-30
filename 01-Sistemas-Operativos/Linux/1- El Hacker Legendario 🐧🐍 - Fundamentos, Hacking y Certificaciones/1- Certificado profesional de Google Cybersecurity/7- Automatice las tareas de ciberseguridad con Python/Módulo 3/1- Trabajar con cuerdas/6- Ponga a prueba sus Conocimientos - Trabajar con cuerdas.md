@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Trabajar con cuerdas
 
 ### 🧠 Pregunta 1
 
@@ -101,3 +108,10 @@ print(ip_addresses.index("192.168.243.140"))
 ✅ **Respuesta correcta:**`32`
 
 📘 **Explicación:** La Subcadena `"192.168.243.140"` comienza en el índice 32. Puede determinarlo utilizando el código `ip_addresses.index("192.168.243.140")`. Tenga en cuenta que los índices de Python comienzan en 0.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[5- Actividad - Trabajar con cadenas en Python]]

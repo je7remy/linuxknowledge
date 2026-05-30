@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Indicadores de compromiso
 
 ## Indicadores de compromiso
 
@@ -37,3 +44,11 @@ Cada tipo de indicador de compromiso se separa en niveles de dificultad. Estos n
 ## Puntos clave
 
 Los Indicadores de compromiso y los Indicadores de ataque son valiosas fuentes de información para los profesionales de la Seguridad a la hora de detectar incidentes. La Pirámide del Dolor es un concepto que puede utilizarse para comprender los distintos tipos de indicadores de compromiso y el valor que tienen a la hora de detectar y detener actividades maliciosas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- MK - Cambios en la industria de la ciberseguridad]]
+- ➡️ Siguiente: [[7- Analice los indicadores de compromiso con herramientas de investigación]]

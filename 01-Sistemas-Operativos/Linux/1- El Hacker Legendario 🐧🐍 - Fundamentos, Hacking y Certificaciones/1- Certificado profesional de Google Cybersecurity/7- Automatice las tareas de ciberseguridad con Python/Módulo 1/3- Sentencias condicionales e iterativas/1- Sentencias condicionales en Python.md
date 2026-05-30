@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Sentencias condicionales en Python
 
 ## 🧠 **Tema: Sentencias Condicionales en Python**
 
@@ -203,3 +210,10 @@ Así que, si en tu programa quieres verificar que un usuario ha alcanzado **exac
 if login_attempts == 5:
     print("Cuenta bloqueada")
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Más sobre condicionales en Python]]

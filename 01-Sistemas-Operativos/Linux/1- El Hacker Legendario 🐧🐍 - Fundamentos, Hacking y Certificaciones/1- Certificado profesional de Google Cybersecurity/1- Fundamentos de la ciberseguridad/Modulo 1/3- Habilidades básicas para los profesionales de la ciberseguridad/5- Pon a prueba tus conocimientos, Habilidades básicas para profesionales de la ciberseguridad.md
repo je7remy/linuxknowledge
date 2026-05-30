@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Habilidades básicas para profesionales de la ciberseguridad
 
 ### **Pregunta 1**
 
@@ -51,3 +58,10 @@ Los registros médicos y los números de cuentas bancarias son ejemplos de infor
 SPII es un tipo específico de PII que requiere protecciones más estrictas porque puede ser significativamente más perjudicial para las personas si es robado.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[4- La importancia de la ciberseguridad]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Tipos de phishing
 
 Phishing es uno de los tipos más comunes de **ingeniería social**, que son técnicas de manipulación que explotan el error humano para obtener información privada, accesibilidad u objetos de valor. Anteriormente, aprendió cómo el **phishing** es el uso de las comunicaciones digitales para engañar a la gente para que revele Datos sensibles o implemente software malicioso.
 
@@ -63,3 +70,11 @@ Mantenerse al día sobre las amenazas de phishing es una de las mejores cosas qu
 - [Phishing.](https://www.phishing.org/) org informa sobre las últimas tendencias en phishing y comparte recursos gratuitos que pueden ayudar a reducir los ataques de phishing.
     
 - El [Anti-Phishing Working Group (APWG)](https://apwg.org/) es un grupo sin ánimo de lucro de expertos en seguridad multidisciplinar que publica un informe trimestral sobre las tendencias del phishing.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[4- Phishing para obtener Información]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos  -Ingeniería social]]

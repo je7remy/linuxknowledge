@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Vulnerabilidades y exposiciones comunes
 
 # 📚 Vulnerabilidades, Exposiciones y CVE
 
@@ -116,3 +123,10 @@ El sistema CVE + NVD + CVSS es la columna vertebral de la **gestión moderna de 
 👉 En resumen:  
 Un CVE se asigna si la vulnerabilidad **(1)** representa un riesgo de seguridad, **(2)** afecta a una sola base de código y **(3)** tiene pruebas que la respalden.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[3- Estrategia de defensa en profundidad]]
+- ➡️ Siguiente: [[5- El OWASP Top 10]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Glosario de Comandos
 
 ## Navegar el sistema de archivos
 Los siguientes comandos de Linux son útiles para navegar por el sistema de archivos.
@@ -242,3 +249,11 @@ Muestra una descripción de un comando en una sola línea
 
 - `whatis nano`  
   Muestra la descripción de `nano` en una sola línea
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[1- Recapitulando]]
+- ➡️ Siguiente: [[3- Términos del glosario del Módulo 3]]

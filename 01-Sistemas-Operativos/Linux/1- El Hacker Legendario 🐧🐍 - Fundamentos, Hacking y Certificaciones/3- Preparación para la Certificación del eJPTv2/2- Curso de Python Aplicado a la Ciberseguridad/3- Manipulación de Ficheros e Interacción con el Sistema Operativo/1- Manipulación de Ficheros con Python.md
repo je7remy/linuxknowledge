@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Manipulación de Ficheros con Python
 
 📜 **La Épica Saga del Archivo "commits de hoy.txt"** 📜
 
@@ -86,3 +93,10 @@ with open("commits de hoy.txt", "r") as archivo:
 📖 _El código ahora recita las palabras inscritas en el archivo, como un bardo compartiendo un relato legendario._
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Manipulación de Ficheros e Interacción con el Sistema Operativo|3- Manipulación de Ficheros e Interacción con el Sistema Operativo]]
+- ➡️ Siguiente: [[2- Uso Básico del Módulo OS]]

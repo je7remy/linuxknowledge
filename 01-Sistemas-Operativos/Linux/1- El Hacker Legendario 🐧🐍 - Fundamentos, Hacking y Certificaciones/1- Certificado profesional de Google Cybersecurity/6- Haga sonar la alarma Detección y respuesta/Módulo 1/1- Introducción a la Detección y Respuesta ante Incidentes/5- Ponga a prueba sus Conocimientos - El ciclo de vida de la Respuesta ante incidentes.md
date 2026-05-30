@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - El ciclo de vida de la Respuesta ante incidentes
 
 ### ✅ Pregunta 1
 
@@ -50,3 +57,11 @@
 👉 **Explicación:** Las **5 W** son: **Quién, Qué, Cuándo, Dónde y Por qué**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Actividad de Portfolio - Documentar un incidente con el Diario del gestor de incidentes]]
+- ➡️ Siguiente: [[6- Equipos de Respuesta ante incidentes]]

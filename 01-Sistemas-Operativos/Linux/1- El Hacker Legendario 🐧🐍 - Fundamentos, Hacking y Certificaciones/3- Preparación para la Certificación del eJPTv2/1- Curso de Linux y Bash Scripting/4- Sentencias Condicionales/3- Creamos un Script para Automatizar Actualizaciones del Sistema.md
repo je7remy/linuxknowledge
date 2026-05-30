@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Creamos un Script para Automatizar Actualizaciones del Sistema
 ### Análisis paso a paso en español
 
 ---
@@ -220,3 +227,11 @@ Ideal para automatización o integración en scripts.
 1. **Comparación de cadenas:** Usa `=` o `==` para cadenas y `-eq` para números.
 2. **Validación de entrada:** Siempre verifica y maneja errores para guiar al usuario.
 3. **Listo para automatización:** Los argumentos desde la línea de comandos mejoran la flexibilidad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Sentencias Condicionales|4- Sentencias Condicionales]]
+- ⬅️ Anterior: [[2- Operadores Lógicos]]
+- ➡️ Siguiente: [[4- Control del Flujo – CASE]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Tácticas de ingeniería social
 
 Los ataques de ingeniería social son una opción popular entre los agentes de amenazas. Esto se debe a que a menudo es más fácil engañar a la gente para que les proporcione accesibilidad, información o dinero que explotar una vulnerabilidad del software o de las redes.
 
@@ -58,3 +65,11 @@ Aquí tiene dos Recursos adicionales para revisar que le ayudarán a seguir desa
 - [OUCH!](https://www.sans.org/newsletters/ouch/) es un boletín mensual gratuito del SANS Institute que informa sobre las tendencias de la ingeniería social y otros temas de Seguridad.
     
 - [Scamwatch](https://www.scamwatch.gov.au/) es un recurso de noticias y herramientas para reconocer, evitar y denunciar las estafas de ingeniería social.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- El arte criminal de la persuasión]]
+- ➡️ Siguiente: [[4- Phishing para obtener Información]]

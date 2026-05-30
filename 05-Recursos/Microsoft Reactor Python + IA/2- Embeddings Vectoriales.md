@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [embeddings, vectores, python, ms-reactor, similaridad, semantica]
+actualizado: 2026-05-28
+---
+
+# Sesión 2 — Embeddings Vectoriales
 
 Gwyneth Peña-Siguenza 
 Python Cloud Advocate
@@ -335,5 +342,12 @@ Para máxima eficiencia:
 
 Hemos recorrido los embeddings vectoriales desde su definición hasta técnicas avanzadas. Estos conceptos son fundamentales para aplicaciones como RAG, que exploraremos el 18 de marzo. Revisen los notebooks (`similarity.ipynb`, `search.ipynb`, etc.) y únanse a la próxima sesión. ¡Gracias y nos vemos pronto!
 
---- 
+---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]
+- ⬅️ Anterior: [[1- Introducción a los Modelos de Lenguaje Grandes (LLMs) y su Uso en Python, Primera Sesión de la Serie sobre Python e Inteligencia Artificial]]
+- ➡️ Siguiente: [[3- Python + IA, Recuperación-Aumentada Generación]]

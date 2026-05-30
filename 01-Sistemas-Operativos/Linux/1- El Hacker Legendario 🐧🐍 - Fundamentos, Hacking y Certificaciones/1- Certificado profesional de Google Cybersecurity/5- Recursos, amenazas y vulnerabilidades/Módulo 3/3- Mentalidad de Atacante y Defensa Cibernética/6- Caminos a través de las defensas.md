@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Caminos a través de las defensas
 
 ## 📌 Ideas principales
 
@@ -69,4 +76,11 @@ Porque los **vectores de ataque** son los caminos o vías que un adversario usa 
 - **Superficies de ataque** → son el conjunto total de posibles puntos de entrada.
     
 - **Análisis de vulnerabilidad** → es el estudio de riesgos, no el camino en sí.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- Niru - Adopte una mentalidad de atacante]]
+- ➡️ Siguiente: [[7- Autorreflexión - Superficies y Vectores de Ataque en el Hogar]]

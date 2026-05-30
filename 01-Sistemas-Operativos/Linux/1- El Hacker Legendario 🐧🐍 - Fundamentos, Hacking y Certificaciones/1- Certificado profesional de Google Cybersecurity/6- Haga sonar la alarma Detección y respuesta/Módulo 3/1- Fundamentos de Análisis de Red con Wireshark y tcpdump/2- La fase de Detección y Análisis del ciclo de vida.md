@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# La fase de Detección y Análisis del ciclo de vida
 
 ###  Detección y Análisis: La Primera Línea de Defensa
 
@@ -69,3 +76,11 @@ Durante la fase de Detección y Análisis, el rol principal del analista es actu
 Explicación:
 
 Estas acciones son proactivas y se realizan antes de que ocurra un incidente. Pertenecen a la fase de Preparación, donde se establecen los cimientos y se afinan las herramientas para estar listos ante futuras amenazas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 3]]
+- ➡️ Siguiente: [[3- Métodos de Detección de Incidentes de Ciberseguridad]]

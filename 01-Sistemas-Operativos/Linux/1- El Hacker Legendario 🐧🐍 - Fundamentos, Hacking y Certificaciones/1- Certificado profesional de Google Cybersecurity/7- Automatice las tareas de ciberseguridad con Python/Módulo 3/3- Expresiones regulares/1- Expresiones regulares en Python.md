@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Expresiones regulares en Python
 
 ### 🧠 Introducción a las Expresiones Regulares (Regex)
 
@@ -179,3 +186,10 @@ La cadena `"bkaaab"` cumple todas estas condiciones.
 - `"yaaab"`: No comienza con `"b"`.
     
 - `"cba"`: No comienza con `"b"` y no tiene la estructura `\wa+`.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Más información sobre expresiones regulares]]

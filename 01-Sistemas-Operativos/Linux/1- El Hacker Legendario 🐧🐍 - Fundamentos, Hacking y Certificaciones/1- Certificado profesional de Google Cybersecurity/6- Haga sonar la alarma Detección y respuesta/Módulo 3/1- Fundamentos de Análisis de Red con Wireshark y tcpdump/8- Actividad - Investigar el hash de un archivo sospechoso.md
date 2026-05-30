@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad - Investigar el hash de un archivo sospechoso
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Cm9abXr9ReiTFP4gOwFOEQ_ae9efdb17b0b48b8bdb2c894aa63bbf1_Rh5zCccBVb7XAz_dCzc4qIaUUjBwvCGCc62BHP5cFHUIo94IHxB9YA75U-SCU9tIz98XgScfeLbYQLPvF9mDjx3zLdF2F5Zuu2pPC2U5velJx8n1QWxwDPpd6xEdwrEI5SQ8gJAg-EmutcRIjXuuk2o?expiry=1760486400000&hmac=X2BcMaMaXzml9jzJ3GNWx06LRQbnTJ89EHCsdSkcg6M)
 
@@ -280,3 +287,11 @@ A continuación se presentan los IoC identificados en el análisis, listos para 
 # Pirámide del dolor
 
 ![[2- Version Correcta.png]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[7- Analice los indicadores de compromiso con herramientas de investigación]]
+- ➡️ Siguiente: [[9- Ponga a prueba sus Conocimientos - Detección y Verificación de Incidentes]]

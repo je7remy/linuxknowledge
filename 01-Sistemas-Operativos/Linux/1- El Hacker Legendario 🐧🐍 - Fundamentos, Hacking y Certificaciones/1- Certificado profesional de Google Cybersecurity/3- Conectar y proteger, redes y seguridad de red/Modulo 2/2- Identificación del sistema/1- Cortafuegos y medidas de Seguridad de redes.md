@@ -1,7 +1,10 @@
-
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Cortafuegos y medidas de Seguridad de redes
 ## 🔥 Cortafuegos: Tipos, Funcionamiento y Seguridad
 
 ### 🔐 ¿Qué es un cortafuegos (firewall)?
@@ -108,5 +111,10 @@ Los **firewalls sin estado**:
 - No detectan comportamientos sospechosos.
     
 - Son **menos seguros** que los cortafuegos con estado.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Redes privadas virtuales (VPN)]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Cifrado simétrico y asimétrico
 
 Anteriormente, aprendiste estos términos:
 
@@ -70,3 +77,11 @@ La ley exige cada vez más el uso de este tipo de cifrado de datos. Reglamentos 
 ## Puntos clave
 
 Conocer los fundamentos del cifrado es importante para todos los profesionales de la seguridad. El Cifrado simétrico se basa en una única clave secreta para proteger los datos. Por otro lado, el asimétrico utiliza un par de claves pública y privada. Sus algoritmos de encriptación crean diferentes tamaños de la clave. Ambos tipos de cifrado se utilizan para cumplir la normativa y proteger los datos en línea.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Infraestructura de clave pública]]
+- ➡️ Siguiente: [[4- Actividad - Desencriptación de un mensaje encriptado]]

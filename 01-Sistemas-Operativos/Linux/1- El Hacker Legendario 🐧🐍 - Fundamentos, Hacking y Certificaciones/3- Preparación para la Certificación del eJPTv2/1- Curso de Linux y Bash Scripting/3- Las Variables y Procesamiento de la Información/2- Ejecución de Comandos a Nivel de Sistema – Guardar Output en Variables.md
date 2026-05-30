@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables
 
 ---
 
@@ -149,3 +156,11 @@ Esta progresión muestra una evolución hacia scripts más útiles, claros y efi
 
 [[10- Creamos un Script que Automatice el Tratamiento de la Información]]
 [[11- Creamos un Script para Automatizar Búsquedas en el Sistema]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[1- Cómo Declarar e Imprimir Variables]]
+- ➡️ Siguiente: [[3- Comando Read – Entrada de Datos por parte del Usuario]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Módulo 4 desafío
 
 # evaluación
 
@@ -175,3 +182,10 @@ un equipo de seguridad está llevando a cabo un modelo de amenazas en un nuevo s
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[12- Términos del glosario del Módulo 4]]
+- ➡️ Siguiente: [[14- Conclusión del curso]]

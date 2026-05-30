@@ -1,4 +1,3 @@
-
 ---
 
 ### **Pregunta 1:**
@@ -46,3 +45,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[5- Ejemplar de actividad, Analizar la comunicación en la capa de red]]

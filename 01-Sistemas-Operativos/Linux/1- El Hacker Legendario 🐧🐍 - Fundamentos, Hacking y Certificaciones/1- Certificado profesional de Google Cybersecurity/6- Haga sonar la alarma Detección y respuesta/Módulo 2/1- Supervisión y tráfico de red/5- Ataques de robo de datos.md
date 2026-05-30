@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ataques de robo de datos
 
 # supervisión del tráfico de red y detección de ataques
 
@@ -55,3 +62,11 @@ las organizaciones pueden implementar medidas para **detener este tipo de ataque
 
 los ataques de exfiltración de datos son solo **uno de muchos tipos de ataques** que se pueden detectar mediante la supervisión de red.  
 aprender a **monitorear y analizar comunicaciones de red** usando rastreadores de paquetes permitirá a los equipos de seguridad **detectar y responder de manera efectiva a incidentes**, protegiendo los activos críticos de la organización.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Mantenga la concienciación con la supervisión de la red]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Comprender el Tráfico de red]]

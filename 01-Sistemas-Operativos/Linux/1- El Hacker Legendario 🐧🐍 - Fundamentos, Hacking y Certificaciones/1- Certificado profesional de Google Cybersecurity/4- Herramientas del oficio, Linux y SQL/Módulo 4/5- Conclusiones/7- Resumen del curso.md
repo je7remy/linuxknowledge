@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso
 
 El objetivo de este curso eran los **fundamentos de la informática**, un pilar esencial para tu transición como **analista de seguridad**.
 
@@ -59,3 +66,11 @@ El objetivo de este curso eran los **fundamentos de la informática**, un pilar 
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- Desafío del módulo 4]]
+- ➡️ Siguiente: [[8- Glosario del curso 4]]

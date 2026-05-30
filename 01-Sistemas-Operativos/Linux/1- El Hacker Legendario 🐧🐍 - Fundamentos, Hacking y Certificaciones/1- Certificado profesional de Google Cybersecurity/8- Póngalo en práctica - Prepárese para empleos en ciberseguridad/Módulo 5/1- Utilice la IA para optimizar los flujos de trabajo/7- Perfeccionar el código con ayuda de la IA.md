@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Perfeccionar el código con ayuda de la IA
 
 ### **Perfeccionar el Código con Ayuda de la IA**
 
@@ -42,3 +49,11 @@ Ahora tiene una idea clara de lo que debe hacer a continuación, aunque debe ase
     
 
 Hay muchas maneras en las que las herramientas de IA generacional pueden ayudar a actualizar y mejorar el código. Por lo tanto, ya sea que trabajes con código existente o comiences con código desde cero, explora el poder de la generación de IA. Es una herramienta valiosa para tener en su kit de herramientas de ciberseguridad, que le ayuda a aprender, crecer y convertirse en un analista aún mejor.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[6- Utilizar la IA para identificar errores]]
+- ➡️ Siguiente: [[8- Comprender las vulnerabilidades del sistema con IA]]

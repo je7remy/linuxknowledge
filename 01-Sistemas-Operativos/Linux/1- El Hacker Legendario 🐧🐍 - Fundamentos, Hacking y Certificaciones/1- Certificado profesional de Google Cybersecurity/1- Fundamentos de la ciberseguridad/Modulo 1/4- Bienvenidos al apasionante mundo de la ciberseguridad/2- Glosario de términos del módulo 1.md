@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Glosario de términos del módulo 1
 
 ## **Términos y definiciones del Curso 1, Módulo 1**
 
@@ -22,3 +29,11 @@ Seguridad en la nube: el proceso de garantizar que los activos almacenados en la
 **Actor de amenazas:** Cualquier persona o grupo que represente un riesgo para la seguridad.
 
 **Habilidades transferibles:** Habilidades de otras áreas que pueden aplicarse a diferentes carreras
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Conclusión]]
+- ➡️ Siguiente: [[3- Código de honor de Coursera]]

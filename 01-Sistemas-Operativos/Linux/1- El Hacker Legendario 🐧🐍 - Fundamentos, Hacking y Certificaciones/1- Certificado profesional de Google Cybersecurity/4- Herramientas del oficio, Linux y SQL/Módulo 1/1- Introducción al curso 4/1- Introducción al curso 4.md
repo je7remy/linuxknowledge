@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción al curso 4
 
 Hola y bienvenidos a **Herramientas del oficio: Linux y SQL**, el cuarto curso del Certificado de Ciberseguridad de Google. ¡Estás en un viaje emocionante!
 
@@ -92,3 +99,10 @@ Cada curso ofrece muchos tipos de oportunidades de aprendizaje:
 - Cuando encuentres enlaces útiles en este curso, márcalos para poder consultar la información más adelante para estudiar o repasar.
     
 - Comprenda y siga el [Código de Conducta de Coursera](https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?) para asegurar que la comunidad de aprendizaje siga siendo un lugar acogedor, amigable y de apoyo para todos los miembros.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Resumen del curso 4]]

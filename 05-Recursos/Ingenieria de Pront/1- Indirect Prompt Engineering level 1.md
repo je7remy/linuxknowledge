@@ -93,13 +93,13 @@ Ante la negativa, se diseñó una nueva estrategia basada en la **ingeniería de
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|05-Recursos]]
+- ⬆️ Sección: [[_05-Recursos|05-Recursos]]
 
 ## Relacionadas
 
-- [[../../07- Inteligencia-Artificial/3- Descubra el arte de la instrucción/index|07 → Arte de la instrucción]] — curso de prompting (versión "defensiva"/correcta).
-- [[../../07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/index|07 → IA responsable]] — uso ético.
+- [[_3- Descubra el arte de la instrucción|07 → Arte de la instrucción]] — curso de prompting (versión "defensiva"/correcta).
+- [[_4- Utiliza la IA de forma responsable|07 → IA responsable]] — uso ético.
 - [[../../02-Ciberseguridad/8- Amenazas de CIberataques Impulsados por IA/CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas|02 → Amenazas IA]] — IA al servicio del cibercrimen.
-- [[../Microsoft Reactor Python + IA/index|MS Reactor → Python + IA]] — uso programático de LLMs.
+- [[_Microsoft Reactor Python + IA|MS Reactor → Python + IA]] — uso programático de LLMs.
 
 ---

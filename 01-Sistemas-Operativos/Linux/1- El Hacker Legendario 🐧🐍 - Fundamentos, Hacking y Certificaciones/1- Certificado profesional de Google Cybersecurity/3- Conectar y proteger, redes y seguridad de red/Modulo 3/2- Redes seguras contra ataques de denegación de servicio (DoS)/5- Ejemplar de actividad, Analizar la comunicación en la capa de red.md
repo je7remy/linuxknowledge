@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ejemplar de actividad, Analizar la comunicación en la capa de red
 
 ## 📝 **Informe de Incidente de Ciberseguridad**
 
@@ -81,3 +88,10 @@ Usuarios reportaron que no podían acceder al sitio web `www.yummyrecipesforme.c
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Actividad, Analizar la comunicación en la capa de red]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos, Redes seguras contra ataques de denegación de servicio (DoS)]]

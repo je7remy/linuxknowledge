@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Rachna, Mejora las instrucciones mediante la exploración
 
 ### Resumen de las técnicas de Rachna:
 
@@ -29,5 +36,10 @@ Hemos cubierto mucho:
 - Cadena de Pensamiento (Chain-of-Thought).
     
 - Autocorrección.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[2- Técnicas para dominar tareas complejas con IA]]

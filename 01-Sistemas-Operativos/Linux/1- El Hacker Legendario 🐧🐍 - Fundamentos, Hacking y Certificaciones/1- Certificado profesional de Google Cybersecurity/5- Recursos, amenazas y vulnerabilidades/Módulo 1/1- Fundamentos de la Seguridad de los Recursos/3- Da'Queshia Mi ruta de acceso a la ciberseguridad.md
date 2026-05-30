@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Da'Queshia Mi ruta de acceso a la ciberseguridad
 
 # Presentación de Da'Queshia
 
@@ -107,3 +114,11 @@ Puede sonar cliché, pero es importante recordar que:
 La ciberseguridad necesita personas como tú. 💻🔐✨
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[2- Resumen del curso 5]]
+- ➡️ Siguiente: [[4- Bienvenido al Módulo 1]]

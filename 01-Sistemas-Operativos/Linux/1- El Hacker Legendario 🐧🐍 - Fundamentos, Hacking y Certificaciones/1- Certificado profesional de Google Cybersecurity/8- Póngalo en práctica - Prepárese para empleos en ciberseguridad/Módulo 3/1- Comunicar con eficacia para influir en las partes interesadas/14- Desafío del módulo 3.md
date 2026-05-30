@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 3
 
 ## Cuestionario: Comunicación con Partes Interesadas
 
@@ -170,3 +177,10 @@ Rellene el espacio en blanco: Si una parte interesada no responde de inmediato a
     
 
 > **Justificación:** El video ("La capacidad de comunicar...") fue explícito sobre esto. Si un correo electrónico importante no recibe respuesta, se recomienda tomar la iniciativa y hacer un seguimiento con un método directo, como una **llamada telefónica o un mensaje instantáneo**, para evitar que un problema se agrave.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[13- Términos del glosario del Módulo 3]]

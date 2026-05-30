@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Introducción a los ocho dominios de seguridad CISSP, Parte 2
 
 **Bienvenido.**  
 En el último vídeo, te presentamos los primeros cuatro dominios de seguridad. En este vídeo, conocerás los siguientes cuatro dominios restantes definidos por el CISSP:
@@ -33,3 +40,10 @@ Familiarizarte con estos dominios te permitirá desenvolverte mejor en el mundo 
 **Conclusión:**  
 Con esto concluye la introducción a los **ocho dominios de seguridad del CISSP**. Te animo a seguir aprendiendo sobre cada dominio y cómo influyen en la seguridad general de una organización. Aunque al principio puedan parecer complejos, se abordarán con más detalle a medida que avances en el programa.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Introducción a los ocho dominios de seguridad CISSP, Parte 1]]
+- ➡️ Siguiente: [[3- Determinar el tipo de ataque]]

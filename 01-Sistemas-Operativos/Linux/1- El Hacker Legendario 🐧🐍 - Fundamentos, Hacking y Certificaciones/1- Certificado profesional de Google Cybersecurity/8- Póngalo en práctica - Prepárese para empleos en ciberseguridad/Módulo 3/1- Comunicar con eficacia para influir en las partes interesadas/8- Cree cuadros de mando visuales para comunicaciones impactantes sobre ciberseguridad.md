@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Cree cuadros de mando visuales para comunicaciones impactantes sobre ciberseguridad
 
 Anteriormente aprendió sobre las partes interesadas en la seguridad, las personas responsables de proteger los datos y los sistemas de varios departamentos de una organización. Un analista principiante podría comunicarse directa o indirectamente con estas personas. Si acaba comunicándose con una parte interesada, es importante que utilice el Método de Comunicación adecuado. Esta lectura profundizará en la importancia de utilizar cuadros de mando visuales para comunicar información a las partes interesadas. Los paneles pueden incluir cuadros, gráficos e incluso infografías. En esta lectura aprenderá más sobre cuándo utilizar estrategias de comunicación visual.
 
@@ -26,3 +33,11 @@ Por ejemplo, considere una situación en la que su supervisor le ha pedido que l
 ## Conclusiones clave
 
 Las partes interesadas, como el resto del Equipo de Seguridad, están ocupadas. Teniendo esto en cuenta, sea claro y conciso siempre que se comunique con ellos. Esto facilita el trabajo de todos Es importante reconocer cuándo los cuadros de mando visuales son el método de Comunicación más eficaz. Un cuadro de mandos visual suele ser el mejor cuando se trata de comunicar información que implica cifras y datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[7- Narración visual en ciberseguridad]]
+- ➡️ Siguiente: [[9- Cómo crear un cuadro de mandos visual]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Robin - Fomentar la colaboración entre equipos
 
 ## Fomentando la Colaboración entre Equipos
 
@@ -24,3 +31,11 @@ El resultado final de ese increíble trabajo en equipo fue que pudimos gestionar
 ### Un Consejo Final
 
 A medida que avanzas en el certificado, puedes sentir que la ciberseguridad es complicada o difícil, pero no te rindas15. Cuanto más aprendas, más vas a disfrutar16. Así que sigue con ello, aprende todo lo que puedas y vas a tener una gran carrera. 🚀
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[6- Función del triaje en la Respuesta ante incidentes]]
+- ➡️ Siguiente: [[8- El proceso de Triaje]]

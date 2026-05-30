@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Conceptos éticos que guían las decisiones de ciberseguridad
 
 Anteriormente, se le presentó el concepto de ética de seguridad. **La ética de seguridad** son directrices para tomar decisiones adecuadas como profesional de la seguridad. Ser ético requiere que los profesionales de la seguridad permanezcan imparciales y mantengan la seguridad y confidencialidad de los datos privados. Tener un fuerte sentido de la ética puede ayudarlo a tomar sus decisiones como profesional de la ciberseguridad para que pueda mitigar las amenazas que plantean las tácticas y técnicas en constante evolución de los actores de amenazas. En esta lectura, aprenderá sobre más conceptos éticos que es esencial conocer para que pueda tomar decisiones adecuadas sobre cómo responder legal y éticamente a los ataques de una manera que proteja a las organizaciones y a las personas por igual.
 
@@ -50,3 +57,11 @@ Como ejemplo, considere la **Ley de Portabilidad y Responsabilidad del Seguro M�
 ## Conclusiones clave
 
 Como futuro profesional de la seguridad, la ética desempeñará un papel importante en su trabajo diario. Comprender la ética y las leyes lo ayudará a tomar las decisiones correctas en caso de que se encuentre con una amenaza de seguridad o un incidente que resulte en una violación.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[1- Ética en ciberseguridad]]
+- ➡️ Siguiente: [[3-Holly, La importancia de la Ética como profesional de la ciberseguridad]]

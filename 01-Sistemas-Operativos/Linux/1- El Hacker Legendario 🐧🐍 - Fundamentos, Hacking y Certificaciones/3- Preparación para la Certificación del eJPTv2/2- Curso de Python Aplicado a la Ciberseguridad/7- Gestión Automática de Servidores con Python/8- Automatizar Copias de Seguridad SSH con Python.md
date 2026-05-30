@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Automatizar Copias de Seguridad SSH con Python
 
 ---
 
@@ -162,6 +169,9 @@ finally:
     
     ````
 
+---
 
+## Navegación
 
-
+- ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]
+- ⬅️ Anterior: [[7- Descargar Archivos por SCP desde Python]]

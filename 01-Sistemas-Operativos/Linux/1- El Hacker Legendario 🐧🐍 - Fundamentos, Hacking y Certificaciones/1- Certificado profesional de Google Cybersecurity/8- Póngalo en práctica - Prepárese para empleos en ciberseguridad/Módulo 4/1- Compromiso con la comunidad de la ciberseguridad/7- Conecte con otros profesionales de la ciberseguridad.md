@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Conecte con otros profesionales de la ciberseguridad
 
 Ha aprendido la importancia de mantenerse comprometido con la comunidad de la ciberseguridad tras completar este programa de certificación. La industria de la Seguridad está siempre evolucionando, por lo que es importante que los profesionales de la Seguridad continúen aprendiendo sobre este campo.
 
@@ -27,3 +34,11 @@ Este ejemplo proporciona una razón clara de por qué quiere conectar con esta p
 ## Puntos clave
 
 Los atacantes siempre están desarrollando nuevas formas de comprometer los datos corporativos y personales. Conectarse con otros profesionales de la Ciberseguridad en las Redes sociales es una excelente forma de mantenerse a la vanguardia de las últimas tendencias en Seguridad. Los CISO son grandes profesionales con los que conectar porque son responsables de todos los aspectos de la Seguridad de una organización. Por ello, los CISO tienden a compartir en sus páginas de Redes sociales importantes consejos, noticias y tendencias en materia de Seguridad que podrían ser valiosos para usted como recién llegado al sector.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[6- Comprometerse con la comunidad de la ciberseguridad de forma significativa]]
+- ➡️ Siguiente: [[8- Red en la comunidad de la ciberseguridad]]

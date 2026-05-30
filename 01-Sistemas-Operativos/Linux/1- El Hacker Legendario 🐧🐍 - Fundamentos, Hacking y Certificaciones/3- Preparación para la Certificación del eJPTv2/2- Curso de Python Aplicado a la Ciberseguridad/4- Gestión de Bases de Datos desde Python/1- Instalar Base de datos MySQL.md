@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Instalar Base de datos MySQL
 
 ---
 
@@ -190,4 +197,9 @@ Con esto, habrás configurado y probado la conexión entre **Python y MySQL en W
 **[[9- SMB]]**
 **[[11- SSH]]**
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Gestión de Bases de Datos desde Python|4- Gestión de Bases de Datos desde Python]]
+- ➡️ Siguiente: [[2- Insertar Información a la Base de Datos desde Python]]

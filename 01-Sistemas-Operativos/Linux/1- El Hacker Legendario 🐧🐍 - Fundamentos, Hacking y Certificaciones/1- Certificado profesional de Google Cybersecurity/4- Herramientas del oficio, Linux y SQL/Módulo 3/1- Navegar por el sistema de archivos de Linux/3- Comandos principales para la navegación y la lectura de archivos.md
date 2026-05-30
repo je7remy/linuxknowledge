@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Comandos principales para la navegación y la lectura de archivos
 
 # 📁 Navegar el sistema de archivos en Linux
 
@@ -163,3 +170,10 @@ Próximo tema: **Gestión del sistema**.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Comandos Linux a través del shell Bash]]
+- ➡️ Siguiente: [[4- Navegar por Linux y leer el contenido de los archivos]]

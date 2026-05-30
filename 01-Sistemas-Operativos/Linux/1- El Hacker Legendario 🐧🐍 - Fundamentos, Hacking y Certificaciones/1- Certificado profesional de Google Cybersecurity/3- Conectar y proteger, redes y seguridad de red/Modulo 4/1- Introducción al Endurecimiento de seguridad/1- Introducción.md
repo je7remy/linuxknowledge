@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Introducción
 
 
 
@@ -9,3 +16,9 @@ Como analista de seguridad, realizarás tareas clave como actualizaciones de par
 
 Recuerda: el endurecimiento será una de tus funciones principales en el día a día como profesional de ciberseguridad. Comprenderlo a fondo te preparará para proteger eficazmente los activos tecnológicos.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Endurecimiento de seguridad]]

@@ -1,4 +1,3 @@
-
 ---
 
 ## ✅ **Resumen Final – Sección: Registros y Herramientas SIEM**
@@ -61,3 +60,11 @@ Pasarás a explorar **estrategias de respuesta**, donde aprenderás:
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Explore SIEM y registros a través del análisis de escenarios]]
+- ➡️ Siguiente: [[3- Glosario de términos del módulo 3]]

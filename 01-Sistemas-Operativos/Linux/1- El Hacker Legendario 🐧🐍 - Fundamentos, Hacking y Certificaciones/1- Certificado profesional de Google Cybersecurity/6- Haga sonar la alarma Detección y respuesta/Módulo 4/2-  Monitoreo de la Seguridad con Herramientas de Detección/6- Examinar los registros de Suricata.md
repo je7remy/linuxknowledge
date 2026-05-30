@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Examinar los registros de Suricata
 
 ## 🧠 **Registros Generados por Suricata (EVE JSON)**
 
@@ -102,3 +109,11 @@ Suricata produce **dos tipos principales de registros**:
     
 
 Como analista, comprender el formato **EVE JSON** y la estructura de los registros te permitirá **investigar eficazmente eventos de seguridad y validar la efectividad de las firmas IDS**.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Examinar firmas con Suricata]]
+- ➡️ Siguiente: [[7- Panorama de Suricata]]

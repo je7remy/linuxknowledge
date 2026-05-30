@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad de cierre
 
 # ✅ Fin de la Sección: Introducción a Linux
 
@@ -43,3 +50,10 @@ En la siguiente parte del programa, aprenderás:
 **¡Continuemos! 🚀**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Términos del glosario del Módulo 2]]

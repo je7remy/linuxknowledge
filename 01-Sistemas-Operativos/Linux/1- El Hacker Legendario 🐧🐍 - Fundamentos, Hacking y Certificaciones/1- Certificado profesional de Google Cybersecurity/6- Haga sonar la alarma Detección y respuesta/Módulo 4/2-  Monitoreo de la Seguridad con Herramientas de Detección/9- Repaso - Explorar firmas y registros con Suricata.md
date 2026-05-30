@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Repaso - Explorar firmas y registros con Suricata
 
 # 🧪 **Lab: Examina alertas, registros y reglas con Suricata**
 
@@ -370,3 +377,10 @@ jq "select(.flow_id==X)" /var/log/suricata/eve.json
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[8- Explorar firmas y registros con Suricata]]
+- ➡️ Siguiente: [[10- Ponga a prueba sus Conocimientos - Visión general de los sistemas de detección de intrusiones (IDS)]]

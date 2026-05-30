@@ -22,11 +22,11 @@ En este tema se analiza la importancia de un entorno de laboratorio adecuado par
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ⬅️ Anterior: [[8- Construyendo mi propio laboratorio]]
-- ➡️ Siguiente: [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]]
+- ➡️ Siguiente: [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]]
 
 ## Relacionadas
 
-- [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]] — siguiente módulo del curso.
-- [[../Módulo 3 Recopilación de información y análisis de vulnerabilidades/index|Módulo 3]] — módulo posterior.
+- [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]] — siguiente módulo del curso.
+- [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]] — módulo posterior.

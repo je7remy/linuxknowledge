@@ -1,4 +1,3 @@
-
 ---
 
 ### **1. Pregunta 1**
@@ -34,3 +33,9 @@ Los protocolos de red son reglas utilizadas por dos o más dispositivos de una r
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[7- La evolución de los protocolos de seguridad inalámbricos]]

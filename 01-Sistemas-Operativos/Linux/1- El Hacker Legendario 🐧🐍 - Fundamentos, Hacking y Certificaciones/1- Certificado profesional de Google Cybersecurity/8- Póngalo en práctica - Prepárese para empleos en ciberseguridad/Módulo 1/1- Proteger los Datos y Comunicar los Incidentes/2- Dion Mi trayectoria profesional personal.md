@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Dion Mi trayectoria profesional personal
 
 ## 🛡️ Tu Rol y el Curso
 
@@ -55,3 +62,11 @@ Al finalizar, podrás:
     
 
 ¡Espero que estés listo para comenzar!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[1- Introducción al curso 8]]
+- ➡️ Siguiente: [[3- Glosario]]

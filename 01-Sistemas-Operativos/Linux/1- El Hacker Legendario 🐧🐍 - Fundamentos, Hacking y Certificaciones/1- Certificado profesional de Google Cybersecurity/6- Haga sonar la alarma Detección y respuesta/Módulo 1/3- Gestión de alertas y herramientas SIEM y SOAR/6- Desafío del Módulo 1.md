@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Desafío del Módulo 1
 
 # 🧠 **Evaluación – Módulo 1: Detección y Respuesta ante Incidentes**
 
@@ -94,3 +101,9 @@ SOAR = automatización y orquestación de la respuesta._
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Términos del glosario del Módulo 1]]

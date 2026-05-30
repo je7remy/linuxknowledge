@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Recapitulación
 
 # 🧩 Resumen – Parte 1: Proceso de Respuesta a Incidentes
 
@@ -56,3 +63,11 @@
 En la siguiente sección, profundizarás en la **monitorización del tráfico de red**, aprenderás a **identificar patrones sospechosos** y aplicarás tus conocimientos en **actividades prácticas.**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Ponga a prueba sus Conocimientos - Herramientas de Gestion]]
+- ➡️ Siguiente: [[5- Términos del glosario del Módulo 1]]

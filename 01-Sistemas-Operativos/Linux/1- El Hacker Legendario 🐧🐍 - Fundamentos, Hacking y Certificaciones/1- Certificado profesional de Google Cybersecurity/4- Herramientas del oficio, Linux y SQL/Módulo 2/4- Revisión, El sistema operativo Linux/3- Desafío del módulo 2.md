@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 2
 
 ## 📘 **Preguntas**
 
@@ -59,3 +66,10 @@
 ### **9. ¿Qué es la entrada estándar?**
 
 ✅ _Información recibida por el OS a través de la línea de comandos_
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Términos del glosario del Módulo 2]]

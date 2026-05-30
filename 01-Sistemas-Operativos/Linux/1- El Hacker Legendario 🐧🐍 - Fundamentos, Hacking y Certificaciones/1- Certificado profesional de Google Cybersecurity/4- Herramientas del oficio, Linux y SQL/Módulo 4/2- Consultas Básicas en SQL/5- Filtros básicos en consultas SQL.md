@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Filtros básicos en consultas SQL
 
 
 Filtrar es seleccionar datos que cumplan una determinada condición.  
@@ -250,3 +257,11 @@ Ahora dominas:
 Estas son las bases para consultas más avanzadas con **filtros** (`WHERE`, `LIKE`, `AND`, `OR`, etc.).
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[4- Repaso]]
+- ➡️ Siguiente: [[6- La cláusula WHERE y los operadores básicos]]

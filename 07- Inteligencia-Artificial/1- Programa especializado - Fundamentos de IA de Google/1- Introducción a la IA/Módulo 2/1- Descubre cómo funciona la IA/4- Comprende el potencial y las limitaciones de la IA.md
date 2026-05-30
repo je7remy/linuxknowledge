@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Comprende el potencial y las limitaciones de la IA
 
 ## Capacidades y Limitaciones de la IA
 
@@ -42,3 +49,11 @@ Teniendo en cuenta las limitaciones de la IA, es **crucial que un ser humano sup
 Para gestionar la IA de manera eficaz en el trabajo, es necesario que personas con cargos técnicos y no técnicos colaboren para garantizar que los resultados de la IA y los procesos de toma de decisiones estén alineados con valores que beneficien a las personas22.
 
 En última instancia, la clave es un **enfoque integrador** que aplique la supervisión humana a estas herramientas para dar forma a un futuro mejor en el que la IA nos beneficie a todos23.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[3- Una guía de IA y ML]]
+- ➡️ Siguiente: [[5- Explorar las capacidades de IA]]

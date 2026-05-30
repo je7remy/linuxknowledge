@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Historia de Juliana - Comunicación efectiva
 
 ### 📊 Incidente 1: Múltiples Bloqueos de Cuentas
 
@@ -36,3 +43,11 @@ Como dice el texto, la comunicación debe centrarse en lo que más le importa a 
 - **Gerentes de Operaciones/Negocio:** A menudo se centran en **Datos y Cifras** (el impacto cuantitativo en su equipo).
     
 - **Líderes de Seguridad (como el CISO):** Se centran en **Políticas y Procedimientos** (el impacto cualitativo en la postura de seguridad de la empresa).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[9- Cómo crear un cuadro de mandos visual]]
+- ➡️ Siguiente: [[11- Ponga a prueba sus Conocimientos - Comunicarse eficazmente con las partes interesadas]]

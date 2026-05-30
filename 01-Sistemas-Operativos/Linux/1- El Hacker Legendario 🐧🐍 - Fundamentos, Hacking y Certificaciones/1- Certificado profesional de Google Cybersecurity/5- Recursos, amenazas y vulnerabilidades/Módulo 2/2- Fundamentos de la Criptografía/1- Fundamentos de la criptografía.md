@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Fundamentos de la criptografía
 
 # 🔐 Fundamentos de la Criptografía
 
@@ -135,3 +142,10 @@ La criptografía es el proceso de transformar la información en una forma que l
 Dentro de la criptografía se utiliza un **cifrado** para ocultar o encriptar la información.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ➡️ Siguiente: [[2- Infraestructura de clave pública]]

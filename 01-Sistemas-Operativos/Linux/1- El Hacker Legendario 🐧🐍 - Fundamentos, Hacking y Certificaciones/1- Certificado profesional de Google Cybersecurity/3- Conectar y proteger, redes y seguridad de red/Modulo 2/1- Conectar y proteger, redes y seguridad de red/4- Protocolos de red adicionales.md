@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Protocolos de red adicionales
 
 En lecturas y videos anteriores, aprendió cómo los protocolos de red organizan el envío y la recepción de datos a través de una red. También aprendió que los protocolos se pueden dividir en tres categorías: protocolos de comunicación, protocolos de administración y protocolos de seguridad.
 
@@ -62,3 +69,10 @@ Como analista de ciberseguridad, se encontrará con varios protocolos comunes en
 |SMTP|Puerto TCP/UDP 25 (sin cifrar)|
 |SMTPS|Puerto TCP/UDP 587 (cifrado, TLS)|
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Protocolos de red comunes]]
+- ➡️ Siguiente: [[5- Antara, Trabajando en seguridad de redes]]

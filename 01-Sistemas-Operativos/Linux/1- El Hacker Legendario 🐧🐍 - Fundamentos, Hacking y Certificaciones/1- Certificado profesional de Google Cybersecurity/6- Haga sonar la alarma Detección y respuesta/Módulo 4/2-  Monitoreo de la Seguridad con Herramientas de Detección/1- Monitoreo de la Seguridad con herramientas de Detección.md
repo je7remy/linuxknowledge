@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Monitoreo de la Seguridad con herramientas de Detección
 
 ## 🧠 **Fundamentos de la Detección y Monitoreo de la Seguridad**
 
@@ -80,3 +87,10 @@ A la hora de monitorizar la actividad, ¿qué especifica las reglas que utiliza 
 ### 💡 Explicación
 Una **firma** define las **reglas y patrones** que un **IDS (Sistema de Detección de Intrusiones)** utiliza para monitorear la actividad y detectar comportamientos sospechosos.  
 El **análisis de firmas** es uno de los métodos de detección más comunes, ya que permite identificar ataques conocidos mediante la comparación de eventos con reglas predefinidas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ➡️ Siguiente: [[2- Herramientas y técnicas de Detección]]

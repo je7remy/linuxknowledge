@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Glosario del curso 3
 
 # Glosario de Ciberseguridad
 
@@ -113,3 +120,10 @@ sus clientes reenviándolas a otros servidores.
 - **Wide Area Network (WAN)**: Red de Área Amplia. Una red que abarca un área geográfica grande como una ciudad, estado o país.
 - **Wi-Fi Protected Access (WPA)**: Acceso Protegido Wi-Fi. Un protocolo de seguridad inalámbrica para que los dispositivos se conecten a internet.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Resumen del curso]]
+- ➡️ Siguiente: [[3- Comenzar el próximo curso]]

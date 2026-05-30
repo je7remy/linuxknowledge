@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Casey - Aplicar las Habilidades interpersonales en la ciberseguridad
 
 # 💬 **Casey – Aplicar las Habilidades Interpersonales en la Ciberseguridad**
 
@@ -40,3 +47,10 @@ La ciberseguridad **no solo requiere habilidades técnicas**, sino también **hu
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 2]]
+- ➡️ Siguiente: [[3- La importancia de los flujos de tráfico en la Red]]

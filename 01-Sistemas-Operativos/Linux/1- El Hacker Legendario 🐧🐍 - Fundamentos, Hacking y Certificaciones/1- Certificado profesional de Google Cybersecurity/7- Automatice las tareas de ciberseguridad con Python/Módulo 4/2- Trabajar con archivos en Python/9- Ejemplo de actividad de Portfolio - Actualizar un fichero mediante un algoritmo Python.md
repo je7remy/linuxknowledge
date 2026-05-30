@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ejemplo de actividad de Portfolio - Actualizar un fichero mediante un algoritmo Python
 
 ## 📄 Algoritmo para Actualización de Archivos en Python
 
@@ -131,3 +138,11 @@ En este caso, quería escribir la lista de permitidos actualizada como una caden
 ### **Resumen** ✨
 
 Creé un algoritmo que elimina direcciones IP identificadas en una variable `remove_list` del archivo **"allow_list.txt"** de direcciones IP aprobadas. Este algoritmo implicó abrir el archivo (**`with open("r")`**), convertirlo en una cadena para ser leído (**`.read()`**), y luego convertir esta cadena en una lista almacenada en la variable `ip_addresses` (**`.split()`**). Luego iteré a través de las direcciones IP en `remove_list` (bucle **`for`**). Con cada iteración, evalué si el elemento era parte de la lista `ip_addresses` (**`if element in ip_addresses:`**). Si lo era, apliqué el método **`.remove()`** para eliminar el elemento de `ip_addresses`. Después de esto, usé el método **`.join()`** para convertir `ip_addresses` de nuevo en una cadena (separada por nuevas líneas `"\n"`) para poder escribir sobre el contenido del archivo "allow_list.txt" (**`with open("w")`**, **`.write()`**) con la lista revisada de direcciones IP.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[8- Actividad de Portfolio - Actualizar un archivo mediante un algoritmo Python]]
+- ➡️ Siguiente: [[10- Ponga a prueba sus Conocimientos -Trabajar con archivos en Python]]

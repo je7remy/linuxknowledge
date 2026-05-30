@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ataques de denegación de servicio (DoS)
 
 ## 🛡️ Ataques de Denegación de Servicio (DoS / DDoS)
 
@@ -99,3 +106,9 @@ _Un ataque Ping de la muerte es un tipo de ataque DoS causado cuando un hacker h
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Leer registros de tcpdump]]

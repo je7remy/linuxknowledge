@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash, cracking]
+actualizado: 2026-05-28
+---
+
+# Herramienta para hacer cracking de contraseñas
 
 ---
 
@@ -130,3 +137,11 @@ Este proceso es útil para recuperar contraseñas olvidadas de archivos protegid
 **[[Hoja de Trucos HASHCAT]]**
 [[13- Automatización de Cracking de Contraseñas]]
 [[14- Prueba de lápiz interno]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[11- Automatizar la Gestión de Usuarios en Linux]]
+- ➡️ Siguiente: [[13- Automatización de Cracking de Contraseñas]]

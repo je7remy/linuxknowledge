@@ -1,13 +1,10 @@
 ---
-tipo: referencia
-tags: [youtube, ciberseguridad, hacking, red-team, recursos-educativos, 64-canales]
+tipo: teoria
+tags: [nota]
 actualizado: 2026-05-28
 ---
 
-# 64 Canales de YouTube de Ciberseguridad y Hacking Ético
-
----
-
+# Canales de YouTube de Ciberseguridad y Hacking Ético!
 ### ¡Conviértete en un Maestro del Red Team: 64 Canales de YouTube para Aprender Ciberseguridad y Hacking Ético!
 
 Esta lista está diseñada para guiarte en tu camino hacia el dominio del hacking ético y la ciberseguridad, con un enfoque especial en las técnicas y estrategias del **Red Team**. Cada canal es una puerta hacia el conocimiento práctico, las herramientas esenciales y los desafíos que te convertirán en un experto en seguridad ofensiva. ¡Prepárate para embarcarte en una aventura llena de descubrimientos y crecimiento profesional!
@@ -624,3 +621,9 @@ Este bloque:
 6. Espera el tiempo configurado y repite el proceso
 
 Este script es útil para personas que quieren estar al día con las publicaciones de varios canales de YouTube sin tener que verificarlos manualmente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_05-Recursos|05-Recursos]]

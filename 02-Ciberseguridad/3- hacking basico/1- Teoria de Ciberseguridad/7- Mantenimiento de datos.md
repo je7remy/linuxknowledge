@@ -12,7 +12,7 @@ Cuando mueve un archivo a la papelera de reciclaje y lo elimina de manera perman
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[6- Protegiendo sus dispositivos y su red]]
 - ➡️ Siguiente: [[8- Términos del servicio]]
 

@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, testing, postman, curl, herramientas-prueba]
+actualizado: 2026-05-28
+---
+
+# Prueba de APIs
 
 # Módulo 6: Herramientas de Prueba y Consumo de APIs
 
@@ -139,3 +146,10 @@ A la derecha verás varios datos importantes que como profesional debes saber le
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[6- Test de conocimientos, Documentación API]]
+- ➡️ Siguiente: [[8- Test de conocimientos - Prueba de APIs]]

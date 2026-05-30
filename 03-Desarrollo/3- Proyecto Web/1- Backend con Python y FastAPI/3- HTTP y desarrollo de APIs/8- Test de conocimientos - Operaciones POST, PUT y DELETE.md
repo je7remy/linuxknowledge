@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, post, put, delete, test-conocimientos]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — POST, PUT y DELETE
 
 ### 1. ¿Qué diferencia principal hay entre PUT y POST en FastAPI?
 
@@ -146,3 +153,11 @@
 > Justificación:
 > 
 > Si la función de Python no declara un parámetro para recibir el cuerpo, FastAPI simplemente ignora cualquier dato extra enviado en el body de la petición DELETE, sin lanzar error.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[7- Peticiones HTTP - Operaciones POST, PUT y DELETE]]
+- ➡️ Siguiente: [[9- HTTP status codes]]

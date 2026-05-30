@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Creamos un Script que Automatice el Tratamiento de la Información
 
 ---
 
@@ -121,3 +128,11 @@ El peso del archivo es 4.0K
 
 [[2- Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables]]
 [[11- Creamos un Script para Automatizar Búsquedas en el Sistema]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Las Variables y Procesamiento de la Información|3- Las Variables y Procesamiento de la Información]]
+- ⬅️ Anterior: [[9- Procesador de Información – SED]]
+- ➡️ Siguiente: [[11- Creamos un Script para Automatizar Búsquedas en el Sistema]]

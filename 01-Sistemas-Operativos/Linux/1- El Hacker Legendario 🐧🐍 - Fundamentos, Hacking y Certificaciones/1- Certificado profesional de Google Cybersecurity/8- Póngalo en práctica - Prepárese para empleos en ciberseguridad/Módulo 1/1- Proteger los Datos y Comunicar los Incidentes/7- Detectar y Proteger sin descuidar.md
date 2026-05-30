@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Detectar y Proteger sin descuidar
 
 **La Continuidad del Negocio (BC)** es la estrategia general para asegurar que las funciones críticas de una empresa sigan operando durante y después de un desastre. La **Recuperación en Caso de Catástrofe (DR)** es un subconjunto de la BC, enfocado específicamente en restaurar la infraestructura tecnológica (IT) y los datos.
 
@@ -79,3 +86,11 @@ Tu propia empresa también depende de otros proveedores B2B (proveedores de inte
 |**Objetivo**|Mantener el negocio operativo|Restaurar la infraestructura de TI|
 |**Pregunta**|"¿Cómo seguimos operando?"|"¿Cómo recuperamos los sistemas?"|
 |**Relación**|DR es un **componente** de BC.|Es un **subconjunto** de BC.|**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[6- Ponga a prueba sus Conocimientos -Detección de Eventos e Incidentes]]
+- ➡️ Siguiente: [[8- Historia de Juliana - Protección de los recursos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Las Tuplas
 
 ---
 
@@ -140,3 +147,11 @@ print(tuplas)  # ('jeremy', 5, 'informatico')
 [[2- Las Listas]]
 [[5- Entrada de Información por parte del Usuario (Argumentos)]]
 [[6- Los Diccionarios]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[2- Las Listas]]
+- ➡️ Siguiente: [[4- Entrada de Información por parte del Usuario]]

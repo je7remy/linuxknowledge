@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Glosario del curso 4
 
 # 📘 Glosario de Ciberseguridad – Curso 4
 
@@ -227,5 +234,11 @@
 ### W
 
 - **Comodín (Wildcard)**: Carácter especial que puede sustituir a cualquier otro carácter.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[7- Resumen del curso]]
+- ➡️ Siguiente: [[9- Comenzar el próximo curso]]

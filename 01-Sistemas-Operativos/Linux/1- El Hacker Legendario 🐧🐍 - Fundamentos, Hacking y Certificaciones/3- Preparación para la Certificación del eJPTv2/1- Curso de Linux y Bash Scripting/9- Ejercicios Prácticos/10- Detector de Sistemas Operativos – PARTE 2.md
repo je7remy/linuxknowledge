@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Detector de Sistemas Operativos – PARTE 2
 #### **1.1. Comando de `ping` básico**
 
 ```bash
@@ -192,3 +199,11 @@ fi
 Este método proporciona una estimación rápida pero básica del sistema operativo, útil para redes locales simples donde se conocen los saltos de red.
 
 Este script es útil para pruebas rápidas y educativas, pero recuerda que la determinación de sistemas operativos basándose únicamente en TTL no es completamente precisa, ya que puede variar por configuraciones personalizadas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[9- Detector de Sistemas Operativos – PARTE 1]]
+- ➡️ Siguiente: [[11- Automatizar la Gestión de Usuarios en Linux]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Ejercicio Práctico con OS y SHUTIL
 
 ---
 
@@ -169,3 +176,10 @@ print("se ha terminado la openracion")
 
 [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]
 [[6- Ejercicio Práctico con Interfaces Gráficas]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Manipulación de Ficheros e Interacción con el Sistema Operativo|3- Manipulación de Ficheros e Interacción con el Sistema Operativo]]
+- ⬅️ Anterior: [[3- Uso Básico de SHUTIL]]

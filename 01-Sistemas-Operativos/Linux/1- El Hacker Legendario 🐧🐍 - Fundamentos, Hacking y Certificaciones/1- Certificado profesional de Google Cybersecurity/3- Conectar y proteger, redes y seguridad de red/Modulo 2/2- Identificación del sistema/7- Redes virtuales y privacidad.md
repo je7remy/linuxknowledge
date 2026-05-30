@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Redes virtuales y privacidad
 
 Esta sección del curso abarca mucha información sobre el funcionamiento de las redes. Ha repasado los fundamentos de la arquitectura de red y la comunicación y ahora puede utilizar estos conocimientos mientras aprende a proteger las redes. La seguridad de una red privada requiere mantener la confidencialidad de sus datos y restringir el acceso a los usuarios autorizados.
 
@@ -55,3 +62,11 @@ Una VPN es un servicio que encripta Datos en tránsito y disfraza su dirección 
 ### **Claves**
 
 Existen tres categorías principales de protocolos de red: protocolos de comunicación, de gestión y de Seguridad. En esta lectura, ha aprendido los fundamentos de los firewalls, los servidores proxy y las VPN. Cada vez más organizaciones están implementando un enfoque basado en la nube para la seguridad de la red mediante la incorporación de una combinación de VPN y capacidades SD-WAN como servicio.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[6- Redes virtuales y privacidad]]
+- ➡️ Siguiente: [[8- Protocolos VPN, Wireguard e IPSec]]

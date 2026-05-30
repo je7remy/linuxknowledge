@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Descubre cómo la IA puede ayudar en el trabajo
 
 ## **Fundamentos de Prompting para IA de Google**
 
@@ -126,3 +133,10 @@ El objetivo del curso es que aprendas a **usar el prompting para mejorar tu trab
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ⬅️ Anterior: [[1- Da el siguiente paso con Google Prompting Essentials]]
+- ➡️ Siguiente: [[3- Utiliza el marco de instrucciones de 5 pasos]]

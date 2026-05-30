@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 4
 
 ### **1. Pregunta 1**
 
@@ -109,3 +116,10 @@
 - **Respuesta Correcta:** **"Asociaciones del sector de la ciberseguridad"**
     
 - **Justificación:** El video que introdujo la hoja de trabajo sugirió usar un término de búsqueda casi idéntico ("asociaciones de la industria de la ciberseguridad") para encontrar este tipo de organizaciones.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[11- Términos del glosario del Módulo 4]]

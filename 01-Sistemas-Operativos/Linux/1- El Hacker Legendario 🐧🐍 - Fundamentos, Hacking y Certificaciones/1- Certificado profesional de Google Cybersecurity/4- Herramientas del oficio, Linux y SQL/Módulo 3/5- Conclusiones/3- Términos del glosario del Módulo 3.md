@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 3
 
 ## **Términos y definiciones del Curso 4, Módulo 3**
 
@@ -36,3 +43,11 @@
 **Entrada estándar:** Información recibida por el OS a través de la línea de comandos
 
 **Salida estándar:** Información devuelta por el OS a través del shell
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Glosario de Comandos]]
+- ➡️ Siguiente: [[4- Desafío del módulo 3]]

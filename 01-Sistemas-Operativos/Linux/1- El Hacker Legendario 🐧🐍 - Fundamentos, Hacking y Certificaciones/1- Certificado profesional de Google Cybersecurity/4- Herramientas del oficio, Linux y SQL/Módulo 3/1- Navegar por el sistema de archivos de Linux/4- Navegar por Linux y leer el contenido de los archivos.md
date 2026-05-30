@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Navegar por Linux y leer el contenido de los archivos
 
 En esta lectura, revisará cómo navegar por el sistema de archivos utilizando comandos Linux en Bash. Explorará más a fondo la organización del Estándar de jerarquía del sistema de archivos de Linux, revisará varios comandos comunes de Linux para la navegación y la lectura del contenido de los archivos, y aprenderá un par de comandos nuevos.
 
@@ -110,3 +117,11 @@ Una vez que haya accedido al contenido con el comando less, puede utilizar vario
 ## Puntos clave
 
 Es importante que los analistas de Seguridad sean capaces de navegar por Linux y por el sistema de archivos del FHS. Algunos comandos clave para navegar por el sistema de archivos son pwd, ls y cd. Leer el contenido de los archivos también es una habilidad importante en la profesión de Seguridad. Esto puede hacerse con comandos como cat, head, tail, y less.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Comandos principales para la navegación y la lectura de archivos]]
+- ➡️ Siguiente: [[5- Actividad, Encontrar archivos con los comandos de Linux]]

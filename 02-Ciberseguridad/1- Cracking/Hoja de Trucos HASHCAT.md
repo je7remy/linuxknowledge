@@ -29,7 +29,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+- ⬆️ Sección: [[_02-Ciberseguridad|02-Ciberseguridad]]
 
 ## Relacionadas
 

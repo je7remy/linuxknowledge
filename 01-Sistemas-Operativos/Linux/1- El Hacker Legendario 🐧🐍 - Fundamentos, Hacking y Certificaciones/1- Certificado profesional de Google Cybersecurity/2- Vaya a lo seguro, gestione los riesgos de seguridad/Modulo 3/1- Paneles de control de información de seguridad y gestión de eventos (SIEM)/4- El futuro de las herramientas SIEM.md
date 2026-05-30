@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# El futuro de las herramientas SIEM
 
 Anteriormente, se le presentaron las herramientas de administración de eventos e información de seguridad (SIEM), junto con algunos ejemplos de herramientas SIEM. En esta lectura, aprenderá más sobre cómo se utilizan las herramientas SIEM para proteger las operaciones de la organización. También obtendrá información sobre cómo y por qué las herramientas SIEM están cambiando para ayudar a proteger a las organizaciones y a las personas a las que sirven de la evolución de las tácticas y técnicas de los actores de amenazas.
 
@@ -19,3 +26,10 @@ La implementación de la automatización también ayudará a los equipos de segu
 
 Las herramientas SIEM juegan un papel importante en el monitoreo de los datos de una organización. Como analista de seguridad de nivel básico, puede supervisar los paneles de SIEM como parte de sus tareas diarias. Investigar regularmente nuevos desarrollos en tecnología SIEM te ayudará a crecer y adaptarte a los cambios en el campo de la ciberseguridad. La computación en la nube, la integración de aplicaciones SIEM y la automatización son solo algunos de los avances que los profesionales de la seguridad pueden esperar en la evolución futura de las herramientas SIEM.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Paneles de control SIEM]]
+- ➡️ Siguiente: [[5- Parisa, Los paralelismos entre la accesibilidad y la seguridad]]

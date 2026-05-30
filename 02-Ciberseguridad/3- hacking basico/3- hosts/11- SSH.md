@@ -330,7 +330,7 @@ Como podemos ver, los servicios R se utilizan con menos frecuencia hoy en día d
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[10- SNMP]]
 - ➡️ Siguiente: [[12- Windows Hosts]]
 
@@ -344,7 +344,7 @@ Como podemos ver, los servicios R se utilizan con menos frecuencia hoy en día d
 
 - [[1- Hoja de trucos NMAP]] — escaneo y huella SSH.
 - [[12- Herramienta para hacer cracking de contraseñas]] — brute-force de SSH con Hydra/Medusa.
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría.
+- [[_1- Cracking|02 → Cracking]] — teoría.
 
 ## Relacionadas (laboratorios SSH)
 

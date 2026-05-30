@@ -1,6 +1,3 @@
-
-
-
 ---
 
 # Inyección SQL y cómo defenderse
@@ -123,4 +120,10 @@ A(n) _____ es un ataque que ejecuta consultas inesperadas en una base de datos.
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Escritura de secuencias de comandos entre sitios (XSS)]]
+- ➡️ Siguiente: [[3- Prevenir ataques de inyección]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Comenzar el próximo curso
 
 Enhorabuena por haber completado el Curso 3 del Certificado de Ciberseguridad de Google: **Conectar y Proteger:** ¡ **Redes y Seguridad de red**! En esta parte del Programa, usted aprendió sobre la estructura de las redes y cómo identificar las vulnerabilidades de la red. También exploró las operaciones de red y cómo afectan a la comunicación de datos. A continuación, descubrió algunos tipos comunes de ataques a la red, sus consecuencias en una organización y las formas de proteger las redes contra los ataques. Por último, aprendió a reducir la superficie de ataque de una red aplicando diversas medidas de protección en una red.
 
@@ -24,3 +31,9 @@ El Certificado en Ciberseguridad de Google consta de ocho cursos:
 
 Ahora que ha completado este curso, está listo para pasar al siguiente: [**Herramientas del oficio: Linux y SQL**](https://www.coursera.org/learn/linux-and-sql/home/week/1).
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Glosario del curso 3]]

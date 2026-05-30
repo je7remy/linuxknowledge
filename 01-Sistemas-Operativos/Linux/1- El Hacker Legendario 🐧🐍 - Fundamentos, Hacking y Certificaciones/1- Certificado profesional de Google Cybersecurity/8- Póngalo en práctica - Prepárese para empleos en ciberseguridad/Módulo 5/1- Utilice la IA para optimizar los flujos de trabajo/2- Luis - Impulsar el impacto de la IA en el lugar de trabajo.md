@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+actualizado: 2026-05-28
+---
+
+# Luis - Impulsar el impacto de la IA en el lugar de trabajo
 
 
 ### 🤖 **El Analista Aumentado: Cómo un Arquitecto de Google usa la IA**
@@ -38,3 +45,11 @@ El testimonio de Luis ofrece una visión clara de cómo la IA no reemplaza al pr
 ---
 
 El testimonio de Luis es un ejemplo perfecto de cómo tu rol no será _reemplazado_ por la IA, sino _aumentado_ por ella. Te conviertes en un analista que, con la ayuda de la IA, puede operar a un nivel mucho más alto.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[1- Introducción a la IA en ciberseguridad]]
+- ➡️ Siguiente: [[3- Utilice la IA generativa para trabajar de forma más inteligente y rápida]]

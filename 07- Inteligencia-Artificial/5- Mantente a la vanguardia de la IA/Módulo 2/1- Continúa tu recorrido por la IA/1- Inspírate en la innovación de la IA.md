@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-vanguardia, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Inspírate en la innovación de la IA
 
 ## **Innovar con la Inteligencia Artificial**
 
@@ -83,3 +90,10 @@ Te animo a seguir explorando **cómo tú también puedes mejorar tu trabajo con 
 ---
 
 ¿Quieres que te lo deje en **formato Markdown** (para usar en Obsidian o documentos técnicos) o en **formato tipo presentación** (para PowerPoint o exposición)?
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]
+- ➡️ Siguiente: [[2- Greg, Sigue explorando con la IA]]

@@ -1,4 +1,3 @@
-
 ---
 
 #Ciberseguridad #Redes #ModeloOSI #TCPIP #Networking #SeguridadInformática #Protocolos #HackingÉtico #IngenieríaDeRedes #Tecnología #IT #AdministraciónDeRedes #InfraestructuraTI #SeguridadEnRedes #Pentesting #Internet #Conectividad
@@ -61,3 +60,10 @@ En el modelo TCP/IP, las funciones de las capas de Sesión, Presentación y Apli
 
 [[2- Puertos Principales]]
 [[1- Protocolo HTTP]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Redes Basico|2- Redes Basico]]
+- ➡️ Siguiente: [[2- Puertos Principales]]

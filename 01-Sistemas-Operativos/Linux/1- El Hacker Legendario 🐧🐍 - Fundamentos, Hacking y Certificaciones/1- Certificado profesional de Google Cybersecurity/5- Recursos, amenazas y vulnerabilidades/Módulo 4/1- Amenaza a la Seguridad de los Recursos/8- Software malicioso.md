@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Software malicioso
 
 # Malware y sus Tipos
 
@@ -134,5 +141,11 @@ Los otros términos no encajan porque:
 - **Software espía (Spyware)**: roba información sin consentimiento.
     
 - **Phishing**: es una técnica de ingeniería social para engañar y obtener datos sensibles, pero no cifra información.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[7- Actividad - Filtrar correos electrónicos maliciosos]]
+- ➡️ Siguiente: [[9- Una introducción al software malicioso]]

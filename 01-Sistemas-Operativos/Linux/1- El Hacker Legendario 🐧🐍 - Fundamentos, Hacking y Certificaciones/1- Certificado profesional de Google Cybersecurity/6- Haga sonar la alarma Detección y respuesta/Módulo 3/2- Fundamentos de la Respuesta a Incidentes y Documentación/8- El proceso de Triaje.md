@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# El proceso de Triaje
 
 Anteriormente, aprendió que el triaje se utiliza para evaluar las alertas y asignar prioridad a los incidentes. En esta lectura, explorará el proceso de triaje y sus beneficios. COMO ANALISTA DE SEGURIDAD, será responsable de analizar las alertas de seguridad. Tener las habilidades necesarias para realizar un triaje eficaz es importante porque le permite abordar y resolver las alertas de Seguridad de forma eficiente.
 
@@ -58,3 +65,11 @@ Al priorizar los incidentes en función de su impacto potencial, puede reducir e
 ## Puntos clave
 
 El Triaje permite a los Equipos de Seguridad priorizar los incidentes según su nivel de importancia o urgencia. El proceso de triaje es importante para garantizar que una organización cumpla sus objetivos de Respuesta ante incidentes. Como profesional de la Seguridad, es probable que utilice el Triaje para responder y resolver eficazmente los Incidentes de Seguridad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[7- Robin - Fomentar la colaboración entre equipos]]
+- ➡️ Siguiente: [[9- La fase de contención, erradicación y recuperación del ciclo de vida]]

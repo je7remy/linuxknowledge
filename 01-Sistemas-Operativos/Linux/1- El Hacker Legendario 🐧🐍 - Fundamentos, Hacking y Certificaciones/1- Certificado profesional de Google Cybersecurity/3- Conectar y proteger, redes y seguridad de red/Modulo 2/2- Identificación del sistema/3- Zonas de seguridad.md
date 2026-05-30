@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Zonas de seguridad
 ## 🔐 Zonas de Seguridad en Redes
 
 Las **zonas de seguridad** son segmentos de una red diseñados para proteger los sistemas internos del acceso externo no autorizado. Forman parte de una práctica llamada **segmentación de red**, que divide la red en partes controladas con reglas y permisos específicos.
@@ -105,3 +109,10 @@ Las **zonas de seguridad** son segmentos de una red diseñados para proteger los
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- Redes privadas virtuales (VPN)]]
+- ➡️ Siguiente: [[4- División en subredes y CIDR]]

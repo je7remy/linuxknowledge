@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Securización de Servidores Web Apache – PARTE 1
 
 ---
 
@@ -113,3 +120,11 @@ Cualquier usuario con acceso a la URL podría ver el archivo **password.txt**. E
 [[4- Securización de Servidores Web Apache – PARTE 2]]
 [[5- Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3]]
 **[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_10- Securización de Servidores Linux (EN DESARROLLO)|10- Securización de Servidores Linux (EN DESARROLLO)]]
+- ⬅️ Anterior: [[2- Protección del Protocolo FTP]]
+- ➡️ Siguiente: [[4- Securización de Servidores Web Apache – PARTE 2]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Reconocer las funciones y responsabilidades durante la Elevación
 
 Usted aprendió previamente sobre varios tipos de clasificación de incidentes y cómo esos incidentes pueden impactar en una organización.
 
@@ -26,3 +33,11 @@ Los Delegados de protección de datos son responsables de supervisar el cumplimi
 ## Puntos clave
 
 El Escalado de incidentes requiere que varios miembros de un Equipo de Seguridad actúen como uno solo. Los analistas principiantes deben familiarizarse con las funciones y responsabilidades de los distintos Miembros del equipo de Seguridad. Como analista principiante, normalmente elevará los incidentes a su supervisor directo. Sin embargo, sigue siendo importante que conozca a los distintos miembros del Equipo a medida que avance en su carrera de Seguridad porque le ayudará a reconocer qué incidentes deben comunicarse a quién.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[4- Prepárese para la escalada mediante el reconocimiento de la Seguridad]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Escalar o no escalar]]

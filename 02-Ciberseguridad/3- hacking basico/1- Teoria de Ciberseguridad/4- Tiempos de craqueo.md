@@ -14,13 +14,13 @@ Debido a que los ataques de fuerza bruta toman tiempo, las contraseñas compleja
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Teoría de Ciberseguridad]]
+- ⬆️ Carpeta: [[_1- Teoria de Ciberseguridad|1- Teoría de Ciberseguridad]]
 - ⬅️ Anterior: [[3- Descifrado de contraseñas de Wi-Fi]]
 - ➡️ Siguiente: [[5- Aprovechamiento de las vulnerabilidades de seguridad]]
 
 ## Relacionadas
 
-- [[../../1- Cracking/1- Cracking|02 → Cracking]] — práctica del cracking offline.
+- [[_1- Cracking|02 → Cracking]] — práctica del cracking offline.
 - [[12- Herramienta para hacer cracking de contraseñas]] — laboratorio aplicado.
 - [[13- Automatización de Cracking de Contraseñas]] — automatización en Bash.
 - [[../3- hosts/2- IPMI]] — Hashcat modo 7300 para hashes IPMI RAKP.

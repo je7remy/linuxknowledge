@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# How to read the tcpdump traffic log
 
 ## Comprendiendo el formato de los registros de tcpdump
 
@@ -112,3 +119,11 @@ Un ataque de fuerza bruta (por ejemplo, múltiples intentos de login por contras
     
 
 Filtrando por excesivos SYN, RST o indicadores de fallo de login podrás localizar y cuantificar el tráfico de fuerza bruta en tus registros de tcpdump.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Tcpdump Traffic Log]]
+- ➡️ Siguiente: [[7- Security incident report]]

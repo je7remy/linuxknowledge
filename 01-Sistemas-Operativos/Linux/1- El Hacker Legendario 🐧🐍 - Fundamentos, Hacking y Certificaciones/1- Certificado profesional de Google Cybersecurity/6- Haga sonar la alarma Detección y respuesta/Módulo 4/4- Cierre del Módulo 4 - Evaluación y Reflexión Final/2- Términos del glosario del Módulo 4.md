@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 4
 
 # 🧩 **Términos y Definiciones del Curso 6 — Módulo 4**
 
@@ -93,3 +100,10 @@ Vulnerabilidad o exploit desconocido hasta el momento de su descubrimiento y sin
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Recapitulación]]
+- ➡️ Siguiente: [[3- Desafío del módulo 4]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Analice su primer paquete
 
 ## **Resumen de la actividad**
 
@@ -662,3 +669,11 @@ tcp contains "curl"
 ```
 
 Presiona **Intro**. Esta acción filtra los paquetes que contienen solicitudes web realizadas con el comando `curl`.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Investigar los detalles del Paquete]]
+- ➡️ Siguiente: [[7- Ponga a prueba sus Conocimientos - Captura y visualización del tráfico de red]]

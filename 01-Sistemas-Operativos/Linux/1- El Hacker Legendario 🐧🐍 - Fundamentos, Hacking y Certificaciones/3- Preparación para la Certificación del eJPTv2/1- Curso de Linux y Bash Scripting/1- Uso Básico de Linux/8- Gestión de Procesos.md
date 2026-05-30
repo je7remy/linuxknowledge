@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Gestión de Procesos
 
 ---
 
@@ -107,3 +114,11 @@ La **gestión de procesos** es una función del sistema operativo que se encarga
 
 
 [[1- Comandos Basicos - Intermedio]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Uso Básico de Linux|1- Uso Básico de Linux]]
+- ⬅️ Anterior: [[7- Uso de Tuberías o Pipes]]
+- ➡️ Siguiente: [[9- Uso de Grep]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Ejercicio Práctico con Interfaces Gráficas
 
 ---
 
@@ -262,3 +269,11 @@ ventana.mainloop()
 
 [[4- Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente]]
 [[4- Ejercicio Práctico con OS y SHUTIL]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]
+- ⬅️ Anterior: [[5- Creación de Menús Desplegables]]
+- ➡️ Siguiente: [[7- Personalización y Estética de nuestras Aplicaciones Gráficas]]

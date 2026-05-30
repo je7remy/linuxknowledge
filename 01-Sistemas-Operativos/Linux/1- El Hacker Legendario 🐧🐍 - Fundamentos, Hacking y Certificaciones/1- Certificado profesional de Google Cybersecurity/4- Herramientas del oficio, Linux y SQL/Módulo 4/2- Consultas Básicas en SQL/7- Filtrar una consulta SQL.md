@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Filtrar una consulta SQL
 
 ## 🔹 Tarea 1: Lista de todas las máquinas
 
@@ -174,3 +181,10 @@ Con este laboratorio ya sabes cómo:
 
 👉 Esto es clave para un analista de seguridad, porque te permite **aislar rápidamente la información relevante** en bases de datos grandes.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[6- La cláusula WHERE y los operadores básicos]]
+- ➡️ Siguiente: [[8- Ponga a prueba sus Conocimientos  - Consultas SQL]]

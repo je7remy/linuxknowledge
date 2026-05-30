@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Crear una función básica
 
 ### 🧠 Crear y Llamar a una Función (Definida por el Usuario)
 
@@ -75,3 +82,11 @@ greet_employee()
 ```
 Bienvenido, ha iniciado sesión.
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Introducción a las funciones]]
+- ➡️ Siguiente: [[4- Funciones de Python en ciberseguridad]]

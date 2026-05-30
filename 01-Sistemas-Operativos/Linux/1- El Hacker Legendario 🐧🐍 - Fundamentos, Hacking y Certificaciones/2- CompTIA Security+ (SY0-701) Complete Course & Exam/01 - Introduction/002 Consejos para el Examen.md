@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [comptia-security-plus, el-hacker-legendario]
+actualizado: 2026-05-28
 ---
 
+# Consejos para el Examen
 # Consejos para el Examen
 
 En esta lección, vamos a cubrir algunos consejos para el examen. Antes de sumergirnos en el contenido del curso para el examen de certificación CompTIA Security+, creo que es importante discutir rápidamente algunos consejos y trucos para el examen. Esto te ayudará a estudiar mejor para el examen mientras avanzas en este curso y también te ayudará a enfocar tus esfuerzos de estudio para aprovechar al máximo este material.
@@ -67,3 +71,8 @@ Básicamente, solo necesitas planear estudiar durante unas 40 horas en total par
 
 Así que, en su lugar, quiero que reserves unas pocas horas al día durante las próximas semanas y vamos a adelantarnos y certificarte.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_01 - Introduction|01 - Introduction]]

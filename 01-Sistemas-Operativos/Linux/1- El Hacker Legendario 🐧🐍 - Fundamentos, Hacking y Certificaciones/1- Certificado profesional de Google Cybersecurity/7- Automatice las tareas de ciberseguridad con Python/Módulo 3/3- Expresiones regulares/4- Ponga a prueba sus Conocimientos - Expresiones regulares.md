@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Expresiones regulares
 
 ### 🧠 Pregunta 1
 
@@ -187,3 +194,10 @@ El símbolo `+` representa **una o más apariciones** de un carácter específic
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[3- Actividad - Utilizar expresiones regulares para encontrar patrones]]

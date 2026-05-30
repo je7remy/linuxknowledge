@@ -312,16 +312,16 @@ Por otro lado, un shell web no es tan interactivo como los shells reverse y bind
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|5- shells]]
+- ⬆️ Carpeta: [[_5- shells|5- shells]]
 - ⬅️ Anterior: [[1- basic shells]]
 
 ## Relacionadas
 
 - [[1- basic shells]] — cheatsheet de los comandos vistos aquí.
-- [[../4- privilege scalation/index|4- Escalación de privilegios]] — siguiente paso tras tener shell estable.
+- [[_4- privilege scalation|4- Escalación de privilegios]] — siguiente paso tras tener shell estable.
 - [[../4- privilege scalation/2- python hijacking|Python hijacking]] — usa el `<?php` web shell como vector inicial.
 - [[../6- Web/1- Protocolo HTTP|6- Web → HTTP]] — base del Web Shell (GET/POST params).
-- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/14- Sockets/index|Python → 14- Sockets]] — implementación de bind/reverse shells desde Python.
+- [[_14- Sockets|Python → 14- Sockets]] — implementación de bind/reverse shells desde Python.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web/11- Automatización Reverse Shell Groovy Script en Jenkins – PARTE 1|Reverse Shell Jenkins]] — caso aplicado en producción.
 - [[../3- hosts/11- SSH]] — SSH como alternativa estable al shell inverso.
 - [[../3- hosts/12- Windows Hosts]] — WinRM con evil-winrm como alternativa estable para Windows.

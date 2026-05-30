@@ -95,7 +95,7 @@ git push --force origin main
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Git]]
+- ⬆️ Carpeta: [[_Git|Git]]
 - ⬅️ Anterior: [[2- Cómo Editar un Commit que ya se Subio a GitHub]]
 
 ## Relacionadas

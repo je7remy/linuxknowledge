@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Respuesta a incidentes
 
 ### **Pregunta 1**
 
@@ -68,3 +75,9 @@ Durante la fase de **____**, los profesionales de seguridad utilizan herramienta
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[5- Zack, La respuesta a incidentes y el valor de los libros de jugadas]]

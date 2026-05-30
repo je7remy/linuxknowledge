@@ -1,3 +1,11 @@
+---
+tipo: tesis
+tags: [tesis, anteproyecto, unphu, sistema-citas-medicas, completo]
+actualizado: 2026-05-28
+---
+
+# Sistema Web de Gestión de Citas Médicas — Anteproyecto Completo
+
 Universidad Nacional Pedro Henríquez Ureña
 
 -UNPHU-
@@ -449,3 +457,10 @@ ISO. (2019). ISO 9241-11:2018 – Ergonomics of human-system interaction — Usa
 Hospital Traumatológico y Quirúrgico Prof. Juan Bosch. (2024). Manual de procedimientos administrativos y gestión de citas. El Pino, La Vega, República Dominicana. (Documento interno)
 
 República Dominicana. (2008). Ley No. 172-13 sobre protección de datos personales. Gaceta Oficial.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ⬅️ Anterior: [[3- Capítulo 1, Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, Período 2025]]

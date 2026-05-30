@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Resumen del curso 2
 
 
 ![Image update](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_SpUvT-bRFuu0z2C6Kf0-Q_15660cb2cc5f4223a7551c0c7564d3f1_x-cert-image_Welcome-banner-C2.png?expiry=1748995200000&hmac=q8NNO24dBKujOXmgn9hTfvU16i8ahpE6TkxWFmymCrg)
@@ -93,3 +100,11 @@ Cada curso ofrece muchos tipos de oportunidades de aprendizaje:
 - Cuando encuentre enlaces útiles en este curso, márquelos para que pueda consultar la información más adelante para estudiarla o revisarla.
     
 - Comprender y seguir el [Código de conducta de Coursera](https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?) para garantizar que la comunidad de aprendizaje siga siendo un lugar acogedor, amigable y de apoyo para todos los miembros.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Introducción al Curso 2]]
+- ➡️ Siguiente: [[3- Recursos y consejos útiles]]

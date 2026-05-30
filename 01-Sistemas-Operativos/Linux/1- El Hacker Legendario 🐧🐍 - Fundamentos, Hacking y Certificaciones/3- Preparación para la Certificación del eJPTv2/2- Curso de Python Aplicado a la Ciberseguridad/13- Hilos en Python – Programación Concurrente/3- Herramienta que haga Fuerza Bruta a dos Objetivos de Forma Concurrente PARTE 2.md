@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 2
 
 **1. Objetivo y justificación**
 
@@ -214,3 +221,10 @@ hilo2.join()
 - **Es Seguro**: Manejo los errores para que no se caiga el programa.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_13- Hilos en Python – Programación Concurrente|13- Hilos en Python – Programación Concurrente]]
+- ⬅️ Anterior: [[2- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1]]

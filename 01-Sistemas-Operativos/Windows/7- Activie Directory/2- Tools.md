@@ -119,7 +119,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|7- Active Directory]]
+- ⬆️ Carpeta: [[_7- Activie Directory|7- Active Directory]]
 - ⬅️ Anterior: [[1- OSINT]]
 - ➡️ Siguiente: [[3- OSINT, Cómo encontrar información pública de cualquier persona]]
 
@@ -128,7 +128,7 @@ actualizado: 2026-05-28
 - [[1- OSINT]] — fase pasiva previa al uso de estas herramientas.
 - [[Extraer Metadatos]] — metadata como vector OSINT.
 - [[2- nmap comands]] — escaneo activo de la red AD.
-- [[../../../02-Ciberseguridad/5- Reconocimiento/1- Nmap/index|02 → Nmap (cobertura completa)]]
+- [[_1- Nmap|02 → Nmap (cobertura completa)]]
 
 ## Relacionadas (protocolos y servicios)
 
@@ -138,5 +138,5 @@ actualizado: 2026-05-28
 
 ## Relacionadas (cracking)
 
-- [[../../../02-Ciberseguridad/1- Cracking/1- Cracking|02 → Cracking]] — Hashcat para hashes de Kerberoasting/ASREPRoasting.
+- [[_1- Cracking|02 → Cracking]] — Hashcat para hashes de Kerberoasting/ASREPRoasting.
 - [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/2- IPMI]] — Hashcat también para IPMI.

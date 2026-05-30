@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
 ---
 
+# Antara, Trabajando en seguridad de redes
 ### 👩‍💻 **Antara – Ingeniera de Seguridad en Google (Protección de Infraestructura Empresarial)**
 
 #### 🛡️ **Rol Principal**
@@ -69,3 +73,11 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Protocolos de red adicionales]]
+- ➡️ Siguiente: [[6- Protocolos inalámbricos]]

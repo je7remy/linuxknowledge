@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a la Programación Concurrente
 
 ### Código completo para referencia
 
@@ -178,3 +185,9 @@ Este código es una excelente demostración del uso básico de hilos en Python. 
 - Controlar el flujo del programa principal para esperar a que los hilos terminen.
 Aunque en este caso las tareas son simples (imprimir mensajes), el concepto de concurrencia puede aplicarse a problemas más complejos, como procesar datos en paralelo o realizar operaciones que requieren mucho tiempo de cómputo, donde los hilos pueden mejorar la eficiencia (aunque en Python, debido al GIL -Global Interpreter Lock-, los hilos no siempre ofrecen mejoras de rendimiento para tareas intensivas en CPU; para eso se usa `multiprocessing`).
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_13- Hilos en Python – Programación Concurrente|13- Hilos en Python – Programación Concurrente]]
+- ➡️ Siguiente: [[2- Herramienta que haga Fuerza Bruta a dos Objetivos de Forma Concurrente PARTE 1]]

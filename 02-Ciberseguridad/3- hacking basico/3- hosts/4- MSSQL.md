@@ -126,7 +126,7 @@ Transactions
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[3- Ldap]]
 - ➡️ Siguiente: [[5- MySQL]]
 
@@ -146,4 +146,4 @@ Transactions
 - [[2- Insertar Información a la Base de Datos desde Python]] — `pymssql` / `pyodbc` equivalente.
 - [[3- Consultas a la Base de Datos]] — consultas SQL desde Python.
 - [[4- Consultar a la Base de Datos + Sentencias Condicionales]] — lógica condicional sobre consultas.
-- [[../../../03-Desarrollo/1- Bases de Datos/1- ¿Qué son las Bases de Datos en MySQL Workbench y Cómo se Crean!|03 → Bases de Datos]] — teoría de BD.
+- [[_1- Bases de Datos|03 → Bases de Datos]] — teoría de BD.

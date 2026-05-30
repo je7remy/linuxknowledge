@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Cómo las intrusiones comprometen su sistema
 
 En esta sección del curso, ha aprendido que toda red tiene vulnerabilidades inherentes y podría convertirse en el objetivo de un ataque a la red.
 
@@ -35,3 +42,11 @@ Como ya ha aprendido, los ataques a la red pueden tener un importante impacto ne
 ## Puntos clave
 
 Los actores maliciosos buscan constantemente formas de explotar los sistemas. Se enteran de las nuevas vulnerabilidades a medida que surgen e intentan explotar todas las vulnerabilidades de un sistema. Los atacantes aprovechan los métodos de ataque de puerta trasera y los ataques de interceptación de redes para obtener acceso a información confidencial que pueden utilizar para explotar una organización o causar daños graves. Este tipo de ataques puede tener un impacto financiero en una organización, dañar su Reputación y poner potencialmente en peligro al público. Es importante que los analistas de seguridad se mantengan informados para mantener la seguridad de las redes y reducir la probabilidad y el impacto de este tipo de ataques. La seguridad de las redes nunca ha sido tan importante.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[2- El caso de la seguridad de las redes]]
+- ➡️ Siguiente: [[4- Matt, Un profesional para hacer frente a los ataques]]

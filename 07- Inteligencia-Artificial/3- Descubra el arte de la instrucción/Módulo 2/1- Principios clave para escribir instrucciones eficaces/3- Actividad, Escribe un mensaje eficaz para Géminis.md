@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, prompting, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Actividad, Escribe un mensaje eficaz para Géminis
 
 Esta actividad es opcional, pero muy recomendable para ayudarte a practicar el uso de las herramientas de IA. Al final, responderás a preguntas de autoevaluación para reflexionar sobre tu aprendizaje. Si no puedes completar esta actividad, podrás seguir avanzando en el curso y obtener un certificado de Google.
 
@@ -46,3 +53,11 @@ Pregunta 1
 ¿Le ha resultado útil el marco de orientación? Describa cómo. _Escribe 1-3 frases_.
 
 Sí, me resultó muy útil. En mi trabajo de soporte técnico, estoy acostumbrado a dar contexto y detalles precisos para resolver problemas, y veo que aplicar esa misma lógica de Tareas y Contexto a la IA ayuda a que la respuesta sea mucho más relevante y profesional.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+- ⬅️ Anterior: [[2- Instrucción de buenas prácticas]]
+- ➡️ Siguiente: [[4- Aprovecha el potencial de un LLM en el trabajo]]

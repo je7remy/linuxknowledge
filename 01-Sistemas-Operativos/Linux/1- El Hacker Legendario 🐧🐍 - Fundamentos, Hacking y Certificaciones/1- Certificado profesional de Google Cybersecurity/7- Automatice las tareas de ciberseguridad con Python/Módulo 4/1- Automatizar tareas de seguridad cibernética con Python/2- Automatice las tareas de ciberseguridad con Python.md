@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Automatice las tareas de ciberseguridad con Python
 
 ## 🏥 Ejemplo 1: Política de Tiempo de Espera (Empresa de Atención Médica)
 
@@ -27,3 +34,11 @@
     * Usar **condicionales (`if`)** para marcar a usuarios con más de tres inicios de sesión fallidos en los últimos 30 minutos.
 
 Estos ejemplos muestran cómo Python ayuda a los analistas de seguridad a crear soluciones eficientes para proteger sistemas y datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 4]]
+- ➡️ Siguiente: [[3- Automatización de tareas en CI-CD]]

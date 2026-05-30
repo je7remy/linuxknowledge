@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Sniffing de paquetes malicioso
 
 ## 🎯 **Sniffing de Paquetes - Contenido Completo del Video**
 
@@ -143,3 +150,9 @@ Como profesional de seguridad:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- Suplantación de IP]]

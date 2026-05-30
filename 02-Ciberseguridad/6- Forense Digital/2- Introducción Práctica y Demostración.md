@@ -85,7 +85,7 @@ La informática forense es una mezcla de tecnología, método y leyes que te per
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|6- Forense Digital]]
+- ⬆️ Carpeta: [[_6- Forense Digital|6- Forense Digital]]
 - ⬅️ Anterior: [[1- Investigación de Spear Phishing - Caso Luxury Design JFK]]
 - ➡️ Siguiente: [[3- Introducción Práctica y Demostración Parte 2]]
 
@@ -94,5 +94,5 @@ La informática forense es una mezcla de tecnología, método y leyes que te per
 - [[3- Introducción Práctica y Demostración Parte 2]] — continuación con metodología y técnicas anti-forenses.
 - [[1- Investigación de Spear Phishing - Caso Luxury Design JFK]] — aplicación de estos conceptos en caso real.
 - [[4- Caso Practico, Un hacker entró a mi equipo]] — caso práctico de DFIR.
-- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/index|Google → 6- Detección y respuesta]] — marco teórico SIEM/SOC.
-- [[../2- Extraer Metadatos de imagenes/1- Extraer Metadatos de las imagenes|Extraer Metadatos]] — técnica forense básica.
+- [[_6- Haga sonar la alarma Detección y respuesta|Google → 6- Detección y respuesta]] — marco teórico SIEM/SOC.
+- [[_2- Extraer Metadatos de imagenes|Extraer Metadatos]] — técnica forense básica.

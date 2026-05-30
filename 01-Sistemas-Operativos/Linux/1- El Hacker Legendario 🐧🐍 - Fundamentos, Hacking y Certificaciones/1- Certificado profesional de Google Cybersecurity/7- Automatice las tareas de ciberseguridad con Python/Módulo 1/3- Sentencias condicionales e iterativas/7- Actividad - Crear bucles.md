@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Actividad - Crear bucles
 
 ### 🧠 Tarea 1
 
@@ -296,3 +303,11 @@ Si `print(i)` estuviera _dentro_ del `if`, el programa solo imprimiría el núme
 - **Lógica Condicional:** Anidar sentencias `if`/`else` dentro de los bucles permite ejecutar acciones específicas para ciertos elementos durante la iteración.
     
 - **`break`:** La palabra clave `break` es una herramienta poderosa para detener un bucle prematuramente, lo cual es crucial en escenarios de seguridad cuando se detecta una anomalía (como una IP no autorizada).
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[6- Más sobre bucles en Python]]
+- ➡️ Siguiente: [[8- Ponga a prueba sus Conocimientos - Sentencias condicionales e iterativas]]

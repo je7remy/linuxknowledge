@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Widgets de Tipo Button y Label
 
 ---
 
@@ -61,3 +68,11 @@ Este código introduce los conceptos básicos de **Tkinter**, una librería de P
 ✅ **Utilizar el loop principal (`mainloop()`)** para mantener la ventana activa.
 
 Este es un ejemplo simple, pero sienta las bases para desarrollar aplicaciones más complejas con eventos, widgets adicionales y lógica personalizada. 🎯🚀
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]
+- ⬅️ Anterior: [[1- Introducción a las Interfaces Gráficas con Python]]
+- ➡️ Siguiente: [[3- Widgets de Tipo Entry]]

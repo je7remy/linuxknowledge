@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Infraestructura de clave pública
 
 # 🔑 Infraestructura de Clave Pública (PKI)
 
@@ -142,3 +149,11 @@ El proceso de **PKI** implica dos pasos:
 Estos certificados digitales vinculan la **clave pública** con la **identidad verificada** de un sitio web, organización, individuo, dispositivo o servidor, asegurando que la comunicación en línea sea confiable y segura.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Fundamentos de la criptografía]]
+- ➡️ Siguiente: [[3- Cifrado simétrico y asimétrico]]

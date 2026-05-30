@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Sentencias Condicionales – IF, ELIF y ELSE
 **Paso a paso de las sentencias condicionales en Bash:**
 
 Las sentencias condicionales en Bash permiten evaluar condiciones y ejecutar comandos dependiendo de si esas condiciones se cumplen o no. Los ejemplos que mencionaste demuestran varios usos de estructuras condicionales. Aquí está el análisis paso a paso:
@@ -195,4 +202,11 @@ fi
     - Olvidar los espacios en los corchetes: `[ "$variable" = "valor" ]`.
     - No usar comillas dobles, lo que puede causar problemas con valores vacíos o espacios.
 
-Estos bloques condicionales son básicos pero fundamentales para automatizar tareas en scripts de Bash. 
+Estos bloques condicionales son básicos pero fundamentales para automatizar tareas en scripts de Bash.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Sentencias Condicionales|4- Sentencias Condicionales]]
+- ➡️ Siguiente: [[2- Operadores Lógicos]]

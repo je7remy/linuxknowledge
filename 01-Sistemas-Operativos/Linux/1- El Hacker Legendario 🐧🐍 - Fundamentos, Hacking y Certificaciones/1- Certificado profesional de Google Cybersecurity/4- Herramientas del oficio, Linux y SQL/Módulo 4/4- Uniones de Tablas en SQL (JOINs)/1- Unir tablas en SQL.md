@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Unir tablas en SQL
 
 # 📌 Unir Tablas en SQL – INNER JOIN
 
@@ -148,3 +155,9 @@ Por lo tanto, el resultado será:
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Tipos de uniones]]

@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Análisis De La Red Desde Linux – Comandos Básicos Parte 1
 
 ---
 
@@ -54,3 +61,11 @@ Cada paso implica una fase del reconocimiento o análisis de una red o dispositi
 **[[1- Hoja de trucos NMAP]]**
 **[[3- nmap firewall evasion]]**
 **[[4- nmap output]]**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]
+- ⬅️ Anterior: [[2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web]]
+- ➡️ Siguiente: [[4- Análisis de la Red con Bash – PARTE 2]]

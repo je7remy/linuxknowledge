@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, backend, test-conocimientos, quiz]
+actualizado: 2026-05-28
+---
+
+# Test de conocimientos — Qué es un backend
 
 ### 1- ¿Qué componente valida si un usuario y contraseña son correctos?
 
@@ -194,3 +201,11 @@ _Seleccione solamente LA MEJOR respuesta_
 > Esta respuesta es correcta.
 > 
 > Python es popular por su versatilidad en Backend e IA.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ⬅️ Anterior: [[2- Qué es un backend]]
+- ➡️ Siguiente: [[4- API y FastAPI]]

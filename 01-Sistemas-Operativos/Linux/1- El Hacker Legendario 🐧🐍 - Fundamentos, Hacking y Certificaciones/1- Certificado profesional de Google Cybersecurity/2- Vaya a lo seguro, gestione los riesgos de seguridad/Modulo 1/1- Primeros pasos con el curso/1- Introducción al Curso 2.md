@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción al Curso 2
 
 ## 🎓 Introducción al Curso – Seguridad en Operaciones Empresariales
 
@@ -50,3 +57,10 @@ Proteger una organización y sus activos es esencial para garantizar la continui
 Estoy muy emocionada por acompañarte en este camino. ¡**Empecemos!**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Resumen del curso 2]]

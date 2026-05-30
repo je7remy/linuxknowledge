@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [tool-use, function-calling, structured-output, json-mode, llm, python, ms-reactor]
+actualizado: 2026-05-28
+---
+
+# Sesión 5 — Python + IA, Llamadas a funciones y salidas estructuradas
+
 **Microsoft Python + IA: Llamada a Funciones y Salidas Estructuradas**  
 *Por Gwyneth Peña-Siguenza, Python Cloud Advocate en Microsoft*  
 
@@ -100,3 +108,11 @@ Las **llamadas a funciones** y **salidas estructuradas** potencian aplicaciones 
 
 ¡Nos vemos en la próxima sesión! 🚀  
 *Gwyneth Peña-Siguenza | [LinkedIn](https://linkedin.com/in/madebygps)*
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]
+- ⬅️ Anterior: [[4- Python + IA, Modelos de Visión]]
+- ➡️ Siguiente: [[6- Python + IA, Calidad y seguridad]]

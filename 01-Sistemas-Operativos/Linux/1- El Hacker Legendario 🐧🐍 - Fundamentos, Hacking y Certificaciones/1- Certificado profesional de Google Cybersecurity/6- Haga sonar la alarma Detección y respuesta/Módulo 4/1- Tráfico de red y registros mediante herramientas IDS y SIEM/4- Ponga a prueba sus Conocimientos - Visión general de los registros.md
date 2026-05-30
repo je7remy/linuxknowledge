@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Visión general de los registros
 
 
 ## 1. Pregunta 1
@@ -68,3 +75,10 @@ En el siguiente registro, ¿qué acción registra la entrada del registro?
 
 > **Correcto**. El análisis de registros es el proceso de examinar los registros para identificar los eventos de interés.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[3- Mejores prácticas para la recogida y gestión de registros]]
+- ➡️ Siguiente: [[5- Rebeca - Aprender nuevas herramientas y tecnologías]]

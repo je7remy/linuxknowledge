@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Amenazas, riesgos y vulnerabilidades
 
 ### 🛡️ Conceptos Clave en Seguridad de Activos
 
@@ -72,3 +79,10 @@
     
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ➡️ Siguiente: [[2- Impactos clave de las amenazas, los riesgos y las vulnerabilidades]]

@@ -337,7 +337,7 @@ Aquí te ayudo a completar la tabla de **Elementos de las Reglas de Compromiso**
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬆️ Carpeta: [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|Módulo 2]]
 - ⬅️ Anterior: [[3- Explicar la importancia del alcance y los requisitos de la organización o del cliente]]
 - ➡️ Siguiente: [[5- Laboratorio - Crear un acuerdo de pentesting]]
 

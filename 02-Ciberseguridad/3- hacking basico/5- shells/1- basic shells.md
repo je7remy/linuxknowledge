@@ -27,13 +27,13 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|5- shells]]
+- ⬆️ Carpeta: [[_5- shells|5- shells]]
 - ➡️ Siguiente: [[2- tipos de shell]] — teoría completa de los 3 tipos.
 
 ## Relacionadas
 
 - [[2- tipos de shell]] — explicación detallada de cada comando de este cheatsheet.
-- [[../4- privilege scalation/index|4- privilege scalation]] — siguiente paso tras obtener shell.
+- [[_4- privilege scalation|4- privilege scalation]] — siguiente paso tras obtener shell.
 - [[../6- Web/1- Protocolo HTTP|6- Web → HTTP]] — base del Web Shell (`curl`, parámetros GET).
 - [[4- Cómo Utilizar CURL con HTTP]] — uso de `curl` desde Linux/Bash.
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/14- Sockets/1- Introducción a los Sockets|Sockets en Python]] — base de bind/reverse shells programáticas.

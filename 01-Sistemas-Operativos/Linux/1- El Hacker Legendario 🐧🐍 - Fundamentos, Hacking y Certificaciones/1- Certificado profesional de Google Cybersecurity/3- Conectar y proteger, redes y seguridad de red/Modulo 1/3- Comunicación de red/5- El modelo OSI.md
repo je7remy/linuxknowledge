@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# El modelo OSI
 
 Hasta ahora, en esta sección del curso, aprendió sobre los componentes de una red, los dispositivos de red y cómo se produce la comunicación a través de una red. También ha estudiado el modelo TCP/IP para comprender cómo se organiza la comunicación de red en las diferentes capas de Internet.
 
@@ -54,3 +61,11 @@ Como su nombre indica, la capa física corresponde al hardware físico involucra
 ## Conclusiones clave
 
 Tanto el modelo TCP/IP como el OSI son modelos conceptuales que ayudan a los profesionales de redes a diseñar procesos y protocolos de red con respecto a la transmisión de datos entre dos o más sistemas. El modelo OSI contiene siete capas de comunicación. Los profesionales de redes y seguridad utilizan el modelo OSI para comunicarse entre sí sobre posibles fuentes de problemas o amenazas de seguridad cuando se producen. Los ingenieros de redes y los analistas de seguridad de redes utilizan los modelos TCP/IP y OSI para conceptualizar los procesos de red y comunicar la ubicación de interrupciones o amenazas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Más información sobre el modelo TCP-IP]]
+- ➡️ Siguiente: [[6- Cuestionario, Modelo TCP-IP y Comunicación en Redes]]

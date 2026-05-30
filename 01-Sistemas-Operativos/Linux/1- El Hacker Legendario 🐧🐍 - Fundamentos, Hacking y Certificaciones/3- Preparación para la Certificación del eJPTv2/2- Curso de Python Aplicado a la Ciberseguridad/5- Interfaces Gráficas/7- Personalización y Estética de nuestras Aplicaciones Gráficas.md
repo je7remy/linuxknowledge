@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Personalización y Estética de nuestras Aplicaciones Gráficas
 
 ---
 
@@ -312,3 +319,9 @@ ventana.mainloop()
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]
+- ⬅️ Anterior: [[6- Ejercicio Práctico con Interfaces Gráficas]]

@@ -1,4 +1,3 @@
-
 ---
 
 ### 🧠 Guía de Referencia: Conceptos de Python (Módulo 1)
@@ -54,3 +53,11 @@ Se utilizan para ejecutar un bloque de código repetidamente.
 |**`while`**|Señala el inicio de un bucle `while`; usado para iterar basándose en que una condición sea `True`.|`while login_attempts < 5:` _(Se repite mientras el valor de `login_attempts` sea menor que 5.)_|
 |**`break`**|Se utiliza para salir (romper) permanentemente de un bucle.|_(Se usa dentro de un `if` en un bucle para detenerlo prematuramente.)_|
 |**`continue`**|Se utiliza para saltar la iteración actual del bucle y continuar con la siguiente.|_(Se usa dentro de un `if` en un bucle para omitir el resto del código de esa iteración.)_|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Recapitulación]]
+- ➡️ Siguiente: [[3- Términos del glosario del Módulo 1]]

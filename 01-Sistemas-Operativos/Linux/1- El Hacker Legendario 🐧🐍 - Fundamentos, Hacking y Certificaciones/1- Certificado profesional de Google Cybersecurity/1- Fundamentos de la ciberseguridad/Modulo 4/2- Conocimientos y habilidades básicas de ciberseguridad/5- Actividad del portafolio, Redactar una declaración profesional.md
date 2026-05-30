@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Actividad del portafolio, Redactar una declaración profesional
 
 ## 🛡️ Declaración Profesional
 
@@ -18,3 +25,11 @@ Lo que más me interesa de la ciberseguridad es su impacto directo en la **confi
 |¿Está libre de errores gramaticales y ortográficos?|✔️ Sí|Redacción clara, coherente y sin errores.|
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[4- Crear un portafolio de ciberseguridad]]
+- ➡️ Siguiente: [[6- Modelo de Actividad de Portafolio, Redactar una declaración profesional]]

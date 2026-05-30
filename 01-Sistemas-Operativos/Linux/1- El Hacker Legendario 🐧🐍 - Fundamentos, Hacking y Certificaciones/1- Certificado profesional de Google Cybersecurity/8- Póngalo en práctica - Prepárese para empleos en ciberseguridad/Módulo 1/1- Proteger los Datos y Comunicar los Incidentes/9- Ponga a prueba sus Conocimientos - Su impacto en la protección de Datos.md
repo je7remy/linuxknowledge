@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Su impacto en la protección de Datos
 
 ### 🧠 Pregunta 1
 
@@ -103,3 +110,11 @@ Cuando un evento de seguridad resulta en una violación de los Datos, se categor
 📘 Justificación:
 
 El tiempo de inactividad operativa, las consecuencias financieras y la pérdida de recursos son ejemplos del impacto potencial de un incidente de Seguridad que implique código malicioso. "Protección de datos" es un objetivo de seguridad, no un impacto negativo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[8- Historia de Juliana - Protección de los recursos]]
+- ➡️ Siguiente: [[10- Recapitulación]]

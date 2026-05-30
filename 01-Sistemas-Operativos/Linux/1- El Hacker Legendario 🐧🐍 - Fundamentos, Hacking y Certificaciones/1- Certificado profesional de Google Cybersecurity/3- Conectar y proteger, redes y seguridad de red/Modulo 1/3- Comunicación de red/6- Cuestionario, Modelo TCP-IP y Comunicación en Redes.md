@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Cuestionario, Modelo TCP-IP y Comunicación en Redes
 
 **1. ¿Qué tipo de información contiene el encabezado de un paquete IP?**  
 ✅ _La dirección IP del remitente, la dirección MAC de destino y el protocolo a utilizar_
@@ -34,3 +41,9 @@ Es la cuarta capa, y se encarga de determinar cómo interactúan los paquetes co
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[5- El modelo OSI]]

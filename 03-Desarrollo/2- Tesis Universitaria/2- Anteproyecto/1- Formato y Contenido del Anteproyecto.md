@@ -1,3 +1,10 @@
+---
+tipo: tesis
+tags: [tesis, anteproyecto, estructura, formato]
+actualizado: 2026-05-28
+---
+
+# Formato y Contenido del Anteproyecto
 
 El anteproyecto seguirá una estructura formal que incluye las siguientes secciones:
 
@@ -24,3 +31,10 @@ El anteproyecto seguirá una estructura formal que incluye las siguientes seccio
 11. 4. Desarrollo del Sistema  
 12. 5. Resultados y Discusión  
 13. 6. Conclusiones y Recomendaciones
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ➡️ Siguiente: [[2- Borrón Anteproyecto 1]]

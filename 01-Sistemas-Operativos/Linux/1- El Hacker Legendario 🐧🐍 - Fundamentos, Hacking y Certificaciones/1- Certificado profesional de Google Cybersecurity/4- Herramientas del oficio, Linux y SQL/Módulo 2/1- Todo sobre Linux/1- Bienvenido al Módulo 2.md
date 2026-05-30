@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Bienvenido al Módulo 2
 
 ## 🐧 **Bienvenida a la sección de Linux para Seguridad**
 
@@ -83,3 +90,10 @@
 Prepárate para conocer cómo Linux funciona **por dentro**, y cómo dominarlo te dará una ventaja en tu carrera en ciberseguridad.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Introducción a Linux]]

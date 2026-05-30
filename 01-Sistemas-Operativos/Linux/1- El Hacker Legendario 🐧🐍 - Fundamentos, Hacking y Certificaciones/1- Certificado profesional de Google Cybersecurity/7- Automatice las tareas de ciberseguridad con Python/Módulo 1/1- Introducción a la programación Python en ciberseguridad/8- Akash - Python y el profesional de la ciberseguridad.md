@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Akash - Python y el profesional de la ciberseguridad
 
 ## 💬 Mensaje de Akash — Ingeniero de Seguridad en Google
 
@@ -23,3 +30,10 @@ Python es una **habilidad esencial**, y aunque al principio te tomará tiempo do
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[7- Practica escribiendo código en Python]]
+- ➡️ Siguiente: [[9- Ponga a prueba sus Conocimientos - Introducción a la programación Python en ciberseguridad]]

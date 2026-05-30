@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción a los sistemas operativos
 
 Dispositivos como computadoras, teléfonos inteligentes y tabletas, todos tienen sistemas operativos. Si ha utilizado una computadora de escritorio o portátil, puede que haya utilizado los sistemas operativos Windows o MacOS. Los smartphones y las tabletas funcionan con sistemas operativos móviles como Android e iOS. Otro sistema operativo popular es Linux. Linux se utiliza en el sector de la seguridad, y como profesional de la seguridad, es probable que interactúe con el SO Linux. Entonces, ¿qué es exactamente un sistema operativo? Es la interfaz entre el hardware de la computadora y el usuario. El sistema operativo, o el OS como se le llama comúnmente, es responsable de hacer que el ordenador funcione de la forma más eficiente posible a la vez que lo hace fácil de usar. El hardware puede ser otro término nuevo. El hardware se refiere a los componentes físicos de un ordenador. La interfaz del OS en la que ahora confiamos todos los días es algo que los primeros ordenadores no tenían. En los años 50 el mayor reto con los primeros ordenadores era la cantidad de tiempo que se tardaba en ejecutar un programa de ordenador. En aquella época, las computadoras no podían ejecutar varios programas simultáneamente. En su lugar, la gente tenía que esperar a que un programa terminara de ejecutarse, restablecer la computadora y cargar el nuevo programa. ¡Imagínese tener que encender y apagar la computadora cada vez que tenía que abrir una nueva aplicación! Le llevaría mucho tiempo completar una tarea tan sencilla como enviar un correo electrónico. Desde entonces, los sistemas operativos han evolucionado, y ya no tenemos que preocuparnos por perder el tiempo de esta manera. Gracias a los sistemas operativos y a su evolución, las computadoras de hoy en día funcionan de manera eficiente. Ejecutan múltiples aplicaciones a la vez, y también acceden a dispositivos externos como impresoras, teclados y ratones.
 
@@ -14,3 +21,10 @@ La respuesta **correcta** a esta pregunta incluye las **tres primeras opciones**
 ✅ **Mantener la seguridad de un sistema operativo es fundamental para la seguridad de una computadora.**  
 ❌ **Los sistemas operativos constan de componentes físicos.** → Incorrecto, **eso describe al hardware**, no al sistema operativo, que es software.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- Kim, Mi viaje a la informática]]
+- ➡️ Siguiente: [[4- Comparar sistemas operativos]]

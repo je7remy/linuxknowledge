@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 3
 
 ## **Términos y definiciones del Curso 6, Módulo 3**
 
@@ -52,3 +59,11 @@
 **Triaje**: La priorización de incidentes según su nivel de importancia o urgencia
 
 **VirusTotal**: Un servicio que permite a cualquiera analizar archivos, dominios, URL y direcciones IP sospechosos en busca de contenido malicioso
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Recapitulación]]
+- ➡️ Siguiente: [[7- Desafío del módulo 3]]

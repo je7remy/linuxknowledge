@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [fastapi, configuracion, entorno, virtualenv, pip]
+actualizado: 2026-05-28
+---
+
+# Configuración FastAPI
 
 # **Módulo 3: Configuración del Entorno y Primer Despliegue**
 
@@ -112,3 +119,9 @@ A veces, los desarrolladores novatos cierran la terminal completa para apagar el
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]
+- ➡️ Siguiente: [[2- Test de conocimientos - Configuración FastAPI]]

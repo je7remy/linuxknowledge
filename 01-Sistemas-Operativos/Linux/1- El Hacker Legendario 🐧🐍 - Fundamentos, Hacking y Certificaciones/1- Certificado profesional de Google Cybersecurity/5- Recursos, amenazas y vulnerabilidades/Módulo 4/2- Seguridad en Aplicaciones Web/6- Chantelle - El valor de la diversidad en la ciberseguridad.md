@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Chantelle - El valor de la diversidad en la ciberseguridad
 
 # 👩‍💻 Testimonio de Chantelle – Ingeniera de Seguridad en Google
 
@@ -68,3 +75,11 @@
         
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[5- Un enfoque proactivo de la Seguridad]]
+- ➡️ Siguiente: [[7- PASTA - Proceso de Simulación de Ataques y Análisis de Amenazas]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# El auge de SSO y MFA
 
 La mayoría de las empresas ayudan a mantener sus Datos a buen recaudo tras sistemas de autenticación. Los nombres de usuario y las contraseñas son las claves que desbloquean la Información para la mayoría de las organizaciones. Pero, ¿son suficientes esas credenciales? La Seguridad de la información a menudo se centra en gestionar el acceso y la autorización de un usuario a la información.
 
@@ -54,3 +61,11 @@ Exigir múltiples formas de identificación es una medida de seguridad eficaz, e
 ## Claves
 
 Implementar controles de seguridad tanto de SSO como de MFA mejora la seguridad sin sacrificar la experiencia del usuario. Confiar únicamente en las contraseñas es una vulnerabilidad grave. Implementar el SSO significa menos puntos de entrada, pero eso no es suficiente. Combinar el SSO y la MFA puede ser una forma eficaz de proteger la Información, para que los usuarios tengan una experiencia ágil mientras se mantiene a las personas no autorizadas alejadas de la información importante.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Controles de acceso y sistemas de autenticación]]
+- ➡️ Siguiente: [[3- Los mecanismos de autorización]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Comunicar para causar impacto
 
 ### Pregunta 1
 
@@ -72,3 +79,11 @@ Rellene el espacio en blanco: Gráficos, diagramas, vídeos y paneles son ejempl
 > Correcto
 > 
 > Gráficos, diagramas, vídeos y cuadros de mando son ejemplos de comunicaciones visuales. Las comunicaciones visuales son útiles en situaciones en las que se están comparando o revisando varias cifras y conjuntos de datos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[5- Comunicarse eficazmente con las partes interesadas]]
+- ➡️ Siguiente: [[7- Narración visual en ciberseguridad]]

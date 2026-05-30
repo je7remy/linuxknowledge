@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos -  Inspección de paquetes
 
 ### ## Pregunta 1
 
@@ -64,3 +71,10 @@
     
 
 **Explicación:** La opción `-w` significa **escribir** (_write_) y se usa para guardar los paquetes capturados en un archivo `.pcap`. La opción `-r` se usaría después para **leer** (_read_) ese archivo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[5- Ejemplar - Capture su primer Paquete]]

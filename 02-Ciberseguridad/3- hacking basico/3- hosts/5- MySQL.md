@@ -193,7 +193,7 @@ Debemos saber interactuar con diferentes bases de datos. Por lo tanto, recomenda
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬆️ Carpeta: [[_3- hosts|3- hosts]]
 - ⬅️ Anterior: [[4- MSSQL]]
 - ➡️ Siguiente: [[6- NFS]]
 
@@ -213,4 +213,4 @@ Debemos saber interactuar con diferentes bases de datos. Por lo tanto, recomenda
 - [[2- Insertar Información a la Base de Datos desde Python]] — `mysql.connector` o `pymysql`.
 - [[3- Consultas a la Base de Datos]] — `SELECT` desde Python.
 - [[4- Consultar a la Base de Datos + Sentencias Condicionales]] — lógica de filtrado.
-- [[../../../03-Desarrollo/1- Bases de Datos/1- ¿Qué son las Bases de Datos en MySQL Workbench y Cómo se Crean!|03 → MySQL Workbench]] — entorno gráfico para esta DB.
+- [[_1- Bases de Datos|03 → MySQL Workbench]] — entorno gráfico para esta DB.

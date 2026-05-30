@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 2
 
 **1. ¿Cuáles de las siguientes amenazas son ejemplos de malware? (2 respuestas)**  
 ✅ _Gusanos_  
@@ -53,3 +60,10 @@
 ✅ _Operaciones de seguridad_
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Glosario de términos del módulo 2]]

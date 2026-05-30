@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Índices y cortes de cadena
 
 ### 🧠 Índices y Cortes de Cadena
 
@@ -203,3 +210,11 @@ Veamos los índices de la cadena "HELLO":
     
 
 Por lo tanto, la rebanada `[2:4]` extrae los caracteres en los índices 2 y 3, lo que da como resultado `"LL"`.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Operaciones de cadena]]
+- ➡️ Siguiente: [[4- Cadenas y el analista de Seguridad]]

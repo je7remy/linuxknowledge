@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Fases de un manual de respuesta a incidentes
 
 ## 🛡️ **Manual de estrategias y respuesta a incidentes – Resumen general**
 
@@ -136,3 +143,11 @@ Un **manual de estrategias (playbook)** en ciberseguridad es una **guía operati
 - Los manuales de estrategias aclaran qué herramientas deben usarse para responder a incidentes de seguridad.
     
 - Los manuales de estrategias garantizan que las personas sigan una lista coherente de acciones de una manera prescrita.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[1- Bienvenidos al módulo 4]]
+- ➡️ Siguiente: [[3- Más información sobre los cuadernos de estrategias]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Documentación de pruebas con formularios de cadena de custodia
 
 La **cadena de custodia** es un proceso formal para documentar el manejo, la posesión y el control de las pruebas durante todo el ciclo de vida de un incidente de seguridad. Su principal objetivo es garantizar la **integridad**, **fiabilidad** y **exactitud** de las pruebas, especialmente si se van a utilizar en procedimientos legales.
 
@@ -41,3 +48,10 @@ Una **ruptura en la cadena de custodia** ocurre cuando hay errores, omisiones o 
 
 La consecuencia principal es grave: una ruptura puede **comprometer la integridad de las pruebas**. Esto puede hacer que sean consideradas poco fiables y, por lo tanto, **inadmisibles ante un tribunal**. Sin una cadena de custodia sólida, es mucho más difícil responsabilizar legalmente a los actores malintencionados por sus acciones.
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Beneficios de la documentación]]
+- ➡️ Siguiente: [[3- Buenas prácticas para una documentación eficaz]]

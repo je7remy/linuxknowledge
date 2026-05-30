@@ -33,7 +33,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Sección: [[../index|03-Desarrollo]]
+- ⬆️ Sección: [[_03-Desarrollo|03-Desarrollo]]
 
 ## Relacionadas (motores de DB pentest)
 
@@ -53,4 +53,4 @@ actualizado: 2026-05-28
 - [[2- Insertar Información a la Base de Datos desde Python]] — INSERT desde Python.
 - [[3- Consultas a la Base de Datos]] — SELECT desde Python.
 - [[4- Consultar a la Base de Datos + Sentencias Condicionales]] — lógica condicional.
-- [[../2- Tesis Universitaria/index|2- Tesis Universitaria]] — proyecto que usa MySQL.
+- [[_2- Tesis Universitaria|2- Tesis Universitaria]] — proyecto que usa MySQL.

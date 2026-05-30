@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Bucle WHILE – PARTE 2
 ### Código:
 
 ```bash
@@ -68,3 +75,11 @@ Cuando ejecutas este script:
 1. Pide un número al usuario.
 2. Si el número no coincide con el `numero_secreto` (2), sigue pidiendo intentos.
 3. Cuando el usuario acierta, muestra el mensaje "Nice, es ese, adivinaste" y termina la ejecución.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]
+- ⬅️ Anterior: [[5- Bucle WHILE – PARTE 1]]
+- ➡️ Siguiente: [[7- Bucle WHILE – Iterar por Líneas]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Importar archivos a Python
 
 Anteriormente, usted exploró cómo abrir archivos en Python, convertirlos en cadenas y leerlos. En esta lectura, revisará la sintaxis necesaria para ello. También se centrará en por qué la capacidad de trabajar con archivos es importante para los analistas de Seguridad que utilizan Python, y aprenderá sobre la escritura de archivos.
 
@@ -89,3 +96,10 @@ with open("access_log.txt", "a") as file:
 
 Es importante para los analistas de Seguridad ser capaces de importar archivos a Python y luego leer o escribir en ellos. Importar archivos en Python implica utilizar la palabra clave with, la función open() y la palabra clave as. La lectura desde y la escritura en archivos requiere el conocimiento de los métodos .read() y .write() y los argumentos para la función open() de "r", "w" y "a".
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[1- Acceder a un archivo de texto en Python]]
+- ➡️ Siguiente: [[3- Analizar un archivo de texto en Python]]

@@ -48,11 +48,11 @@ Un programa de seguridad robusto, que incluya pruebas de penetración, puede dif
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- Introducción a las pruebas de penetración]]
+- ⬆️ Carpeta: [[_2- Introducción a las pruebas de penetración|2- Introducción a las pruebas de penetración]]
 - ⬅️ Anterior: [[3- Áreas y dominios de prueba]]
 
 ## Relacionadas
 
 - [[1- Introducción]] — primer módulo del curso, contextualiza estos beneficios.
 - [[2- Tipos de pruebas de penetración]] — el caso de la institución financiera aparece allí en detalle.
-- [[../../../../../../02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|02 → Módulo 2: Planificación y Alcance]] — siguiente paso natural: cómo se enmarca contractualmente un pentest.
+- [[_Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración|02 → Módulo 2: Planificación y Alcance]] — siguiente paso natural: cómo se enmarca contractualmente un pentest.

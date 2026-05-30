@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Los Operadores Lógicos
 
 ---
 
@@ -129,3 +136,11 @@ print(not numero > 5)
 [[8- Sentencias Condicionales]]
 [[9- Bucle FOR]]
 [[10- Bucle WHILE]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]
+- ⬅️ Anterior: [[6- Los Diccionarios]]
+- ➡️ Siguiente: [[8- Sentencias Condicionales]]

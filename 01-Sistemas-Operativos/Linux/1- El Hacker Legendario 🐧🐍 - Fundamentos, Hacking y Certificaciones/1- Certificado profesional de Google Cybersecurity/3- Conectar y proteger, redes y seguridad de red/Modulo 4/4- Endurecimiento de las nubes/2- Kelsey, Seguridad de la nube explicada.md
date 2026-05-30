@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Kelsey, Seguridad de la nube explicada
 
 ### 🎙️ **Testimonio de Kelsey – Ingeniera en Google Cloud**
 
@@ -42,3 +49,11 @@ Kelsey comparte su inspiradora trayectoria profesional, desde sus inicios hasta 
 > “**Aprender es un superpoder**. No solo te consigue el trabajo que quieres, sino que también te da el poder de crear el próximo.”
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[1- Seguridad de red en la nube]]
+- ➡️ Siguiente: [[3- Asegure la nube]]

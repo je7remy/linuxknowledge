@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Términos del glosario del Módulo 1
 
 ### 🧠 Términos y Definiciones (Curso 7, Módulo 1)
 
@@ -25,3 +32,11 @@
 |**Datos de tupla**|Estructura de los datos que consiste en una colección de datos que no pueden modificarse.|
 |**Error de tipo**|Error que se produce al utilizar un tipo de datos incorrecto.|
 |**Variable**|Un contenedor que almacena Datos.|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[2- Guía de referencia - Conceptos de Python del Módulo 1]]
+- ➡️ Siguiente: [[4- Desafío del módulo 1]]

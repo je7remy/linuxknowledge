@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Más distribuciones de Linux
 
 Anteriormente, se le presentó a las diferentes distribuciones de Linux. Esto incluyó KALI LINUX. (KALI LINUX es una marca registrada de OffSec.) Además de KALI LINUX, hay múltiples otras distribuciones de Linux que los analistas de seguridad deben estar familiarizados. En esta lectura, usted aprenderá acerca de las distribuciones de Linux adicionales.
 
@@ -30,3 +37,11 @@ Parrot también se considera una distribución de Linux fácil de usar. Esto se 
 ## Puntos clave
 
 KALI LINUX, Ubuntu, Parrot, Red Hat y CentOS son todas distribuciones de Linux ampliamente utilizadas. Es importante que los analistas de seguridad sean conscientes de estas distribuciones que podrían encontrar en su carrera.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[2- KALI LINUX]]
+- ➡️ Siguiente: [[4- Administradores de paquetes para instalar aplicaciones]]

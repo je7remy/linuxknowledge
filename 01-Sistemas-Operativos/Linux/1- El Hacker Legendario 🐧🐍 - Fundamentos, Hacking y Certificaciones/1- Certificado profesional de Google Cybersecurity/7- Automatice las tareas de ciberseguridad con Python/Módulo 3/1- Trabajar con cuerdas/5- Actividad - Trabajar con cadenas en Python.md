@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Actividad - Trabajar con cadenas en Python
 
 ### 🧠 Tarea 1
 
@@ -276,3 +283,11 @@ El corte [8:ind] funciona así:
 - **Corte (Slicing):** Extraer subcadenas es fácil con la notación de dos puntos `[inicio:fin]`, recordando que el índice `fin` es _exclusivo_ (no se incluye).
     
 - **Métodos de Cadena:** El método `.index("subcadena")` es muy potente para encontrar la posición de una subcadena, lo cual es fundamental para extraer datos de formatos estructurados como las URLs.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ⬅️ Anterior: [[4- Cadenas y el analista de Seguridad]]
+- ➡️ Siguiente: [[6- Ponga a prueba sus Conocimientos - Trabajar con cuerdas]]

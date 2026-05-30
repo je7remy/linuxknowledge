@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - SQL y bases de datos
 
 # 📝 Cuestionario SQL y Bases de Datos Relacionales
 
@@ -73,3 +80,9 @@ Una solicitud de datos de una tabla o de una combinación de tablas se denomina 
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Adedayo SQL en la ciberseguridad]]

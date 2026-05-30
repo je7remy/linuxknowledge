@@ -95,7 +95,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬆️ Carpeta: [[_1- Nmap|1- Nmap]]
 - ➡️ Siguiente: [[2- nmap comands]] — cheatsheet alternativa con foco en HackTheBox.
 
 ## Relacionadas (Nmap)

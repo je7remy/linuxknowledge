@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos, Endurecimiento de las Nubes
 
 ### ✅ **Cuestionario: Seguridad en la Nube**
 
@@ -31,3 +38,9 @@ Una distinción clave entre el endurecimiento de la red en la nube y el tradicio
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[4- Criptografía y Seguridad de la nube]]

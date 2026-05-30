@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Manvinder, Formas en que utilizo la IA en mi trabajo
 
 ## Testimonio de Manvinder: La IA como Compañera Creativa
 
@@ -57,3 +64,11 @@ Manvinder la utiliza de varias maneras para ser más eficiente y superar bloqueo
 Manvinder concluye que la IA a menudo puede ayudarte a **mejorar aún más las destrezas que ya tengas**. Por ejemplo, si ya escribes mucho, la IA te hace más eficiente, te ayuda a empezar y agrega más ideas a tus borradores.
 
 Considera que el impacto que puede tener la IA es "inmenso" y conducirá a una mayor productividad y nuevas formas de hacer las cosas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ⬅️ Anterior: [[2- Descubre aplicaciones de la IA generativa]]
+- ➡️ Siguiente: [[4- Entiende cómo funcionan las herramientas de IA]]

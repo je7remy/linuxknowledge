@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Riesgo y Seguridad de los recursos
 
 ### **1. Pregunta 1**
 
@@ -67,3 +74,11 @@ El NIST CSF es un framework _____ que consta de estándares, directrices y mejor
 👉 El CSF es beneficioso porque **se adapta a distintos contextos**, **ayuda al cumplimiento regulatorio** y **sirve como herramienta para identificar y evaluar riesgos**.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[7- Directrices de Seguridad en acción]]
+- ➡️ Siguiente: [[9- Actividad - Puntuar los riesgos en función de su probabilidad y gravedad]]

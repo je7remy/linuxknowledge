@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Dentro del sistema operativo
 
 # Funcionamiento de un Sistema Operativo
 
@@ -106,3 +113,10 @@ La respuesta **correcta** es:
     
 
 Esto permite que el usuario no tenga que interactuar directamente con el hardware —el sistema operativo hace de intermediario eficiente y seguro.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ➡️ Siguiente: [[2- Solicitudes al sistema operativo]]

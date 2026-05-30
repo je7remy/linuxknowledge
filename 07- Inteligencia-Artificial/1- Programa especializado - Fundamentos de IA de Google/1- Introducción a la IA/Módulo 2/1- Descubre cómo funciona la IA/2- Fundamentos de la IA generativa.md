@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Fundamentos de la IA generativa
 
 ## ¿Qué es la IA Generativa?
 
@@ -49,3 +56,11 @@ Por ejemplo, al pedirle a Gemini que "elabore una lista de actividades para unir
 ## Conclusión
 
 La IA generativa ha allanado el camino hacia nuevos y apasionantes horizontes, pero antes de que podamos aprovechar lo que ofrece esa tecnología, es esencial que investiguemos el **potencial y las limitaciones** de la IA en su conjunto.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[1- Explora cómo la IA utiliza el aprendizaje automático]]
+- ➡️ Siguiente: [[3- Una guía de IA y ML]]

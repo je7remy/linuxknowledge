@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, ia-responsable, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Uso responsable de sudo
 
 Anteriormente, usted exploró la autorización, autenticación y comandos de Linux con sudo, useradd y userdel. El comando sudo es importante para los analistas de Seguridad porque permite a los usuarios tener permisos elevados sin poner en riesgo el sistema ejecutando comandos como usuario raíz. Continuará explorando la autorización, autenticación y comandos de Linux en esta lectura y aprenderá dos comandos más que pueden utilizarse con sudo: usermod y chown.
 
@@ -68,3 +75,11 @@ De forma similar a useradd, usermod, y userdel, existen opciones adicionales que
 ## Claves
 
 La autenticación es el proceso por el que un usuario verifica su identidad, y la autorización es el proceso por el que se determina a qué tiene acceso. Puede utilizar el comando sudo para ejecutar temporalmente comandos con privilegios elevados para completar las tareas de gestión de autenticación y autorización. En concreto, useradd, userdel, usermod , y chown pueden utilizarse para gestionar usuarios y la propiedad de archivos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[9- Añadir y eliminar usuarios]]
+- ➡️ Siguiente: [[11- Actividad, Añadir y gestionar usuarios con comandos Linux]]

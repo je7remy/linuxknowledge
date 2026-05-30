@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción al curso 7
 
 # 🐍 **Curso 7: Automatización de tareas de Seguridad con Python**
 
@@ -123,3 +130,9 @@ Con estas habilidades, podrás avanzar hacia una práctica más profesional y t�
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]
+- ➡️ Siguiente: [[2- Ángel - Mi trayectoria profesional personal]]

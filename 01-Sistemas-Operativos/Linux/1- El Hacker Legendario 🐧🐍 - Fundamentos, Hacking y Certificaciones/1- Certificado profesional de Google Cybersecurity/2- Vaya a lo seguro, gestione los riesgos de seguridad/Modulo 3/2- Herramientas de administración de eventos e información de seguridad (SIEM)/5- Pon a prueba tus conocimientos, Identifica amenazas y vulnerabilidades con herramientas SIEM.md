@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Pon a prueba tus conocimientos, Identifica amenazas y vulnerabilidades con herramientas SIEM
 
 ---
 
@@ -65,3 +72,9 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[4- Utilice las herramientas SIEM para proteger a las organizaciones]]

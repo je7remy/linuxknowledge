@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Comparar sistemas operativos
 
 Anteriormente exploró por qué los sistemas operativos son una parte importante del funcionamiento de una computadora. En esta lectura, comparará algunos sistemas operativos populares utilizados en la actualidad. También se centrará en los riesgos de utilizar sistemas operativos heredados.
 
@@ -53,3 +60,11 @@ Mantener un sistema operativo actualizado es una forma clave de ayudar a que el 
 ## Puntos clave
 
 Windows, macOS, Linux, ChromeOS, Android e iOS son sistemas operativos de uso común. Los analistas de Seguridad deben ser conscientes de las vulnerabilidades que afectan a los sistemas operativos. Es especialmente importante que los analistas de seguridad estén familiarizados con los sistemas operativos heredados, que son sistemas obsoletos pero que se siguen utilizando.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[3- Introducción a los sistemas operativos]]
+- ➡️ Siguiente: [[5- Ponga a prueba sus Conocimientos, El maravilloso mundo de los sistemas operativos]]

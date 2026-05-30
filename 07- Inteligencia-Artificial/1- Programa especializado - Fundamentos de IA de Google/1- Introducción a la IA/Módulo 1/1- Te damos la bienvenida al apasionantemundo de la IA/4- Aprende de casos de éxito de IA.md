@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Aprende de casos de éxito de IA
 
 ### **La IA en Acción: Ejemplos en Distintos Sectores**
 
@@ -48,3 +55,11 @@ Veamos algunos ejemplos de cómo la IA está cambiando la forma de trabajar en e
 En general, la IA resulta una herramienta poderosa for todo tipo de actividades comerciales. No importa el sector, la IA tiene el potencial de transformar la forma en que las empresas y organizaciones desarrollan soluciones innovadoras y vanguardistas.
 
 > Mientras continúas tu recorrido por el mundo de la IA, considera lo siguiente: ¿Qué efectos positivos puede tener la IA en tu sector, y cómo puedes ser parte de ese cambio?
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[3- La IA y el futuro del trabajo]]
+- ➡️ Siguiente: [[5- Anoop - Empodérate con la IA]]

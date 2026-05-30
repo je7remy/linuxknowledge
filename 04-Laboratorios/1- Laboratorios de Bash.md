@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [laboratorio]
+actualizado: 2026-05-28
+---
+
+# Laboratorios de Bash
 ## 🧪 Laboratorios & Scripts  
 
 | Herramienta       | Descripción                                  | Última Actualización | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -6,3 +13,11 @@
 | Fuzzing Web       | Script para descubrir directorios ocultos    | Ene 2025             | [GitHub]([linuxknowledge/01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web.md at main · je7remy/linuxknowledge](https://github.com/je7remy/linuxknowledge/blob/main/01-Sistemas-Operativos/Linux/1-%20El%20Hacker%20Legendario%20%F0%9F%90%A7%F0%9F%90%8D%20-%20Fundamentos%2C%20Hacking%20y%20Certificaciones/3-%20Preparaci%C3%B3n%20para%20la%20Certificaci%C3%B3n%20del%20eJPTv2/1-%20Curso%20de%20Linux%20y%20Bash%20Scripting/9-%20Ejercicios%20Pr%C3%A1cticos/2-%20Bash%20Scripting%20Aplicado%20a%20Ciberseguridad%20%E2%80%93%20Script%20para%20Hacer%20Fuzzing%20Web.md))      |
 | Auto Backup SSH   | Sistema automatizado de copias seguras       | Ene 2025             | [GitHub]([linuxknowledge/01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/7- Automatización de Copias de Seguridad en Servidor SSH.md at main · je7remy/linuxknowledge](https://github.com/je7remy/linuxknowledge/blob/main/01-Sistemas-Operativos/Linux/1-%20El%20Hacker%20Legendario%20%F0%9F%90%A7%F0%9F%90%8D%20-%20Fundamentos%2C%20Hacking%20y%20Certificaciones/3-%20Preparaci%C3%B3n%20para%20la%20Certificaci%C3%B3n%20del%20eJPTv2/1-%20Curso%20de%20Linux%20y%20Bash%20Scripting/8-%20Gesti%C3%B3n%20de%20Servidores%20con%20Scripts%20de%20Bash/7-%20Automatizaci%C3%B3n%20de%20Copias%20de%20Seguridad%20en%20Servidor%20SSH.md)) |
 | Analizador de Red | Kit de herramientas para análisis de tráfico | Dic 2024             | [GitHub]([linuxknowledge/01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/5- Análisis de la Red con Bash – PARTE 3.md at main · je7remy/linuxknowledge](https://github.com/je7remy/linuxknowledge/blob/main/01-Sistemas-Operativos/Linux/1-%20El%20Hacker%20Legendario%20%F0%9F%90%A7%F0%9F%90%8D%20-%20Fundamentos%2C%20Hacking%20y%20Certificaciones/3-%20Preparaci%C3%B3n%20para%20la%20Certificaci%C3%B3n%20del%20eJPTv2/1-%20Curso%20de%20Linux%20y%20Bash%20Scripting/9-%20Ejercicios%20Pr%C3%A1cticos/5-%20An%C3%A1lisis%20de%20la%20Red%20con%20Bash%20%E2%80%93%20PARTE%203.md))                                                                           |
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_04-Laboratorios|04-Laboratorios]]
+- ⬅️ Anterior: [[0- Laboratorios Hacker Ético Teoría]]
+- ➡️ Siguiente: [[2- Laboratorios de Python]]

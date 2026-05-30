@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Ashley, Mi camino hacia la ciberseguridad
 
 ## 👩‍💻 Historia Profesional de Ashley – De Trompetista a Directora en Google
 
@@ -88,3 +95,10 @@ No necesitas ser un genio en matemáticas ni un desarrollador experto para traba
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[4- Dominios de seguridad que los analistas de ciberseguridad deben conocer]]
+- ➡️ Siguiente: [[6- Complemento sin calificar, Identificar, los ocho dominios de seguridad de CISSP]]

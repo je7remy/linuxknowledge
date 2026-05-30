@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 2
 
 ## ✅ **Cuestionario de Ciberseguridad 
 
@@ -73,3 +80,10 @@ Un profesional de la seguridad utiliza **autorización** para verificar que un e
 ❌ Preguntas sobre controles específicos _(no es una parte estándar del informe)_
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Glosario de términos del módulo 2]]

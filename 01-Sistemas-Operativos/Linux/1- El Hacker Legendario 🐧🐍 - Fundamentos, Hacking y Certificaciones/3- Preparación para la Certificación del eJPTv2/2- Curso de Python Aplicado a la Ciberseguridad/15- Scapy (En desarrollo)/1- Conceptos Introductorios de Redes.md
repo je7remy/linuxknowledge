@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Conceptos Introductorios de Redes
 ## Introducción a Redes y Scapy en Python para Ciberseguridad
 
 Bienvenidos a este curso de Python aplicado a la ciberseguridad. Antes de comenzar con temas más avanzados, es necesario tener claros algunos conceptos básicos sobre redes, ya que pronto utilizaremos una librería de Python llamada **Scapy**.
@@ -65,3 +72,10 @@ Conocer cómo viajan los paquetes y cómo se encapsulan es esencial para tareas 
 En resumen, la comprensión de estos conceptos es fundamental antes de comenzar a trabajar con Scapy y herramientas similares en el ámbito de la ciberseguridad. La próxima clase profundizaremos directamente en la manipulación de paquetes usando Scapy.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]
+- ➡️ Siguiente: [[2- Uso Básico de Scapy]]

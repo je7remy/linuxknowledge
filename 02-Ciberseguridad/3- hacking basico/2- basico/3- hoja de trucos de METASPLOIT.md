@@ -19,7 +19,7 @@ actualizado: 2026-05-28
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|2- basico]]
+- ⬆️ Carpeta: [[_2- basico|2- basico]]
 - ⬅️ Anterior: [[2- escalada de privilegios]]
 - ➡️ Siguiente: [[4- Metasploit]] — tabla completa de comandos MSF.
 

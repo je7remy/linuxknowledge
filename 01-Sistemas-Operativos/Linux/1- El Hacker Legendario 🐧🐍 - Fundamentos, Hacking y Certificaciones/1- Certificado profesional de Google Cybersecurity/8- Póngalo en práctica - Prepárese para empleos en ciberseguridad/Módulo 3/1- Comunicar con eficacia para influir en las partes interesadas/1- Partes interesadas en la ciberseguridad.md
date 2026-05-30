@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Partes interesadas en la ciberseguridad
 
 
 ### 🧑‍💼 ¿Qué es una Parte Interesada (Stakeholder)?
@@ -52,3 +59,10 @@ Este es el punto más importante para ti:
 - Tu canal de comunicación principal será tu **Gerente de Operaciones**.
     
 - Tu trabajo será crear comunicaciones (informes, resúmenes de alertas) para tu gerente, y él o ella usará esa información para comunicarla "hacia arriba" en la jerarquía.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ➡️ Siguiente: [[2- El propósito y el impacto de las partes interesadas]]

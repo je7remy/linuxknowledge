@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Uso Básico de Scapy
 
 ---
 
@@ -395,3 +402,10 @@ if __name__ == "__main__":
     main()
     ````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]
+- ⬅️ Anterior: [[1- Conceptos Introductorios de Redes]]
+- ➡️ Siguiente: [[3- Interceptar Credenciales en Red – PARTE 1]]

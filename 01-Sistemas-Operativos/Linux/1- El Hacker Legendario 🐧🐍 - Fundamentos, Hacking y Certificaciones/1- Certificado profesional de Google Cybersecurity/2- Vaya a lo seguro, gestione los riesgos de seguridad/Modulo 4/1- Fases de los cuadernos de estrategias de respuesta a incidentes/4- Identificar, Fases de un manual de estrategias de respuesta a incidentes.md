@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Identificar, Fases de un manual de estrategias de respuesta a incidentes
 
 ## 🛡️ **Fases de un Manual de Respuesta a Incidentes**
 
@@ -11,3 +18,11 @@
 |**6. Coordinación**|Reporta los incidentes y comparte información durante todo el proceso de respuesta, según los estándares establecidos.|
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Más información sobre los cuadernos de estrategias]]
+- ➡️ Siguiente: [[5- Zack, La respuesta a incidentes y el valor de los libros de jugadas]]

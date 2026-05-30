@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Wajih, Mantente al día sobre las últimas amenazas de ciberseguridad
 
 ## 🎙️ **Testimonio de Wajih – De palomitas a Google**
 
@@ -36,3 +43,11 @@ Wajih demuestra que **no necesitas un camino tradicional** para llegar lejos en 
 > **“No escuches a quienes te dicen que es muy difícil. Solo comienza.”**
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[2- Más información sobre los principios de seguridad de OWASP]]
+- ➡️ Siguiente: [[4- Planificar una auditoría de seguridad]]

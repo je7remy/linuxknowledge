@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+actualizado: 2026-05-28
+---
+
+# Introducción a la comunicación en red
 
 # 📡 **Comunicación en Redes y Paquetes de Datos**
 
@@ -73,4 +80,10 @@ Los profesionales de seguridad **monitorean el ancho de banda y la velocidad**, 
 - Una pieza de software que realiza operaciones de red. _(Eso se refiere a herramientas de virtualización o servicios de red)._
     
 - Una colección de servidores o computadoras que almacena recursos y datos en centros de datos remotos accesibles por internet. _(Eso describe la computación en la nube)._
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ➡️ Siguiente: [[2- El modelo TCP-IP]]

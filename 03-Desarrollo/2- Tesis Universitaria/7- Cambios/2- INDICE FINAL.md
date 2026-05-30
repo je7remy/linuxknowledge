@@ -1,3 +1,9 @@
+---
+tipo: tesis
+tags: [tesis, indice, sistema-citas, hospital-juan-bosch, estructura]
+actualizado: 2026-05-28
+---
+
 # ÍNDICE TENTATIVO 
 ## Sistema Web de Gestión de Citas Médicas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch
 
@@ -483,3 +489,11 @@ El anteproyecto cubre aproximadamente:
 🟢 **CAPÍTULO 1** (100% cubierto) 🟡 **CAPÍTULO 2** (50% cubierto - falta ampliar) 🟡 **CAPÍTULO 3** (70% cubierto - falta formalizar)
 
 **No es solo el Cap 1, sino que cubre los primeros 3 capítulos parcialmente.**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+- ⬅️ Anterior: [[1- TECNOLOGIAS]]
+- ➡️ Siguiente: [[3- Base de Datos Tentativa]]

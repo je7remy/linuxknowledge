@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Bienvenidos al módulo 4
 
 ## 🔐 ¡Bienvenidos a la sección final de este curso!
 
@@ -47,3 +54,9 @@ Cada organización tiene su propio conjunto de herramientas y materiales, pero e
 
 ### 🚀 ¡Empecemos!
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ➡️ Siguiente: [[2- Herramientas comunes de ciberseguridad]]

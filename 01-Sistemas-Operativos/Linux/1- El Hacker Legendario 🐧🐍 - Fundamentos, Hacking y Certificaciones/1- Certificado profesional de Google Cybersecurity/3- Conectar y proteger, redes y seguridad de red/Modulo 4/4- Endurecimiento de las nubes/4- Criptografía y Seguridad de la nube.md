@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Criptografía y Seguridad de la nube
 
 Anteriormente en este curso, se le presentaron los conceptos del Modelo de responsabilidad compartida y la Gestión de identidad y acceso (IAM). Al igual que las redes locales, las redes en la nube también deben protegerse mediante una combinación de prácticas de refuerzo de la seguridad y criptografía.
 
@@ -43,3 +50,11 @@ Las organizaciones y los clientes no tienen acceso al proveedor de servicios en 
 ## Puntos clave
 
 Endurecimiento de seguridad de la nube es un componente crítico a considerar al evaluar la seguridad de varios entornos de nube pública y mejorar la seguridad dentro de su organización. La gestión del acceso a la identidad (IAM), la correcta configuración de una línea de base para el entorno de la nube, la seguridad de los hipervisores, la criptografía y el borrado criptográfico son métodos que se pueden utilizar para aumentar la seguridad de la infraestructura de la nube.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Asegure la nube]]
+- ➡️ Siguiente: [[5- Ponga a prueba sus Conocimientos, Endurecimiento de las Nubes]]

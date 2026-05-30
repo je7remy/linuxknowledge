@@ -55,7 +55,7 @@ Lo ideal es utilizar algún tipo de entorno virtual, ya que ofrece funciones de 
 
 ## Navegación
 
-- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬆️ Carpeta: [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]]
 - ⬅️ Anterior: [[7- Comparar metodologías de pentesting]]
 - ➡️ Siguiente: [[Conclusiones]]
 

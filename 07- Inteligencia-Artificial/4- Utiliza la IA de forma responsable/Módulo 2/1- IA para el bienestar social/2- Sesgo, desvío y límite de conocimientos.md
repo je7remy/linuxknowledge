@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-responsable, modulo-2]
+actualizado: 2026-05-28
+---
+
+# Sesgo, desvío y límite de conocimientos
 
 Para ser un usuario responsable de IA es fundamental saber cómo funciona y dónde puede fallar. Todas las herramientas de IA tienen LIMITES. Reconocer estas limitaciones puede ayudarle a evaluar los resultados con mayor eficacia y a utilizar la IA de forma justa, precisa y ética.
 
@@ -49,3 +56,11 @@ He aquí algunas formas de gestionar y mitigar ambos tipos de desviación:
 ## Ser el humano en el bucle
 
 Ser el "humano en el bucle" significa que tú eres siempre el juez final de los resultados de una IA. Esto es especialmente importante cuando se utilizan asistentes o agentes de IA más automatizados. Aunque estas herramientas pueden realizar tareas de forma más independiente, siguen estando sujetas a las mismas limitaciones de sesgo, recorte de conocimientos y deriva. Comprender estas limitaciones es fundamental para configurar y supervisar de forma responsable las herramientas automatizadas y garantizar que sigan funcionando de forma segura y útil a lo largo del tiempo.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+- ⬅️ Anterior: [[1- Riesgos de seguridad y privacidad de la IA]]
+- ➡️ Siguiente: [[3- Shaun - Desarrolla una IA que les sirva a todos]]

@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Desafío del módulo 3
 
 ### **1. ¿Cuáles son algunos de los objetivos principales de los marcos de seguridad?**
 
@@ -157,3 +164,9 @@ Seleccione **dos** respuestas.
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+- ⬅️ Anterior: [[2- Glosario de términos del módulo 3]]

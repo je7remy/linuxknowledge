@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Módulo 4 desafío
 
 ## ✅ **Preguntas y Respuestas – Endurecimiento de Seguridad**
 
@@ -89,3 +96,11 @@
 > La seguridad debe aplicarse en ambas infraestructuras, sin importar el entorno.
 
 ---
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]
+- ⬅️ Anterior: [[3- Términos del glosario del Módulo 4]]
+- ➡️ Siguiente: [[5- Actividad del Portfolio, Utilizar el marco de Ciberseguridad del NIST para responder a un Incidente de Seguridad]]

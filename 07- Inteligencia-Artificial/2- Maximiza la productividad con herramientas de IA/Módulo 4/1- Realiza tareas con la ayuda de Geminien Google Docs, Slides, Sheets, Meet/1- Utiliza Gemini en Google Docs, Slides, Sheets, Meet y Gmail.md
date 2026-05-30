@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, ia-productividad, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Utiliza Gemini en Google Docs, Slides, Sheets, Meet y Gmail
 
 Descubrir nuevas herramientas de IA es una forma útil de mantenerse al día con la tecnología emergente y aumentar su productividad. En esta lectura, aprenderás sobre Gemini en las aplicaciones del espacio de trabajo, incluidos Gmail, Google Docs, Slides, Sheets y Meet. También explorarás ejemplos de cómo puedes utilizar las aplicaciones de Géminis en el espacio de trabajo para escribir, visualizar, organizar información o proyectos y conectar mejor con los demás.
 
@@ -77,3 +84,10 @@ Google Meet es una aplicación de videoconferencia para reuniones virtuales cara
     
 
 Por ejemplo, piense en un vendedor que quiere tomar notas durante una reunión con un cliente para poder compartirlas con los miembros de su equipo. El vendedor no quiere distraerse de la reunión, por lo que decide utilizar Gemini para tomar notas, lo que le permite mantenerse centrado en sus negocios con el cliente al tiempo que crea un registro exhaustivo para compartir después.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+- ➡️ Siguiente: [[2- Utilice Gemini en el espacio de trabajo para ayudar a analizar el rendimiento empresarial]]

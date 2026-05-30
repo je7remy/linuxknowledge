@@ -1,6 +1,10 @@
-
+---
+tipo: teoria
+tags: [nota]
+actualizado: 2026-05-28
 ---
 
+# Configuración Básica de Máquina Virtual Kali Linux
 ### 1. Instalación desde la Página Oficial
 
 - **Descargar la imagen:**  
@@ -121,4 +125,9 @@ Esta combinación de comandos es muy eficiente para mantener el sistema actualiz
 
 ---
 
+---
 
+## Navegación
+
+- ⬆️ Carpeta: [[_0- Configuracion inicial|0- Configuracion inicial]]
+- ➡️ Siguiente: [[2- Configuración Básica de Máquina Virtual Parrot Os]]

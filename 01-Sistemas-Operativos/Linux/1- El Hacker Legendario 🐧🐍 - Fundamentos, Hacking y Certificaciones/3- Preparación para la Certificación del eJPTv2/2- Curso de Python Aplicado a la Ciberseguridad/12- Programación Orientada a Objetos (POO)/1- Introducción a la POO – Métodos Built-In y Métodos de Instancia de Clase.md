@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Introducción a la POO – Métodos Built-In y Métodos de Instancia de Clase
 ¡Bienvenidos! Vamos a analizar paso a paso el código proporcionado en el contexto de la programación orientada a objetos (POO) en Python.
 
 ---
@@ -244,3 +251,10 @@ Hemos visto cómo:
 - Los métodos incorporados, como `append`, son diferentes de los métodos personalizados que definimos, pero ambos son parte del paradigma de objetos en Python.
 
 Este ejemplo introductorio es un punto de partida para entender POO, un enfoque poderoso para organizar y gestionar código, especialmente en proyectos grandes o al trabajar en equipo. En futuras clases, se podrían explorar ejemplos más prácticos, como una clase `Ordenador` con métodos para manipular archivos, pero por ahora, ¡esto establece las bases! Espero que esta explicación detallada haya aclarado cada paso y parte del código. Si hay dudas, ¡estoy aquí para ayudar!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_12- Programación Orientada a Objetos (POO)|12- Programación Orientada a Objetos (POO)]]
+- ➡️ Siguiente: [[2- Introducción a la POO – Ejercicio Práctico PARTE 1]]

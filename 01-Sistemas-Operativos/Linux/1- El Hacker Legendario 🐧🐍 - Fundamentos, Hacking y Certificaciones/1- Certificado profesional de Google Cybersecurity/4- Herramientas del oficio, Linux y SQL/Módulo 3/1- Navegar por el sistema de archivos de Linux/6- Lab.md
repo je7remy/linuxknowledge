@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Lab
 
 ## ✅ Tarea 1: Obtén información del directorio actual
 
@@ -69,3 +76,10 @@ head server_logs.txt
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Actividad, Encontrar archivos con los comandos de Linux]]
+- ➡️ Siguiente: [[7- Ejemplar opcional, Encontrar archivos con los comandos de Linux]]

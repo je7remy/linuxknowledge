@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# La importancia de los registros
 
 ## Registros (Logs): El Fundamento de las Investigaciones de Seguridad
 
@@ -75,5 +82,11 @@ Acción=ALLOW, Fuente=192.168.1.5, Destino=google.com, Marca de tiempo=2025-10-2
 3. **Destino (google.com)**: El destino al que se dirigía el tráfico.
     
 4. **Marca de tiempo (Timestamp)**: Identifica la fecha y la hora exactas. Este es uno de los campos _más esenciales_, ya que permite correlacionar varios eventos y construir la cronología del incidente.
-    
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[1- Bienvenido al Módulo 4]]
+- ➡️ Siguiente: [[3- Mejores prácticas para la recogida y gestión de registros]]

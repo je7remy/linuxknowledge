@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Empieza en el próximo curso
 
 ¡Felicitaciones por completar el Curso 2 del Certificado de Ciberseguridad de Google: **Juegue a lo seguro: Administre los riesgos de seguridad**! En esta parte del programa, aprendió sobre el enfoque de los ocho dominios de seguridad de los Profesionales Certificados en Seguridad de Sistemas de Información (CISSP). También aprendió más sobre amenazas, riesgos y vulnerabilidades, así como sobre marcos y controles de seguridad comunes. Además, exploró cómo usar el Marco de administración de riesgos del Instituto Nacional de Estándares y Tecnología (NIST RMF), la tecnología de administración de eventos e información de seguridad (SIEM) y los cuadernos de estrategias para identificar y ayudar a prevenir problemas de seguridad que pueden dañar a las organizaciones y a las personas a las que sirven.
 
@@ -25,3 +32,10 @@ El Certificado de Ciberseguridad de Google cuenta con ocho cursos:
 Ahora que ha completado este curso, está listo para pasar al siguiente curso: [**Conectar y proteger: redes y seguridad de red**](https://www.coursera.org/learn/networks-and-network-security/home/week/1).
 
 ¡Sigan con el gran trabajo!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+- ⬅️ Anterior: [[3- Glosario del curso 2]]

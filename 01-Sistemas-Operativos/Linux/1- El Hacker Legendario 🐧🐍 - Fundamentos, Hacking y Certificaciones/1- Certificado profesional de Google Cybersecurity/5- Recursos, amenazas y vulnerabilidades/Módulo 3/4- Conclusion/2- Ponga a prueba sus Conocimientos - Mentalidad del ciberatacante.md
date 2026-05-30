@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Ponga a prueba sus Conocimientos - Mentalidad del ciberatacante
 
 ## **Cuestionario: Vectores de ataque y endurecimiento**
 
@@ -74,3 +81,10 @@
 
 ---
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+- ⬅️ Anterior: [[1- Identificar los vectores de ataque de una unidad USB]]
+- ➡️ Siguiente: [[3- Recapitulación]]

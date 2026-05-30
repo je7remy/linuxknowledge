@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, linux, bash]
+actualizado: 2026-05-28
+---
+
+# Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ
 
 ---
 
@@ -107,3 +114,10 @@ Los comandos están relacionados con la manipulación de archivos en Linux utili
 [[5- Comando find y redirección de errores]]
 [[6- Comando XARGS]]
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_2- Gestión de Permisos y Tratamiento de la Información|2- Gestión de Permisos y Tratamiento de la Información]]
+- ⬅️ Anterior: [[2- Gestión de Grupos]]
+- ➡️ Siguiente: [[4- Comprimir y Descomprimir Archivos]]

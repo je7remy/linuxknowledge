@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Repaso 2
 
 # 📌 Resumen de Actividades – Uniones SQL
 
@@ -81,4 +88,11 @@ Has practicado y entendido cómo aplicar:
 - `LEFT JOIN` → para incluir todos los registros de la tabla izquierda, con NULL si no hay coincidencia.
     
 - `RIGHT JOIN` → para incluir todos los registros de la tabla derecha, con NULL si no hay coincidencia.
-    
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+- ⬅️ Anterior: [[5- Repaso 1]]
+- ➡️ Siguiente: [[7- Ponga a prueba sus Conocimientos - Uniones SQL]]

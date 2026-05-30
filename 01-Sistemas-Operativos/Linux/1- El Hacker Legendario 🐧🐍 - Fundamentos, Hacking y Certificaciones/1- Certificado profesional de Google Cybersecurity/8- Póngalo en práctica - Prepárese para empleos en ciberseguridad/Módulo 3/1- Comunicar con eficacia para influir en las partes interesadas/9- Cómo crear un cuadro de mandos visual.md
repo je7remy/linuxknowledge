@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+actualizado: 2026-05-28
+---
+
+# Cómo crear un cuadro de mandos visual
 
 ### 1. El Escenario del Ejercicio
 
@@ -82,3 +89,11 @@ Hay muchos casos en los que un miembro de un equipo de ciberseguridad necesitar�
 ### ✅ Justificación
 
 > **Correcto.** Apache OpenOffice y Google Sheets son opciones sin coste que permiten a los usuarios crear hojas de cálculo y otras presentaciones visuales.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]
+- ⬅️ Anterior: [[8- Cree cuadros de mando visuales para comunicaciones impactantes sobre ciberseguridad]]
+- ➡️ Siguiente: [[10- Historia de Juliana - Comunicación efectiva]]

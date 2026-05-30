@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [ejptv2, el-hacker-legendario, python, pentesting]
+actualizado: 2026-05-28
+---
+
+# Aplicar Colores a Nuestros Scripts
 
 ---
 
@@ -105,3 +112,9 @@ print(Style.BRIGHT + 'Texto brillante')
 print(Style.RESET_ALL + 'Reiniciamos color')
 `````
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_10- Personalización y Estética a Nuestro Código|10- Personalización y Estética a Nuestro Código]]
+- ➡️ Siguiente: [[2- Creación de Banners]]

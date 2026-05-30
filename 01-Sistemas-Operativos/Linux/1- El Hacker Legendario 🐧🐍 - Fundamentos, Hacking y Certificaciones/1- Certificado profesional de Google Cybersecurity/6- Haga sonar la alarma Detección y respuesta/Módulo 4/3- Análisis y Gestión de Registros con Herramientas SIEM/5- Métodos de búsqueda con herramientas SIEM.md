@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Métodos de búsqueda con herramientas SIEM
 
 Hasta ahora, has aprendido cómo puedes utilizar las herramientas de **administración de información y eventos de seguridad (SIEM** ) para buscar eventos de seguridad como intentos fallidos de inicio de sesión. Recuerde que SIEM es una aplicación que recopila y analiza datos de registro para supervisar actividades críticas en una organización. En esta lectura, examinarás cómo las herramientas SIEM como Splunk y Google SecOps (Chronicle) utilizan diferentes métodos de búsqueda para encontrar, filtrar y transformar los resultados de la búsqueda.
 
@@ -97,3 +104,11 @@ Aquí tienes algunos recursos por si quieres saber más sobre la búsqueda de ev
 - [Manual de Búsqueda de Splunk](https://docs.splunk.com/Documentation/Splunk/9.0.1/Search/GetstartedwithSearch) sobre cómo utilizar el Lenguaje de Procesamiento de Búsqueda de Splunk (SPL)
     
 - [Guía rápida de Google Security Operations](https://cloud.google.com/chronicle/docs/review-security-alert) sobre los distintos tipos de búsqueda
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]
+- ⬅️ Anterior: [[4- Consulta de eventos con Google SecOps]]
+- ➡️ Siguiente: [[6- Guía de seguimiento para el registro en Splunk]]

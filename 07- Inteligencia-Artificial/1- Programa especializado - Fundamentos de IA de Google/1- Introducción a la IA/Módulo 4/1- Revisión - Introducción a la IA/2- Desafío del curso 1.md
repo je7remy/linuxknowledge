@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [inteligencia-artificial, modulo-4]
+actualizado: 2026-05-28
+---
+
+# Desafío del curso 1
 
 ### 1. Pregunta 1
 
@@ -62,3 +69,10 @@
 - **Respuesta Correcta:** **Garantiza que las decisiones se tomen con consideraciones éticas y responsabilidad.**
     
 - **Justificación:** Dado que la IA puede tener alucinaciones o reflejar sesgos, la supervisión humana (el "enfoque integrador") es crucial para verificar que la información sea exacta y ética antes de tomar una decisión.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]
+- ⬅️ Anterior: [[1- Actividad de cierre]]
