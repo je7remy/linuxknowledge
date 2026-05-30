@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [calidad, seguridad-ia, guardrails, evaluacion-llm, prompt-injection, python, ms-reactor]
+tags: [calidad, evaluacion-llm, guardrails, ms-reactor, prompt-injection, python, seguridad-ia]
 actualizado: 2026-05-28
 ---
 
@@ -720,9 +720,6 @@ Revisen grabaciones y demos en [aka.ms/PythonIA/grabaciones](aka.ms/PythonIA/gra
 Gracias por acompañarme. Conéctense en LinkedIn, revisen los recursos y nos vemos en Discord o el Agents Hack. ¡Abrazos a todos!
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -58,9 +58,6 @@ Los registros médicos y los números de cuentas bancarias son ejemplos de infor
 SPII es un tipo específico de PII que requiere protecciones más estrictas porque puede ser significativamente más perjudicial para las personas si es robado.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -97,9 +97,6 @@ Un conocimiento básico de cómo funciona un sistema operativo te ayudará a ent
 El sistema operativo se encarga de la gestión de recursos y memoria para **asegurar que la capacidad limitada del sistema informático se utilice donde más se necesita**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

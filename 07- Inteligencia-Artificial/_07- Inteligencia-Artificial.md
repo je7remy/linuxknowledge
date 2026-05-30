@@ -20,6 +20,11 @@ principalmente en programas de **Google** y **Microsoft Reactor**.
 - [[_4- Utiliza la IA de forma responsable|4- IA responsable]] — Ética, sesgos y buenas prácticas.
 - [[_5- Mantente a la vanguardia de la IA|5- Vanguardia de IA]] — Estar al día con el campo.
 
+## Navegación
+
+- 🏠 [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]
+
 ## Secciones relacionadas
 
 - [[_05-Recursos|05-Recursos]] — la guía de ingeniería de prompts y el taller de Microsoft Reactor complementan estos cursos.

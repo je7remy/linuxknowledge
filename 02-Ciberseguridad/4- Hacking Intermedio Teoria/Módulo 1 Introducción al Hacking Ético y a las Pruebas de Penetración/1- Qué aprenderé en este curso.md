@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [hacking-etico, pentest, modulo-intro]
+tags: [hacking-etico, modulo-intro, pentest]
 actualizado: 2026-05-28
 ---
 

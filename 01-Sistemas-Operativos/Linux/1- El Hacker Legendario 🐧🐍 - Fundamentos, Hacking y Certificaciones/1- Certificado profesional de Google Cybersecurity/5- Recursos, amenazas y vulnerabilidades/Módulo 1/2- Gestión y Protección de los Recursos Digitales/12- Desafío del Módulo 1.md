@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -187,9 +187,6 @@ Un pequeño grupo de desarrolladores trabaja en una aplicación web confidencial
 **Respuesta Correcta:** **Perfiles**
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

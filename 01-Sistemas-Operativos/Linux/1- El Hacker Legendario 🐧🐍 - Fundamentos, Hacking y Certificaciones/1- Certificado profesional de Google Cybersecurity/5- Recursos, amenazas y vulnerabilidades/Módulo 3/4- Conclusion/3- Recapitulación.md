@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -33,9 +33,6 @@ En este módulo exploraste el mundo de las vulnerabilidades y cómo estas repres
 El módulo recalca lo complejo que es el panorama digital, lleno de brechas y amenazas. También reconoce que llegar hasta aquí es un gran avance en tu formación en ciberseguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

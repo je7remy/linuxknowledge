@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / Linux y Bash / 2- Permisos y Información
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/2- Gestión de Permisos y Tratamiento de la Información
 actualizado: 2026-05-28
 ---
 

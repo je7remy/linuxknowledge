@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -41,9 +41,6 @@ Su consejo sobre las conferencias es excelente. Menciona que las grandes confere
 En su lugar, recomienda **BSides**, que son conferencias locales. Esto te permite conocer gente de tu propia área, crear una red de contactos real y ver qué problemas enfrenta tu comunidad local.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]

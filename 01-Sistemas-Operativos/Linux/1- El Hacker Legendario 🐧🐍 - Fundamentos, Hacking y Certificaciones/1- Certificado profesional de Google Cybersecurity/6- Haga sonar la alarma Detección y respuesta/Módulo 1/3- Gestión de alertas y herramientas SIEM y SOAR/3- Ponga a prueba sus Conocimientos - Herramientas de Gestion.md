@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -56,9 +56,6 @@ La **agregación** consiste en recopilar logs de diversas fuentes —como IDS, f
 |**Agregación**|Centraliza datos de distintas fuentes|Logs de firewall + IDS + servidores|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

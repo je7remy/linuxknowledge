@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -77,9 +77,6 @@ actualizado: 2026-05-28
 🟢 **Correcto:** Las herramientas SIEM deben **configurarse y personalizarse** según cada entorno organizacional.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

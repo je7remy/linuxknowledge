@@ -168,9 +168,6 @@ Déjalas en los comentarios del canal o contáctame en mis redes.
 _Activa la campanita para no perderte nada. ¡Vamos a aprender y automatizar juntos con N8N!_ 🔐🤖
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- N8N|8- N8N]]

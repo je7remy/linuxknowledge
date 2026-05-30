@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 2- Vaya a lo seguro, gestione los riesgos de seguridad / Modulo 2 / 4- Principios de OWASP y auditorías de seguridad
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 2/4- Principios de OWASP y auditorías de seguridad
 actualizado: 2026-05-28
 ---
 
@@ -19,3 +19,14 @@ actualizado: 2026-05-28
 - [[8- Actividad de la cartera, Realizar una auditoría de seguridad]]
 - [[9- Modelo de actividad del portafolio, Realizar una auditoría de seguridad]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 2|Modulo 2]]
+
+## Relacionadas
+
+- [[_1- Más información sobre marcos y controles|Más información sobre marcos y controles]]
+- [[_2- La tríada de la CIA, confidencialidad, integridad y disponibilidad|La tríada de la CIA, confidencialidad, integridad y disponibilidad]]
+- [[_3- NIST frameworks|NIST frameworks]]
+- [[_5- Marcos y controles de seguridad|Marcos y controles de seguridad]]

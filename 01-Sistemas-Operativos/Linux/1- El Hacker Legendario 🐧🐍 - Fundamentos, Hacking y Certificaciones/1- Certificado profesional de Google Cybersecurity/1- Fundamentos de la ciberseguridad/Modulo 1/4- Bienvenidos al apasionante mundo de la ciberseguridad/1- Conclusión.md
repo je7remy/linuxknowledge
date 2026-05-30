@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -46,9 +46,6 @@ Antes de continuar, repasemos rápidamente lo aprendido:
 > ¡Estoy emocionado de continuar este viaje contigo!”
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

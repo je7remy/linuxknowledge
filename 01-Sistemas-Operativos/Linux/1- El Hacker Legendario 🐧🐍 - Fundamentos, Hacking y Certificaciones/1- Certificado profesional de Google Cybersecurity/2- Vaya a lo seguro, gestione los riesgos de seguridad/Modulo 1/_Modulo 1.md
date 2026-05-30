@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 2- Vaya a lo seguro, gestione los riesgos de seguridad / Modulo 1
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1
 actualizado: 2026-05-28
 ---
 
@@ -19,3 +19,10 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]
+
+---
+## Relacionadas
+
+- [[_Modulo 2|Modulo 2]]
+- [[_Modulo 3|Modulo 3]]
+- [[_Modulo 4|Modulo 4]]

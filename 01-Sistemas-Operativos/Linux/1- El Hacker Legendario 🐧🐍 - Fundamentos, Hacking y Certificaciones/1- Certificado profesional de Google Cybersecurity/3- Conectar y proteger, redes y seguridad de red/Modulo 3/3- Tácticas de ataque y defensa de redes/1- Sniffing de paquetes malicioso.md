@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -149,9 +149,6 @@ Como profesional de seguridad:
 > El cuerpo de un paquete de datos (también llamado "payload") puede contener datos confidenciales como credenciales, información personal, mensajes o archivos. Es el objetivo principal de los atacantes que interceptan datos en tránsito.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

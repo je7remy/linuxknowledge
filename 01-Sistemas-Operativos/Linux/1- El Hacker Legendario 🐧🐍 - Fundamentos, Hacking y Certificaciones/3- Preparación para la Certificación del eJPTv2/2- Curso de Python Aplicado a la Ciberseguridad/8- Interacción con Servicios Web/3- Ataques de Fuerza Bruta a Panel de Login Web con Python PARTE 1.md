@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [analisis-de-trafico, automatizacion, burp-suite, ciberseguridad, credenciales, docker, dockerlabs, ejptv2, el-hacker-legendario, fuerza-bruta, hacking-etico, interceptacion-http, jenkins, kali-linux, login, pentesting, proxy, pruebas-de-penetracion, python, rockyou, scripts, vulnerabilidades]
 actualizado: 2026-05-28
 ---
 
 # Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1
 
 ---
-
-#Jenkins #Docker #SeguridadInformática #KaliLinux #BurpSuite #Python #Automatización #Vulnerabilidades #Dockerlabs #HackingÉtico #PruebasDePenetración #Scripts #Ciberseguridad #FuerzaBruta #Rockyou #Proxy #InterceptaciónHTTP #Login #Credenciales #AnálisisDeTráfico
-
----
-
 ## Proceso completo para desplegar y explotar la máquina vulnerable "strongjenkins"
 
 ### Paso 1: Descarga y despliegue de la máquina vulnerable "strongjenkins"

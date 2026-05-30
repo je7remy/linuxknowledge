@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [metodologia, scope-creep, tipos-pentest, black-box, white-box, grey-box, cloud, web, movil]
+tags: [black-box, cloud, grey-box, metodologia, movil, scope-creep, tipos-pentest, web, white-box]
 actualizado: 2026-05-28
 ---
 

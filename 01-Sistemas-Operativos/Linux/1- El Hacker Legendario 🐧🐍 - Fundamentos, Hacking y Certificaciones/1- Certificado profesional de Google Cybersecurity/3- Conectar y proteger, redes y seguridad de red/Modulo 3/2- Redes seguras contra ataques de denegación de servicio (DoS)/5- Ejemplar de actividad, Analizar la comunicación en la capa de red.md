@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -87,9 +87,6 @@ Usuarios reportaron que no podían acceder al sitio web `www.yummyrecipesforme.c
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

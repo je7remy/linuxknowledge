@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -46,9 +46,6 @@ La ciberseguridad **no solo requiere habilidades técnicas**, sino también **hu
 > 💡 _“Las habilidades blandas ya las usamos todos los días; solo debemos aplicarlas al mundo de la seguridad.”_
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

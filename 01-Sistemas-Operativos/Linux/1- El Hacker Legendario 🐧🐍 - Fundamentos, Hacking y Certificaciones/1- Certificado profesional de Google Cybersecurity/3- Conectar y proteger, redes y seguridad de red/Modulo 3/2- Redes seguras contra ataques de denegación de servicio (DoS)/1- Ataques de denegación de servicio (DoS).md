@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -105,9 +105,6 @@ Un ataque **_____** se produce cuando un atacante envía a un dispositivo o sist
 _Un ataque Ping de la muerte es un tipo de ataque DoS causado cuando un hacker hace ping a un sistema enviándole un paquete ICMP sobredimensionado que supera los 64 KB._
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

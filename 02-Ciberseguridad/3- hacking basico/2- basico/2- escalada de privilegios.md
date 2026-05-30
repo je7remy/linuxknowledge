@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [privilege-escalation, linpeas, sudo, ssh-keys]
+tags: [comandos, linpeas, privilegeescalation, privilege-escalation, ssh-keys, sudo]
 actualizado: 2026-05-28
 ---
 
 # Escalada de Privilegios — Cheatsheet
-
-#privilegeescalation #comandos 
-
 --------
 
 |   |   |

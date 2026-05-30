@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 1 / 1- Fundamentos de la Seguridad de los Recursos
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/1- Fundamentos de la Seguridad de los Recursos
 actualizado: 2026-05-28
 ---
 
@@ -20,3 +20,11 @@ actualizado: 2026-05-28
 - [[8- La Seguridad comienza con la Clasificación de activos]]
 - [[9- Requisitos comunes de clasificación]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[_2- Gestión y Protección de los Recursos Digitales|Gestión y Protección de los Recursos Digitales]]

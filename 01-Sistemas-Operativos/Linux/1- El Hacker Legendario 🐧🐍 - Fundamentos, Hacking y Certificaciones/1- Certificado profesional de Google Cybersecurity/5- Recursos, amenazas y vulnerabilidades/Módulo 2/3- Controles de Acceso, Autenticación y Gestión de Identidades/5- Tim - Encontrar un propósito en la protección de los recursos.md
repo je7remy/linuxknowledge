@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -63,9 +63,6 @@ Esto convierte la ciberseguridad en una carrera **profundamente satisfactoria y 
 La ciberseguridad no solo se trata de proteger datos y sistemas, sino de **proteger lo más valioso de las personas y organizaciones**. Esto da sentido, propósito y una trayectoria profesional sólida y en crecimiento.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, readme, sgcm, ci, github-actions, unphu]
+tags: [ci, github-actions, readme, sgcm, tesis, unphu]
 actualizado: 2026-05-28
 ---
 

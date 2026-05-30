@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -74,9 +74,6 @@ Durante la fase de **____**, los profesionales de seguridad utilizan herramienta
 🟢 **Explicación:** El **SIEM detecta y alerta**, y el **playbook guía la respuesta**. Son complementarios.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

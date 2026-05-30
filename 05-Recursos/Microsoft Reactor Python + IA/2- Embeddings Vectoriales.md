@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [embeddings, vectores, python, ms-reactor, similaridad, semantica]
+tags: [embeddings, ms-reactor, python, semantica, similaridad, vectores]
 actualizado: 2026-05-28
 ---
 
@@ -343,9 +343,6 @@ Para máxima eficiencia:
 Hemos recorrido los embeddings vectoriales desde su definición hasta técnicas avanzadas. Estos conceptos son fundamentales para aplicaciones como RAG, que exploraremos el 18 de marzo. Revisen los notebooks (`similarity.ipynb`, `search.ipynb`, etc.) y únanse a la próxima sesión. ¡Gracias y nos vemos pronto!
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_Microsoft Reactor Python + IA|Microsoft Reactor Python + IA]]

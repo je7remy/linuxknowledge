@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [ataques-de-fuerza-bruta, ataque-ydefensa, bash, ciberseguridad, ciberseguridad-practica, ejptv2, el-hacker-legendario, fail2-ban, ftp, fuerza-bruta, hacking-etico, hydra, kali-linux, linux, nmap, penetration-testing, proteccion-de-servidor, seguridad-de-red, seguridad-en-red, ssh, ubuntu-server, vsftpd]
 actualizado: 2026-05-28
 ---
 
 # Protección del Protocolo FTP
-
----
-
-#Ciberseguridad #FTP #Hydra #Fail2Ban #KaliLinux #UbuntuServer #AtaquesDeFuerzaBruta #SeguridadDeRed #PenetrationTesting #EthicalHacking #Linux #Nmap #SeguridadEnRed #SSH #vsftpd #ProtecciónDeServidor #CiberseguridadPráctica #FuerzaBruta #SeguridadInformática #AtaqueYDefensa
 
 ---
 # **🔹 Laboratorio: Ataque y Defensa de FTP con Kali Linux y Ubuntu Server**

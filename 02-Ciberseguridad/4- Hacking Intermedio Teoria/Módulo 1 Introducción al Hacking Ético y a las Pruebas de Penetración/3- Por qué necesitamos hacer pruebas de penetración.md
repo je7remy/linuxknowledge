@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [pentest-justificacion, defensa-en-profundidad, validacion-defensas, waf, ips]
+tags: [defensa-en-profundidad, ips, pentest-justificacion, validacion-defensas, waf]
 actualizado: 2026-05-28
 ---
 

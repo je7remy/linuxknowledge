@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [osint, active-directory, asn, dns, social-media, breach-data, dehashed, haveibeenpwned]
+tags: [active-directory, asn, breach-data, dehashed, dns, haveibeenpwned, osint, social-media]
 actualizado: 2026-05-28
 ---
 
 # OSINT — Reconocimiento pasivo de Active Directory
-
-#osint #activeDirectory  
-
 ----------
 ## ¿Hacia dónde miramos?
 

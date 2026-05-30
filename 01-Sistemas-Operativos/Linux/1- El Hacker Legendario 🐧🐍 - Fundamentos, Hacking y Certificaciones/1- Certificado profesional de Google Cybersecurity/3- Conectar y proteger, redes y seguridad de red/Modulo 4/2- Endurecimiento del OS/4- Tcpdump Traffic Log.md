@@ -1,18 +1,10 @@
 ---
-
-**1. Resolución DNS de yummyrecipesforme.com**
-
-```
-14:18:32.192571 IP your.machine.52444 > dns.google.domain: 35084+ A? yummyrecipesforme.com. (24)
-14:18:32.204388 IP dns.google.domain > your.machine.52444: 35084 1/0/0 A 203.0.113.22 (40)
-```
-
-- A las 14:18:32.192571, tu máquina (puerto 52444) envía al servidor DNS de Google una consulta de tipo A (IP v4) para “yummyrecipesforme.com”.
-    
-- A las 14:18:32.204388, el DNS responde con un único registro A: la dirección 203.0.113.22.
-    
-
+tipo: teoria
+tags: [endurecimiento-del-os, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Tcpdump Traffic Log
 
 **2. Inicio del handshake TCP hacia yummyrecipesforme.com (puerto 80)**
 

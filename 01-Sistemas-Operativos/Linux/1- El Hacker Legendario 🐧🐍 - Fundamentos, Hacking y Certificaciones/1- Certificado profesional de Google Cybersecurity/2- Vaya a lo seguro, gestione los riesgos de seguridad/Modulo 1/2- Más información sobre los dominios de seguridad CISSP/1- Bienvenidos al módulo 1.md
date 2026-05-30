@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -38,9 +38,6 @@ Desarrollar una comprensión sólida de ellos te permitirá **identificar, mitig
 En el siguiente video, profundizaremos en los **ocho dominios de seguridad** presentados brevemente en el primer curso.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

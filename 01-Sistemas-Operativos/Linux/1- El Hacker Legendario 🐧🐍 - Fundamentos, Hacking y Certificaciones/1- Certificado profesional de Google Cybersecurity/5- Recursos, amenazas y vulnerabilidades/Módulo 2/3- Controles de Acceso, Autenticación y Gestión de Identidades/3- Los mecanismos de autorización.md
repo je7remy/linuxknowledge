@@ -1,16 +1,7 @@
 ---
-
-# 🔑 Controles de Acceso – Autorización
-
-La **autorización** es el proceso que determina **qué puede hacer un usuario o sistema** después de haberse autenticado.
-
-Trabaja en conjunto con la **autenticación**:
-
-- La autenticación responde a **“¿Quién eres?”**.
-    
-- La autorización responde a **“¿Qué estás autorizado a hacer?”**.
-    
-
+tipo: teoria
+tags: [recursos-amenazas-y-vulnerabilidades, sistemas-operativos]
+actualizado: 2026-05-30
 ---
 
 ## ⚖️ Principios Clave de la Autorización
@@ -128,9 +119,6 @@ Los **controles de autorización** garantizan que los usuarios tengan acceso sol
 📌 En conjunto, estos principios reducen riesgos de **fallos, abusos y accesos indebidos**, reforzando la seguridad de la información en cualquier organización.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

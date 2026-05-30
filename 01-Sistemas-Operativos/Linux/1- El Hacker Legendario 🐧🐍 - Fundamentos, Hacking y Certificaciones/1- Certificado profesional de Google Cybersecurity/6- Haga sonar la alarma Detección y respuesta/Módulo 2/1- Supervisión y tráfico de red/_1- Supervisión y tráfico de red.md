@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 6- Haga sonar la alarma Detección y respuesta / Módulo 2 / 1- Supervisión y tráfico de red
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 2/1- Supervisión y tráfico de red
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,13 @@ actualizado: 2026-05-28
 - [[5- Ataques de robo de datos]]
 - [[6- Ponga a prueba sus Conocimientos - Comprender el Tráfico de red]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[_2- Paquetes y Capturas de Paquetes – Análisis de Tráfico de Red|Paquetes y Capturas de Paquetes – Análisis de Tráfico de Red]]
+- [[_3- Plan de estudio sobre tcpdump|Plan de estudio sobre tcpdump]]
+- [[_4- Actividad de cierre|Actividad de cierre]]

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion-linux, awk, awktricks, bash, comando-awk, comandos-bash, ejptv2, el-hacker-legendario, gestion-de-archivos, linux, linux-commands, manipulacion-de-texto, procesamiento-de-datos, terminal, unix-linux]
 actualizado: 2026-05-28
 ---
 
 # Procesador de Información – AWK
-
----
-
-#ComandoAWK #BashScripting #UnixLinux #ComandosLinux #ManipulaciónDeTexto #AWK #AutomatizaciónLinux #AdministraciónDeSistemas #ShellScripting #LinuxCommands #ComandosBash #ProcesamientoDeDatos #Terminal #AWKTricks #GestiónDeArchivos
 
 ---
 ### Explicación de los comandos y pasos

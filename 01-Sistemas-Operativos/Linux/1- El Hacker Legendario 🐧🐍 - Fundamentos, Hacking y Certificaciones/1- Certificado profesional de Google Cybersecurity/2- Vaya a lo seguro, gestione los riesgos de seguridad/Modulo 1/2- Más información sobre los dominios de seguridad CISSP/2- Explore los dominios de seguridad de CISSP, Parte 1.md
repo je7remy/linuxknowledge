@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -96,9 +96,6 @@ Se centra en la **protección de redes físicas, comunicaciones inalámbricas y 
 Ya has revisado en detalle los **primeros cuatro dominios** de seguridad. A continuación, explorarás los **cuatro dominios restantes** que completan esta estructura crítica para cualquier profesional de ciberseguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

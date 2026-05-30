@@ -1,6 +1,6 @@
 ---
 tipo: cheatsheet
-tags: [python, fundamentos, referencia, lenguaje, tipos-datos]
+tags: [fundamentos, lenguaje, python, referencia, tipos-datos]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -125,9 +125,6 @@ PASTA es un popular framework de _____ que se utiliza en muchos sectores.
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

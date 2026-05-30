@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -70,9 +70,6 @@ Las organizaciones aplican múltiples defensas contra la suplantación de identi
 El phishing es una de las técnicas de ingeniería social más **populares y peligrosas**. Una sola credencial comprometida puede provocar una violación de datos costosa. Conocer las herramientas que emplean los atacantes y aplicar medidas de prevención son pasos clave para reducir riesgos.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

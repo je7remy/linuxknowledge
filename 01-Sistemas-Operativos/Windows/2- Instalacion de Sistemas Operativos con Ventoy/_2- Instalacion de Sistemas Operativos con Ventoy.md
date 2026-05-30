@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos/Windows/2- Instalacion con Ventoy
+seccion: 01-Sistemas-Operativos/Windows/2- Instalacion de Sistemas Operativos con Ventoy
 actualizado: 2026-05-28
 ---
 
@@ -21,5 +21,5 @@ cubre la guía base y un workaround específico durante la instalación.
 
 ## Relacionadas
 
-- [[../1- Descargar ISO de Windows desde la web de Microsoft/1- Cómo descargar la ISO oficial de Windows 10 - 11 desde la página oficial de Microsoft|Descargar ISO oficial]] — paso previo: obtener la ISO.
+- [[_1- Descargar ISO de Windows desde la web de Microsoft|Descargar ISO oficial]] — paso previo: obtener la ISO.
 - [[_0- Configuracion inicial|Configuración inicial Linux]] — alternativa para crear VMs sin Ventoy.

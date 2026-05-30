@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [pentesting, dominios, redes, web, movil, cloud, social, wireless, software]
+tags: [cloud, dominios, movil, pentesting, redes, social, software, web, wifi]
 actualizado: 2026-05-28
 ---
 

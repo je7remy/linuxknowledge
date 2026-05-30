@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / Python / 8- Servicios Web
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/8- Interacción con Servicios Web
 actualizado: 2026-05-28
 ---
 

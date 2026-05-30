@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -84,9 +84,6 @@ actualizado: 2026-05-28
 > “Estar en un equipo de seguridad conlleva cierto grado de seguridad. Sin duda, es un buen lugar para estar.”
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

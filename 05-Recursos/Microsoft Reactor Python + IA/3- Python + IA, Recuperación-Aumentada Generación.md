@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [rag, retrieval-augmented-generation, llm, python, ms-reactor, embeddings, vector-db]
+tags: [embeddings, llm, ms-reactor, python, rag, retrieval-augmented-generation, vector-db]
 actualizado: 2026-05-28
 ---
 

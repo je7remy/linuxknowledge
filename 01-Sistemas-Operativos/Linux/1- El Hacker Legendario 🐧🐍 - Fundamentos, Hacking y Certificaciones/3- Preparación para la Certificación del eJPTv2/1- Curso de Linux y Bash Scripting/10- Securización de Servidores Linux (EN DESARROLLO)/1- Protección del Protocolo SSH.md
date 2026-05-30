@@ -1,15 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, blue-team, ciberseguridad, ctf, dev-sec-ops, ejptv2, el-hacker-legendario, fail2-ban, forense-digital, hacking-etico, hardening, hydra, kali-linux, linux, nmap, pentesting, redes, red-team, ssh, ubuntu]
 actualizado: 2026-05-28
 ---
 
 # Protección del Protocolo SSH
 
 ---
-
-#CyberSecurity #HackingÉtico #Linux #KaliLinux #Ubuntu #SSH #Fail2Ban #Pentesting #EthicalHacking #InfoSec #CTF #RedTeam #BlueTeam #SeguridadInformática #ForenseDigital #SysAdmin #DevSecOps #Redes #Nmap #Hydra #Hardening
-
 ----
 # **🔹 Laboratorio: Ataque y Defensa de SSH con Kali Linux y Ubuntu Server**
 

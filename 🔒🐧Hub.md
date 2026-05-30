@@ -1,6 +1,6 @@
 ---
 tipo: hub
-tags: [hub, vault-principal, linux, ciberseguridad]
+tags: [ciberseguridad, hub, linux, vault-principal]
 actualizado: 2026-05-28
 ---
 
@@ -87,6 +87,32 @@ Las 7 secciones raíz del cerebro digital:
 
 ## 📚 Documentación del proyecto
 
-- [[schema|Schema del vault]] — Convenciones de organización.
-- [[log|Bitácora de cambios]] — Historial de evolución del vault.
+- [[index|Index — Catálogo del vault]] — Catálogo content-oriented (todas las páginas).
+- [[CLAUDE|CLAUDE — Instrucciones operativas]] — Cómo el LLM opera el vault (ingest/query/lint).
+- [[schema|Schema del vault]] — Convenciones estructurales (frontmatter, tipos, indexes).
+- [[log|Bitácora de cambios]] — Historial cronológico greppable.
+- [[_roadmap|Roadmap — Pendientes del vault]] — Lista de lo que falta por escribir.
+- [[_templates|Templates — Plantillas]] — Plantillas para crear notas nuevas siguiendo el patrón.
 - [[CODE_OF_CONDUCT|Código de Conducta]] — Reglas del proyecto.
+
+## 📊 Métricas del vault (Dataview)
+
+```dataview
+TABLE WITHOUT ID
+  length(rows) AS "Notas",
+  rows.tipo[0] AS "Tipo"
+FROM ""
+WHERE tipo
+GROUP BY tipo
+SORT length(rows) DESC
+```
+
+### Últimas 5 notas modificadas
+
+```dataview
+TABLE actualizado AS "Fecha", tipo AS "Tipo"
+FROM ""
+WHERE actualizado
+SORT actualizado DESC
+LIMIT 5
+```

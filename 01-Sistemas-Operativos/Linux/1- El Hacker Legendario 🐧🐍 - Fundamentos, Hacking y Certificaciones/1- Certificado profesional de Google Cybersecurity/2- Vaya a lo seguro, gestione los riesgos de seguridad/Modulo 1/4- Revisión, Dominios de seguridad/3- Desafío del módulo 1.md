@@ -1,12 +1,10 @@
 ---
-
-### ✅ **Cuestionario Corregido**
-
-**1.**  
-**Pregunta:** La postura de seguridad se refiere a la capacidad de una organización para reaccionar ante _____ y gestionar su defensa de los activos y datos críticos.  
-**✅ Respuesta correcta:** **cambio**
-
+tipo: teoria
+tags: [revision-dominios-de-seguridad, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Desafío del módulo 1
 
 **2.**  
 **Pregunta:** ¿Cuáles de los siguientes ejemplos son áreas de enfoque clave del dominio de la seguridad y la administración de riesgos? _(Selecciona tres)_  
@@ -90,9 +88,6 @@
 **✅ Respuesta correcta:** **Autorizar**
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, cat, command-line, ejptv2, el-hacker-legendario, file-manipulation, head, linux, scripting, shell-commands, sort, tail, uniq, wc]
 actualizado: 2026-05-28
 ---
 
 # Ordenar la Información – SORT, HEAD, TAIL, WC y UNIQ
-
----
-
-#Linux #ShellCommands #FileManipulation #Sort #Head #Tail #Cat #Uniq #WC #CommandLine #SysAdmin #Scripting
 
 ---
 Los comandos están relacionados con la manipulación de archivos en Linux utilizando herramientas básicas como `sort`, `head`, `tail`, `cat`, `uniq`, y `wc`.

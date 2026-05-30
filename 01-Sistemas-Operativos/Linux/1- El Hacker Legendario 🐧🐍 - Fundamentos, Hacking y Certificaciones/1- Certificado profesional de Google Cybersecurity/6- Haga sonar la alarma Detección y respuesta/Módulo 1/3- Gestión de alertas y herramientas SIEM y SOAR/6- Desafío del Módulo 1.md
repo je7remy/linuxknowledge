@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -100,9 +100,6 @@ SOAR = automatización y orquestación de la respuesta._
 |**SOAR**|Automatiza la respuesta ante incidentes|Cortex XSOAR, Splunk Phantom|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

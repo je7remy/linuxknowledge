@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [button, ejptv2, el-hacker-legendario, eventos, gui, interfaz-grafica, label, pentesting, python, tkinter]
 actualizado: 2026-05-28
 ---
 
 # Widgets de Tipo Button y Label
 
 ---
-
-#Python #Tkinter #InterfazGrafica #Label #Button #Eventos #GUI
-
----
-
 ```` python
 
 import tkinter as tk  # Importamos la librería Tkinter

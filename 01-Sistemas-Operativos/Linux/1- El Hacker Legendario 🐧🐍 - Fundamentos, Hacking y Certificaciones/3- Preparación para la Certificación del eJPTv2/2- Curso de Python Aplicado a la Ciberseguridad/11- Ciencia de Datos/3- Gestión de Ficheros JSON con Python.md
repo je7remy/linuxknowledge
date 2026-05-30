@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [analisis-de-datos, ciberseguridad, coding, data-analysis, data-science, ejptv2, el-hacker-legendario, informatica, pandas-python, pentesting, programacion, python, tech]
 actualizado: 2026-05-28
 ---
 
 # Gestión de Ficheros JSON con Python
 
 ---
-
-#Python #Ciberseguridad #AnálisisDeDatos #PandasPython #DataScience #Programación #Tech #Informática #SeguridadInformática #Coding #DataAnalysis
-
----
-
 **Objetivo y utilidad del código**
 
 El **objetivo** de este código es leer datos estructurados en formato JSON y transformarlos en un DataFrame de Pandas. Esto permite organizar la información en una estructura tabular que facilita su análisis y manipulación. 

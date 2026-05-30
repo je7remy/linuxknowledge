@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-vanguardia, modulo-4]
+tags: [ia, ia-vanguardia, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -70,9 +70,6 @@ El profesional busca **actualización, capacitación y conocimiento del entorno 
 El uso eficaz de la IA implica **evaluar, optimizar y automatizar**, no intentar usarla en todo sin criterio.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]

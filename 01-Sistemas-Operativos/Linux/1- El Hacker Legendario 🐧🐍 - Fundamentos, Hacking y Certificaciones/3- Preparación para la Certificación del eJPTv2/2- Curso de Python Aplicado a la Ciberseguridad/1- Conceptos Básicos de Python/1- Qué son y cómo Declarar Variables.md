@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, pentesting, python]
 actualizado: 2026-05-28
 ---
 
@@ -125,9 +125,6 @@ La suma de los numeros 1 y 2 es: 3
 Las **f-strings** son más recomendadas por su claridad y eficiencia en comparación con otras formas de formateo.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Conceptos Básicos de Python|1- Conceptos Básicos de Python]]

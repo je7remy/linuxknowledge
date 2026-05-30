@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -18,9 +18,6 @@ actualizado: 2026-05-28
 |**6. Coordinación**|Reporta los incidentes y comparte información durante todo el proceso de respuesta, según los estándares establecidos.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

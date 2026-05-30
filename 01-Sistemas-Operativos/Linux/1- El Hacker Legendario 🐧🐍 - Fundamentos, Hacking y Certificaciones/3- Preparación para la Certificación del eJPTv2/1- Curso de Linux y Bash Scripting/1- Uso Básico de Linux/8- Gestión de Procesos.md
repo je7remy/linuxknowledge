@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, devops, ejptv2, el-hacker-legendario, gestion-de-procesos, linux, procesos, terminal, unix]
 actualizado: 2026-05-28
 ---
 
 # Gestión de Procesos
 
 ---
-
-#Linux #Procesos #GestiónDeProcesos #Bash #Terminal #SysAdmin #ComandosLinux #Unix #ShellScripting #DevOps
-
----
-
 La **gestión de procesos** es una función del sistema operativo que se encarga de crear, planificar, ejecutar y finalizar los procesos que se ejecutan en un sistema. Implica la asignación de recursos (CPU, memoria, E/S), el manejo de estados de los procesos (nuevo, listo, ejecutando, bloqueado, terminado) y la coordinación entre procesos para garantizar eficiencia y estabilidad en el sistema:
 
 ---

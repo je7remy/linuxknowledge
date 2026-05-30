@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -37,9 +37,6 @@ Una distinción clave entre el endurecimiento de la red en la nube y el tradicio
 ✅ **Respuesta correcta**
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

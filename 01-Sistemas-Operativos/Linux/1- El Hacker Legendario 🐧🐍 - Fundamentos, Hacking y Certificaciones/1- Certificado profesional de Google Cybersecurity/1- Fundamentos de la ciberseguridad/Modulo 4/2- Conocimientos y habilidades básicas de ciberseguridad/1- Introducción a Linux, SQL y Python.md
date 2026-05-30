@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -27,9 +27,6 @@ Como futuro analista, es importante entender que el **kit de herramientas** de c
 ¡Lo estás haciendo muy bien! Más adelante en el curso, aprenderás más sobre Linux y los lenguajes de programación, y practicarás el uso de estas herramientas en **escenarios reales de seguridad**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

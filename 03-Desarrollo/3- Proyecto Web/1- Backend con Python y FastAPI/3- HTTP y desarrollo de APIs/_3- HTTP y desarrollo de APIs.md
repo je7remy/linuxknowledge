@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 03-Desarrollo / 3- Proyecto Web / 1- Backend con Python y FastAPI / 3- HTTP y desarrollo de APIs
+seccion: 03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/3- HTTP y desarrollo de APIs
 actualizado: 2026-05-28
 ---
 
@@ -24,3 +24,12 @@ actualizado: 2026-05-28
 - [[8- Test de conocimientos - Operaciones POST, PUT y DELETE]]
 - [[9- HTTP status codes]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_1- Backend con Python y FastAPI|Backend con Python y FastAPI]]
+
+## Relacionadas
+
+- [[_1- Introduccion|Introduccion]]
+- [[_2- Configuración y primeros pasos|Configuración y primeros pasos]]

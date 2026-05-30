@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [diccionarios, ejptv2, el-hacker-legendario, estructuras-de-datos, manejo-de-errores, pentesting, programacion, python]
 actualizado: 2026-05-28
 ---
 
 # Los Diccionarios
-
----
-
-#Python #Diccionarios #ManejoDeErrores #EstructurasDeDatos #Programación
 
 ---
 ### **Código 1**

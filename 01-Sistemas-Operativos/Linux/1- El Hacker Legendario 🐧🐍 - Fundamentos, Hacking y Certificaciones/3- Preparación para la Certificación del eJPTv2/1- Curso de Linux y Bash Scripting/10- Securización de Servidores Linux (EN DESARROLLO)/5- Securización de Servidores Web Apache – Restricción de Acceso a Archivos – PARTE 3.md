@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-de-servidores, apache, apache-security, archivo-env, auditoria-de-seguridad, bash, buenas-practicas, ciberseguridad, configuracion-apache, ejptv2, el-hacker-legendario, hardening, linux, proteccion-de-archivos, proteccion-de-credenciales, proteccion-de-datos, seguridad-linux, seguridad-servidor, seguridad-web, sistemas-seguros]
 actualizado: 2026-05-28
 ---
 
 # Securización de Servidores Web Apache – Restricción de Acceso a Archivos – PARTE 3
-
----
-
-#SeguridadWeb #ProtecciónDeDatos #Apache #ArchivoEnv #Ciberseguridad #ApacheSecurity #ProtecciónDeCredenciales #SeguridadServidor #SistemasSeguros #AdministraciónDeServidores #SeguridadLinux #ConfiguraciónApache #BuenasPrácticas #AuditoríaDeSeguridad #Hardening #ProtecciónDeArchivos
 
 ---
 # **Reporte de Seguridad: Protección del Archivo `.env`**

@@ -19,6 +19,11 @@ como pieza central, además de fundamentos de bases de datos y un proyecto web.
   de citas médicas. Proyecto académico mayor, documentación + código.
 - [[_3- Proyecto Web|3- Proyecto web]] — Desarrollo web aplicado.
 
+## Navegación
+
+- 🏠 [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]
+
 ## Secciones relacionadas
 
 - [[_05-Recursos|05-Recursos]] — fundamentos de Python, JavaScript y glosario de programación que apoyan estos proyectos.

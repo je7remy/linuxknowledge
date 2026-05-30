@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [git, comandos, version-control]
+tags: [comandos, git, tabla, version-control]
 actualizado: 2026-05-28
 ---
 
 # Comandos Git
-
-#git #tabla #comandos 
-  
 ---
 
 

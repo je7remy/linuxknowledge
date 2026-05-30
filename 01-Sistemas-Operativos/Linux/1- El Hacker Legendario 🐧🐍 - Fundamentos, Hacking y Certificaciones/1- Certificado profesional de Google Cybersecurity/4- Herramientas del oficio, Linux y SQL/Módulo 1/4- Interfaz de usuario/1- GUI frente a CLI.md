@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -109,9 +109,6 @@ Como **analista de seguridad**, usarás frecuentemente la CLI para:
 Ambas interfaces son valiosas. **GUI** es más accesible, pero **CLI** es más poderosa, especialmente para roles técnicos como el de un analista de seguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

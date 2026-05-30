@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 8- Póngalo en práctica - Prepárese para empleos en ciberseguridad / Módulo 5 / 2- Finalización del Programa y Próximos Pasos
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/8- Póngalo en práctica - Prepárese para empleos en ciberseguridad/Módulo 5/2- Finalización del Programa y Próximos Pasos
 actualizado: 2026-05-28
 ---
 
@@ -14,3 +14,11 @@ actualizado: 2026-05-28
 - [[3- Resumen del Programa de certificación en ciberseguridad de Google]]
 - [[4- Glosario del Certificado de Ciberseguridad de Google]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 5|Módulo 5]]
+
+## Relacionadas
+
+- [[_1- Utilice la IA para optimizar los flujos de trabajo|Utilice la IA para optimizar los flujos de trabajo]]

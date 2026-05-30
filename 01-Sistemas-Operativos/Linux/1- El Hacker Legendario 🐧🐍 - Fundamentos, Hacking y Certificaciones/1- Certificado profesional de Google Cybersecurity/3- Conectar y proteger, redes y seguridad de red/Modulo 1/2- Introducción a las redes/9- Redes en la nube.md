@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -83,9 +83,6 @@ Las redes en la nube están transformando la forma en que las empresas operan.
 Los profesionales de la ciberseguridad deben adaptarse a este cambio y **enfocarse en nuevas estrategias de protección**, más allá del hardware físico tradicional.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

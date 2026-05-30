@@ -1,18 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [automatizacion, ciberseguridad, ejptv2, el-hacker-legendario, pentesting, python, scp, ssh]
 actualizado: 2026-05-28
 ---
 
 # Enviar Archivos por SCP desde Python
 
 ---
-
-#Python #SSH #SCP #Automatización #SeguridadInformática
-
----
-
-
 ## **Paso 1: Importar las bibliotecas necesarias**
 
 ```python

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -19,9 +19,6 @@ Además, es esencial enseñar a los empleados a **reconocer señales de alerta**
 A continuación, se abordarán los **controles de seguridad**, que funcionan junto con los marcos para cumplir con los objetivos de protección de una organización.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

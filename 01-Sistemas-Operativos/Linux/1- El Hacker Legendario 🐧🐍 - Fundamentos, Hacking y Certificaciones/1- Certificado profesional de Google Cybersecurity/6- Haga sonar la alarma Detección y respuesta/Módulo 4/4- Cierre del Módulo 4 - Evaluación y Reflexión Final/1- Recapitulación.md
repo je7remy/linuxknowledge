@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -28,9 +28,6 @@ En la vanguardia de la **respuesta a incidentes**, la supervisión y el análisi
 Dominar el **análisis de registros**, comprender **firmas de detección** y saber **acceder a los datos de registro** son habilidades clave que aplicarás como **analista de seguridad** en el mundo real.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

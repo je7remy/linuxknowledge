@@ -1,7 +1,7 @@
 ---
-
-# 📌 Evaluación – Uniones SQL
-
+tipo: teoria
+tags: [herramientas-del-oficio-linux-y-sql, sistemas-operativos, uniones-de-tablas-en-sql-joins]
+actualizado: 2026-05-30
 ---
 
 ## 1. Pregunta 1
@@ -102,9 +102,6 @@ INNER JOIN invoice_items
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

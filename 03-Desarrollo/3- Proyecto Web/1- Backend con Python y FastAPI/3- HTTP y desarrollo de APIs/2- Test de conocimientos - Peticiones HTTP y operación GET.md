@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, http, get, test-conocimientos]
+tags: [fastapi, get, http, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

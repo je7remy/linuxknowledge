@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [alcance, scope, requisitos-cliente, entorno-conocido, entorno-desconocido, entorno-parcial]
+tags: [alcance, entorno-conocido, entorno-desconocido, entorno-parcial, requisitos-cliente, scope]
 actualizado: 2026-05-28
 ---
 

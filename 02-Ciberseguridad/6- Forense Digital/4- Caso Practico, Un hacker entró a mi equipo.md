@@ -1,14 +1,10 @@
 ---
-
-## **Escenario del Incidente**  
-
-Un usuario de una organización reportó comportamiento anómalo en su equipo, incluyendo la presencia de archivos PDF encriptados (`important_document.pdf`) y sospechas de robo de credenciales. El equipo DFIR (Respuesta a Incidentes y Forense Digital) capturó una imagen de la memoria RAM del equipo afectado para su análisis.  
-
-**Equipo afectado**:  
-
-- Dirección IP: `192.168.182.139`  
-
+tipo: teoria
+tags: [ciberseguridad, forense-digital]
+actualizado: 2026-05-30
 ---
+
+# Caso Practico, Un hacker entró a mi equipo
 
 ## **Objetivos del Análisis**  
 

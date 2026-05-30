@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -77,9 +77,6 @@ Con todo lo que has practicado:
 El aprendizaje de SQL es continuo. Cada consulta que escribas te dará más soltura. Siempre que lo necesites, vuelve a tus apuntes, practica con nuevas bases de datos y **piensa en SQL como tu lupa de investigación en ciberseguridad**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

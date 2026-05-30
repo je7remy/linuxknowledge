@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -88,9 +88,6 @@ Fase después de identificar un objetivo con mentalidad atacante.
 **Razón:** Eso pertenece a la **defensa**, no al pensamiento ofensivo de un atacante.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

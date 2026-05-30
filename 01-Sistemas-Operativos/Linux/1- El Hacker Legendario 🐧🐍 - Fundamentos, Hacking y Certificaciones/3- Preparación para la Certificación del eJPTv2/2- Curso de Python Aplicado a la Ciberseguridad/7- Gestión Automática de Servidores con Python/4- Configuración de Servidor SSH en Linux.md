@@ -1,18 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [conexion-remota, configuracion, ejptv2, el-hacker-legendario, linux, nano, open-ssh, pentesting, python, seguridad, servidor, sistema, ssh]
 actualizado: 2026-05-28
 ---
 
 # Configuración de Servidor SSH en Linux
 
 ---
-
-#Linux #SSH #OpenSSH #Sistema #Seguridad #Configuración #Servidor #Nano #ConexiónRemota
-
----
-
-
 ### **Paso 1: Instalar el servidor OpenSSH**
 
 ```bash

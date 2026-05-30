@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 05-Recursos / Canales de YouTube de Ciberseguridad y Hacking Ético!
+seccion: 05-Recursos/Canales de YouTube de Ciberseguridad y Hacking Ético!
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,11 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_05-Recursos|05-Recursos]]
+
+---
+## Relacionadas
+
+- [[_Android|Android]]
+- [[_Blender|Blender]]
+- [[_Fundamentos de JavaScript|Fundamentos de JavaScript]]
+- [[_Fundamentos de Python|Fundamentos de Python]]

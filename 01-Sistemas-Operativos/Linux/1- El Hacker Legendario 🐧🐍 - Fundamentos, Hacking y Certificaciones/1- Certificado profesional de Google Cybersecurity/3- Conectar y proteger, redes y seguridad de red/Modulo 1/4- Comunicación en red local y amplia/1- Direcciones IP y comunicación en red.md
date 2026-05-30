@@ -1,11 +1,10 @@
 ---
-
-### 📌 ¿Qué es una dirección IP?
-
-- Es una **cadena única de caracteres** que identifica la ubicación de un dispositivo en una red, como una dirección postal.
-    
-
+tipo: teoria
+tags: [comunicacion-en-red-local-y-amplia, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Direcciones IP y comunicación en red
 
 ### 🌐 Tipos de direcciones IP
 
@@ -92,9 +91,6 @@ Ejemplo válido: `192.168.1.23`
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

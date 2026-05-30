@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion, automatizacion-linux, backup-automatizado, bash, ciberseguridad, comandos-de-sistemas, copias-de-seguridad, ejptv2, el-hacker-legendario, gestion-de-archivos, linux, scp, script-de-bash, ssh, transferencia-de-archivos]
 actualizado: 2026-05-28
 ---
 
 # Automatización de Copias de Seguridad en Servidor SSH
-
----
-
-#SCP #TransferenciaDeArchivos #Automatización #BashScript #Ciberseguridad #SSH #AdministraciónDeSistemas #Linux #BackupAutomatizado #ScriptDeBash #GestiónDeArchivos #ComandosLinux #CopiasDeSeguridad #AutomatizaciónLinux #ComandosDeSistemas
 
 ---
 ### **Comando SCP**

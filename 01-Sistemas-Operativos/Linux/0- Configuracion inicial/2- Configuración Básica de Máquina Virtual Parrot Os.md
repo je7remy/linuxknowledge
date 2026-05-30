@@ -175,9 +175,6 @@ actualizado: 2026-05-28
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_0- Configuracion inicial|0- Configuracion inicial]]

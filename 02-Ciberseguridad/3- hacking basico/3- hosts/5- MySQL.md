@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [mysql, mariadb, sql, databases, hosts, brute-force]
+tags: [brute-force, databases, hosts, mariadb, mysql, servicios, sql]
 actualizado: 2026-05-28
 ---
 
 # MySQL
-
-#sql #servicios #databases
-
 ---------
 
 #### Escaneo de MySQL Server

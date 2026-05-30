@@ -1276,9 +1276,6 @@ Entiendo que ya tienes una parte de tu contenido en español hasta la sección *
 - **Sé Confiado**: Practica con exámenes simulados para sentirte preparado.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_01 - Introduction|01 - Introduction]]

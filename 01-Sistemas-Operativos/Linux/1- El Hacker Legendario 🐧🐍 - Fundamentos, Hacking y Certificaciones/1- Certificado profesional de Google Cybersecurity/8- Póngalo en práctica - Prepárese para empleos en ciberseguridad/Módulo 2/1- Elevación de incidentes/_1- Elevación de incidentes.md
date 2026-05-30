@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 8- Póngalo en práctica - Prepárese para empleos en ciberseguridad / Módulo 2 / 1- Elevación de incidentes
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/8- Póngalo en práctica - Prepárese para empleos en ciberseguridad/Módulo 2/1- Elevación de incidentes
 actualizado: 2026-05-28
 ---
 
@@ -24,3 +24,12 @@ actualizado: 2026-05-28
 - [[8- Cuándo y cómo escalar un incidente de Seguridad]]
 - [[9- Momento de la Elevación]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [desarrollo-de-software, ejptv2, el-hacker-legendario, gui, interfaz-grafica, menus, pentesting, programacion, python, tkinter]
 actualizado: 2026-05-28
 ---
 
 # Creación de Menús Desplegables
-
----
-
-#Python #Tkinter #GUI #Menús #InterfazGráfica #DesarrolloDeSoftware #Programación
 
 ---
 ### **Paso 1: Importación de Módulos**
@@ -190,9 +186,6 @@ ventana.mainloop()
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]

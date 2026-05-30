@@ -1,13 +1,7 @@
 ---
-
-# Inyección SQL y cómo defenderse
-
-## Introducción
-
-Sigamos explorando la inyección y los ataques investigando otro tipo común de exploit basado en web. El siguiente que vamos a discutir explota la forma en que los sitios web acceden a la información de las bases de datos.
-
-Al principio del programa, puede que haya aprendido sobre **SQL**. SQL es un lenguaje de programación utilizado para **crear, interactuar con y solicitar información de una base de datos**. SQL es utilizado por la mayoría de las aplicaciones web. Por ejemplo, los sitios web de compras lo utilizan mucho. Imagínese las bases de datos de una tienda de ropa en línea: es probable que contenga un inventario completo de todos los artículos que vende la empresa.
-
+tipo: teoria
+tags: [recursos-amenazas-y-vulnerabilidades, seguridad-en-aplicaciones-web, sistemas-operativos]
+actualizado: 2026-05-30
 ---
 
 ## Cómo las aplicaciones usan SQL
@@ -119,9 +113,6 @@ A(n) _____ es un ataque que ejecuta consultas inesperadas en una base de datos.
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

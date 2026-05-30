@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, gui, interfaces-graficas, message-box, pentesting, popups, python, simple-dialog, tkinter]
 actualizado: 2026-05-28
 ---
 
 # Creación de Pop-Ups y sus Distintos Tipos
-
----
-
-#Python #Tkinter #GUI #Popups #MessageBox #SimpleDialog #InterfacesGrafícas
 
 ---
 ## **Paso 1: Importar las bibliotecas necesarias**
@@ -124,9 +120,6 @@ ventana.mainloop()
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]

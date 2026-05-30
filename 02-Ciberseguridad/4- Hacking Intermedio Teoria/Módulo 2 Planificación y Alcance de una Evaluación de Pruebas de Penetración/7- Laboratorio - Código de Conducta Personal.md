@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [codigo-conducta, etica, toma-decisiones, escenarios, utilitarismo, derechos, bien-comun, cambridge-analytica]
+tags: [bien-comun, cambridge-analytica, codigo-conducta, derechos, escenarios, etica, toma-decisiones, utilitarismo]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, indice, sistema-citas, hospital-juan-bosch, estructura]
+tags: [estructura, hospital-juan-bosch, indice, sistema-citas, tesis]
 actualizado: 2026-05-28
 ---
 

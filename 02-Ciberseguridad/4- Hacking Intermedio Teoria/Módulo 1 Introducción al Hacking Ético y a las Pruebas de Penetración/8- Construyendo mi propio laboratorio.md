@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [laboratorio, kali, parrot-os, blackarch, virtualbox, vmware, snapshots]
+tags: [blackarch, kali, laboratorio, parrot-os, snapshots, virtualbox, vmware]
 actualizado: 2026-05-28
 ---
 

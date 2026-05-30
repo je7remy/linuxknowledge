@@ -1,6 +1,6 @@
 ---
 tipo: cheatsheet
-tags: [rdp, remote-desktop, windows, pass-the-hash, hijacking, brute-force, hosts]
+tags: [brute-force, hijacking, hosts, pass-the-hash, rdp, remote-desktop, windows]
 actualizado: 2026-05-28
 ---
 

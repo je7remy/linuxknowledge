@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [shell, reverse-shell, bind-shell, webshell, tty, netcat, powershell]
+tags: [bind-shell, netcat, powershell, reverse-shell, revshell, shell, tty, webshell]
 actualizado: 2026-05-28
 ---
 
 # Tipos de Shell — Reverse, Bind, Web
-
-#shell #revshell 
-
 --------------
 
 Una vez que comprometemos un sistema y explotamos una vulnerabilidad para ejecutar comandos en los hosts comprometidos de forma remota, generalmente necesitamos un método de comunicación con el sistema para no tener que seguir explotando la misma vulnerabilidad para ejecutar cada comando. Para enumerar el sistema o tomar un mayor control sobre él o dentro de su red, necesitamos una conexión confiable que nos brinde acceso directo al shell del sistema, es decir, o , para que podamos investigar a fondo el sistema remoto para nuestro próximo movimiento.`Bash``PowerShell`

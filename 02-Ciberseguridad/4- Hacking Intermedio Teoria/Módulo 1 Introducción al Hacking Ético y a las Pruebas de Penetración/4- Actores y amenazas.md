@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [actores-amenaza, crimen-organizado, hacktivistas, estado-nacion, amenazas-internas]
+tags: [actores-amenaza, amenazas-internas, crimen-organizado, estado-nacion, hacktivistas]
 actualizado: 2026-05-28
 ---
 

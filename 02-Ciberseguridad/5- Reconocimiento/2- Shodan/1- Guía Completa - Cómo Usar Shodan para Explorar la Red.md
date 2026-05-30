@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [shodan, dorks, webcams, eternalblue, ms17-010, ftp-anonymous, smb, reconocimiento-pasivo]
+tags: [dorks, eternalblue, ftp-anonymous, ms17-010, reconocimiento-pasivo, shodan, smb, webcams]
 actualizado: 2026-05-28
 ---
 

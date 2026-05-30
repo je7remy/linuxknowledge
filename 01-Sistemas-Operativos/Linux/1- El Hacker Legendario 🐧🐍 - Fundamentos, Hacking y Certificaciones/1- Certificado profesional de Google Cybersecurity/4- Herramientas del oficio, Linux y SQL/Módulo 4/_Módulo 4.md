@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 4- Herramientas del oficio, Linux y SQL / Módulo 4
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 4
 actualizado: 2026-05-28
 ---
 
@@ -20,3 +20,10 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]
+
+---
+## Relacionadas
+
+- [[_Módulo 1|Módulo 1]]
+- [[_Módulo 2|Módulo 2]]
+- [[_Módulo 3|Módulo 3]]

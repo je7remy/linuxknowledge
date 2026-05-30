@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [oracle, oracle-tns, odat, sqlplus, sid, hydra, databases, hosts]
+tags: [base-de-datos, ciberseguridad, databases, exploits, hacking-etico, hosts, hydra, metasploit, nmap, odat, oracle, oracle-rdbms, oracle-tns, password-hashing, pentesting, privilege-escalation, sid, sql, sqlinjection, sqlplus, tns, web-shell]
 actualizado: 2026-05-28
 ---
 
 # Oracle TNS
-
-#databases #oracle #sql #Oracle #ODAT #SQL #TNS #SID #Nmap #Metasploit #SQLplus #Hydra #SQLInjection #PrivilegeEscalation #BaseDeDatos #OracleRDBMS #SeguridadInformática #EthicalHacking #Ciberseguridad #Pentesting #Exploits #WebShell #PasswordHashing 
-
 -----------------
 
 #### Oracle-Tools-setup.sh

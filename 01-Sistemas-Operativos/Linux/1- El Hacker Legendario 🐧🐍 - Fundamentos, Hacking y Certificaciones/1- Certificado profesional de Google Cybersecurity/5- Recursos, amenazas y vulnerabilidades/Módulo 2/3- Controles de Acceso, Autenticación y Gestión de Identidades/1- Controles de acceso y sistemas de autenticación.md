@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -141,9 +141,6 @@ La **autenticación** se basa en estos tres factores para verificar la identidad
 👉 Estos tres factores se pueden combinar en la **Autenticación Multifactor (MFA)** para reforzar la seguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -165,9 +165,6 @@ expr 100 / 4
 Estas habilidades son **la base para tareas más avanzadas en ciberseguridad y administración de sistemas Linux**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

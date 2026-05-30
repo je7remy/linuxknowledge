@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -16,9 +16,6 @@ actualizado: 2026-05-28
 | 4️⃣   | ¿Cuál es el rol del analista durante la función de recuperación?                                                          | **Devolver los sistemas afectados al funcionamiento normal**                                                                         |
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

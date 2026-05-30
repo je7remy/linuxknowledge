@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-responsable, modulo-2]
+tags: [ia, ia-responsable, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -53,9 +53,6 @@ Así como **Internet** se convirtió en una plataforma inmensa para la **creativ
 creo que el **mundo de la inteligencia artificial tendrá un efecto similar**, abriendo una nueva era de descubrimiento y progreso para la humanidad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]

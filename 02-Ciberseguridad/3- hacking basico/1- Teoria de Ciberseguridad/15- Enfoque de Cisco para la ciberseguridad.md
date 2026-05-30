@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [cisco, ips, ids, dlp, siem, deteccion]
+tags: [cisco, deteccion, dlp, ids, ips, siem]
 actualizado: 2026-05-28
 ---
 

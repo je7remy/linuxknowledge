@@ -1,17 +1,10 @@
 ---
-
-### 🔐 ¿Qué es una VPN?
-
-Una **VPN (Virtual Private Network)** es un servicio de seguridad que:
-
-- **Oculta tu dirección IP pública**.
-    
-- **Disfraza tu ubicación virtual**.
-    
-- **Cifra tus datos** mientras viajan por Internet.
-    
-
+tipo: teoria
+tags: [identificacion-del-sistema, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Redes privadas virtuales (VPN)
 
 ### 🛡️ ¿Por qué usar una VPN?
 
@@ -98,9 +91,6 @@ Consiste en **envolver datos confidenciales dentro de otros paquetes de datos**,
 > Una VPN cifra los datos del usuario y los **encapsula**, permitiendo que viajen por Internet sin exponer detalles privados como direcciones IP, MAC o ubicación física.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

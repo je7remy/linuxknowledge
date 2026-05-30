@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -102,9 +102,6 @@ Tres herramientas de endurecimiento que la organización puede utilizar para abo
 **El mantenimiento del firewall** debe realizarse con regularidad. Los administradores de red deben asegurarse de que existan reglas de firewall que reflejen los estándares más actualizados sobre el tráfico permitido y denegado. El tráfico de fuentes sospechosas debe colocarse en una lista de tráfico denegado. Las reglas del firewall deben actualizarse cada vez que ocurra un evento de seguridad, especialmente si permite la entrada de tráfico sospechoso a la red. Esta medida puede usarse para proteger contra varios ataques DoS y DDoS.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

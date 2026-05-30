@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [coding-best-practices, ejptv2, el-hacker-legendario, error-handling, file-reading, httprequests, pentesting, python, web-scraping]
 actualizado: 2026-05-28
 ---
 
 # Ejercicio Práctico Librería Requests
-
----
-
-#Python #HTTPRequests #ErrorHandling #FileReading #WebScraping #CodingBestPractices
 
 ---
 ### **Análisis del primer bloque de código**
@@ -160,9 +156,6 @@ for direccion in urls:
 - El **código corregido** soluciona todos estos problemas y añade robustez.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]

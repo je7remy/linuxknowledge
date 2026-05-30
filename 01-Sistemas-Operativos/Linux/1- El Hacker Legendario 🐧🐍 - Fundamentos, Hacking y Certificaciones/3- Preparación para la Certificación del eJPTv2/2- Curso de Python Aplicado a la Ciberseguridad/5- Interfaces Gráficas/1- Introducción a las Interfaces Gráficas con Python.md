@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [aplicacion-python, bucle-de-eventos, ejptv2, el-hacker-legendario, gui, interfaz-grafica, pentesting, programacion, python, tkinter, ventana]
 actualizado: 2026-05-28
 ---
 
 # Introducción a las Interfaces Gráficas con Python
-
----
-
-#Python #Tkinter #GUI #InterfazGrafica #Programacion #BucleDeEventos #Ventana #AplicacionPython
 
 ---
 ### **Paso 1: Importación del módulo Tkinter**

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, python, type-hints, test-conocimientos]
+tags: [fastapi, python, test-conocimientos, type-hints]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [cisco, isr-4000, firepower, anyconnect, amp, firewall, nat, proxy]
+tags: [amp, anyconnect, cisco, firepower, firewall, isr-4000, nat, proxy]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -76,9 +76,6 @@ En la próxima sección, te **sumergirás en el sistema operativo Linux** 🐧, 
 > ¡Lo estás haciendo excelente! Cada paso que das te acerca más a convertirte en un profesional de la ciberseguridad. Sigue con ese enfoque y curiosidad, ¡y prepárate para dominar Linux!
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

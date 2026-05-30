@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -68,9 +68,6 @@ Linux es una **_____** de código abierto que se puede utilizar para examinar re
         
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

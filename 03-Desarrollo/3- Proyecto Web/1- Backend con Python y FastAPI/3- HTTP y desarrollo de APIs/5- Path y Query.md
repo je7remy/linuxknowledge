@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, path-parameters, query-parameters, crud]
+tags: [crud, fastapi, path-parameters, query-parameters]
 actualizado: 2026-05-28
 ---
 

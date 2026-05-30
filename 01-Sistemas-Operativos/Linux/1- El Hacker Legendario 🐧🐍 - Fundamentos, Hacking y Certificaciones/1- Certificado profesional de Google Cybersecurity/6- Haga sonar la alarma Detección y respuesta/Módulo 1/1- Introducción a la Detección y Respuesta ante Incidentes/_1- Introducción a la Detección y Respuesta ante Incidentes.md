@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 6- Haga sonar la alarma Detección y respuesta / Módulo 1 / 1- Introducción a la Detección y Respuesta ante Incidentes
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/1- Introducción a la Detección y Respuesta ante Incidentes
 actualizado: 2026-05-28
 ---
 
@@ -20,3 +20,12 @@ actualizado: 2026-05-28
 - [[8- Funciones en la respuesta]]
 - [[9- Planes de respuesta ante incidentes]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[_2- Herramientas de respuesta ante incidentes|Herramientas de respuesta ante incidentes]]
+- [[_3- Gestión de alertas y herramientas SIEM y SOAR|Gestión de alertas y herramientas SIEM y SOAR]]

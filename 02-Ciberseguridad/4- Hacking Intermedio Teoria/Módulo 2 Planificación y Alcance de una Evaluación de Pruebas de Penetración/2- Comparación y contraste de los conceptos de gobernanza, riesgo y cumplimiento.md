@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [gobernanza, riesgo, cumplimiento, grc, nda, msa, sow, hipaa, gdpr, pci-dss]
+tags: [cumplimiento, gdpr, gobernanza, grc, hipaa, msa, nda, pci-dss, riesgo, sow]
 actualizado: 2026-05-28
 ---
 

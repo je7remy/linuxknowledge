@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -119,9 +119,6 @@ Se verificaron los permisos de los archivos y directorios del directorio `projec
 Estos cambios aseguran que el sistema cumpla con las políticas de seguridad y que solo los usuarios autorizados tengan el acceso correspondiente.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

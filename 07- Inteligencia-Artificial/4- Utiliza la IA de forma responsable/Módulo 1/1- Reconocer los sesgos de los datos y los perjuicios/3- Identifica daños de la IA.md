@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-responsable, modulo-1]
+tags: [ia, ia-responsable, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -59,9 +59,6 @@ Sin **supervisión humana** ni **pensamiento crítico**, la IA puede reforzar pr
 La buena noticia es que las herramientas de IA **evolucionan rápidamente** gracias a la retroalimentación de los usuarios. Ser consciente de los posibles daños y resultados negativos es el **primer paso hacia un uso responsable y ético de la inteligencia artificial**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]

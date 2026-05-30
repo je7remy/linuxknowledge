@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: Google Cybersecurity / 1- Fundamentos de la ciberseguridad
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad
 actualizado: 2026-05-28
 ---
 

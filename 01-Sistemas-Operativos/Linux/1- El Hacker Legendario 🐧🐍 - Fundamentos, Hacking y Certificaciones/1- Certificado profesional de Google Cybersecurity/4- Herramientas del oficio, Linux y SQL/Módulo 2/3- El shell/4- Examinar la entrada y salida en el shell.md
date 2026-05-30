@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -126,9 +126,6 @@ Después de que un usuario escriba un comando en el shell, éste puede devolver 
 La **entrada estándar** es lo que el usuario escribe (lo que entra al sistema), por lo tanto **no es una respuesta del shell**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

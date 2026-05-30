@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, splunk, docker]
+tags: [docker, ejptv2, el-hacker-legendario, splunk]
 actualizado: 2026-05-28
 ---
 

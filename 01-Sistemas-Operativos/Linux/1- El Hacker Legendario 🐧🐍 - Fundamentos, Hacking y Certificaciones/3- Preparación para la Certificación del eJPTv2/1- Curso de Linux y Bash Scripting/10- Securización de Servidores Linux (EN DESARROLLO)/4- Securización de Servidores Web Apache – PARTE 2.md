@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-de-servidores, apache, apache2, apache-security, bash, ciberseguridad, configuracion-apache, configuracion-de-apache, configuracion-servidor, document-root, ejptv2, el-hacker-legendario, linux, linux-commands, proteccion-web, securizacion-de-servidores, seguridad-de-archivos, seguridad-web, servidor-seguro, servidor-web]
 actualizado: 2026-05-28
 ---
 
 # Securización de Servidores Web Apache – PARTE 2
-
----
-
-#Apache #SeguridadWeb #Linux #ServidorWeb #ConfiguraciónApache #Ciberseguridad #SecurizaciónDeServidores #DocumentRoot #ConfiguraciónDeApache #SeguridadDeArchivos #ApacheSecurity #LinuxCommands #ServidorSeguro #ProtecciónWeb #ConfiguraciónServidor #Apache2 #AdministraciónDeServidores
 
 ---
 #### **1. Configuración Inicial**

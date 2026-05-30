@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 3- Conectar y proteger, redes y seguridad de red / Modulo 1 / 2- Introducción a las redes
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/2- Introducción a las redes
 actualizado: 2026-05-28
 ---
 
@@ -22,3 +22,14 @@ actualizado: 2026-05-28
 - [[8- Diseño de una red de área local]]
 - [[9- Redes en la nube]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 1|Modulo 1]]
+
+## Relacionadas
+
+- [[_1- Primeros pasos con el curso|Primeros pasos con el curso]]
+- [[_3- Comunicación de red|Comunicación de red]]
+- [[_4- Comunicación en red local y amplia|Comunicación en red local y amplia]]
+- [[_5- Revisión, Arquitectura de red|Revisión, Arquitectura de red]]

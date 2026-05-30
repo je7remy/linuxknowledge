@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [politica-datos, propiedad-contenido, reutilizacion, privacidad]
+tags: [politica-datos, privacidad, propiedad-contenido, reutilizacion]
 actualizado: 2026-05-28
 ---
 

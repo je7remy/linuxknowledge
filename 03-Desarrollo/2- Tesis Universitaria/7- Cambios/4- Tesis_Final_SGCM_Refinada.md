@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, version-final, sgcm, refinada, unphu, hospital-juan-bosch]
+tags: [hospital-juan-bosch, refinada, sgcm, tesis, unphu, version-final]
 actualizado: 2026-05-28
 ---
 

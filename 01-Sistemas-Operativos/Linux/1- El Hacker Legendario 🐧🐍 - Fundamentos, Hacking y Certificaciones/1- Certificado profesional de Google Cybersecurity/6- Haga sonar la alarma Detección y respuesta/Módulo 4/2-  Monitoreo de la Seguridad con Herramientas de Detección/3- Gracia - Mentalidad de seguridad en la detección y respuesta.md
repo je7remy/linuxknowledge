@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -51,9 +51,6 @@ Grace destaca la importancia de la **autocompasión y la paciencia** durante el 
 Aprender sobre seguridad puede ser desafiante, pero la **curiosidad, la práctica y la empatía** son las claves para avanzar y convertirse en un buen profesional.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

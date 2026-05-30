@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, test-conocimientos, documentacion, swagger]
+tags: [documentacion, fastapi, swagger, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

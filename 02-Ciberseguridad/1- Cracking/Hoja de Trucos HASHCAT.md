@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [hashcat, password-cracking, md5, ntlm, dictionary-attack, brute-force]
+tags: [administracion-sistemas, brute-force, ciberseguridad, cracking-hashes, cyber-attack, cyber-defense, dictionary-attack, forensics, hacking-etico, hack-the-planet, hashcat, linux, md5, ntlm, password-cracking, pentesting, red-team, security-testing, security-tools]
 actualizado: 2026-05-28
 ---
 
 # Hoja de Trucos HASHCAT
-
-#Hashcat #CyberSecurity #PasswordCracking #EthicalHacking #InfoSec #Pentesting #HackingÉtico #MD5 #NTLM #BruteForce #DictionaryAttack #CyberDefense #SecurityTools #CrackingHashes #RedTeam #CyberAttack #Forensics #Linux #SysAdmin #SecurityTesting #HackThePlanet
-
 ---
 
 | Comando                 | Propósito                                            |

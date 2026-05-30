@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [shell, reverse-shell, bind-shell, webshell, netcat, mkfifo, tty]
+tags: [bind-shell, mkfifo, netcat, reverse-shell, revshell, shell, tty, webshell]
 actualizado: 2026-05-28
 ---
 
 # Basic Shells — Cheatsheet
-
-#shell #revshell 
-
 ---------
 
 |                                                                                    |                                                                    |

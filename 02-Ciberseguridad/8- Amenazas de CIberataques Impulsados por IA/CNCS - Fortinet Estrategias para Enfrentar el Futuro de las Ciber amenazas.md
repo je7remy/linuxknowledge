@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [fortinet, cncs, ia-ofensiva, deepseek, soc, sun-tzu, phishing-ia]
+tags: [cncs, deepseek, fortinet, ia-ofensiva, phishing-ia, soc, sun-tzu]
 actualizado: 2026-05-28
 ---
 

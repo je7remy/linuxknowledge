@@ -1,6 +1,6 @@
 ---
 tipo: cheatsheet
-tags: [glosario, programacion, terminos, referencia]
+tags: [glosario, programacion, referencia, terminos]
 actualizado: 2026-05-28
 ---
 

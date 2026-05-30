@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -84,9 +84,6 @@ Un(a) **_____** regula y restringe el acceso de Internet a un servidor interno.
 Un **servidor proxy inverso** actúa como intermediario entre Internet y un **servidor interno**, controlando el tráfico entrante. Su función es **ocultar la dirección IP del servidor interno**, filtrar solicitudes externas y añadir una capa adicional de seguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

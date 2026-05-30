@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [nmap, reconocimiento, pentesting, redes]
+tags: [administracion-sistemas, blue-team, ciberseguridad, ctf, dev-sec-ops, escaneo-de-redes, hacking-etico, networking, network-security, nmap, osint, pentesting, port-scanning, reconocimiento, redes, red-team]
 actualizado: 2026-05-28
 ---
 
 # Hoja de trucos NMAP
-
-#Nmap #Pentesting #CyberSecurity #HackingÉtico #EthicalHacking #InfoSec #RedTeam #BlueTeam #SeguridadInformática #EscaneoDeRedes #OSINT #Networking #SysAdmin #DevSecOps #PortScanning #NetworkSecurity #CTF #Redes #Ciberseguridad
-
 ---
 ### Escaneo de IPs y Redes
 

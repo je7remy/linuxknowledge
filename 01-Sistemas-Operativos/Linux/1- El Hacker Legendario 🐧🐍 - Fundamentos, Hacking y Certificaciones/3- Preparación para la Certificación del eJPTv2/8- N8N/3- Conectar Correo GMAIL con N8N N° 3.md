@@ -153,9 +153,6 @@ También puedes usar **otros triggers**:
 ✔️ Personalizaste el cuerpo del mensaje con expresiones
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- N8N|8- N8N]]

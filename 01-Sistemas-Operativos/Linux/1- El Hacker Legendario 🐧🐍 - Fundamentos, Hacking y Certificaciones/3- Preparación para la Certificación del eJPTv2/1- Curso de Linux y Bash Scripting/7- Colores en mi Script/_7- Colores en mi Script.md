@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / Linux y Bash / 7- Colores
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/7- Colores en mi Script
 actualizado: 2026-05-28
 ---
 

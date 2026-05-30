@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 5- Mantente a la vanguardia de la IA / Módulo 1 / 1- Mantente informado sobre la IA
+seccion: 07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/1- Mantente informado sobre la IA
 actualizado: 2026-05-28
 ---
 
@@ -13,3 +13,12 @@ actualizado: 2026-05-28
 - [[2- Mantente al día con la IA]]
 - [[3- Actividad, Evalúa una nueva herramienta de IA]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

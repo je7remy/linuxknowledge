@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -16,9 +16,6 @@ actualizado: 2026-05-28
 |**4**|Pasos del RMF (NIST)|✅ Categorizar|El paso de **categorizar** permite evaluar los sistemas según su importancia para la organización.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

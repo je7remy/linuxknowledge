@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 4- Herramientas del oficio, Linux y SQL / Módulo 2 / 1- Todo sobre Linux
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/1- Todo sobre Linux
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,13 @@ actualizado: 2026-05-28
 - [[5- Explicación de la arquitectura de Linux]]
 - [[6- Ponga a prueba sus Conocimientos, Todo sobre Linux]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[_2- Distribuciones de Linux|Distribuciones de Linux]]
+- [[_3- El shell|El shell]]
+- [[_4- Revisión, El sistema operativo Linux|Revisión, El sistema operativo Linux]]

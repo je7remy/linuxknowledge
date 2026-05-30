@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, rest, api, metodos-http]
+tags: [api, fastapi, metodos-http, rest]
 actualizado: 2026-05-28
 ---
 

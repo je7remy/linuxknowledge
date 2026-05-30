@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [ftp, tftp, vsftpd, anonymous-login, hosts, hackthebox]
+tags: [anonymous-ftp, anonymous-login, ciberseguridad, enumeracion, file-transfer, ftp, ftpconfig, ftpserver, hackthebox, hosts, netcat, network-security, nmap, nse, open-ssl, pentesting, telnet, tftp, vsftpd, vs-ftpd, vulnerabilidades]
 actualizado: 2026-05-28
 ---
 
 # FTP — File Transfer Protocol
-
-#ftp #FTP #TFTP #vsFTPd #FTPServer #FTPConfig #FileTransfer #Ciberseguridad #Pentesting #Nmap #NSE #Enumeracion #AnonymousFTP #NetworkSecurity #Vulnerabilidades #OpenSSL #Telnet #Netcat
-
 ----------
 ## TFTP
 

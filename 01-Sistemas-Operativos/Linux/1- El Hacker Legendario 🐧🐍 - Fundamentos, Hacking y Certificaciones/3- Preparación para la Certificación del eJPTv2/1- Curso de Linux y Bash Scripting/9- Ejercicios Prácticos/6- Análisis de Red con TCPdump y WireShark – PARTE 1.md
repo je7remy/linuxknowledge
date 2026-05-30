@@ -1,14 +1,10 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, analisis-de-red, bash, blue-team, captura-de-trafico, ciberseguridad, ctf, dev-sec-ops, ejptv2, el-hacker-legendario, forense-digital, ftp, hacking-etico, kali-linux, linux, pentesting, protocolos-inseguros, red-team, sniffing, tcpdump, wireshark]
 actualizado: 2026-05-28
 ---
 
 # Análisis de Red con TCPdump y WireShark – PARTE 1
-
----
-
-#Pentesting #CyberSecurity #HackingÉtico #Linux #KaliLinux #Tcpdump #Wireshark #Sniffing #EthicalHacking #InfoSec #CTF #RedTeam #BlueTeam #SeguridadInformática #ForenseDigital #SysAdmin #DevSecOps #CapturaDeTráfico #AnálisisDeRed #FTP #ProtocolosInseguros
 
 ---
 ### **1. `tcpdump -I eth0`**

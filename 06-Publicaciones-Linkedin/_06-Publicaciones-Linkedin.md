@@ -14,13 +14,18 @@ en formato post: tono divulgativo, longitud calibrada, imágenes listas.
 
 ## Contenido
 
-- [[0- Imágenes]] — Carpeta con assets gráficos para los posts.
+- [[_0- Imagenes|0- Imágenes]] — Carpeta con assets gráficos para los posts.
 - [[1- GESTIÓN EFICAZ DE USUARIOS EN LINUX, AUTOMATIZA TAREAS COMUNES CON BASH]] —
   Post sobre administración de usuarios y automatización con Bash.
 - [[2- Herramienta para hacer cracking de contraseñas]] — Post sobre cracking
   como introducción al dominio.
 - `3- Glosario de Ciberseguridad.pdf` — PDF distribuible del glosario
   (no es nota Obsidian, se enlaza como archivo adjunto).
+
+## Navegación
+
+- 🏠 [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]
 
 ## Secciones relacionadas
 

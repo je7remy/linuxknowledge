@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion, bash, curl, descargas, devops, ejptv2, el-hacker-legendario, http, linux, networking, terminal]
 actualizado: 2026-05-28
 ---
 
 # Cómo Utilizar CURL con HTTP
 
 ---
-
-#Linux #Curl #HTTP #Descargas #Automatización #Terminal #ComandosLinux #SysAdmin #Networking #DevOps
-
----
-
 ### **CURL: Información básica**
 
 - **Siglas:**  

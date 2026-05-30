@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [tool-use, function-calling, structured-output, json-mode, llm, python, ms-reactor]
+tags: [function-calling, json-mode, llm, ms-reactor, python, structured-output, tool-use]
 actualizado: 2026-05-28
 ---
 

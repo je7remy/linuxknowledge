@@ -111,9 +111,6 @@ actualizado: 2026-05-28
 > **Respuesta correcta: A.** FastAPI realiza validación de datos automática; si los tipos no coinciden, devuelve un error `422 Unprocessable Entity`.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

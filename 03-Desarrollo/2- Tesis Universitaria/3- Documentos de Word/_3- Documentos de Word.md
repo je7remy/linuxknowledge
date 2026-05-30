@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 03-Desarrollo / 2- Tesis Universitaria / 3- Documentos de Word
+seccion: 03-Desarrollo/2- Tesis Universitaria/3- Documentos de Word
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,11 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_2- Tesis Universitaria|2- Tesis Universitaria]]
+
+---
+## Relacionadas
+
+- [[_1- Propuesta|Propuesta]]
+- [[_2- Anteproyecto|Anteproyecto]]
+- [[_4- Configuracion Inicial del Proyecto|Configuracion Inicial del Proyecto]]
+- [[_5- Guia Completa de Tesis|Guia Completa de Tesis]]

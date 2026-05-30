@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [metasploit, msfconsole, msfvenom, msfdb, payload-generation]
+tags: [bug-bounty, ciberseguridad, ctf, cyber-attack, cyber-sec-community, exploit, exploit-development, hacking-etico, hacking-tools, metasploit, msfconsole, msfdb, msfvenom, network-security, osint, payload-generation, penetration-testing, privilege-escalation, red-team, reverse-shell, security-testing, shell-access, threat-hunting, vulnerability-scanning]
 actualizado: 2026-05-28
 ---
 
 # Hoja de trucos de Metasploit
-
-#Metasploit #MSFConsole #MSFVenom #ExploitDevelopment #PenetrationTesting #CyberSecurity #EthicalHacking #RedTeam #InfoSec #PayloadGeneration #ReverseShell #PrivilegeEscalation #Exploit #HackingTools #CyberAttack #VulnerabilityScanning #SecurityTesting #CTF #BugBounty #NetworkSecurity #ThreatHunting #ShellAccess #OSINT #CyberSecCommunity
-
 ---
 1. `msfdb` = Inicializar base de datos de metasploit.
 2. `msfconsole` = Interfaz de linea de comandos principal.

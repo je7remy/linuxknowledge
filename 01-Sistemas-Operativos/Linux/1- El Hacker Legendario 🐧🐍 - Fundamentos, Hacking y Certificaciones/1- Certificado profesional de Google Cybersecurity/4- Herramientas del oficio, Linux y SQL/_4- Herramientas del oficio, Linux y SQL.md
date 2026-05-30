@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: Google Cybersecurity / 4- Linux y SQL
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-responsable, modulo-1]
+tags: [ia, ia-responsable, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -26,9 +26,6 @@ Del mismo modo, los modelos de IA también reflejan los **valores** de las perso
 En definitiva, la IA, como toda tecnología emergente, no es perfecta. Ofrece tanto **oportunidades** como **retos**, y su uso responsable requiere pensamiento crítico, comprensión de sus limitaciones y conciencia sobre cómo los datos y los valores humanos pueden influir en sus resultados.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]

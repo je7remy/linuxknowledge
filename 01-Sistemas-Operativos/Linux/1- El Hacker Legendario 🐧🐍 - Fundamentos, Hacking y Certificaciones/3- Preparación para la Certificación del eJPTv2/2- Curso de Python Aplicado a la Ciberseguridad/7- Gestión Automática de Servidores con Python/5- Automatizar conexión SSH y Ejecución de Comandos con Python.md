@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ciberseguridad, conexion-remota, ejptv2, el-hacker-legendario, paramiko, pentesting, python, ssh]
 actualizado: 2026-05-28
 ---
 
 # Automatizar conexión SSH y Ejecución de Comandos con Python
 
 ---
-
-#Python #SSH #Paramiko #ConexionRemota #SeguridadInformática
-
----
-
 #### 1. **Importar la biblioteca necesaria**
 
 ```python

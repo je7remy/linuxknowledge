@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [acceso-remoto, acceso-sin-contrasena, administracion-sistemas, autenticacion-segura, automatizacion, automatizacion-linux, bash, ciberseguridad, clave-publica, clave-ssh, ejptv2, el-hacker-legendario, gestion-de-sistemas, linux, seguridad, ssh, sshkey]
 actualizado: 2026-05-28
 ---
 
 # Acceso Automatizado SSH Importando Clave Pública
-
----
-
-#SSH #Automatización #AccesoSinContraseña #ClaveSSH #Seguridad #Ciberseguridad #Linux #AutomatizaciónLinux #GestiónDeSistemas #AdministraciónDeSistemas #ClavePública #AccesoRemoto #ComandosLinux #SSHKey #AutenticaciónSegura
 
 ---
 Para automatizar el acceso SSH utilizando claves públicas, puedes usar `ssh-keygen` para generar claves y `ssh-copy-id` para transferir la clave pública al servidor remoto.

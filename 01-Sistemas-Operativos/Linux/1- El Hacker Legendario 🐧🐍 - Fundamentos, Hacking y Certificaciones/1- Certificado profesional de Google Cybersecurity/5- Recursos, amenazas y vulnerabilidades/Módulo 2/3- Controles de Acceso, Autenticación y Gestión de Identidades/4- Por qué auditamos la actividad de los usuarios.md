@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -87,9 +87,6 @@ Aunque las cookies fortalecen la seguridad, presentan riesgos:
 ✅ En resumen, la **contabilidad** no solo monitorea el acceso, sino que también ayuda a **prevenir, detectar y responder a incidentes de seguridad** mediante el análisis de registros.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

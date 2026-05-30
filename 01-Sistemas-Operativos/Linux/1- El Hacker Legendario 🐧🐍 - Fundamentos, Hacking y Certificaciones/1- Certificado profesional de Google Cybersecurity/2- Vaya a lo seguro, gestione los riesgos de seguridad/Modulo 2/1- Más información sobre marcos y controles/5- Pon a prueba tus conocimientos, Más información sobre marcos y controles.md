@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -53,9 +53,6 @@ Cada control (como cifrado o autenticación) apunta a riesgos **concretos**.
 La autenticación valida la identidad (usuario, voz, huella, etc.) antes de otorgar acceso. El vishing intenta burlar este proceso.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

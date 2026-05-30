@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [bases-de-datos, codigo, conexion, desarrollo, ejptv2, el-hacker-legendario, my-sql, mysqlconnector, pentesting, programacion, python, sql, tutorial]
 actualizado: 2026-05-28
 ---
 
 # Consultas a la Base de Datos
-
----
-
-#Python #MySQL #mysqlconnector #BasesDeDatos #SQL #Programacion #Tutorial #Conexion #Codigo #Desarrollo
 
 ---
 ## 1. Importación de la librería

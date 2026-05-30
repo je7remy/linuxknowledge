@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 4- Utiliza la IA de forma responsable / Módulo 2 / 1- IA para el bienestar social
+seccion: 07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/Módulo 2/1- IA para el bienestar social
 actualizado: 2026-05-28
 ---
 
@@ -15,3 +15,12 @@ actualizado: 2026-05-28
 - [[4- Vint, Utiliza la IA para generar un cambio positivo]]
 - [[5- Lista de comprobación para usar la IA de forma responsable]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

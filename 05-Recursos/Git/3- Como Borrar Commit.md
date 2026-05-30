@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [git, rebase, reset-hard, drop, push-force, historial]
+tags: [drop, git, historial, push-force, rebase, reset-hard]
 actualizado: 2026-05-28
 ---
 

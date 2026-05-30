@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -114,9 +114,6 @@ Este framework se enfoca específicamente en la respuesta a incidentes e incluye
 ✅ Con este marco, tendrás una guía clara para detectar, responder y recuperar ante incidentes, siempre con **documentación estructurada** como respaldo.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

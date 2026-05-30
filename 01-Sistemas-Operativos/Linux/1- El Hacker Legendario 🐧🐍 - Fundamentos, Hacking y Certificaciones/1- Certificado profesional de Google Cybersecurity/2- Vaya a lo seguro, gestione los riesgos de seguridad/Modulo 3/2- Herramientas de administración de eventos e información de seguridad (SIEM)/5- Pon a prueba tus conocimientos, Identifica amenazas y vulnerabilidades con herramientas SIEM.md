@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -71,9 +71,6 @@ actualizado: 2026-05-28
 🟢 **Correcto:** Los tres tipos de implementación SIEM más comunes son **autohospedado**, **en la nube** y **híbrido**. "Físico" no es una categoría válida por sí sola.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

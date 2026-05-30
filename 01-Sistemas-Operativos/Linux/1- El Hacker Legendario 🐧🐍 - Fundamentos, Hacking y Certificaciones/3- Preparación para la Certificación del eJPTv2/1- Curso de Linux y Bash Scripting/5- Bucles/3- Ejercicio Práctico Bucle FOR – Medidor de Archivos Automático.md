@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [auditoria-de-archivos, automatizacion-de-archivos, automatizacion-de-tareas, automatizacion-linux, backup-de-archivos, bash, buenas-practicas-linux, confirmacion-de-eliminacion, ejptv2, el-hacker-legendario, eliminar-archivos, find-command, gestion-de-archivos, linux, registros-de-archivos, scripting-eficiente, scripting-linux, seguridad-en-sistemas, trabajo-con-archivos]
 actualizado: 2026-05-28
 ---
 
 # Ejercicio Práctico Bucle FOR – Medidor de Archivos Automático
-
----
-
-#Bash #ShellScripting #AutomatizacionDeArchivos #GestionDeArchivos #ScriptingLinux #ComandosLinux #EliminarArchivos #TrabajoConArchivos #SeguridadEnSistemas #AutomatizacionDeTareas #BuenasPracticasLinux #FindCommand #ScriptingEficiente #ConfirmacionDeEliminacion #RegistrosDeArchivos #AuditoriaDeArchivos #AutomatizacionLinux #BackupDeArchivos
 
 ---
 ### **Script 1: Mostrar tamaño de archivos**

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [automatizacion-linux, awk, bash, comando-sed, comando-tr, edicion-de-texto, ejptv2, el-hacker-legendario, linux, linux-commands, linux-tools, modificacion-de-archivos, procesamiento-de-archivos, reemplazos-de-texto, scripting-en-linux, texto-transformado, text-processing, traduccion-de-texto]
 actualizado: 2026-05-28
 ---
 
 # Procesador de Información – SED
-
----
-
-#ComandoSed #AWK #TraducciónDeTexto #BashScripting #LinuxCommands #TextProcessing #ComandosLinux #ShellScripting #AutomatizaciónLinux #LinuxTools #TextoTransformado #ModificaciónDeArchivos #ReemplazosDeTexto #ScriptingEnLinux #EdiciónDeTexto #ProcesamientoDeArchivos #ComandoTr
 
 ---
 ### Explicación de los Pasos y Comandos Usados

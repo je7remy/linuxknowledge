@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [archivos, backup, ejptv2, el-hacker-legendario, ftp, pentesting, python]
 actualizado: 2026-05-28
 ---
 
 # Automatizar Copias de Seguridad FTP con Python
 
 ---
-
-#FTP #Python #archivos #backup
-
----
-
 1. **Importación de módulos necesarios:**
     
     ```python

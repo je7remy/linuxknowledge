@@ -1,17 +1,12 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [bash, ejptv2, el-hacker-legendario, kali-linux, linux, soporte-tecnico, virtual-box]
 actualizado: 2026-05-28
 ---
 
 # Informe Solución Error Barra Kali Linux VirtualBox 21-02-2025
 
 ---
-
-#KaliLinux #VirtualBox #SoporteTecnico
-
----
-
 **Informe: Solución del Problema de Desaparición de la Barra de Inicio en Kali Linux 2024.1 en VirtualBox**
 
 **Fecha:** 21 de febrero de 2025  
@@ -70,9 +65,6 @@ Jeremy José de la Cruz Pérez
 21-02-25
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_9- Ejercicios Prácticos|9- Ejercicios Prácticos]]

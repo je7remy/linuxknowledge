@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -19,9 +19,6 @@ Por último, presentamos los **ocho dominios de seguridad de CISSP** y cómo se 
 Recuerda: **todo profesional de la seguridad es esencial**. Tu punto de vista único, tu experiencia profesional y tus conocimientos son valiosos. La diversidad que aportes al campo contribuirá significativamente a fortalecer la industria de la seguridad mientras trabajas para mantener seguras a las organizaciones y a las personas.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

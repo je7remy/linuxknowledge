@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [llm, python, ms-reactor, ollama, quart, tokenizacion, contexto]
+tags: [contexto, llm, ms-reactor, ollama, python, quart, tokenizacion]
 actualizado: 2026-05-28
 ---
 

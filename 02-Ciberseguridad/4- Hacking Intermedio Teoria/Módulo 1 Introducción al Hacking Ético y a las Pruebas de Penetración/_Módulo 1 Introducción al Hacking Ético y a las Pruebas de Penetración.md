@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 1
+seccion: 02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [fuerza-bruta, wordlist, ophcrack, hydra, rainbowcrack, medusa]
+tags: [fuerza-bruta, hydra, medusa, ophcrack, rainbowcrack, wordlist]
 actualizado: 2026-05-28
 ---
 

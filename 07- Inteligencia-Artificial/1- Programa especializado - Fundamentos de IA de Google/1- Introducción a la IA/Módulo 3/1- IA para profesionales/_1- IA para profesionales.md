@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 1- Programa especializado - Fundamentos de IA de Google / 1- Introducción a la IA / Módulo 3 / 1- IA para profesionales
+seccion: 07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Módulo 3/1- IA para profesionales
 actualizado: 2026-05-28
 ---
 
@@ -13,3 +13,12 @@ actualizado: 2026-05-28
 - [[2- Actividad - Utilizar la IA para crear un correo electrónico]]
 - [[3- Utiliza la IA como herramienta colaborativa]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

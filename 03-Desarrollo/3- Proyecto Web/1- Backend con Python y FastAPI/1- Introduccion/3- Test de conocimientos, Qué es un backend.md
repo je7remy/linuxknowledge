@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, backend, test-conocimientos, quiz]
+tags: [backend, fastapi, quiz, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

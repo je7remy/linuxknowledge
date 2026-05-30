@@ -1,12 +1,10 @@
 ---
-
-### **Pregunta 1:**
-
-**¿Qué tipo de ataque utiliza varios dispositivos o servidores en diferentes ubicaciones para inundar la red objetivo con tráfico no deseado?**
-
-✅ **Respuesta correcta:** Ataque de denegación de servicio distribuido (**DDoS**)
-
+tipo: teoria
+tags: [sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Ponga a prueba sus Conocimientos, Redes seguras contra ataques de denegación de servicio (DoS)
 
 ### **Pregunta 2:**
 
@@ -44,9 +42,6 @@
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

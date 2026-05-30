@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [bash, ejptv2, el-hacker-legendario, linux]
 actualizado: 2026-05-28
 ---
 
@@ -110,9 +110,6 @@ done
     - Si el usuario introduce texto en lugar de un número, el script no genera mensajes de error del sistema, solo imprime `Datos incorrectos, introduce tu edad`.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Bucles|5- Bucles]]

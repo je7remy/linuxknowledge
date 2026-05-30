@@ -1,6 +1,6 @@
 ---
 tipo: cheatsheet
-tags: [hacking-commands, nmap, hping3, masscan, tcpdump, gobuster, metasploit, netcat]
+tags: [gobuster, hacking-commands, hping3, masscan, metasploit, netcat, nmap, tcpdump]
 actualizado: 2026-05-28
 ---
 
@@ -415,16 +415,6 @@ actualizado: 2026-05-28
 - **`alias`**: Crea un alias para `ls`, mostrando datos aleatorios en lugar de listar archivos.
 
 ---
-
-
-
-
-
-
----
-
-
-
 # Comandos de Hacking - Guía Rápida
 
 1. **ping 192.168.0.1**

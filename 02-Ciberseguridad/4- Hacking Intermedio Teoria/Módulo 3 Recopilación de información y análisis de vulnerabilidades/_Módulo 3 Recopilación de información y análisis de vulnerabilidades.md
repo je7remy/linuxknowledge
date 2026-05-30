@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 3
+seccion: 02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 3 Recopilación de información y análisis de vulnerabilidades
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 05-Recursos / Android / 1- Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)
+seccion: 05-Recursos/Android/1- Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,8 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_Android|Android]]
+
+---
+## Relacionadas
+
+- [[_2- Desinstalación de aplicaciones del sistema en Android sin root utilizando ADB|Desinstalación de aplicaciones del sistema en Android sin root utilizando ADB]]

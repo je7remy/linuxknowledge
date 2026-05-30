@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -58,9 +58,6 @@ _Un profesional de la Seguridad utiliza a(n) _____ para interactuar con una comp
 📝 _La CLI guarda un historial de los comandos ejecutados, lo cual es útil para auditar, repetir tareas o rastrear acciones durante análisis de seguridad._
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

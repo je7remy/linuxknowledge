@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -74,9 +74,6 @@ La **coordinación** es clave para reportar incidentes, compartir información y
 Al evaluar una alerta, el analista debe **verificar su validez** y entender su origen revisando logs y métricas del SIEM.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

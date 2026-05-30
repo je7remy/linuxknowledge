@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, capitulo-1, introduccion, sistema-web, hospital-juan-bosch]
+tags: [capitulo-1, hospital-juan-bosch, introduccion, sistema-web, tesis]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 3- Descubra el arte de la instrucción / Módulo 3 / 1- Técnicas para dar instrucciones a un LLM
+seccion: 07- Inteligencia-Artificial/3- Descubra el arte de la instrucción/Módulo 3/1- Técnicas para dar instrucciones a un LLM
 actualizado: 2026-05-28
 ---
 
@@ -13,3 +13,12 @@ actualizado: 2026-05-28
 - [[2- Técnicas para dominar tareas complejas con IA]]
 - [[3- Rachna, Mejora las instrucciones mediante la exploración]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

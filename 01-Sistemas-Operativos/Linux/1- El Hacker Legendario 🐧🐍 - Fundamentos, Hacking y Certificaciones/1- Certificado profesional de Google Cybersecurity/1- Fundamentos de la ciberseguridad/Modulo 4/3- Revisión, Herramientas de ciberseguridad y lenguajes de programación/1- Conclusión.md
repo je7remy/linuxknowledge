@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -17,9 +17,6 @@ Finalmente, se presentaron los fundamentos del sistema operativo **Linux** y los
 🔁 **Recuerda**: Estas herramientas requieren tiempo y práctica para dominarlas. Sin embargo, adquirir una base sólida en ellas puede abrirte muchas puertas en el campo de la ciberseguridad y ayudarte a avanzar profesionalmente.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

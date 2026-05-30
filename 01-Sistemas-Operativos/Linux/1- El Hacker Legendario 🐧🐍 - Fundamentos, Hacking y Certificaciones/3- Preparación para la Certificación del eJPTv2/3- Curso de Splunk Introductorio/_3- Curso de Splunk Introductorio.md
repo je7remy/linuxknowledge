@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / 3- Splunk Introductorio
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/3- Curso de Splunk Introductorio
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -78,9 +78,6 @@ Las auditorías internas son **el punto de encuentro** entre la teoría y la pr�
 > Si eres analista principiante, este proceso te enseña a ver **cómo todo encaja** y contribuye al objetivo más importante: **proteger los activos y datos de la organización**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

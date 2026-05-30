@@ -1,13 +1,10 @@
 ---
 tipo: laboratorio
-tags: [python, fernet, cryptography, cifrado-simetrico, password-storage]
+tags: [cifrado, cifrado-simetrico, contrasenas-seguras, cryptography, descifrado, fernet, password-storage, python, seguridad]
 actualizado: 2026-05-28
 ---
 
 # Cifrado y Descifrado de Contraseñas con Fernet en Python
-
-#Python #Cifrado #Descifrado #Seguridad #Fernet #Cryptography #ContraseñasSeguras
-
 ---
 ### 📖 **Paso a Paso: Cifrado y Descifrado de Contraseñas con Fernet en Python**
 

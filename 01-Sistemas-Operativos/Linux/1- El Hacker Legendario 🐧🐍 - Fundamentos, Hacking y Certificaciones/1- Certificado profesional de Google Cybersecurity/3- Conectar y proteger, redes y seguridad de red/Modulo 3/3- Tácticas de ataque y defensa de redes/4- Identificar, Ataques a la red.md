@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -18,9 +18,6 @@ actualizado: 2026-05-28
 |**Ataque en ruta (Man-in-the-Middle)**|Ataque donde un actor malicioso se coloca **entre dos dispositivos** que se comunican, interceptando o alterando los datos en tránsito.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

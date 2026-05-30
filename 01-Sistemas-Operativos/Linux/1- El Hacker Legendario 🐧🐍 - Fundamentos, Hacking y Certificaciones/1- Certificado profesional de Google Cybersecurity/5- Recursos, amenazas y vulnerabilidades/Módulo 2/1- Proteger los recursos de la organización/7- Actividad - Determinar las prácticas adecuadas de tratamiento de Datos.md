@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -145,9 +145,6 @@ El control NIST SP 800-53: AC-6 establece que los usuarios deben contar únicame
 Estas mejoras reducen el riesgo de que usuarios conserven acceso innecesario después de una tarea y evitan que personal sin rol autorizado comparta información sensible. Con ello, se fortalece la aplicación del principio de privilegio mínimo y se disminuye la probabilidad de nuevas fugas.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

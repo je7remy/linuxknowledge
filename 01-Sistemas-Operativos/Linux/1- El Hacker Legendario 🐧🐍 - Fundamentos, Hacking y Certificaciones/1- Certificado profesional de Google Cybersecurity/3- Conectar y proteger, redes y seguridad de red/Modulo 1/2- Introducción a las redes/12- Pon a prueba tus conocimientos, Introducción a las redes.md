@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -44,9 +44,6 @@ actualizado: 2026-05-28
 **Explicación:** Se llama **computación en la nube (cloud computing)** cuando los recursos están alojados en Internet, no localmente.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

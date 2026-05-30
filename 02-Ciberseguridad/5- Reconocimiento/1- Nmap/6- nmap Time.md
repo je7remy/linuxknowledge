@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [nmap, reconocimiento, rendimiento, timing]
+tags: [enumeration, nmap, reconocimiento, rendimiento, timing]
 actualizado: 2026-05-28
 ---
 
 # Nmap — Tiempo y Rendimiento
-
-#nmap #enumeration 
-
 ---------
 
 El rendimiento del escaneo juega un papel importante cuando necesitamos escanear una red extensa o estamos lidiando con un ancho de banda de red bajo. Podemos usar varias opciones para saber qué tan rápido (), con qué frecuencia (), qué tiempos de espera () deben tener los paquetes de prueba, cuántos paquetes deben enviarse simultáneamente (), y con el número de reintentos () para los puertos escaneados se deben escanear los objetivos.`Nmap``-T <0-5>``--min-parallelism <number>``--max-rtt-timeout <time>``--min-rate <number>``--max-retries <number>`

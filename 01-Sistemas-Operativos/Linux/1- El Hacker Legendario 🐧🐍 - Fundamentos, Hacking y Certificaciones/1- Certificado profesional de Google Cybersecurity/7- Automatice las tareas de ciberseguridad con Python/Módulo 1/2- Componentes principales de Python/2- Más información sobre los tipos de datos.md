@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -264,9 +264,6 @@ Cada tipo de dato tiene un **propósito** y una **sintaxis específica**.
 Dominar estos fundamentos es esencial para avanzar en ciberseguridad y programación defensiva.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]

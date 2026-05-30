@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 2- Maximiza la productividad con herramientas de IA / Módulo 1 / 1- Explora la IA generativa
+seccion: 07- Inteligencia-Artificial/2- Maximiza la productividad con herramientas de IA/Módulo 1/1- Explora la IA generativa
 actualizado: 2026-05-28
 ---
 
@@ -15,3 +15,12 @@ actualizado: 2026-05-28
 - [[4- Entiende cómo funcionan las herramientas de IA]]
 - [[5- Modelos de IA y el proceso de entrenamiento]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

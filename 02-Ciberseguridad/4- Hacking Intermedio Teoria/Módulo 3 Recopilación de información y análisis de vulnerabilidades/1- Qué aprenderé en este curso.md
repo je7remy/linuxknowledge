@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [reconocimiento, recopilacion-informacion, pentest, modulo-intro]
+tags: [modulo-intro, pentest, reconocimiento, recopilacion-informacion]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -151,9 +151,6 @@ Wireshark and Suricata stood out. Both allowed real-time visibility into traffic
 Disfruté más **Wireshark** y **Suricata**. Ambas brindan visibilidad del tráfico y detección basada en reglas — la base del análisis en un SOC moderno.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

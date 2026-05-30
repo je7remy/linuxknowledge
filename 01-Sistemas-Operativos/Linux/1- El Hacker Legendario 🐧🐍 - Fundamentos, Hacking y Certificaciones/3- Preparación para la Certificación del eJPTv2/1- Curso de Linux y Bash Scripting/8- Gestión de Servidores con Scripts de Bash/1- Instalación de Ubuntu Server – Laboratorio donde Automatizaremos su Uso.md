@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash, laboratorio]
+tags: [bash, ejptv2, el-hacker-legendario, laboratorio, linux]
 actualizado: 2026-05-28
 ---
 

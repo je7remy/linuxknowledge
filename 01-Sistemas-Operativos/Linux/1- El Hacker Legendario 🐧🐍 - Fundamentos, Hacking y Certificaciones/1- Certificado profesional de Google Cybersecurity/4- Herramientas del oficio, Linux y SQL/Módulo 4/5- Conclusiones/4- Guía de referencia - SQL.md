@@ -1,9 +1,7 @@
 ---
-
-# 📘 Reference Guide: SQL
-
-_Google Cybersecurity Certificate_
-
+tipo: teoria
+tags: [conclusiones, herramientas-del-oficio-linux-y-sql, sistemas-operativos]
+actualizado: 2026-05-30
 ---
 
 ## Tabla de contenidos
@@ -264,9 +262,6 @@ SELECT SUM(cost)
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [nmap, reconocimiento, evasion, firewall, ids, ips]
+tags: [enumeration, evasion, firewall, ids, ips, nmap, reconocimiento]
 actualizado: 2026-05-28
 ---
 
 # Nmap — Evasión de Firewall e IDS/IPS
-
-#nmap #enumeration #firewall
-
 -----------
 
 

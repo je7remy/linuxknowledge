@@ -1,14 +1,10 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, arpscan, bash, blue-team, ciberseguridad, ctf, dev-sec-ops, ejptv2, el-hacker-legendario, escaneo-de-red, ethical-hacker, forense-digital, hacking-etico, kali-linux, linux, nmap, pentesting, redes, red-team]
 actualizado: 2026-05-28
 ---
 
 # Análisis de la Red con Bash – PARTE 2
-
----
-
-#Pentesting #CyberSecurity #HackingÉtico #Linux #KaliLinux #ARPscan #Nmap #Redes #EthicalHacking #InfoSec #CTF #RedTeam #BlueTeam #SeguridadInformática #ForenseDigital #SysAdmin #DevSecOps #EscaneoDeRed #EthicalHacker
 
 ---
 ### **Primera Parte: Escaneo con `arp-scan`**

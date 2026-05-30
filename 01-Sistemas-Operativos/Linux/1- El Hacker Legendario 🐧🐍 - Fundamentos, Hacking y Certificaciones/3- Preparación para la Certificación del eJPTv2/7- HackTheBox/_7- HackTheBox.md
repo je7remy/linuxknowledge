@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / 7- HackTheBox
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox
 actualizado: 2026-05-28
 ---
 

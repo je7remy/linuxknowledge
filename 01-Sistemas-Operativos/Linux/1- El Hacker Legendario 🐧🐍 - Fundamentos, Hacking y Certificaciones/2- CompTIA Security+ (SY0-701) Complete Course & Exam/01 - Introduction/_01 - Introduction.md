@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: CompTIA Security+ / 01 - Introduction
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- CompTIA Security+ (SY0-701) Complete Course & Exam/01 - Introduction
 actualizado: 2026-05-28
 ---
 

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [aprender-bash, automatizacion, automatizacion-de-tareas, bash, compartir-conocimientos, desarrollo-web, documentacion-tecnica, educacion-tecnologica, ejptv2, el-hacker-legendario, evolucion-de-scripts, linux, mejores-practicas-bash, programacion, scripts-de-bash, tutoriales-de-bash]
 actualizado: 2026-05-28
 ---
 
 # Ejecución de Comandos a Nivel de Sistema – Guardar Output en Variables
-
----
-
-#BashScripting #Linux #Programación #DesarrolloWeb #Automatización #Tecnología #AprenderBash #EvoluciónDeScripts #AutomatizaciónDeTareas #MejoresPrácticasBash #DocumentaciónTécnica #ScriptsDeBash #ComandosLinux #EducaciónTecnológica #CompartirConocimientos #TutorialesDeBash
 
 ---
 A continuación observaremos una evolución progresiva en el uso de comandos y variables en un script de Bash. Aquí está la explicación y desarrollo de cada etapa:

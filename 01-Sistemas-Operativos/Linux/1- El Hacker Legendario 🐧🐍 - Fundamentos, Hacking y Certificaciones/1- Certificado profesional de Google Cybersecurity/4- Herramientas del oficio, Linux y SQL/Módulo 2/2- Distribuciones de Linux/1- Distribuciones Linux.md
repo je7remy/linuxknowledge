@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -119,9 +119,6 @@ _Seleccione tres respuestas._
 Los **kernels** generalmente son muy similares en todas las distribuciones Linux (aunque algunas pueden usar versiones diferentes del mismo núcleo), por lo que **no** se considera una de las principales diferencias entre distribuciones.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

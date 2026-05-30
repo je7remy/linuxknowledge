@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, recursos-estaticos, cookies, headers, test-conocimientos]
+tags: [cookies, fastapi, headers, recursos-estaticos, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

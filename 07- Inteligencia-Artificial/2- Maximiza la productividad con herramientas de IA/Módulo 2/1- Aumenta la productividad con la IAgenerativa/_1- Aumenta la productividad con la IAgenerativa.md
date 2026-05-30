@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 2- Maximiza la productividad con herramientas de IA / Módulo 2 / 1- Aumenta la productividad con la IAgenerativa
+seccion: 07- Inteligencia-Artificial/2- Maximiza la productividad con herramientas de IA/Módulo 2/1- Aumenta la productividad con la IAgenerativa
 actualizado: 2026-05-28
 ---
 
@@ -14,3 +14,12 @@ actualizado: 2026-05-28
 - [[3- Herramientas de IA generativa para tareas laborales]]
 - [[4- Actividad, Utilizar IA generativa para desarrollar contenidos e imágenes para Redes sociales]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

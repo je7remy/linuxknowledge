@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 7- Automatice las tareas de ciberseguridad con Python / Módulo 2 / 2- Trabajar con funciones
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 2/2- Trabajar con funciones
 actualizado: 2026-05-28
 ---
 
@@ -17,3 +17,13 @@ actualizado: 2026-05-28
 - [[6- Crear más funciones]]
 - [[7- Ponga a prueba sus Conocimientos - Argumentos, parámetros y sentencias de retorno]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[_1- Introducción a las funciones|Introducción a las funciones]]
+- [[_3- Aprenda de la comunidad Python|Aprenda de la comunidad Python]]
+- [[_4- Revisar, Escribir código Python eficaz|Revisar, Escribir código Python eficaz]]

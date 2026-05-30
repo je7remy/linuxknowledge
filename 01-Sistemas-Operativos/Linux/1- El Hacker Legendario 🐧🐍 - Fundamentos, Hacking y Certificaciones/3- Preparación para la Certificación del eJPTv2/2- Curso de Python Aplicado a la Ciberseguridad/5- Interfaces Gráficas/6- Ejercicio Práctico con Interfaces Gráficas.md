@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [automatizacion, ejptv2, el-hacker-legendario, gestion-de-archivos, organizacion, pentesting, python, tkinter]
 actualizado: 2026-05-28
 ---
 
 # Ejercicio Práctico con Interfaces Gráficas
-
----
-
-#Python #Tkinter #Automatización #Organización #GestiónDeArchivos
 
 ---
 ### Explicación Paso a Paso del Código

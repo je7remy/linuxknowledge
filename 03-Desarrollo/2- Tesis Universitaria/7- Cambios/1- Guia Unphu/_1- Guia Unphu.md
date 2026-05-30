@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 03-Desarrollo / 2- Tesis Universitaria / 7- Cambios / 1- Guia Unphu
+seccion: 03-Desarrollo/2- Tesis Universitaria/7- Cambios/1- Guia Unphu
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,9 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_7- Cambios|7- Cambios]]
+
+---
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

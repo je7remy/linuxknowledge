@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity
 actualizado: 2026-05-28
 ---
 
@@ -23,3 +23,9 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones|1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones]]
+
+---
+## Relacionadas
+
+- [[_2- CompTIA Security+ (SY0-701) Complete Course & Exam|CompTIA Security+ (SY0-701) Complete Course & Exam]]
+- [[_3- Preparación para la Certificación del eJPTv2|Preparación para la Certificación del eJPTv2]]

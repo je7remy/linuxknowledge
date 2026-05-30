@@ -21,6 +21,11 @@ aquí cada entrada es un script o procedimiento reproducible.
 - [[2- Laboratorios de Python]] — _Pendiente_ (placeholder).
 - [[3- Laboratorios de Herramientas]] — _Pendiente_ (placeholder).
 
+## Navegación
+
+- 🏠 [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]
+
 ## Secciones relacionadas
 
 - [[_01-Sistemas-Operativos|01-Sistemas-Operativos]] — fundamentos Linux/Bash que estos laboratorios aplican.

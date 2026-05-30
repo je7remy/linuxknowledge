@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 2- Maximiza la productividad con herramientas de IA / Módulo 3 / 1- La importancia de que el ser humano seinvolucre en la IA
+seccion: 07- Inteligencia-Artificial/2- Maximiza la productividad con herramientas de IA/Módulo 3/1- La importancia de que el ser humano seinvolucre en la IA
 actualizado: 2026-05-28
 ---
 
@@ -13,3 +13,12 @@ actualizado: 2026-05-28
 - [[2- Kathy, Explora cómo las personas mejoran los modelos de IA]]
 - [[3- Determina si la IA generativa es adecuada para la tarea]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

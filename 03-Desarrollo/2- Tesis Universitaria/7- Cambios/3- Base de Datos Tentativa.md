@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, base-de-datos, plantuml, modelo-datos, uml]
+tags: [base-de-datos, modelo-datos, plantuml, tesis, uml]
 actualizado: 2026-05-28
 ---
 

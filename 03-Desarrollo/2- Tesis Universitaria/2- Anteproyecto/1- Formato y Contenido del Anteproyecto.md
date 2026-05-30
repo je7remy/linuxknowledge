@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, anteproyecto, estructura, formato]
+tags: [anteproyecto, estructura, formato, tesis]
 actualizado: 2026-05-28
 ---
 

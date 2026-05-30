@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [metasploit, msfconsole, meterpreter, exploitation, payload, sessions]
+tags: [black-box-testing, brute-force, bug-bounty, ciberseguridad, ctf, cyber-attack, cyber-sec-community, exploit, exploitation, exploit-development, hacking-etico, hacking-tools, hack-the-planet, metasploit, meterpreter, msfconsole, network-security, osint, payload, penetration-testing, pentesting, privilege-escalation, rce, red-team, reverse-shell, security-research, security-testing, sessions, shell-access, threat-hunting, vulnerability-scanning]
 actualizado: 2026-05-28
 ---
 
 # Metasploit — MSFConsole + Meterpreter
-
-#Metasploit #MSFConsole #EthicalHacking #CyberSecurity #Pentesting #InfoSec #RedTeam #ExploitDevelopment #VulnerabilityScanning #NetworkSecurity #CyberAttack #Meterpreter #PrivilegeEscalation #ReverseShell #PenetrationTesting #BugBounty #SecurityTesting #Exploit #RCE #HackingTools #OSINT #CyberSecCommunity #CTF #ThreatHunting #BlackBoxTesting #SecurityResearch #HackThePlanet #BruteForce #ShellAccess
-
 ---
 ## MSFconsole Commands
 

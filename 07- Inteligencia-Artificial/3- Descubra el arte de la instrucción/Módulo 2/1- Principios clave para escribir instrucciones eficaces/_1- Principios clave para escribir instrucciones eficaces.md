@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 3- Descubra el arte de la instrucción / Módulo 2 / 1- Principios clave para escribir instrucciones eficaces
+seccion: 07- Inteligencia-Artificial/3- Descubra el arte de la instrucción/Módulo 2/1- Principios clave para escribir instrucciones eficaces
 actualizado: 2026-05-28
 ---
 
@@ -18,3 +18,12 @@ actualizado: 2026-05-28
 - [[7- Mejora los resultados de la IA mediante la iteración]]
 - [[8- Actividad, Iterar las instrucciones para encontrar soluciones]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 7- Automatice las tareas de ciberseguridad con Python / Módulo 4 / 2- Trabajar con archivos en Python
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/2- Trabajar con archivos en Python
 actualizado: 2026-05-28
 ---
 
@@ -20,3 +20,14 @@ actualizado: 2026-05-28
 - [[8- Actividad de Portfolio - Actualizar un archivo mediante un algoritmo Python]]
 - [[9- Ejemplo de actividad de Portfolio - Actualizar un fichero mediante un algoritmo Python]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[_1- Automatizar tareas de seguridad cibernética con Python|Automatizar tareas de seguridad cibernética con Python]]
+- [[_3- Depuración de código Python|Depuración de código Python]]
+- [[_4- Revisión - Python en la práctica|Revisión - Python en la práctica]]
+- [[_5- ¡Enhorabuena por haber completado el Curso 7!|¡Enhorabuena por haber completado el Curso 7!]]

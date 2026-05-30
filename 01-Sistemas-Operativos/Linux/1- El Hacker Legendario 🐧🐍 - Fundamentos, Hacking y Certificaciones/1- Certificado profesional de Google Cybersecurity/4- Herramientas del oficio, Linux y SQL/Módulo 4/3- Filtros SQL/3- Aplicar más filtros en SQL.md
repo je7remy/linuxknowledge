@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -119,9 +119,6 @@ Con este laboratorio aprendiste a:
 Esto es justo lo que se usa en la vida real para **auditar accesos sospechosos** y **detectar patrones fuera de lo normal** (por ejemplo, accesos fuera del horario laboral o después de un incidente de seguridad).
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

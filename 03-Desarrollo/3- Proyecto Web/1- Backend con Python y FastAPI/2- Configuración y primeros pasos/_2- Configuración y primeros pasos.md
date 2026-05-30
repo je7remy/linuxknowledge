@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 03-Desarrollo / 3- Proyecto Web / 1- Backend con Python y FastAPI / 2- Configuración y primeros pasos
+seccion: 03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI/2- Configuración y primeros pasos
 actualizado: 2026-05-28
 ---
 
@@ -18,3 +18,12 @@ actualizado: 2026-05-28
 - [[7- Prueba de APIs]]
 - [[8- Test de conocimientos - Prueba de APIs]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_1- Backend con Python y FastAPI|Backend con Python y FastAPI]]
+
+## Relacionadas
+
+- [[_1- Introduccion|Introduccion]]
+- [[_3- HTTP y desarrollo de APIs|HTTP y desarrollo de APIs]]

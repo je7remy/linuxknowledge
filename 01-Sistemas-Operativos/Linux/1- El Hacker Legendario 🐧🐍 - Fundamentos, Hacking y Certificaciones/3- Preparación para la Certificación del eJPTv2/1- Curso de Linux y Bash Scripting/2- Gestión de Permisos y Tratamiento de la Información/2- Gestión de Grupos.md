@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, ciberseguridad, devops, ejptv2, el-hacker-legendario, gestion-de-grupos, gnu, hacking-etico, linux, permisos-linux, usuarios-linux]
 actualizado: 2026-05-28
 ---
 
 # Gestión de Grupos
 
 ---
-
-#Linux #SysAdmin #Bash #ShellScripting #AdministraciónLinux #PermisosLinux #UsuariosLinux #SeguridadInformática #DevOps #IT #ComandosLinux #HackingÉtico #GNU #GestiónDeGrupos
-
----
-
 Analicemos paso a paso lo que ocurrió en el flujo de comandos y los posibles problemas que llevaron a la situación actual:
 
 ---

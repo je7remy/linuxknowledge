@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, configuracion, test-conocimientos]
+tags: [configuracion, fastapi, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

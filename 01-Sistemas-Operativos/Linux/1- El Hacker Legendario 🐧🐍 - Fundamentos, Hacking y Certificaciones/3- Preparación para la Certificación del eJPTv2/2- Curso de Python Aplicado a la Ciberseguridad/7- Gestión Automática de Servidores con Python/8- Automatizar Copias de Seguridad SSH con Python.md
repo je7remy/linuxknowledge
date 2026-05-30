@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [automatizacion, backup, ejptv2, el-hacker-legendario, paramiko, pentesting, python, scp, ssh, transferencia-archivos, zip]
 actualizado: 2026-05-28
 ---
 
 # Automatizar Copias de Seguridad SSH con Python
 
 ---
-
-#Python #SSH #SCP #paramiko #automatización #backup #zip #transferencia_archivos
-
----
-
 ### **1. Importación de librerías**
 
 ```python

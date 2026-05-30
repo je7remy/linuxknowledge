@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [vision-models, multimodal, llm, python, ms-reactor, gpt-4v, vlm]
+tags: [gpt-4v, llm, ms-reactor, multimodal, python, vision-models, vlm]
 actualizado: 2026-05-28
 ---
 

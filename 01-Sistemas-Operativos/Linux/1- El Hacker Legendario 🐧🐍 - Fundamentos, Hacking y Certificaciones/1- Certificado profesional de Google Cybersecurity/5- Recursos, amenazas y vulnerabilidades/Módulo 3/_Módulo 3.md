@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 3
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3
 actualizado: 2026-05-28
 ---
 
@@ -19,3 +19,10 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]
+
+---
+## Relacionadas
+
+- [[_Módulo 1|Módulo 1]]
+- [[_Módulo 2|Módulo 2]]
+- [[_Módulo 4|Módulo 4]]

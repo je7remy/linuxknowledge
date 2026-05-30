@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -70,9 +70,6 @@ El sitio web no puede resolverse por nombre, ya que el **servidor DNS no respond
 El **puerto 53 UDP** del servidor DNS `203.0.113.2` **no está disponible** para procesar solicitudes, lo cual impide la resolución de nombres y causa la caída del acceso al sitio.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

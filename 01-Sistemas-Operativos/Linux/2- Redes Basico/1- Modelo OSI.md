@@ -1,8 +1,11 @@
 ---
-
-#Ciberseguridad #Redes #ModeloOSI #TCPIP #Networking #SeguridadInformática #Protocolos #HackingÉtico #IngenieríaDeRedes #Tecnología #IT #AdministraciónDeRedes #InfraestructuraTI #SeguridadEnRedes #Pentesting #Internet #Conectividad
-
+tipo: teoria
+tags: [ciberseguridad, conectividad, hacking-etico, internet, networking, osi, pentesting, protocolos, redes, redes-basico, seguridad-redes, sistemas-operativos, tcpip]
+actualizado: 2026-05-30
 ---
+
+# Modelo OSI
+
 El modelo OSI (Open Systems Interconnection) es un modelo conceptual que estandariza las funciones de un sistema de telecomunicaciones o de computación en siete capas distintas. Este modelo fue desarrollado por la Organización Internacional de Normalización (ISO) y ayuda a entender y diseñar sistemas de red que puedan interoperar y ser compatibles entre diferentes fabricantes y tecnologías.
 
 ### Las siete capas del modelo OSI

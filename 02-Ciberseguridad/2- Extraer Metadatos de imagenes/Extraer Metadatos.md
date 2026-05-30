@@ -1,8 +1,11 @@
 ---
-
-#Metadata #ExifTool #CyberSecurity #Forensics #OSINT #ImageAnalysis #Pentesting #EthicalHacking #InfoSec #DataExtraction #Privacy
-
+tipo: teoria
+tags: [ciberseguridad, data-extraction, exif-tool, extraer-metadatos-de-imagenes, forensics, hacking-etico, image-analysis, metadata, osint, pentesting, privacy]
+actualizado: 2026-05-30
 ---
+
+# Extraer Metadatos
+
 - `exiftool image.jpg` : Extrae los metadatos.
 - - `exiftool *` : Extrae los metadatos de todas las imágenes dentro de una carpeta.
 

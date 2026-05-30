@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [hackthebox, vpn, openvpn, pwnbox]
+tags: [hackthebox, openvpn, pwnbox, vpn]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, anteproyecto, unphu, sistema-citas-medicas, completo]
+tags: [anteproyecto, completo, sistema-citas-medicas, tesis, unphu]
 actualizado: 2026-05-28
 ---
 

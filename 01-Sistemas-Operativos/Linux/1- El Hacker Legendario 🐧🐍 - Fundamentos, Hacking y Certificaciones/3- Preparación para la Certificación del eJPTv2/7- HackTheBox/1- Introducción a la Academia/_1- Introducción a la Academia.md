@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 3- Preparación para la Certificación del eJPTv2 / 7- HackTheBox / 1- Introducción a la Academia
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/1- Introducción a la Academia
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,8 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_7- HackTheBox|7- HackTheBox]]
+
+---
+## Relacionadas
+
+- [[_2- Introducción a las pruebas de penetración|Introducción a las pruebas de penetración]]

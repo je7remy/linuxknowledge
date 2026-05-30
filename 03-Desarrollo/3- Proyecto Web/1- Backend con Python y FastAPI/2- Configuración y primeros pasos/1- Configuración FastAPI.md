@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, configuracion, entorno, virtualenv, pip]
+tags: [configuracion, entorno, fastapi, pip, virtualenv]
 actualizado: 2026-05-28
 ---
 
@@ -118,9 +118,6 @@ A veces, los desarrolladores novatos cierran la terminal completa para apagar el
 |**Apagar**|`CTRL+C`|Cierre seguro del proceso.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

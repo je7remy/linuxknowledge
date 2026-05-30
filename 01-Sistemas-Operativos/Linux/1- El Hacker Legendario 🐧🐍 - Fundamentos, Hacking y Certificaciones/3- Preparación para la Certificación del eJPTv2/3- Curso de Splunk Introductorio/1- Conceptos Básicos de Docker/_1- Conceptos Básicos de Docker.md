@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 3- Preparación para la Certificación del eJPTv2 / 3- Curso de Splunk Introductorio / 1- Conceptos Básicos de Docker
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/3- Curso de Splunk Introductorio/1- Conceptos Básicos de Docker
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,9 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_3- Curso de Splunk Introductorio|3- Curso de Splunk Introductorio]]
+
+---
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

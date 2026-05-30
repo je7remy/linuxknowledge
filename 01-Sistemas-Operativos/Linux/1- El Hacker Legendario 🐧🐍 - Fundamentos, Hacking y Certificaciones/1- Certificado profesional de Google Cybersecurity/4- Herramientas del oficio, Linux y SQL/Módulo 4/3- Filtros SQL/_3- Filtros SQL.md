@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 4- Herramientas del oficio, Linux y SQL / Módulo 4 / 3- Filtros SQL
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 4/3- Filtros SQL
 actualizado: 2026-05-28
 ---
 
@@ -19,3 +19,14 @@ actualizado: 2026-05-28
 - [[8- Aplicar filtros a las consultas SQL]]
 - [[9- Más filtros SQL]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[_1- Bases de datos y SQL|Bases de datos y SQL]]
+- [[_2- Consultas Básicas en SQL|Consultas Básicas en SQL]]
+- [[_4- Uniones de Tablas en SQL (JOINs)|Uniones de Tablas en SQL (JOINs)]]
+- [[_5- Conclusiones|Conclusiones]]

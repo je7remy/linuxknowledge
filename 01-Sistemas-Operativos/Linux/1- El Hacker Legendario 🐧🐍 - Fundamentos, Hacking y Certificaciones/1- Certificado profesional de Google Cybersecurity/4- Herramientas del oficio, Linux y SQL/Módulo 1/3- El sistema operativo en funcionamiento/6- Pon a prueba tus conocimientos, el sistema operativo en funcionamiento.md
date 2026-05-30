@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -50,9 +50,6 @@ actualizado: 2026-05-28
 📝 _El proceso de arranque sigue esta secuencia: BIOS/UEFI → Cargador de arranque → Sistema operativo._
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

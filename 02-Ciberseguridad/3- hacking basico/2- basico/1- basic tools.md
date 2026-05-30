@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [tmux, vim, nmap, gobuster, metasploit, shells, privesc, scp]
+tags: [bash, bug-bounty, ciberseguridad, ctf, exploit-development, gobuster, hacking-etico, hacking-tools, linux-security, metasploit, network-security, nmap, osint, pentesting, privesc, privilege-escalation, red-team, reverse-shell, scp, security-testing, shells, tmux, vim, vulnerability-scanning, web-enumeration]
 actualizado: 2026-05-28
 ---
 
 # Basic Tools — Cheatsheet HackTheBox
-
-#CyberSecurity #Pentesting #EthicalHacking #HackingTools #Nmap #Metasploit #ReverseShell #PrivilegeEscalation #WebEnumeration #LinuxSecurity #InfoSec #NetworkSecurity #BugBounty #CTF #RedTeam #ExploitDevelopment #ShellScripting #VulnerabilityScanning #SecurityTesting #OSINT
-
 ---
 ## Basic Tools
 

@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [mssql, sql-server, impacket, metasploit, t-sql, hosts]
+tags: [ciberseguridad, database-security, hacking-etico, hosts, huellas-de-servicio, impacket, metasploit, mssql, mssqlinfo, mssqlping, named-pipes, networking, nmap, pentesting, red-team, scanning, sqlinjection, sqlserver, sql-server, tsql, t-sql, vulnerabilidades-sql]
 actualizado: 2026-05-28
 ---
 
 # MSSQL — Microsoft SQL Server
-
-#MSSQL #Networking #Nmap #Metasploit #SQLInjection #DatabaseSecurity #Pentesting #SQLServer #TSQL #Impacket #MSSQLPing #NamedPipes #MSSQLInfo #Scanning #HuellasDeServicio #VulnerabilidadesSQL #SeguridadInformática #EthicalHacking #RedTeam
-
 ---------
 
 ## Huella del servicio

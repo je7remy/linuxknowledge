@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -167,9 +167,6 @@ El proceso de **modelado de amenazas** consta de seis pasos:
 👉 Las opciones “remediar vulnerabilidades” e “implementar declaraciones preparadas” no forman parte del proceso formal de modelado de amenazas.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

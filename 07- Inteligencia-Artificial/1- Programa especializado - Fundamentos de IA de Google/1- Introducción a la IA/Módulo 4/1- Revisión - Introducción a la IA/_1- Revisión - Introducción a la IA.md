@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 1- Programa especializado - Fundamentos de IA de Google / 1- Introducción a la IA / Módulo 4 / 1- Revisión - Introducción a la IA
+seccion: 07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Módulo 4/1- Revisión - Introducción a la IA
 actualizado: 2026-05-28
 ---
 
@@ -12,3 +12,12 @@ actualizado: 2026-05-28
 - [[1- Actividad de cierre]]
 - [[2- Desafío del curso 1]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-remota, autenticacion, bash, ciberseguridad, conexion-remota, conexion-segura, configuracion-ssh, ejptv2, el-hacker-legendario, linux, open-ssh, privacidad, redes, redes-seguras, seguridad, servidores, ssh, ubuntu]
 actualizado: 2026-05-28
 ---
 
 # Cómo Crear un Servidor SSH con OPENSSH
-
----
-
-#SSH #Seguridad #Redes #ConexiónSegura #AdministraciónRemota #OpenSSH #Linux #ComandosLinux #Ciberseguridad #SeguridadInformática #ConexiónRemota #ConfiguraciónSSH #Servidores #Ubuntu #RedesSeguras #Privacidad #Autenticación
 
 ---
 **Definición y explicación de comandos:**

@@ -1,6 +1,6 @@
 ---
 tipo: schema
-actualizado: 2026-05-28
+actualizado: 2026-05-30
 ---
 
 # Schema del Vault — linuxknowledge
@@ -37,14 +37,24 @@ no secuenciales, no usar prefijo numérico.
 
 ## 3. Tipos de nota
 
-Cada nota cae en uno de estos tipos. Frontmatter opcional `tipo:` para hacerlo explícito.
+Cada nota cae en uno de estos tipos. Frontmatter `tipo:` obligatorio.
 
-- **`teoria`** — concepto, definición, marco conceptual.
-- **`comando`** / **`cheatsheet`** — referencia rápida de sintaxis.
+**Tipos de contenido:**
+
+- **`teoria`** — concepto, definición, marco conceptual (mayoría de notas).
+- **`cheatsheet`** / **`comando`** — referencia rápida de sintaxis.
 - **`laboratorio`** — ejercicio práctico con pasos reproducibles.
 - **`herramienta`** — descripción de una utilidad (nmap, wireshark, etc).
-- **`indice`** — página `index.md` de una carpeta.
 - **`publicacion`** — post de LinkedIn u otra red.
+- **`tesis`** — documentos del proyecto académico (propuesta, anteproyecto, etc).
+- **`referencia`** — guías rápidas externas, documentación de terceros.
+
+**Tipos estructurales (solo archivos sistema):**
+
+- **`indice`** — archivo índice `_NombreCarpeta.md` de una carpeta.
+- **`hub`** — único archivo `🔒🐧Hub.md` (entrada principal del vault).
+- **`schema`** — único archivo `schema.md` (este documento).
+- **`log`** — único archivo `log.md` (bitácora cronológica).
 
 ## 4. Cross-references (lo más importante)
 
@@ -58,22 +68,30 @@ Reglas:
 - Si una nota referenciada todavía no existe, deja el `[[...]]` igualmente:
   Obsidian lo marca como pendiente y eso es señal de qué falta escribir.
 
-## 5. Frontmatter mínimo (opcional pero recomendado)
+## 5. Frontmatter mínimo (obligatorio)
 
 ```yaml
 ---
-tipo: teoria | comando | laboratorio | herramienta | indice | publicacion
-tags: [linux, redes, ...]
+tipo: teoria | cheatsheet | laboratorio | herramienta | publicacion | tesis | referencia
+tags: [..., linux, redes]
 actualizado: YYYY-MM-DD
 ---
 ```
 
-## 6. Índices por carpeta (`index.md`)
+Para índices (`_*.md`) usar `tipo: indice` y añadir `seccion: ruta/carpeta`.
 
-Cada carpeta de nivel 1 y 2 contiene un `index.md` que:
-- Describe en 2-3 líneas el dominio de la carpeta.
-- Lista los archivos hijos con enlaces `[[...]]` y una línea de descripción.
-- Enlaza a carpetas hermanas relacionadas.
+## 6. Índices por carpeta (`_NombreCarpeta.md`)
+
+Cada carpeta con descendientes contiene un archivo índice `_NombreCarpeta.md`
+(prefijo `_` + nombre de la carpeta padre, único en todo el vault). Razón:
+con múltiples `index.md` Obsidian no resuelve wikilinks sin path explícito.
+
+El índice debe:
+- Describir en 2-3 líneas el dominio de la carpeta.
+- Listar los archivos hijos con enlaces `[[...]]` y una línea de descripción.
+- Enlazar a carpetas hermanas relacionadas en una sección **Relacionadas**.
+- Tener `🏠 [[🔒🐧Hub|Hub Principal del vault]]` después del título H1.
+- Tener una sección **Navegación** con `⬆️ Carpeta padre: [[_X|nombre]]`.
 
 ## 7. Bitácora (`log.md`)
 

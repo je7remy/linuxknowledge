@@ -21,6 +21,11 @@ en Linux y Windows. Aquí vive el curso de preparación para la certificación
   Office 2016, instalación de apps Android sin emuladores, ChromeOS,
   y **Active Directory** (OSINT y herramientas).
 
+## Navegación
+
+- 🏠 [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]
+
 ## Secciones relacionadas
 
 - [[_02-Ciberseguridad|02-Ciberseguridad]] — usa estos fundamentos como base para pentesting.

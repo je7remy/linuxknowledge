@@ -1,18 +1,12 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [arpscan, bash, comandos-basicos, ejptv2, el-hacker-legendario, hostname, ifconfig, ip, linux, network-recon, nmap, pentesting, reconocimiento, redes, seguridad]
 actualizado: 2026-05-28
 ---
 
 # Análisis De La Red Desde Linux – Comandos Básicos Parte 1
 
 ---
-
-#hostname #ip #ifconfig #arpscan #nmap #NetworkRecon #Redes #Reconocimiento #Seguridad #Pentesting #ComandosBásicos
-
----
-
-
 2. **`hostname -I`**:
     
     - **Descripción**: Este comando muestra todas las direcciones IP asignadas a las interfaces de red del dispositivo, excluyendo las direcciones de loopback (127.0.0.1).

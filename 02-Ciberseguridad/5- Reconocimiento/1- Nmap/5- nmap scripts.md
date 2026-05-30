@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [nmap, reconocimiento, nse, scripts, enumeracion]
+tags: [enumeracion, enumeration, nmap, nse, reconocimiento, scripts]
 actualizado: 2026-05-28
 ---
 
 # Nmap — NSE Scripts
-
-#nmap #enumeration #scripts
-
 ---------
 
 |**Categoría**|**Descripción**|

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [bucle-infinito, ejptv2, el-hacker-legendario, kill, linux, manejo-de-errores, pentesting, pkill, procesos, python, senales, sigint, sigterm]
 actualizado: 2026-05-28
 ---
 
 # Uso de Signal
-
----
-
-#Linux #Python #SIGINT #SIGTERM #kill #pkill #procesos #señales #bucleInfinito #manejoDeErrores
 
 ---
 ### Paso a Paso de lo Ocurrido
@@ -113,9 +109,6 @@ while True:
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Manejo de Excepciones|6- Manejo de Excepciones]]

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [chromebook, dell-p22t, fydeos, primeos, antix, mrchromebox, uefi, write-protect, flashrom]
+tags: [antix, chromebook, dell-p22t, flashrom, fydeos, mrchromebox, primeos, uefi, write-protect]
 actualizado: 2026-05-28
 ---
 

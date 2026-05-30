@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [white-hat, grey-hat, black-hat, amenazas-internas, taxonomia]
+tags: [amenazas-internas, black-hat, grey-hat, taxonomia, white-hat]
 actualizado: 2026-05-28
 ---
 

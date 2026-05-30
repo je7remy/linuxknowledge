@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 3 / 3- Mentalidad de Atacante y Defensa Cibernética
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/3- Mentalidad de Atacante y Defensa Cibernética
 actualizado: 2026-05-28
 ---
 
@@ -18,3 +18,13 @@ actualizado: 2026-05-28
 - [[7- Autorreflexión - Superficies y Vectores de Ataque en el Hogar]]
 - [[8- Fortalézcase contra los ciberataques de fuerza bruta]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[_1- Vulnerabilidades en los Sistemas|Vulnerabilidades en los Sistemas]]
+- [[_2- Evaluación y gestión de vulnerabilidades|Evaluación y gestión de vulnerabilidades]]
+- [[_4- Conclusion|Conclusion]]

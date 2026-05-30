@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: Google Cybersecurity / 3- Conectar y proteger
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red
 actualizado: 2026-05-28
 ---
 

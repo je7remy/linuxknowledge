@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / 1- Linux y Bash Scripting
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting
 actualizado: 2026-05-28
 ---
 
@@ -23,7 +23,7 @@ variables, condicionales, bucles, funciones y ejercicios prácticos.
 - [[_8- Gestión de Servidores con Scripts de Bash|8- Gestión de servidores con Bash]]
 - [[_9- Ejercicios Prácticos|9- Ejercicios prácticos]] — Detector SO, fuzzing web, backup SSH, análisis de red.
 - [[_10- Securización de Servidores Linux (EN DESARROLLO)|10- Securización de servidores]] _(en desarrollo)_
-- [[11- Mouredev Bash]] — Bash visto desde el curso de Mouredev.
+- [[_11- Mouredev Bash|11- Mouredev Bash]] — Bash visto desde el curso de Mouredev.
 
 ## Navegación
 

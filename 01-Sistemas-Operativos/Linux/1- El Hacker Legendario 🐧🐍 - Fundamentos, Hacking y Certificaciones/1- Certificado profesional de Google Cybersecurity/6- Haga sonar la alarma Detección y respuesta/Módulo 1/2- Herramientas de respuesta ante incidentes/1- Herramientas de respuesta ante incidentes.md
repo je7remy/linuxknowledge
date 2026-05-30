@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -71,9 +71,6 @@ Por eso, **la mejora continua** y la **curiosidad técnica** son esenciales para
 Tu diario del gestor de incidentes será la **primera herramienta** de tu caja personal de seguridad. A medida que avances en el curso, irás sumando más instrumentos, habilidades y procedimientos que te convertirán en un **analista integral capaz de detectar, documentar y responder eficazmente ante cualquier incidente.**
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

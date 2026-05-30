@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [privacidad, configuracion, defaults, perfil-publico]
+tags: [configuracion, defaults, perfil-publico, privacidad]
 actualizado: 2026-05-28
 ---
 

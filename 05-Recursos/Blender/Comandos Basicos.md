@@ -1,6 +1,6 @@
 ---
 tipo: cheatsheet
-tags: [blender, 3d, modelado, atajos-teclado]
+tags: [3d, atajos-teclado, blender, modelado]
 actualizado: 2026-05-28
 ---
 

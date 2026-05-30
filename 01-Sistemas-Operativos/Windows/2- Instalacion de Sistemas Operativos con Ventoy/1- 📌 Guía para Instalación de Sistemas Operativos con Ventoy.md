@@ -1,8 +1,11 @@
 ---
-
-#Ventoy #BootableUSB #OSInstallation #Windows #Linux #Cybersecurity #Tech #ITSupport #ISO #OperatingSystems #EthicalHacking #KaliLinux
-
+tipo: teoria
+tags: [bootable-usb, cybersecurity, hacking-etico, iso, itsupport, kali-linux, linux, operating-systems, osinstallation, sistemas-operativos, tech, ventoy, windows]
+actualizado: 2026-05-30
 ---
+
+# 📌 Guía para Instalación de Sistemas Operativos con Ventoy
+
 ## 🛠 **Requisitos Previos**
 
 - Una memoria USB de al menos **8 GB** (recomendado 16 GB o más).
@@ -66,9 +69,6 @@
 Con Ventoy, puedes instalar múltiples sistemas operativos sin necesidad de volver a formatear la USB cada vez. Es una herramienta ideal para técnicos, entusiastas de la informática y quienes trabajan con sistemas operativos constantemente.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Instalacion de Sistemas Operativos con Ventoy|2- Instalacion de Sistemas Operativos con Ventoy]]

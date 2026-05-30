@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion, automatizacion-de-tareas, awk, bash, busqueda-de-archivos, comandos-de-sistema, comandos-shell, ejptv2, el-hacker-legendario, find, linux, manejo-de-archivos, procesamiento-de-textos, programacion-en-linux, script-de-bash, script-de-busqueda, sistema-operativo, tareas-automatizadas, tr]
 actualizado: 2026-05-28
 ---
 
 # Creamos un Script para Automatizar Búsquedas en el Sistema
-
----
-
-#Bash #Linux #ShellScripting #ScriptDeBash #Automatización #BusquedaDeArchivos #ComandosDeSistema #find #tr #awk #LinuxTips #ManejoDeArchivos #ProgramaciónEnLinux #SistemaOperativo #ProcesamientoDeTextos #AutomatizaciónDeTareas #ComandosShell #AdministraciónDeSistemas #ScriptDeBusqueda #TareasAutomatizadas
 
 ---
 Este script es un ejemplo funcional de cómo automatizar la búsqueda de archivos en un sistema Linux, utilizando herramientas básicas de shell scripting. A continuación, detallo cada parte del proceso y lo que ocurre en cada paso.

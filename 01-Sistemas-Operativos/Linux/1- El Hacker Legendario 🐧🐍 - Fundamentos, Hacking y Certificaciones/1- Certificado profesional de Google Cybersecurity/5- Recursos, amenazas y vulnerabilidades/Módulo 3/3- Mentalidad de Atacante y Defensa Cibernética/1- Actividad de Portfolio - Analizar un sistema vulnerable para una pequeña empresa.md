@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -151,9 +151,6 @@ Los riesgos evaluados consideraron los procedimientos de almacenamiento y gesti�
 Implementación de mecanismos de autenticación, autorización y auditoría para garantizar que solo los usuarios autorizados accedan al servidor de bases de datos. Esto incluye el uso de contraseñas seguras, controles de acceso basados en roles y autenticación multifactor para limitar los privilegios de los usuarios. Cifrado de datos en tránsito utilizando TLS en lugar de SSL. Lista blanca de direcciones IP para oficinas corporativas con el fin de evitar que usuarios aleatorios de Internet se conecten a la base de datos.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

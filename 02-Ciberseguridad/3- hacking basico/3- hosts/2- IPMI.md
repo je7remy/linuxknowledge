@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [ipmi, bmc, hp-ilo, dell-idrac, supermicro, hashcat, rakp, hosts]
+tags: [bmc, dell-idrac, hashcat, hosts, hp-ilo, ipmi, rakp, servicios, supermicro]
 actualizado: 2026-05-28
 ---
 
 # IPMI — Intelligent Platform Management Interface
-
-#hosts #ipmi #servicios 
-
 ---------------
 
 ## Huella del servicio

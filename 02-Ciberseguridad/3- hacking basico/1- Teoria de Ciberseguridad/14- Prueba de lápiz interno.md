@@ -1,8 +1,10 @@
 ---
-
-#HuellasDeRed #Intrusión #AtaqueSimulado #EscaneoDeObjetivos #VulnerabilidadesExplotables #AccesoARed #SimulaciónDeAtaque #SeguridadEnRed #MantenimientoDeAcceso #Ciberseguridad #EvaluaciónDeSeguridad #MejorasDeSeguridad #AnálisisDeVulnerabilidades #PruebasDePenetración
-
+tipo: teoria
+tags: [acceso-ared, analisis-de-vulnerabilidades, ataque-simulado, ciberseguridad, escaneo-de-objetivos, evaluacion-de-seguridad, hacking-basico, huellas-de-red, intrusion, mantenimiento-de-acceso, mejoras-de-seguridad, pruebas-de-penetracion, seguridad-en-red, simulacion-de-ataque, teoria-de-ciberseguridad, vulnerabilidades-explotables]
+actualizado: 2026-05-30
 ---
+
+# Prueba de lápiz interno
 
 1. El uso de huellas en la red para encontrar formas de intrusión le da la oportunidad de recopilar la información que necesita para **planificar** un ataque simulado.
 2. **El escaneo de** un objetivo le permite identificar posibles debilidades explotables.

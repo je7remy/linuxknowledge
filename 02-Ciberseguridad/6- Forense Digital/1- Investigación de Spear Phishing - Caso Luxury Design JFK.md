@@ -1,13 +1,10 @@
 ---
 tipo: laboratorio
-tags: [forense, spear-phishing, hacker-mentor, sandbox, anyrun, ipinfo, caso-practico]
+tags: [anyrun, caso-practico, ciberseguridad, forense, forense-digital, hacker-mentor, ipinfo, sandbox, spear-phishing]
 actualizado: 2026-05-28
 ---
 
 # Investigación de Spear Phishing — Caso Luxury Design JFK
-
-#ForenseDigital #SpearPhishing #Ciberseguridad #HackerMentor #CasoPráctico
-
 ---
 
 **Nota de Obsidian: Investigación de Spear Phishing - Caso Luxury Design JFK**  

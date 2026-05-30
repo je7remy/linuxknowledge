@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, modulo-4]
+tags: [ia, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -29,9 +29,6 @@ Para continuar tu aprendizaje, te recomiendo explorar:
 **➡️ [Fundamentos de IA de Google](https://ai.google/education/)** — un recurso ideal para descubrir cómo **transformar tu forma de trabajar con IA**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Programa especializado - Fundamentos de IA de Google|1- Programa especializado - Fundamentos de IA de Google]]

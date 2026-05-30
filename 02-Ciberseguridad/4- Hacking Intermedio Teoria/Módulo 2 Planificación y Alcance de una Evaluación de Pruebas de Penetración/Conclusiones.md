@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [resumen, modulo-2, conclusiones, grc, alcance, etica]
+tags: [alcance, conclusiones, etica, grc, modulo-2, resumen]
 actualizado: 2026-05-28
 ---
 

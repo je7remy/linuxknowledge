@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [aprende-python, backend, conexion-my-sql, database, desarrollo-software, ejptv2, el-hacker-legendario, errores-ysoluciones, my-sql, my-sqlconnector, pentesting, pip-install, programacion, python, sql, vscode, windows11]
 actualizado: 2026-05-28
 ---
 
 # Instalar Base de datos MySQL
-
----
-
-#Python #MySQL #Windows11 #Database #SQL #MySQLConnector #Programación #DesarrolloSoftware #ConexiónMySQL #VSCode #PipInstall #ErroresYSoluciones #Backend #AprendePython
 
 ---
 ## **Paso 1: Instalación y configuración de MySQL**

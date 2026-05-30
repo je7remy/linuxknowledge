@@ -1,10 +1,10 @@
 ---
-
-## Título del Proyecto
-
-**Desarrollo de un Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch**
-
+tipo: teoria
+tags: [desarrollo, propuesta, tesis-universitaria]
+actualizado: 2026-05-30
 ---
+
+# Sistema de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch
 
 ## Problemática
 

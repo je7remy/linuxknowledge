@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [ssh, openssh, sshd_config, rsync, r-services, rlogin, rwho, hosts]
+tags: [ciberseguridad, configuracion-peligrosa, hosts, hosts-equiv, openssh, open-ssh, pen-testing, rcommands, remote-administration, rlogin, rservices, r-services, rsync, rwho, ssh, sshaudit, sshd_config, sshd-config, transferencia-de-archivos, x11-forwarding]
 actualizado: 2026-05-28
 ---
 
 # SSH — Secure Shell + Rsync + R-Services
-
-#SSH #OpenSSH #sshd_config #X11Forwarding #ConfiguracionPeligrosa #SSHAudit #Rsync #TransferenciaDeArchivos #RemoteAdministration #RServices #RCommands #HostsEquiv #PenTesting #Ciberseguridad #InfoSec
-
 --------------
 
 ## Configuración predeterminada

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -204,9 +204,6 @@ Aunque el banco está en una zona de baja criminalidad, maneja grandes volúmene
 ✅ Conclusión: El banco debe **priorizar los riesgos con puntuación 6** (email comprometido, base de datos comprometida, fuga de registros financieros) porque combinan mayor probabilidad/impacto. Los riesgos físicos o ambientales (robo y cadena de suministro) deben atenderse, pero tienen menor prioridad inmediata.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

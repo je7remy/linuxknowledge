@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial/1- Fundamentos de IA de Google
+seccion: 07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google
 actualizado: 2026-05-28
 ---
 

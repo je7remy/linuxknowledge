@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 3- Descubra el arte de la instrucción / Módulo 3
+seccion: 07- Inteligencia-Artificial/3- Descubra el arte de la instrucción/Módulo 3
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,10 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_3- Descubra el arte de la instrucción|3- Descubra el arte de la instrucción]]
+
+---
+## Relacionadas
+
+- [[_Módulo 1|Módulo 1]]
+- [[_Módulo 2|Módulo 2]]
+- [[_Módulo 4|Módulo 4]]

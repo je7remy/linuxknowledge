@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 3- Conectar y proteger, redes y seguridad de red / Modulo 4 / 2- Endurecimiento del OS
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 4/2- Endurecimiento del OS
 actualizado: 2026-05-28
 ---
 
@@ -17,3 +17,14 @@ actualizado: 2026-05-28
 - [[7- Security incident report]]
 - [[8- Ponga a prueba sus Conocimientos, Endurecimiento del OS]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 4|Modulo 4]]
+
+## Relacionadas
+
+- [[_1- Introducción al Endurecimiento de seguridad|Introducción al Endurecimiento de seguridad]]
+- [[_3- Endurecimiento de la red|Endurecimiento de la red]]
+- [[_4- Endurecimiento de las nubes|Endurecimiento de las nubes]]
+- [[_5- Revisión, Endurecimiento de seguridad|Revisión, Endurecimiento de seguridad]]

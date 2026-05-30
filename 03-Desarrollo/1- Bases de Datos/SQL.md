@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [sql, mysql, mssql, select, insert, update, delete, join, group-by]
+tags: [and, base-de-datos, bbdd, comandos, comandos-sql, consultas-sql, create, delete, distinct, filtrar-datos, groupby, group-by, having, index, insert, join, like, mssql, mysql, or, orderby, select, sql, tabla, update, where]
 actualizado: 2026-05-28
 ---
 
 # SQL — Comandos esenciales
-
-#bbdd #sql #comandos #tabla #SQL #ComandosSQL #BaseDeDatos #ConsultasSQL #FiltrarDatos #JOIN #GROUPBY #HAVING #ORDERBY #INSERT #UPDATE #DELETE #CREATE #INDEX #DISTINCT #WHERE #AND #OR #LIKE
-  
 ---
 
 | Comando SQL      | Ejemplo                                                                               | Descripción                                                                          |

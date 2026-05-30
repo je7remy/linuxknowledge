@@ -1,6 +1,6 @@
 ---
 tipo: cheatsheet
-tags: [glosario, ciberseguridad, terminos, referencia]
+tags: [ciberseguridad, glosario, referencia, terminos]
 actualizado: 2026-05-28
 ---
 
@@ -12,12 +12,12 @@ actualizado: 2026-05-28
 - **Controles de acceso**: Controles de seguridad que gestionan el acceso, la autorización y la rendición de cuentas de la información
 - **Sniffing activo de paquetes**: Un tipo de ataque donde los paquetes de datos son manipulados en tránsito
 - **Protocolo de Resolución de Direcciones (ARP)**: Un protocolo de red utilizado para determinar la dirección MAC del siguiente enrutador o dispositivo en la ruta
-- **Amenaza persistente avanzada (APT)**: Una instancia en la que un actor de amenazas mantiene acceso no autorizado a un sistema durante un período prolongado
-- **Inteligencia artificial adversaria (IA)**: Una técnica que manipula la inteligencia artificial (IA) y el aprendizaje automático (ML) para realizar ataques de manera más eficiente
+- **Amenaza persistente avanzada ([[_0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD|APT]])**: Una instancia en la que un actor de amenazas mantiene acceso no autorizado a un sistema durante un período prolongado
+- **[[Sintesis - IA y Ciberseguridad|Inteligencia artificial adversaria (IA)]]**: Una técnica que manipula la inteligencia artificial (IA) y el aprendizaje automático (ML) para realizar ataques de manera más eficiente
 - **Adware**: Un tipo de software legítimo que a veces se utiliza para mostrar anuncios digitales en aplicaciones
 - **Algoritmo**: Un conjunto de reglas utilizadas para resolver un problema
 - **Análisis**: La investigación y validación de alertas
-- **Phishing de angler**: Una técnica donde los atacantes se hacen pasar por representantes de servicio al cliente en redes sociales
+- **[[OSINT|Phishing de angler]]**: Una técnica donde los atacantes se hacen pasar por representantes de servicio al cliente en redes sociales
 - **Análisis basado en anomalías**: Un método de detección que identifica comportamientos anormales
 - **Software antivirus**: Un programa de software utilizado para prevenir, detectar y eliminar malware y virus
 - **Aplicación**: Un programa que realiza una tarea específica
@@ -30,12 +30,12 @@ actualizado: 2026-05-28
 - **Clasificación de activos**: La práctica de etiquetar activos según su sensibilidad e importancia para una organización
 - **Inventario de activos**: Un catálogo de activos que necesitan protección
 - **Gestión de activos**: El proceso de rastrear activos y los riesgos que los afectan
-- **Cifrado asimétrico**: El uso de un par de claves pública y privada para el cifrado y descifrado de datos
+- **[[_7- Cifrado y Criptografía en Python|Cifrado asimétrico]]**: El uso de un par de claves pública y privada para el cifrado y descifrado de datos
 - **Superficie de ataque**: Todas las vulnerabilidades potenciales que un actor de amenazas podría explotar
 - **Árbol de ataque**: Un diagrama que mapea las amenazas a los activos
 - **Vectores de ataque**: Las vías que los atacantes utilizan para penetrar las defensas de seguridad
 - **Autenticación**: El proceso de verificar la identidad de alguien
-- **Autorización**: El concepto de otorgar acceso a recursos específicos en un sistema
+- **Autorización** (ver también [[Hacking Etico]] sobre autorización legal): El concepto de otorgar acceso a recursos específicos en un sistema
 - **Autorizar**: El sexto paso del NIST RMF que se refiere a ser responsable de los riesgos de seguridad y privacidad que podrían existir en una organización
 - **Automatización**: El uso de tecnología para reducir el esfuerzo humano y manual en tareas comunes y repetitivas
 - **Disponibilidad**: La idea de que los datos estén accesibles para quienes están autorizados a acceder a ellos
@@ -45,7 +45,7 @@ actualizado: 2026-05-28
 - **Cebo**: Una táctica de ingeniería social que tienta a las personas a comprometer su seguridad
 - **Ancho de banda**: La capacidad máxima de transmisión de datos en una red, medida en bits por segundo
 - **Configuración base (imagen base)**: Un conjunto documentado de especificaciones dentro de un sistema que se utiliza como base para construcciones, lanzamientos y actualizaciones futuras
-- **Bash**: El shell predeterminado en la mayoría de las distribuciones de Linux
+- **[[_1- Curso de Linux y Bash Scripting|Bash]]**: El shell predeterminado en la mayoría de las distribuciones de Linux
 - **Autenticación básica**: La tecnología utilizada para establecer la solicitud de acceso de un usuario a un servidor
 - **Sistema Básico de Entrada/Salida (BIOS)**: Un microchip que contiene instrucciones de carga para la computadora y es prevalente en sistemas más antiguos
 - **Biometría**: Las características físicas únicas que pueden usarse para verificar la identidad de una persona
@@ -55,7 +55,7 @@ actualizado: 2026-05-28
 - **Botnet**: Una colección de computadoras infectadas por malware que están bajo el control de un único actor de amenazas, conocido como el "pastor de bots"
 - **Notación de corchetes**: Los índices colocados entre corchetes
 - **Cadena de custodia rota**: Inconsistencias en la recolección y registro de evidencia en la cadena de custodia
-- **Ataque de fuerza bruta**: El proceso de prueba y error para descubrir información privada
+- **[[_1- Cracking|Ataque de fuerza bruta]]**: El proceso de prueba y error para descubrir información privada
 - **Recompensa por errores**: Programas que alientan a los hackers independientes a encontrar y reportar vulnerabilidades
 - **Función incorporada**: Una función que existe dentro de Python y puede llamarse directamente
 - **Continuidad del negocio**: La capacidad de una organización para mantener su productividad diaria mediante el establecimiento de planes de recuperación ante desastres
@@ -69,13 +69,13 @@ actualizado: 2026-05-28
 - **Unidad Central de Procesamiento (CPU)**: El procesador principal de una computadora, utilizado para realizar tareas informáticas generales
 - **Cadena de custodia**: El proceso de documentar la posesión y control de evidencia durante el ciclo de vida de un incidente
 - **Chronicle**: Una herramienta nativa de la nube diseñada para retener, analizar y buscar datos
-- **Cifrado**: Un algoritmo que encripta información
+- **[[_7- Cifrado y Criptografía en Python|Cifrado]]**: Un algoritmo que encripta información
 - **Cortafuegos basados en la nube**: Cortafuegos de software alojados por el proveedor de servicios en la nube
 - **Computación en la nube**: La práctica de usar servidores remotos, aplicaciones y servicios de red alojados en internet en lugar de dispositivos físicos locales
 - **Red en la nube**: Una colección de servidores o computadoras que almacena recursos y datos en centros de datos remotos accesibles a través de internet
 - **Seguridad en la nube**: El proceso de asegurar que los activos almacenados en la nube estén configurados correctamente y que el acceso a esos activos esté limitado a usuarios autorizados
 - **Comando**: Una instrucción que le indica a la computadora que haga algo
-- **Comando y control (C2)**: Las técnicas utilizadas por actores maliciosos para mantener comunicaciones con sistemas comprometidos
+- **Comando y control ([[_0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD|C2]])**: Las técnicas utilizadas por actores maliciosos para mantener comunicaciones con sistemas comprometidos
 - **Interfaz de línea de comandos (CLI)**: Una interfaz de usuario basada en texto que utiliza comandos para interactuar con la computadora
 - **Comentario**: Una nota que los programadores hacen sobre la intención detrás de su código
 - **Formato de Evento Común (CEF)**: Un formato de registro que utiliza pares clave-valor para estructurar datos e identificar campos y sus valores correspondientes
@@ -94,11 +94,11 @@ actualizado: 2026-05-28
 - **Cross-site scripting (XSS)**: Un ataque de inyección que inserta código en un sitio web o aplicación web vulnerable
 - **Crowdsourcing**: La práctica de recopilar información utilizando la colaboración y la entrada del público
 - **Ataque criptográfico**: Un ataque que afecta las formas seguras de comunicación entre un remitente y el destinatario previsto
-- **Clave criptográfica**: Un mecanismo que descifra texto cifrado
-- **Criptografía**: El proceso de transformar información en una forma que los lectores no deseados no puedan entender
+- **[[_7- Cifrado y Criptografía en Python|Clave criptográfica]]**: Un mecanismo que descifra texto cifrado
+- **[[_7- Cifrado y Criptografía en Python|Criptografía]]**: El proceso de transformar información en una forma que los lectores no deseados no puedan entender
 - **Cryptojacking**: Una forma de malware que instala software para minar criptomonedas ilegalmente
 - **Autoridad de Numeración de CVE (CNA)**: Una organización que se ofrece voluntariamente para analizar y distribuir información sobre CVEs elegibles
-- **Ciberseguridad (o seguridad)**: La práctica de garantizar la confidencialidad, integridad y disponibilidad de la información protegiendo redes, dispositivos, personas y datos de accesos no autorizados o explotación criminal
+- **[[Pentesting|Ciberseguridad (o seguridad)]]**: La práctica de garantizar la confidencialidad, integridad y disponibilidad de la información protegiendo redes, dispositivos, personas y datos de accesos no autorizados o explotación criminal
 
 ## D
 
@@ -125,11 +125,11 @@ actualizado: 2026-05-28
 - **Detección**: El descubrimiento rápido de eventos de seguridad
 - **Datos de diccionario**: Datos que consisten en uno o más pares clave-valor
 - **Certificado digital**: Un archivo que verifica la identidad del titular de una clave pública
-- **Forense digital**: La práctica de recolectar y analizar datos para determinar qué ha sucedido después de un ataque
+- **[[_6- Forense Digital|Forense digital]]**: La práctica de recolectar y analizar datos para determinar qué ha sucedido después de un ataque
 - **Directorio**: Un archivo que organiza dónde se almacenan otros archivos
 - **Plan de recuperación ante desastres**: Un plan que permite al equipo de seguridad de una organización delinear los pasos necesarios para minimizar el impacto de un incidente de seguridad
 - **Ataque de denegación de servicio distribuido (DDoS)**: Un tipo de ataque de denegación de servicio que utiliza múltiples dispositivos o servidores ubicados en diferentes lugares para inundar la red objetivo con tráfico no deseado
-- **Distribuciones**: Las diferentes versiones de Linux
+- **[[Sintesis - Linux como sistema base del pentester|Distribuciones]]**: Las diferentes versiones de Linux
 - **Documentación**: Cualquier forma de contenido registrado que se utiliza para un propósito específico
 - **Ataque XSS basado en DOM**: Una instancia en la que un script malicioso existe en la página web que carga un navegador
 - **Sistema de Nombres de Dominio (DNS)**: Un protocolo de red que traduce nombres de dominio de internet en direcciones IP
@@ -139,7 +139,7 @@ actualizado: 2026-05-28
 
 - **Elevator pitch**: Un resumen breve de tu experiencia, habilidades y antecedentes
 - **Encapsulación**: Un proceso realizado por un servicio VPN que protege tus datos envolviendo datos sensibles en otros paquetes de datos
-- **Cifrado**: El proceso de convertir datos de un formato legible a un formato codificado
+- **[[_7- Cifrado y Criptografía en Python|Cifrado]]**: El proceso de convertir datos de un formato legible a un formato codificado
 - **Endpoint**: Cualquier dispositivo conectado en una red
 - **Detección y respuesta de endpoints (EDR)**: Una aplicación que monitorea un endpoint en busca de actividad maliciosa
 - **Erradicación**: La eliminación completa de los elementos del incidente de todos los sistemas afectados
@@ -173,12 +173,12 @@ actualizado: 2026-05-28
 
 ## H
 
-- **Hacker**: Cualquier persona o grupo que utiliza computadoras para obtener acceso no autorizado a datos
-- **Hacktivista**: Una persona que utiliza el hacking para alcanzar un objetivo político
+- **[[Hacking Etico|Hacker]]**: Cualquier persona o grupo que utiliza computadoras para obtener acceso no autorizado a datos
+- **[[Hacking Etico|Hacktivista]]**: Una persona que utiliza el hacking para alcanzar un objetivo político
 - **Disco duro**: Un componente de hardware utilizado para la memoria a largo plazo
 - **Hardware**: Los componentes físicos de una computadora
 - **Colisión de hash**: Una instancia en la que diferentes entradas producen el mismo valor de hash
-- **Función de hash**: Un algoritmo que produce un código que no puede ser descifrado
+- **[[_1- Cracking|Función de hash]]**: Un algoritmo que produce un código que no puede ser descifrado
 - **Tabla de hash**: Una estructura de datos que se utiliza para almacenar y referenciar valores de hash
 - **Ley de Portabilidad y Responsabilidad del Seguro Médico (HIPAA)**: Una ley federal de EE. UU. establecida para proteger la información médica de los pacientes
 - **Honeypot**: Un sistema o recurso creado como señuelo vulnerable a ataques con el propósito de atraer a posibles intrusos
@@ -226,7 +226,7 @@ actualizado: 2026-05-28
 
 ## K
 
-- **KALI LINUX ™**: Una distribución de Linux de código abierto ampliamente utilizada en la industria de la seguridad
+- **[[1- Configuración Básica de Máquina Virtual Kali Linux|KALI LINUX]] ™**: Una distribución de Linux de código abierto ampliamente utilizada en la industria de la seguridad
 - **Kernel**: El componente del sistema operativo Linux que gestiona procesos y memoria
 - **Par clave-valor**: Un conjunto de datos que representa dos elementos vinculados: una clave y su valor correspondiente
 

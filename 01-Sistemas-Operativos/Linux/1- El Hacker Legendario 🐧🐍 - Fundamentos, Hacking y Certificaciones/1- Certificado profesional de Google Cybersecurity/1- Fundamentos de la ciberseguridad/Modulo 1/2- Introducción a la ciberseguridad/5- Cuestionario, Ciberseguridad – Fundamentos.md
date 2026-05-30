@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -53,9 +53,6 @@ Realizar _____ permite a los profesionales de la seguridad revisar los registros
 ❌ Reducción de la productividad empresarial (Incorrecta)
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

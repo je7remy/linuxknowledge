@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [2fa, contrasenas, privacidad, checklist]
+tags: [2fa, checklist, contrasenas, privacidad]
 actualizado: 2026-05-28
 ---
 

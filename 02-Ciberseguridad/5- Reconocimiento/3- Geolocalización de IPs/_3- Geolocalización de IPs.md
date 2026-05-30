@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 02-Ciberseguridad / 5- Reconocimiento / 3- Geolocalización de IPs
+seccion: 02-Ciberseguridad/5- Reconocimiento/3- Geolocalización de IPs
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,9 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_5- Reconocimiento|5- Reconocimiento]]
+
+---
+## Relacionadas
+
+- [[_1- Nmap|Nmap]]
+- [[_2- Shodan|Shodan]]

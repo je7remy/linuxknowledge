@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, pentesting, python]
 actualizado: 2026-05-28
 ---
 
@@ -72,9 +72,6 @@ Conocer cómo viajan los paquetes y cómo se encapsulan es esencial para tareas 
 En resumen, la comprensión de estos conceptos es fundamental antes de comenzar a trabajar con Scapy y herramientas similares en el ámbito de la ciberseguridad. La próxima clase profundizaremos directamente en la manipulación de paquetes usando Scapy.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_15- Scapy (En desarrollo)|15- Scapy (En desarrollo)]]

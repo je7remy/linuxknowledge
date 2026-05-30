@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-responsable, modulo-2]
+tags: [ia, ia-responsable, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -58,9 +58,6 @@ En conclusión, la **privacidad y la seguridad** son pilares fundamentales del u
 Saber cómo proteger tanto tu información como la de tu organización es una parte esencial de una **IA ética y segura**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -76,9 +76,6 @@ Un recurso realmente bueno para **aprender nuevas habilidades** y **ampliar tus 
 Cada persona tiene algo que aportar sobre cómo mejorar tus habilidades de codificación, **especialmente en ciberseguridad**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]

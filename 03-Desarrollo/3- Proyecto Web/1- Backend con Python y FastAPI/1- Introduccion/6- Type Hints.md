@@ -146,9 +146,6 @@ En esta lección hemos aprendido que:
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

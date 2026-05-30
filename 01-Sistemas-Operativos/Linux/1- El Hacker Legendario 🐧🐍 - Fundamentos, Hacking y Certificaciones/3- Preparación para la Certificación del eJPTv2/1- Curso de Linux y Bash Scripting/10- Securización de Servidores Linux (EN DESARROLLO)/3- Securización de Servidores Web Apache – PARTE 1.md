@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, apache, bash, ciberseguridad, devops, ejptv2, el-hacker-legendario, hacking-etico, linux, pentesting, servidor-web, web-security]
 actualizado: 2026-05-28
 ---
 
 # Securización de Servidores Web Apache – PARTE 1
 
 ---
-
-#Linux #Apache #ServidorWeb #SeguridadInformática #SysAdmin #WebSecurity #EthicalHacking #Pentesting #Ciberseguridad #DevOps
-
----
-
 ### 1️⃣ Instalación y ejecución de Apache
 
 ```bash

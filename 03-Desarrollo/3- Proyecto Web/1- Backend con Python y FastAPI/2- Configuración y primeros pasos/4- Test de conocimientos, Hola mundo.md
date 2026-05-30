@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, test-conocimientos, hola-mundo]
+tags: [fastapi, hola-mundo, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

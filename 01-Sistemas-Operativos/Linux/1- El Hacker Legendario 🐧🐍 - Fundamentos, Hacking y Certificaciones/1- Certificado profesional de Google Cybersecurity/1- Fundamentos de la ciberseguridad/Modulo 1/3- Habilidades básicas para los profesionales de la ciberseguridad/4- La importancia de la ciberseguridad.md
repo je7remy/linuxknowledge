@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -68,9 +68,6 @@ La **Oficina de Estadísticas Laborales de los Estados Unidos** estima que la de
 Seguir aprendiendo sobre seguridad es clave. Con el tiempo, podrás contribuir a crear un entorno más seguro tanto para las organizaciones como para las personas, haciendo una diferencia significativa en el mundo digital.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

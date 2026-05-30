@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [aprender-python, automatizacion, codigo, condicionales, ejemplos-python, ejptv2, el-hacker-legendario, elif, else, if, logica, pentesting, programacion, python]
 actualizado: 2026-05-28
 ---
 
 # Sentencias Condicionales
-
----
-
-#Python #Condicionales #IF #ELIF #ELSE #Programación #EjemplosPython #Código #AprenderPython #Lógica #Automatización
 
 ---
 ### **Definición de Sentencias Condicionales**

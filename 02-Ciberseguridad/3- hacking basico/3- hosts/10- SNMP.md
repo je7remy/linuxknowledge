@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [snmp, snmpwalk, onesixtyone, braa, oid, community-string, hosts]
+tags: [braa, community-string, hosts, oid, onesixtyone, servicios, snmp, snmpwalk]
 actualizado: 2026-05-28
 ---
 
 # SNMP — Simple Network Management Protocol
-
-#snmp #servicios #hosts
-
 ---
 
 ## Configuraciones peligrosas

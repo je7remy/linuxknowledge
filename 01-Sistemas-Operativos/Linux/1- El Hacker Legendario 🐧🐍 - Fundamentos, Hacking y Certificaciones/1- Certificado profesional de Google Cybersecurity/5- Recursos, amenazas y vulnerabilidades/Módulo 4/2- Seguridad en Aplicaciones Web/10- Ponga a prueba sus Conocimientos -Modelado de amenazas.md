@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -94,9 +94,6 @@ El Modelado de amenazas es un proceso que utilizan los Equipos de Seguridad para
 ✔️ Correcto: Los objetivos son **documentar riesgos potenciales, preparar correctivos y mejorar los planes de seguridad.**
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

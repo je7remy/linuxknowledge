@@ -1,14 +1,10 @@
 ---
-
-## 📋 Requisitos Previos
-
-- ✅ Tener instalado **[Git](https://git-scm.com/)**  
-- ✅ Conexión a Internet estable  
-- ✅ Ejecutar **CMD/PowerShell/Git Bash como Administrador**  
-- 🗑️ Desinstalar versiones anteriores de Office (*si aplica*)  
-- ⏳ 15-20 minutos disponibles para el proceso
-
+tipo: teoria
+tags: [guia-de-instalacion-office-lite-2016, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Guía de Instalación Office Lite 2016
 
 ## 🛠️ Pasos para la Instalación
 

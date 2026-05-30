@@ -1,13 +1,10 @@
 ---
 tipo: laboratorio
-tags: [windows, uac, bypass, fodhelper, runasinvoker, living-off-the-land, privilege-escalation]
+tags: [bypass, ciberseguridad, fodhelper, living-off-the-land, privilege-escalation, runasinvoker, uac, windows]
 actualizado: 2026-05-28
 ---
 
 # BYPASS del UAC de Windows
-
-#windows #uac #ciberseguridad
-
 ---
 
 **Bypass del UAC (User Account Control) de Windows**  

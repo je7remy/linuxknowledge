@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, onedrive, plantilla-unphu]
+tags: [onedrive, plantilla-unphu, tesis]
 actualizado: 2026-05-28
 ---
 

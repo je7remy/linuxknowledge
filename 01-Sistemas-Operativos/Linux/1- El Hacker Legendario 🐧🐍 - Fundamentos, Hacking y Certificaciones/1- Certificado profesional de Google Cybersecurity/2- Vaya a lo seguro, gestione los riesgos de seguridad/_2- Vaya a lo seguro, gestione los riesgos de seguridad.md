@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: Google Cybersecurity / 2- Gestión de riesgos
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad
 actualizado: 2026-05-28
 ---
 

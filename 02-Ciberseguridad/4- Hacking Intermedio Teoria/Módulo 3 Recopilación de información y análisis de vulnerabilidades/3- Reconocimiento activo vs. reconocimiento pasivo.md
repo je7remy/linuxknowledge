@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [reconocimiento-activo, reconocimiento-pasivo, osint, sublist3r, whois, theharvester, nmap, sniffing]
+tags: [ciberseguridad, hacking-etico, nmap, osint, pentesting, reconocimiento, reconocimiento-activo, reconocimiento-pasivo, sniffing, sublist3r, theharvester, whois]
 actualizado: 2026-05-28
 ---
 
@@ -34,9 +34,6 @@ Entre las herramientas y métodos comunes de reconocimiento pasivo se incluyen l
 ---
 
 # **Reconocimiento en Ciberseguridad: Pasivo y Activo**
-
-#Ciberseguridad #HackingÉtico #Reconocimiento #OSINT #Pentesting
-
 **Reconocimiento en Ciberseguridad**
 
 El reconocimiento es una de las fases fundamentales dentro de la ciberseguridad y el hacking ético. Se trata de la recopilación de información sobre un objetivo antes de lanzar cualquier ataque o auditoría. Esta fase se divide en dos categorías principales: reconocimiento pasivo y reconocimiento activo.

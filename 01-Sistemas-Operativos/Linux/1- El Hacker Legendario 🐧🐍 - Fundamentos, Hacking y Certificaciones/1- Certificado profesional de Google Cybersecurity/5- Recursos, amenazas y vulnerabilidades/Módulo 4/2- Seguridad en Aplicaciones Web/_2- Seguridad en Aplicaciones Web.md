@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 4 / 2- Seguridad en Aplicaciones Web
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 4/2- Seguridad en Aplicaciones Web
 actualizado: 2026-05-28
 ---
 
@@ -25,3 +25,11 @@ actualizado: 2026-05-28
 - [[8- Rasgos de un modelo de amenaza eficaz]]
 - [[9- Actividad - Aplicar el framework del Modelo de Amenazas PASTA]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[_1- Amenaza a la Seguridad de los Recursos|Amenaza a la Seguridad de los Recursos]]

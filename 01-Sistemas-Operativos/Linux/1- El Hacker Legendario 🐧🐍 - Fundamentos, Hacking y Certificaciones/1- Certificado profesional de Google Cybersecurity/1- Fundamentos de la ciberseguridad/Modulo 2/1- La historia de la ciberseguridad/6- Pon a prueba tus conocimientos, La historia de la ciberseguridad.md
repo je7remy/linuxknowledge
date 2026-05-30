@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2, quiz]
 actualizado: 2026-05-28
 ---
 

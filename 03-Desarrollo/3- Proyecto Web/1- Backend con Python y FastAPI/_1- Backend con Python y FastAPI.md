@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 03-Desarrollo / 3- Proyecto Web / 1- Backend con Python y FastAPI
+seccion: 03-Desarrollo/3- Proyecto Web/1- Backend con Python y FastAPI
 actualizado: 2026-05-28
 ---
 
@@ -18,3 +18,9 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_3- Proyecto Web|3- Proyecto Web]]
+
+---
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

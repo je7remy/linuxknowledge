@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [argparse, automatizacion, cli, ejptv2, el-hacker-legendario, pentesting, programacion, python]
 actualizado: 2026-05-28
 ---
 
 # Entrada de Información por parte del Usuario (Argumentos)
-
----
-
-#Python #Argparse #Automatización #CLI #Programación
 
 ---
 ## **Primer Fragmento: Uso de `argparse` para Capturar Argumentos**

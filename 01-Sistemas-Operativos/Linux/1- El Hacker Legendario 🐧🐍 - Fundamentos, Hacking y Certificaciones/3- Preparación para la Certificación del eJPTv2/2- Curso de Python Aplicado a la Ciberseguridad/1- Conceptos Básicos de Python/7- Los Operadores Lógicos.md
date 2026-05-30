@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [and, aprender-python, booleanos, codigo, condicionales, ejemplos-python, ejptv2, el-hacker-legendario, not, operadores-logicos, or, pentesting, programacion, python]
 actualizado: 2026-05-28
 ---
 
 # Los Operadores Lógicos
-
----
-
-#Python #OperadoresLógicos #Programación #Código #Booleanos #Condicionales #AND #OR #NOT #EjemplosPython #AprenderPython
 
 ---
 ### **Definición de Operadores Lógicos en Python**

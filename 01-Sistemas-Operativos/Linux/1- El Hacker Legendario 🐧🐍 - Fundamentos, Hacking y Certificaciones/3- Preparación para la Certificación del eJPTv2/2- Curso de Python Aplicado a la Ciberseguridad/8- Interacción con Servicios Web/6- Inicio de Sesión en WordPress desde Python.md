@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, pentesting, python]
 actualizado: 2026-05-28
 ---
 
@@ -322,9 +322,6 @@ with requests.Session() as session:
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]

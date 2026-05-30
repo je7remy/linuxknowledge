@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, cors, test-conocimientos, creacion-api]
+tags: [cors, creacion-api, fastapi, test-conocimientos]
 actualizado: 2026-05-28
 ---
 
@@ -135,9 +135,6 @@ actualizado: 2026-05-28
 > **Justificación:** Pydantic permite validar y tipar datos mediante clases basadas en BaseModel.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

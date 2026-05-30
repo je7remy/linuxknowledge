@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 6- Haga sonar la alarma Detección y respuesta / Módulo 4 / 4- Cierre del Módulo 4 - Evaluación y Reflexión Final
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 4/4- Cierre del Módulo 4 - Evaluación y Reflexión Final
 actualizado: 2026-05-28
 ---
 
@@ -17,3 +17,13 @@ actualizado: 2026-05-28
 - [[6- Resumen del curso]]
 - [[7- Glosario del curso 6]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[_1- Tráfico de red y registros mediante herramientas IDS y SIEM|Tráfico de red y registros mediante herramientas IDS y SIEM]]
+- [[_2-  Monitoreo de la Seguridad con Herramientas de Detección|Monitoreo de la Seguridad con Herramientas de Detección]]
+- [[_3- Análisis y Gestión de Registros con Herramientas SIEM|Análisis y Gestión de Registros con Herramientas SIEM]]

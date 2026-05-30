@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -42,9 +42,6 @@ actualizado: 2026-05-28
 Aunque puede que no te encargues directamente de definir estos procedimientos, **deberás asegurarte de que funcionen correctamente**, ya que el cumplimiento efectivo **reduce riesgos tanto para la organización como para las personas que dependen de ella**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

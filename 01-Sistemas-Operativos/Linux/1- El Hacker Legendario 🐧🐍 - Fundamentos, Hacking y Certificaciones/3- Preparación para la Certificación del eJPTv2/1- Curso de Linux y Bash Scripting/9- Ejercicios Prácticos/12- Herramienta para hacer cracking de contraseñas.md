@@ -1,14 +1,10 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash, cracking]
+tags: [administracion-sistemas, bash, brute-force, ciberseguridad, cracking, cracking-hashes, ctf, cyber-attack, cyber-defense, cyber-sec-community, dictionary-attack, ejptv2, el-hacker-legendario, forensics, hacking-etico, hack-the-planet, hash-breaking, hashcat, linux, md5, ntlm, password-cracking, penetration-testing, pentesting, red-team, security-testing, security-tools]
 actualizado: 2026-05-28
 ---
 
 # Herramienta para hacer cracking de contraseñas
-
----
-
-#Hashcat #CyberSecurity #PasswordCracking #EthicalHacking #InfoSec #Pentesting #HackingÉtico #MD5 #NTLM #BruteForce #DictionaryAttack #CyberDefense #SecurityTools #CrackingHashes #RedTeam #CyberAttack #Forensics #Linux #SysAdmin #SecurityTesting #HackThePlanet #HashBreaking #PenetrationTesting #CTF #CyberSecCommunity
 
 ---
 ### **1. Recuperación de contraseñas de archivos ZIP**

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -62,9 +62,6 @@ Al entrar en el campo de la seguridad, recuerda que la tecnología está en cons
 Tener un fuerte sentido de la ética puede guiar tus decisiones para garantizar que se sigan los procesos y procedimientos adecuados para mitigar estos riesgos en constante evolución.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

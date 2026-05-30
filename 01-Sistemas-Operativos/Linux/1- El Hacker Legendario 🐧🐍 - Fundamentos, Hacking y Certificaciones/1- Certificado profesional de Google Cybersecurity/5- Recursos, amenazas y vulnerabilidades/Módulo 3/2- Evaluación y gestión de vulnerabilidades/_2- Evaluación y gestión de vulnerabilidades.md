@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 3 / 2- Evaluación y gestión de vulnerabilidades
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 3/2- Evaluación y gestión de vulnerabilidades
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,13 @@ actualizado: 2026-05-28
 - [[5- Pruebas de penetración]]
 - [[6- Ponga a prueba sus Conocimientos - Identificar las vulnerabilidades del sistema]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[_1- Vulnerabilidades en los Sistemas|Vulnerabilidades en los Sistemas]]
+- [[_3- Mentalidad de Atacante y Defensa Cibernética|Mentalidad de Atacante y Defensa Cibernética]]
+- [[_4- Conclusion|Conclusion]]

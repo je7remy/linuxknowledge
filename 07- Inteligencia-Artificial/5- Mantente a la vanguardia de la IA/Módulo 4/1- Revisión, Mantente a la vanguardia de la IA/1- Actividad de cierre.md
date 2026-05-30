@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-vanguardia, modulo-4]
+tags: [ia, ia-vanguardia, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -43,9 +43,6 @@ actualizado: 2026-05-28
 > “Las posibilidades de la IA son inspiradoras. Mantente curioso, experimenta, y sigue aprendiendo.”
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]

@@ -1,17 +1,12 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [arpspoofing, bash, bettercap, ciberseguridad, ejptv2, el-hacker-legendario, hacking, kali-linux, linux, man-in-the-middle, mit-m, redes, sniffer, sslstrip]
 actualizado: 2026-05-28
 ---
 
 # Man-in-the-Middle (MitM) con Bettercap en Kali Linux
 
 ---
-
-#ManInTheMiddle #MitM #Bettercap #KaliLinux #ARPSpoofing #Sniffer #SSLStrip #Ciberseguridad #Hacking #Redes
-
----
-
 Aquí tienes un paso a paso para desarrollar la técnica de ataque **Man-in-the-Middle (MitM)** con **Bettercap** en **Kali Linux**, capturando el tráfico de red y almacenando los resultados en un documento.
 
 ---

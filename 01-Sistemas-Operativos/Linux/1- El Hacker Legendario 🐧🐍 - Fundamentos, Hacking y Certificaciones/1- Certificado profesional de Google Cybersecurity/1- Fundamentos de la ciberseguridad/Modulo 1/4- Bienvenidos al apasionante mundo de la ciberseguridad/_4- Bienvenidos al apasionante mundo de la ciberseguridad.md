@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 1- Fundamentos de la ciberseguridad / Modulo 1 / 4- Bienvenidos al apasionante mundo de la ciberseguridad
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 1/4- Bienvenidos al apasionante mundo de la ciberseguridad
 actualizado: 2026-05-28
 ---
 
@@ -14,3 +14,13 @@ actualizado: 2026-05-28
 - [[3- Código de honor de Coursera]]
 - [[4- Desafío del módulo 1]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 1|Modulo 1]]
+
+## Relacionadas
+
+- [[_1- Primeros pasos|Primeros pasos]]
+- [[_2- Introducción a la ciberseguridad|Introducción a la ciberseguridad]]
+- [[_3- Habilidades básicas para los profesionales de la ciberseguridad|Habilidades básicas para los profesionales de la ciberseguridad]]

@@ -124,9 +124,6 @@ Esta combinación de comandos es muy eficiente para mantener el sistema actualiz
     Sigue las instrucciones específicas del instalador para integrarla en tu entorno.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_0- Configuracion inicial|0- Configuracion inicial]]

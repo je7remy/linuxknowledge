@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -40,9 +40,6 @@ Durante este curso, consolidé habilidades esenciales para trabajar como **anali
 El siguiente curso me introducirá al uso de **Python** para automatizar procesos de seguridad, optimizar la detección de amenazas y mejorar la eficiencia de las operaciones SOC.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [arte-ascii, caligrafia-digital, ejptv2, el-hacker-legendario, figlet, herramientas-en-linea, linux, pentesting, programacion, python]
 actualizado: 2026-05-28
 ---
 
 # Creación de Banners
-
----
-
-#ArteASCII #Python #Linux #Figlet #HerramientasEnLínea #Programación #CaligrafíaDigital
 
 ---
 ### **Desarrollo paso a paso**

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -15,9 +15,6 @@ actualizado: 2026-05-28
 |Recientemente compraste en la tienda Y y verificaste que se te cobrara correctamente.|🧾 **Integridad**|Asegura que los datos no hayan sido alterados y se mantengan precisos y completos.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

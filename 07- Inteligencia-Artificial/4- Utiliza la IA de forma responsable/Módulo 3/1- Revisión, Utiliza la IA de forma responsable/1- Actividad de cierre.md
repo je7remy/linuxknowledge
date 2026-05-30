@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-responsable, modulo-3]
+tags: [ia, ia-responsable, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -31,9 +31,6 @@ Las herramientas de IA están transformando el mundo rápidamente, pero **toda n
 Para continuar tu aprendizaje, te animo a seguir explorando los **Fundamentos de IA de Google**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]

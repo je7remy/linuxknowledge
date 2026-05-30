@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [mitre-attck, owasp-wstg, osstmm, ptes, nist-800-115, issaf, metodologias]
+tags: [issaf, metodologias, mitre-attck, nist-800-115, osstmm, owasp-wstg, ptes]
 actualizado: 2026-05-28
 ---
 

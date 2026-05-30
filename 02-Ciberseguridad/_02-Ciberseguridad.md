@@ -32,6 +32,11 @@ Las subcarpetas están numeradas por orden sugerido de lectura/uso:
 - [[7- Cifrado y Criptografía en Python/1- Cifrado y Descifrado de Contraseñas con Fernet en Python|7- Cifrado en Python]] — Fernet, cifrado simétrico.
 - [[8- Amenazas de CIberataques Impulsados por IA/CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas|8- Ciberataques con IA — Fortinet]] — Amenazas emergentes (DeepSeek, IA generativa, Sun Tzu).
 
+## Navegación
+
+- 🏠 [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]
+
 ## Secciones relacionadas
 
 - [[_01-Sistemas-Operativos|01-Sistemas-Operativos]] — fundamentos Linux/Windows sobre los que se aplica esto.

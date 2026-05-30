@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [forense, autopsy, ftk-imager, dumpit, cadena-custodia, chfi, gcfe]
+tags: [autopsy, cadena-custodia, chfi, ciberseguridad, cyber-security-training, digital-forensics, dumpit, forense, forensic-tools, free-course, ftk-imager, gcfe, hacker-mentor, hacking-etico]
 actualizado: 2026-05-28
 ---
 
 # Introducción Práctica y Demostración — Informática Forense (Parte 1)
-
-#DigitalForensics #EthicalHacking #CyberSecurity #CyberSecurityTraining #ForensicTools #FreeCourse #HackerMentor
-
 ---
 # Informática Forense
 

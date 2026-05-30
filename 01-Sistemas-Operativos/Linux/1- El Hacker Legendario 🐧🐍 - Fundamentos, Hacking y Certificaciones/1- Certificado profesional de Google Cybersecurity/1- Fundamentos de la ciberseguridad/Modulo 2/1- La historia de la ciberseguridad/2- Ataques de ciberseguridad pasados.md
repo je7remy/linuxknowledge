@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -52,9 +52,6 @@ Este incidente condujo a la creación de los **Equipos de Respuesta a Emergencia
 Estos primeros ataques ayudaron a moldear la ciberseguridad como la conocemos hoy. Como analista de seguridad, es vital aprender de estos eventos históricos para anticiparse y responder mejor a las amenazas actuales. Próximamente, exploraremos cómo han evolucionado los ataques en la era digital.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

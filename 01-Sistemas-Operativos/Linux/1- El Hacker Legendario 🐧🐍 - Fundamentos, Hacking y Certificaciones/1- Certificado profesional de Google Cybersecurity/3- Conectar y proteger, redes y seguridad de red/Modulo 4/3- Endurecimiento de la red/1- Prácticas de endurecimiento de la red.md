@@ -1,10 +1,10 @@
 ---
-
-### 🔐 ¿Qué es el Endurecimiento de la Red?
-
-Es el **proceso de proteger la red de una organización** mediante la configuración segura de dispositivos y servicios, controlando accesos y asegurando la transmisión de datos.
-
+tipo: teoria
+tags: [endurecimiento-de-la-red, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Prácticas de endurecimiento de la red
 
 ### 📌 **Tareas Regulares en el Endurecimiento de Red**
 

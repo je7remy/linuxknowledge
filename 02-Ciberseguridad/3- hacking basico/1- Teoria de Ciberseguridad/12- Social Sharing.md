@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [redes-sociales, privacidad, osint-defensa, perfil-publico]
+tags: [osint-defensa, perfil-publico, privacidad, redes-sociales]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, configuracion, entorno-dev, software, prerequisitos]
+tags: [configuracion, entorno-dev, prerequisitos, software, tesis]
 actualizado: 2026-05-28
 ---
 

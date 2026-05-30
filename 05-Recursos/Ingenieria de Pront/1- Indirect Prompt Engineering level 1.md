@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [prompt-engineering, gandalf, ai-jailbreak, indirect-prompt, lakera]
+tags: [ai-jailbreak, gandalf, indirect-prompt, lakera, prompting]
 actualizado: 2026-05-28
 ---
 

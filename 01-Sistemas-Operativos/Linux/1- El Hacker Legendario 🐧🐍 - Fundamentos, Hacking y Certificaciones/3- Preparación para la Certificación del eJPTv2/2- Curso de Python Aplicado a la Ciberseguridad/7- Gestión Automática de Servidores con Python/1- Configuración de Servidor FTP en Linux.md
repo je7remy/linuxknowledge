@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [administracion-sistemas, ciberseguridad, ejptv2, el-hacker-legendario, ftp, hacking-etico, kali-linux, pentesting, python, vsftpd]
 actualizado: 2026-05-28
 ---
 
 # Configuración de Servidor FTP en Linux
 
 ---
-
-#KaliLinux #vsftpd #FTP #Pentesting #SeguridadInformática #EthicalHacking #AdministraciónDeSistemas
-
----
-
 1. Instalas vsftpd usando `sudo apt install vsftpd`.
 2. Reinicias el servicio vsftpd con `sudo systemctl restart vsftpd`.
 3. Desde otra máquina virtual (llamada "víctima"), te conectas al servidor FTP usando `ftp (ip de la máquina víctima)`.

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [nmap, reconocimiento, output, reportes]
+tags: [nmap, output, reconocimiento, reportes]
 actualizado: 2026-05-28
 ---
 

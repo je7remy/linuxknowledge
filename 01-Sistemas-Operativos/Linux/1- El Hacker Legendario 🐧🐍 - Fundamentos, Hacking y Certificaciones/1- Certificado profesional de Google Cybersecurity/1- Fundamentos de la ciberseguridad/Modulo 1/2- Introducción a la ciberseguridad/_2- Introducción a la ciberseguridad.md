@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 1- Fundamentos de la ciberseguridad / Modulo 1 / 2- Introducción a la ciberseguridad
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 1/2- Introducción a la ciberseguridad
 actualizado: 2026-05-28
 ---
 
@@ -15,3 +15,13 @@ actualizado: 2026-05-28
 - [[4- Terminología común sobre ciberseguridad]]
 - [[5- Cuestionario, Ciberseguridad – Fundamentos]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 1|Modulo 1]]
+
+## Relacionadas
+
+- [[_1- Primeros pasos|Primeros pasos]]
+- [[_3- Habilidades básicas para los profesionales de la ciberseguridad|Habilidades básicas para los profesionales de la ciberseguridad]]
+- [[_4- Bienvenidos al apasionante mundo de la ciberseguridad|Bienvenidos al apasionante mundo de la ciberseguridad]]

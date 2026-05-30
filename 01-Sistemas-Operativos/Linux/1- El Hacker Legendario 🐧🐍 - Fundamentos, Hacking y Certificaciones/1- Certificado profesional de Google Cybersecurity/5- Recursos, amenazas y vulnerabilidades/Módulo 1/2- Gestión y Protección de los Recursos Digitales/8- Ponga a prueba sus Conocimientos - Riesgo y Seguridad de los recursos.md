@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -74,9 +74,6 @@ El NIST CSF es un framework _____ que consta de estándares, directrices y mejor
 👉 El CSF es beneficioso porque **se adapta a distintos contextos**, **ayuda al cumplimiento regulatorio** y **sirve como herramienta para identificar y evaluar riesgos**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

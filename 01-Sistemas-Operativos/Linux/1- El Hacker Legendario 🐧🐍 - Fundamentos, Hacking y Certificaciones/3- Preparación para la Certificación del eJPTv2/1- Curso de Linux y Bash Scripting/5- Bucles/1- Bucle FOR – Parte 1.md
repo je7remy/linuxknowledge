@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion, automatizacion-de-tareas, bash, bucle-for, busqueda-de-archivos, codificacion-linux, comandos-bash, comandos-de-sistema, creacion-de-archivos, ejecucion-de-comandos, ejptv2, el-hacker-legendario, eliminacion-de-archivos, linux, manejo-de-archivos, manejo-de-archivos-en-bash, procesamiento-de-textos, programacion-linux, script-de-bash, scripting-linux, scripts-de-automatizacion, scripts-de-bash, trabajo-con-archivos, trabajo-con-directorios]
 actualizado: 2026-05-28
 ---
 
 # Bucle FOR – Parte 1
-
----
-
-#Bash #ShellScripting #ScriptingLinux #Automatización #BucleFor #ComandosBash #CreacionDeArchivos #EliminacionDeArchivos #ComandosDeSistema #ManejoDeArchivos #BusquedaDeArchivos #ProgramacionLinux #LinuxTips #ProcesamientoDeTextos #ScriptDeBash #AdministracionDeSistemas #ScriptsDeBash #EjecucionDeComandos #AutomatizacionDeTareas #ComandosLinux #TrabajoConArchivos #TrabajoConDirectorios #ManejoDeArchivosEnBash #CodificacionLinux #ScriptsDeAutomatizacion
 
 ---
 1. **Primer script:**

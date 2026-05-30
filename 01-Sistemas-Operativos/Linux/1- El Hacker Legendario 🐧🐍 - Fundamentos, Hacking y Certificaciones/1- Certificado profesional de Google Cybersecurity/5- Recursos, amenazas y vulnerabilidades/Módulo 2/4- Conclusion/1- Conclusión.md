@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -74,9 +74,6 @@ Lo siguiente será cambiar la perspectiva hacia lo **ofensivo**, explorando cóm
 💡 En resumen: ya dominas conceptos de **privacidad, privilegio mínimo, criptografía, hashes, controles de acceso y AAA**. Con esa base, ahora te prepararás para **pensar como un atacante** y fortalecer aún más tu visión de ciberseguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

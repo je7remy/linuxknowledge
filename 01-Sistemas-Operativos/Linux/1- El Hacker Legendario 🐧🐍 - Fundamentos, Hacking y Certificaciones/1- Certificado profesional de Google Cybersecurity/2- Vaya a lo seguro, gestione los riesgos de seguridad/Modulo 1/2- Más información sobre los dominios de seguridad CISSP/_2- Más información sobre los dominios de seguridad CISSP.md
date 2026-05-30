@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 2- Vaya a lo seguro, gestione los riesgos de seguridad / Modulo 1 / 2- Más información sobre los dominios de seguridad CISSP
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 1/2- Más información sobre los dominios de seguridad CISSP
 actualizado: 2026-05-28
 ---
 
@@ -17,3 +17,13 @@ actualizado: 2026-05-28
 - [[6- Complemento sin calificar, Identificar, los ocho dominios de seguridad de CISSP]]
 - [[7- Pon a prueba tus conocimientos, Más información sobre los dominios de seguridad CISSP]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 1|Modulo 1]]
+
+## Relacionadas
+
+- [[_1- Primeros pasos con el curso|Primeros pasos con el curso]]
+- [[_3- Navegue por las amenazas, los riesgos y las vulnerabilidades|Navegue por las amenazas, los riesgos y las vulnerabilidades]]
+- [[_4- Revisión, Dominios de seguridad|Revisión, Dominios de seguridad]]

@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [rdp, winrm, wmi, wmic, evil-winrm, xfreerdp, windows, remote-admin, hosts]
+tags: [administracion-remota, ciber-ataques, ciberseguridad, escaneo-rdp, evil-winrm, hacking, hacking-etico, hosts, nmap, pentesting, pruebas-de-penetracion, rdp, redes, remote-admin, remote-desktop, seguridad-windows, windows, winrm, wmi, wmic, xfreerdp]
 actualizado: 2026-05-28
 ---
 
 # Windows Hosts — RDP + WinRM + WMI
-
-#RDP #RemoteDesktop #Ciberseguridad #Pentesting #HackingEtico #SeguridadInformática #Nmap #EscaneoRDP #AdministraciónRemota #SeguridadWindows #Redes #Hacking #CiberAtaques #PruebasDePenetración #EthicalHacking
-
 ---
 ## RDP
 

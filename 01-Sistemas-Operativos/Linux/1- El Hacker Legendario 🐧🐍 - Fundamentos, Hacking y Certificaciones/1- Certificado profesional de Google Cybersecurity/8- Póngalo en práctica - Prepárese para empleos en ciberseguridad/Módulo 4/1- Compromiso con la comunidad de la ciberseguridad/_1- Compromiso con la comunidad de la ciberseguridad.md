@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 8- Póngalo en práctica - Prepárese para empleos en ciberseguridad / Módulo 4 / 1- Compromiso con la comunidad de la ciberseguridad
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/8- Póngalo en práctica - Prepárese para empleos en ciberseguridad/Módulo 4/1- Compromiso con la comunidad de la ciberseguridad
 actualizado: 2026-05-28
 ---
 
@@ -22,3 +22,12 @@ actualizado: 2026-05-28
 - [[8- Red en la comunidad de la ciberseguridad]]
 - [[9-  Automatización de procesos de programación con Inteligencia Artificial]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

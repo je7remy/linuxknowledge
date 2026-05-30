@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -136,9 +136,6 @@ Los valores hash se utilizan principalmente para **verificar la integridad** de 
 Además, los hashes ayudan a mantener la **confidencialidad**, ya que son procesos unidireccionales y no pueden desencriptarse para revelar la información original.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

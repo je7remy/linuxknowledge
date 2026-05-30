@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -107,9 +107,6 @@ Como analista de nivel inicial, **no necesitas dominar todas estas herramientas 
 A medida que avances en el programa de certificación y adquieras práctica, **irás desarrollando tu comprensión** sobre cómo usarlas para identificar, evaluar y mitigar riesgos.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

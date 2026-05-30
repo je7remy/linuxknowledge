@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion, backup, bash, ciberseguridad, curl, ejptv2, el-hacker-legendario, ftp, linux, shell-script]
 actualizado: 2026-05-28
 ---
 
 # Gestión y Automatización de Servidores FTP – PARTE 2
 
 ---
-
-#Bash #ShellScript #Automatización #Linux #FTP #SeguridadInformática #SysAdmin #Backup #Ciberseguridad #Curl
-
----
-
 ### Análisis del Script
 
 ```bash

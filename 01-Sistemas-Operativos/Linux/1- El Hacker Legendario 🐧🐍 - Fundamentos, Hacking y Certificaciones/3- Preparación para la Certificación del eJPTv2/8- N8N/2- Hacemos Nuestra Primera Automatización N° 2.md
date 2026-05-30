@@ -268,9 +268,6 @@ Y el mensaje de error de la misma manera que lo anterior, se intercambia el 1 po
 ![[2.2- Resultado.png]]
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- N8N|8- N8N]]

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [hacker-etico, nist-csrc, vulnerabilidad, alcance, divulgacion-responsable]
+tags: [alcance, divulgacion-responsable, hacker-etico, nist-csrc, vulnerabilidad]
 actualizado: 2026-05-28
 ---
 

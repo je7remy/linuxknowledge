@@ -23,4 +23,4 @@ privacidad y responsabilidad. 3 módulos.
 
 - [[_3- Descubra el arte de la instrucción|3- Arte de la instrucción]] — curso previo.
 - [[_5- Mantente a la vanguardia de la IA|5- Vanguardia de IA]] — siguiente curso.
-- [[../../02-Ciberseguridad/8- Amenazas de CIberataques Impulsados por IA/Amenazas de CIberataques Impulsados por IA|02 → Amenazas IA]] — contraparte: uso ofensivo.
+- [[_8- Amenazas de CIberataques Impulsados por IA|02 → Amenazas IA]] — contraparte: uso ofensivo.

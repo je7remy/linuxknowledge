@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 2- Maximiza la productividad con herramientas de IA / Módulo 5
+seccion: 07- Inteligencia-Artificial/2- Maximiza la productividad con herramientas de IA/Módulo 5
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,11 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_2- Maximiza la productividad con herramientas de IA|2- Maximiza la productividad con herramientas de IA]]
+
+---
+## Relacionadas
+
+- [[_Módulo 1|Módulo 1]]
+- [[_Módulo 2|Módulo 2]]
+- [[_Módulo 3|Módulo 3]]
+- [[_Módulo 4|Módulo 4]]

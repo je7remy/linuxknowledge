@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, documentacion, swagger, openapi, redoc]
+tags: [documentacion, fastapi, openapi, redoc, swagger]
 actualizado: 2026-05-28
 ---
 
@@ -124,9 +124,6 @@ Vamos a verificar esto con el código que escribimos en la lección anterior.
 |**Redoc**|`/redoc`|Lectura / Referencia|Diseño limpio, estático, ideal para leer la documentación.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

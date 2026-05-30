@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [powershell, mas, microsoft-activation-scripts, hwid, kms38, irm, iex]
+tags: [hwid, iex, irm, kms38, mas, microsoft-activation-scripts, powershell]
 actualizado: 2026-05-28
 ---
 

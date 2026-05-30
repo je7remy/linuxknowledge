@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 4- Herramientas del oficio, Linux y SQL / Módulo 4 / 5- Conclusiones
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 4/5- Conclusiones
 actualizado: 2026-05-28
 ---
 
@@ -19,3 +19,14 @@ actualizado: 2026-05-28
 - [[8- Glosario del curso 4]]
 - [[9- Comenzar el próximo curso]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[_1- Bases de datos y SQL|Bases de datos y SQL]]
+- [[_2- Consultas Básicas en SQL|Consultas Básicas en SQL]]
+- [[_3- Filtros SQL|Filtros SQL]]
+- [[_4- Uniones de Tablas en SQL (JOINs)|Uniones de Tablas en SQL (JOINs)]]

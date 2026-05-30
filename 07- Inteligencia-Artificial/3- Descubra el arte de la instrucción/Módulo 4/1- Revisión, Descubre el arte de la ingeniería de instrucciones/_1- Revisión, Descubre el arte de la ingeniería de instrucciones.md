@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 3- Descubra el arte de la instrucción / Módulo 4 / 1- Revisión, Descubre el arte de la ingeniería de instrucciones
+seccion: 07- Inteligencia-Artificial/3- Descubra el arte de la instrucción/Módulo 4/1- Revisión, Descubre el arte de la ingeniería de instrucciones
 actualizado: 2026-05-28
 ---
 
@@ -12,3 +12,12 @@ actualizado: 2026-05-28
 - [[1- Actividad de cierre]]
 - [[2- Desafío del Curso 3]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

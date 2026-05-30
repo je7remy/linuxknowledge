@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [coding, colorama, colores, ejptv2, el-hacker-legendario, estilos, pentesting, python, scripting, terminal, tutorial]
 actualizado: 2026-05-28
 ---
 
 # Aplicar Colores a Nuestros Scripts
 
 ---
-
-#Python #Colorama #Terminal #Colores #Estilos #Coding #Scripting #Tutorial
-
----
-
 **1. Instalación de Colorama:**
 
 - Se utiliza el comando `pip install colorama` para instalar el paquete **colorama** en el entorno de Python. Este paquete permite aplicar colores y estilos al texto mostrado en la terminal.

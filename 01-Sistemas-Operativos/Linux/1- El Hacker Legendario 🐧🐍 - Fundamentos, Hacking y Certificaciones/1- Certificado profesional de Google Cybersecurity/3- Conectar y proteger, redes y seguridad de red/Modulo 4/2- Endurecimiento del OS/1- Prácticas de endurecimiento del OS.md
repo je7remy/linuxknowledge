@@ -1,13 +1,10 @@
 ---
-
-### 🔐 **¿Por qué es importante asegurar el OS?**
-
-- El **sistema operativo (OS)** es el primer programa que se carga al encender una computadora y **actúa como intermediario entre el hardware y el software**.
-    
-- Un OS inseguro puede poner en **riesgo toda la red**, ya que los atacantes pueden aprovechar vulnerabilidades para propagarse.
-    
-
+tipo: teoria
+tags: [endurecimiento-del-os, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Prácticas de endurecimiento del OS
 
 ### 🛡️ **Prácticas de Endurecimiento del OS (Hardening)**
 

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, hola-mundo, async, primera-api]
+tags: [async, fastapi, hola-mundo, primera-api]
 actualizado: 2026-05-28
 ---
 

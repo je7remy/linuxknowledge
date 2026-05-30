@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, ciberseguridad, devops, ejptv2, el-hacker-legendario, gestion-de-usuarios, grupos-linux, hacking-etico, linux, permisos-linux, usuarios-linux]
 actualizado: 2026-05-28
 ---
 
 # Gestión de Usuarios en Linux
 
 ---
-
-#Linux #SysAdmin #UsuariosLinux #GestiónDeUsuarios #Bash #ComandosLinux #AdministraciónLinux #SeguridadInformática #GruposLinux #PermisosLinux #DevOps #ShellScripting #IT #HackingÉtico
-
----
-
 La gestión de usuarios en Linux incluye comandos para agregar, modificar, eliminar y consultar usuarios y grupos en el sistema. Aquí tienes una lista de comandos comunes junto con su descripción:
 
 ---

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, http-status-codes, test-conocimientos, 3xx, 5xx]
+tags: [3xx, 5xx, fastapi, http-status-codes, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

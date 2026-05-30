@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -55,9 +55,6 @@ Una de las formas en que más he contribuido como profesional principiante ha si
 Si te encanta **resolver problemas**, proteger los **datos de los usuarios** y estar en la **primera línea** frente a muchas amenazas visibles en los titulares, definitivamente este es tu lugar.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

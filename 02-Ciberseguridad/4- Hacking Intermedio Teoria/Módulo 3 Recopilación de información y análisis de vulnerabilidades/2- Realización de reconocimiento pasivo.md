@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [reconocimiento-pasivo, sun-tzu, ciberataque, enumeracion]
+tags: [ciberataque, enumeracion, reconocimiento-pasivo, sun-tzu]
 actualizado: 2026-05-28
 ---
 

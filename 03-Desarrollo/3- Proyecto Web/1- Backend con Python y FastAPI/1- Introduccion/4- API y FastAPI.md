@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, api, python, asgi, uvicorn, openapi]
+tags: [api, asgi, fastapi, openapi, python, uvicorn]
 actualizado: 2026-05-28
 ---
 
@@ -141,9 +141,6 @@ Para profundizar en los conceptos que hemos cubierto, te recomendamos explorar l
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

@@ -1,14 +1,10 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash, cracking]
+tags: [administracion-sistemas, bash, brute-force, ciberseguridad, cracking, cracking-hashes, ctf, cyber-attack, cyber-defense, cyber-sec-community, data-security, dictionary-attack, ejptv2, el-hacker-legendario, forensics, hacking-etico, hack-the-planet, hash-breaking, john-the-ripper, linux, password-cracking, password-recovery, penetration-testing, pentesting, red-team, rock-you, security-testing, security-tools]
 actualizado: 2026-05-28
 ---
 
 # Automatización de Cracking de Contraseñas
-
----
-
-#JohnTheRipper #PasswordCracking #EthicalHacking #CyberSecurity #Pentesting #InfoSec #HackingÉtico #BruteForce #DictionaryAttack #CyberDefense #SecurityTools #CrackingHashes #RedTeam #CyberAttack #Linux #SysAdmin #SecurityTesting #HackThePlanet #HashBreaking #PenetrationTesting #CTF #CyberSecCommunity #Forensics #DataSecurity #RockYou #PasswordRecovery
 
 ---
 ### 1️⃣ **Explicación del Código**

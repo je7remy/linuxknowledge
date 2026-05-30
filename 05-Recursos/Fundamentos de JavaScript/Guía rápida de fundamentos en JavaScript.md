@@ -1,6 +1,6 @@
 ---
 tipo: cheatsheet
-tags: [javascript, fundamentos, referencia, lenguaje]
+tags: [fundamentos, javascript, lenguaje, referencia]
 actualizado: 2026-05-28
 ---
 
@@ -425,9 +425,6 @@ Además de la biblioteca estándar, JavaScript permite instalar módulos externo
 Es recomendable utilizar un gestor de dependencias como `npm` para su instalación. Todos estos módulos pueden instalarse con `npm install nombre_del_modulo`.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_05-Recursos|05-Recursos]]

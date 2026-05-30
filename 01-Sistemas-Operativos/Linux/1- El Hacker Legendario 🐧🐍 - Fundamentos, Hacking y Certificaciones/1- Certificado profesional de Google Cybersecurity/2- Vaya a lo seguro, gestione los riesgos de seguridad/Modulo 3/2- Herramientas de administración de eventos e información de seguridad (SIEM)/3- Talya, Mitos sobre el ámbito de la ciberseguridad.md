@@ -1,12 +1,10 @@
 ---
-
-## 👩‍💼 Testimonio de Talya – Ingeniera en Privacidad y Seguridad en Google
-
-### 💬 **Desmitificando la Ciberseguridad**
-
-Talya comparte su experiencia para desmentir varios **mitos comunes** sobre entrar al campo de la ciberseguridad:
-
+tipo: teoria
+tags: [sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Talya, Mitos sobre el ámbito de la ciberseguridad
 
 ### ❌ Mito 1: "Debes saber codificar, hackear o ser un genio en matemáticas"
 
@@ -63,9 +61,6 @@ Talya comparte su experiencia para desmentir varios **mitos comunes** sobre entr
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

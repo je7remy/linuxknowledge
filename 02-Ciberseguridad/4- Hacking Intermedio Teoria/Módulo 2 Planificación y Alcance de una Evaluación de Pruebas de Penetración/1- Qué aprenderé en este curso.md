@@ -9,7 +9,7 @@ actualizado: 2026-05-28
 
 Muchas cosas pueden salir mal si no se analiza y planifica adecuadamente un compromiso de pruebas de penetración. En particular, debe conocer las leyes locales y los conceptos legales relacionados con las pruebas de penetración.---
 tipo: teoria
-tags: [planificacion, alcance, leyes, cumplimiento, etica, modulo-intro]
+tags: [alcance, cumplimiento, etica, leyes, modulo-intro, planificacion]
 actualizado: 2026-05-28
 ---
 

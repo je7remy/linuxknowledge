@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [base-de-datos, commit, conexion, cursor, ejptv2, el-hacker-legendario, input, inyeccion-sql, my-sql, mysqlconnector, pentesting, python, seguridad, sql, workbench]
 actualizado: 2026-05-28
 ---
 
 # Insertar Información a la Base de Datos desde Python
 
 ---
-
-#Python #MySQL #BaseDeDatos #SQL #mysqlconnector #Seguridad #InyeccionSQL #Conexion #Commit #Cursor #Input #Workbench
-
----
-
 ### **Primer fragmento: Creación de la tabla**
 
 #### **Código:**

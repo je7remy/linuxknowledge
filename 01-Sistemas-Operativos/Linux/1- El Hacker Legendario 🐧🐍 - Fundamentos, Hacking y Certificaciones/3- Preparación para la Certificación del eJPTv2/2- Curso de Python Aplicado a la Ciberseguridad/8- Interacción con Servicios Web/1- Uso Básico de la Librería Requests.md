@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [descarga-archivo, ejptv2, el-hacker-legendario, http, manejo-errores, pentesting, python, requests, servidor-local]
 actualizado: 2026-05-28
 ---
 
 # Uso Básico de la Librería Requests
 
 ---
-
-#Python #requests #HTTP #manejo_errores #descarga_archivo #servidor_local
-
----
-
 #### **1. Importamos el módulo `requests`**
 
 El módulo `requests` nos permite realizar solicitudes HTTP en Python de manera sencilla.
@@ -106,9 +101,6 @@ except:
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- Interacción con Servicios Web|8- Interacción con Servicios Web]]

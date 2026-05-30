@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [automation, beautiful-soup, data-extraction, ejptv2, el-hacker-legendario, html, pentesting, python, python-web-scraping, text-processing, web-parsing, web-scraping]
 actualizado: 2026-05-28
 ---
 
 # Introducción a BeautifulSoup
-
----
-
-#Python #BeautifulSoup #WebScraping #HTML #DataExtraction #Automation #TextProcessing #PythonWebScraping #WebParsing
 
 ---
 ## **1️⃣ Primera versión: Buscar y mostrar los `<div>` con clase `"container"`**

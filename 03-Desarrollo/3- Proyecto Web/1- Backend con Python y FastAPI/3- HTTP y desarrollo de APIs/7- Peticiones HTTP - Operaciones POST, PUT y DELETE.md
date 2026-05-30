@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, post, put, delete, crud, escritura]
+tags: [crud, delete, escritura, fastapi, post, put]
 actualizado: 2026-05-28
 ---
 

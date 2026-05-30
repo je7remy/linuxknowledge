@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, prompting, modulo-3]
+tags: [ia, modulo-3, prompting]
 actualizado: 2026-05-28
 ---
 

@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [smb, impacket, crackmapexec, smbclient, smbmap, pass-the-hash, ntlm-relay, hosts]
+tags: [attacking-smb, crackmapexec, crack-map-exec, cybersecurity, enum4linux, hacking-tools, hosts, impacket, ntlm-relay, ntlmrelay-attack, null-session, pass-the-hash, pen-test, red-team, rpcclient, smb, smbclient, smbmap]
 actualizado: 2026-05-28
 ---
 
 # SMB — Cheatsheet de Ataques
-
-#SMB #AttackingSMB #PenTest #Cybersecurity #smbclient #smbmap #rpcclient #enum4linux #CrackMapExec #Impacket #NullSession #PassTheHash #NTLMRelayAttack #RedTeam #HackingTools
-
 ---
 
 ## Attacking SMB

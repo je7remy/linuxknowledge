@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [automatizacion, ejptv2, el-hacker-legendario, paramiko, pentesting, programacion, python, scp, seguridad, ssh, transferencia]
 actualizado: 2026-05-28
 ---
 
 # Descargar Archivos por SCP desde Python
 
 ---
-
-#paramiko #scp #ssh #python #seguridad #transferencia #automatización #programación
-
----
-
 ### **Paso 1: Importación de librerías**
 
 ```python
@@ -123,9 +118,6 @@ finally:
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]

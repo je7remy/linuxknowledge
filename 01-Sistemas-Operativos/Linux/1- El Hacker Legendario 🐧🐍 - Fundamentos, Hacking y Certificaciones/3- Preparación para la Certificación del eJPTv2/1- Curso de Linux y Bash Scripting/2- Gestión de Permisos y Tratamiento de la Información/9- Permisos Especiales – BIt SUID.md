@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [acceso-root, administracion-de-archivos, administracion-sistemas, auditoria-linux, bash, bit-suid, ciberseguridad, comandochmod, comandofind, ejptv2, el-hacker-legendario, linux, permisos-de-archivos, permisos-elevados, permisos-linux, privilegios-elevados, riesgos-de-seguridad, seguridad-linux, suid, unix-security, vulnerabilidades-linux]
 actualizado: 2026-05-28
 ---
 
 # Permisos Especiales – BIt SUID
-
----
-
-#BitSUID #PermisosLinux #SeguridadLinux #AdministraciónDeSistemas #ComandosLinux #UnixSecurity #Comandochmod #SUID #PermisosElevados #SeguridadInformática #AuditoríaLinux #Linux #AccesoRoot #VulnerabilidadesLinux #RiesgosDeSeguridad #PrivilegiosElevados #LinuxTips #Comandofind #PermisosDeArchivos #AdministraciónDeArchivos
 
 ---
 El **bit SUID (Set User ID)** es un permiso especial en sistemas Unix/Linux que permite que un archivo se ejecute con los privilegios del propietario del archivo en lugar de con los del usuario que lo ejecuta. Este mecanismo es especialmente útil para ejecutar programas que necesitan permisos elevados en tareas específicas, como cambiar contraseñas o realizar operaciones críticas en el sistema.

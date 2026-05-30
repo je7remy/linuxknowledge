@@ -1,11 +1,8 @@
 ---
 tipo: laboratorio
-tags: [windows, iso, descarga, microsoft, devtools]
+tags: [descarga, descargas, devtools, iso, microsoft, trucos, windows]
 actualizado: 2026-05-28
 ---
-
-#Windows #ISO #Trucos #Descargas #Microsoft
-
 ---
 # Descargar ISO de Windows 10 Pro desde la web de Microsoft
 

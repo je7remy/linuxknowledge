@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [borrado-seguro, papelera, forense, recuperacion-datos]
+tags: [borrado-seguro, forense, papelera, recuperacion-datos]
 actualizado: 2026-05-28
 ---
 

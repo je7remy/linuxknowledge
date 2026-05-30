@@ -1,6 +1,6 @@
 ---
 tipo: publicacion
-tags: [linkedin, cracking, john-the-ripper, zip2john, keepass2john, rar2john, rockyou]
+tags: [cracking, john-the-ripper, keepass2john, linkedin, rar2john, rockyou, zip2john]
 actualizado: 2026-05-28
 ---
 

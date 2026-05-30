@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -32,9 +32,6 @@ Mantener la seguridad de una organización es un esfuerzo en equipo con muchas p
 No necesitas ser un experto en todos los dominios, pero tener un conocimiento básico de cada uno te será de gran ayuda en tu carrera como profesional de la seguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

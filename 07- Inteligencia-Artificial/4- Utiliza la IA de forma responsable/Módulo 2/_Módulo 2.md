@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 4- Utiliza la IA de forma responsable / Módulo 2
+seccion: 07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/Módulo 2
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,9 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_4- Utiliza la IA de forma responsable|4- Utiliza la IA de forma responsable]]
+
+---
+## Relacionadas
+
+- [[_Módulo 1|Módulo 1]]
+- [[_Módulo 3|Módulo 3]]

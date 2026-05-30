@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion, bash, descargas, devops, ejptv2, el-hacker-legendario, linux, networking, terminal, wget]
 actualizado: 2026-05-28
 ---
 
 # Cómo Utilizar WGET
 
 ---
-
-#Linux #Wget #Descargas #Terminal #ComandosLinux #SysAdmin #Networking #Automatización #Bash #DevOps
-
----
-
 `wget` es un acrónimo de **"World Wide Web GET"**.
 
 Se refiere a su función principal: obtener (GET) archivos desde la web.

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, post, put, delete, test-conocimientos]
+tags: [delete, fastapi, post, put, test-conocimientos]
 actualizado: 2026-05-28
 ---
 

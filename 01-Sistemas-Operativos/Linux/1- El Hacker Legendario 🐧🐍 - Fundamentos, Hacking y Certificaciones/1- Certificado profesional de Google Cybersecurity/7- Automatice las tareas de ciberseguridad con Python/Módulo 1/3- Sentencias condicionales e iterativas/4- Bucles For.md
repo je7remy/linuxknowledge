@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -145,9 +145,6 @@ for i in range(3, 8):
 |**Ventaja**|Automatiza tareas repetitivas, evitando escribir código redundante.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_7- Automatice las tareas de ciberseguridad con Python|7- Automatice las tareas de ciberseguridad con Python]]

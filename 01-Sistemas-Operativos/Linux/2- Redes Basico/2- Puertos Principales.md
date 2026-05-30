@@ -1,15 +1,12 @@
 ---
 tipo: teoria
-tags: [nota]
+tags: [linux, nota, puertos, servicios]
 actualizado: 2026-05-28
 ---
 
 # Puertos Principales
 
 -------------
-
-#puertos #linux #servicios
-
 ------------------
 
 - Los principales puertos y sus servicios mas comunes son los siguientes.

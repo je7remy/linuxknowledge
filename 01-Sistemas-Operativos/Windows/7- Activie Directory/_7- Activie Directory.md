@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos/Windows/7- Active Directory
+seccion: 01-Sistemas-Operativos/Windows/7- Activie Directory
 actualizado: 2026-05-28
 ---
 

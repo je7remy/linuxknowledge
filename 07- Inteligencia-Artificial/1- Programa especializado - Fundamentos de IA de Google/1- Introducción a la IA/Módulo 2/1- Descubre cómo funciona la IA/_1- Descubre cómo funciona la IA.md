@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 1- Programa especializado - Fundamentos de IA de Google / 1- Introducción a la IA / Módulo 2 / 1- Descubre cómo funciona la IA
+seccion: 07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Módulo 2/1- Descubre cómo funciona la IA
 actualizado: 2026-05-28
 ---
 
@@ -15,3 +15,12 @@ actualizado: 2026-05-28
 - [[4- Comprende el potencial y las limitaciones de la IA]]
 - [[5- Explorar las capacidades de IA]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

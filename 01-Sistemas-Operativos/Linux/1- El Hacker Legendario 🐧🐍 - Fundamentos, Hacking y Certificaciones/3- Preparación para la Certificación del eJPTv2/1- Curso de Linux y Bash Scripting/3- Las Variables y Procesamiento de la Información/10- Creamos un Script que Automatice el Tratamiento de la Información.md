@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administrador-de-sistemas, automatizacion, awk, bash, comandos-bash, comandos-de-sistema, du, ejptv2, el-hacker-legendario, espacio-de-almacenamiento, espacio-en-disco, linux, programacion, script, shell, sistema, tareas-automatizadas, tareas-en-linux, terminal, variables]
 actualizado: 2026-05-28
 ---
 
 # Creamos un Script que Automatice el Tratamiento de la Información
-
----
-
-#Bash #Script #Linux #ComandosBash #Variables #Automatización #EspacioEnDisco #du #awk #shell #Programación #Terminal #Sistema #AdministradorDeSistemas #EspacioDeAlmacenamiento #TareasAutomatizadas #LinuxTips #ComandosDeSistema #TareasEnLinux
 
 ---
 El propósito del script es obtener el tamaño de un archivo o directorio y mostrarlo en un mensaje. A continuación, se describe cada paso:

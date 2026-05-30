@@ -1,7 +1,7 @@
 ---
-
-# 📝 Cuestionario: Criptografía y PKI
-
+tipo: teoria
+tags: [fundamentos-de-la-criptografia, recursos-amenazas-y-vulnerabilidades, sistemas-operativos]
+actualizado: 2026-05-30
 ---
 
 ### ❓ Pregunta 1
@@ -112,9 +112,6 @@ El **no repudio** significa que no se puede negar la autenticidad de la informac
 También garantiza que el remitente de los datos es realmente quien dice ser, reforzando la confianza en la comunicación.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

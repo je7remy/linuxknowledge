@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-productividad, modulo-3]
+tags: [ia, ia-productividad, modulo-3]
 actualizado: 2026-05-28
 ---
 

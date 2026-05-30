@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [resumen, modulo-1, conclusiones, hacking-etico, metodologias, laboratorio]
+tags: [conclusiones, hacking-etico, laboratorio, metodologias, modulo-1, resumen]
 actualizado: 2026-05-28
 ---
 

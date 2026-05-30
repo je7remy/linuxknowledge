@@ -1,6 +1,6 @@
 ---
 tipo: tesis
-tags: [tesis, tecnologias, fastapi, python, stack-tecnologico]
+tags: [fastapi, python, stack-tecnologico, tecnologias, tesis]
 actualizado: 2026-05-28
 ---
 
@@ -105,9 +105,6 @@ Nuevas Tecnologías
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]

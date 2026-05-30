@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion-de-archivos, automatizacion-de-tareas, bash, comando-hostname, comandos-bash, compresion-de-archivos, direccion-ip, ejptv2, el-hacker-legendario, extensiones-de-archivos, linux, manejo-de-archivos-en-linux, programacion-linux, python-httpserver, red-local, scripting-de-archivos, scripting-linux, scripts-de-automatizacion, scripts-de-bash, servidor-http, trabajo-con-archivos, trabajo-con-directorios, zipping-files]
 actualizado: 2026-05-28
 ---
 
 # Bucle FOR – Parte 2
-
----
-
-#Bash #ShellScripting #ComandosLinux #AutomatizacionDeTareas #ScriptsDeBash #AdministracionDeSistemas #ComandosBash #TrabajoConArchivos #TrabajoConDirectorios #ExtensionesDeArchivos #CompresionDeArchivos #ZippingFiles #ServidorHTTP #PythonHTTPServer #RedLocal #DireccionIP #ComandoHostname #ScriptingLinux #AutomatizacionDeArchivos #ManejoDeArchivosEnLinux #ProgramacionLinux #ScriptsDeAutomatizacion #ScriptingDeArchivos
 
 ---
 ### **Comando inicial**:

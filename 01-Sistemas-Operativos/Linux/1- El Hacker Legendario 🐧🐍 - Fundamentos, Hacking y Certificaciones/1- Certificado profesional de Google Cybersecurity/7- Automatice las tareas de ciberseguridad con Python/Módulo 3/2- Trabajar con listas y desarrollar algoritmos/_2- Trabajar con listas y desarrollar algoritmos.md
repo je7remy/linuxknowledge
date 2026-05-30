@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 7- Automatice las tareas de ciberseguridad con Python / Módulo 3 / 2- Trabajar con listas y desarrollar algoritmos
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/2- Trabajar con listas y desarrollar algoritmos
 actualizado: 2026-05-28
 ---
 
@@ -15,3 +15,13 @@ actualizado: 2026-05-28
 - [[4- Actividad - Desarrollar un algoritmo]]
 - [[5- Ponga a prueba sus Conocimientos - Trabaje con listas y desarrolle algoritmos]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[_1- Trabajar con cuerdas|Trabajar con cuerdas]]
+- [[_3- Expresiones regulares|Expresiones regulares]]
+- [[_4- Repasar Trabajar con cadenas y listas|Repasar Trabajar con cadenas y listas]]

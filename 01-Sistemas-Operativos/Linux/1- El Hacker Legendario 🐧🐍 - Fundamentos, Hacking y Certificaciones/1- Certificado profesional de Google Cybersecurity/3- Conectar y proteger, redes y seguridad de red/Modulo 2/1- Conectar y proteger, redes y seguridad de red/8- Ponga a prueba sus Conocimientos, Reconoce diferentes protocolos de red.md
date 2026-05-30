@@ -1,13 +1,10 @@
 ---
-
-### **1. Pregunta 1**
-
-**Rellene el espacio en blanco:**  
-Los protocolos de red son reglas utilizadas por dos o más dispositivos de una red para describir la **_____** y la estructura de los datos.
-
-✅ **Respuesta correcta:** `orden de entrega`
-
+tipo: teoria
+tags: [sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Ponga a prueba sus Conocimientos, Reconoce diferentes protocolos de red
 
 ### **2. Pregunta 2**
 
@@ -32,9 +29,6 @@ Los protocolos de red son reglas utilizadas por dos o más dispositivos de una r
 ✅ **Respuesta correcta:** `Verdadero`
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

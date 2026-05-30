@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 1- Fundamentos de la ciberseguridad / Modulo 4
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/1- Fundamentos de la ciberseguridad/Modulo 4
 actualizado: 2026-05-28
 ---
 
@@ -19,3 +19,10 @@ actualizado: 2026-05-28
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]
+
+---
+## Relacionadas
+
+- [[_Modulo 1|Modulo 1]]
+- [[_Modulo 2|Modulo 2]]
+- [[_Modulo 3|Modulo 3]]

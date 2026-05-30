@@ -1,14 +1,10 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [analisis-de-red, arpscan, automatizacion-redes, bash, deteccion-de-hosts, ejptv2, el-hacker-legendario, escaneo-de-hosts, escaneo-de-red, herramientas-de-red, linux, ping, redes, redes-ip, redes-locales, redes-yseguridad, scripting-bash, seguridad-en-red]
 actualizado: 2026-05-28
 ---
 
 # Análisis de la Red con Bash – PARTE 3
-
----
-
-#Redes #ARPScan #Ping #EscaneoDeRed #AnálisisDeRed #ScriptingBash #Linux #ComandosLinux #SeguridadEnRed #RedesLocales #HerramientasDeRed #BashScripting #RedesIP #DetecciónDeHosts #AutomatizaciónRedes #EscaneoDeHosts #RedesYSeguridad
 
 ---
 ### Mención del comando `arp-scan`

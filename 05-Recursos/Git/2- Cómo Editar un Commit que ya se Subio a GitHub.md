@@ -1,11 +1,8 @@
 ---
 tipo: laboratorio
-tags: [git, commit-amend, rebase-interactivo, push-force, vim, version-control]
+tags: [amend, commit-amend, editar-commit, git, git-commit, git-force, git-historial, git-push, git-rebase, push-force, rebase, rebase-interactivo, version-control, vim]
 actualizado: 2026-05-28
 ---
-
-#Git #GitCommit #EditarCommit #Rebase #Amend #GitRebase #GitPush #GitForce #GitHistorial #VersionControl
-
 ---
 # ✨ **Cómo Editar un Commit ya ha Subido a GitHub** ✨
 

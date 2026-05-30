@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [nmap, reconocimiento, pentesting, hackthebox]
+tags: [blue-team, ciberseguridad, exif-tool, exploits, forensics, ftp, gobuster, hacking, hackthebox, linux-tools, metadata, metasploit, network-security, nmap, osint, pentesting, port-scanning, privilege-escalation, reconnaissance, reconocimiento, red-team, reverse-shell, smb, snmp, ssh, tmux, vim]
 actualizado: 2026-05-28
 ---
 
 # Nmap — Comandos (HackTheBox)
-
-#Pentesting #Hacking #CyberSecurity #RedTeam #BlueTeam #Nmap #PortScanning #NetworkSecurity #Reconnaissance #Metasploit #Exploits #PrivilegeEscalation #ReverseShell #LinuxTools #Tmux #Vim #SSH #FTP #Gobuster #SNMP #SMB #OSINT #ExifTool #Metadata #Forensics
-
 ---
 
 |scanning options|descripcion|

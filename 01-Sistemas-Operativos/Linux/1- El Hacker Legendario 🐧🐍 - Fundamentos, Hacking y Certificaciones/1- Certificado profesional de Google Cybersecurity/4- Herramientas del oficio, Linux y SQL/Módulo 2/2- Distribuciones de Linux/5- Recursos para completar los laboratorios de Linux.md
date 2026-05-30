@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, laboratorio, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, laboratorio, modulo-2]
 actualizado: 2026-05-28
 ---
 

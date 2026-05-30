@@ -1,6 +1,6 @@
 ---
 tipo: publicacion
-tags: [linkedin, bash, usuarios-linux, adduser, usermod, deluser, sudoers, script]
+tags: [adduser, bash, deluser, linkedin, script, sudoers, usermod, usuarios-linux]
 actualizado: 2026-05-28
 ---
 

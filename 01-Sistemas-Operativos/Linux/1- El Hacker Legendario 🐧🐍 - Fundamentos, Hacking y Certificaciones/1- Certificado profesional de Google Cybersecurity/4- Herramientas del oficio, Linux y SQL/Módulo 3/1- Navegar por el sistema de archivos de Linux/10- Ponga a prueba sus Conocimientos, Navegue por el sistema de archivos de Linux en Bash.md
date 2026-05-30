@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -16,9 +16,6 @@ actualizado: 2026-05-28
 | 5   | ¿Diferencia entre rutas?                       | Ruta absoluta comienza desde la raíz `/`; ruta relativa desde el directorio actual | Ruta absoluta: `/home/user/docs`; relativa: `docs/` si estás en `/home/user` |
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

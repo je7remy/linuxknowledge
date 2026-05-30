@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [etica, profesionalismo, integridad, insiders, confidencialidad]
+tags: [confidencialidad, etica, insiders, integridad, profesionalismo]
 actualizado: 2026-05-28
 ---
 

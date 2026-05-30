@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-5]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-5]
 actualizado: 2026-05-28
 ---
 

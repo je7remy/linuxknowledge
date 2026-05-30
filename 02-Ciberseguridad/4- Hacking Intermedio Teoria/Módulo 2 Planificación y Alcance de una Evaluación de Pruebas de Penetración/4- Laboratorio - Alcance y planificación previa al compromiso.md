@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [pre-engagement, alcance, reglas-compromiso, requisitos-cliente]
+tags: [alcance, pre-engagement, reglas-compromiso, requisitos-cliente]
 actualizado: 2026-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 1 / 2- Gestión y Protección de los Recursos Digitales
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 1/2- Gestión y Protección de los Recursos Digitales
 actualizado: 2026-05-28
 ---
 
@@ -22,3 +22,11 @@ actualizado: 2026-05-28
 - [[8- Ponga a prueba sus Conocimientos - Riesgo y Seguridad de los recursos]]
 - [[9- Actividad - Puntuar los riesgos en función de su probabilidad y gravedad]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[_1- Fundamentos de la Seguridad de los Recursos|Fundamentos de la Seguridad de los Recursos]]

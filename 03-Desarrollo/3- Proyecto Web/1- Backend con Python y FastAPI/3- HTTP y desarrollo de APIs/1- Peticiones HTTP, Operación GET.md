@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, http, get, verbos-http]
+tags: [fastapi, get, http, verbos-http]
 actualizado: 2026-05-28
 ---
 
@@ -113,9 +113,6 @@ La URL es la misma, pero la **intención** (el método) cambia.
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

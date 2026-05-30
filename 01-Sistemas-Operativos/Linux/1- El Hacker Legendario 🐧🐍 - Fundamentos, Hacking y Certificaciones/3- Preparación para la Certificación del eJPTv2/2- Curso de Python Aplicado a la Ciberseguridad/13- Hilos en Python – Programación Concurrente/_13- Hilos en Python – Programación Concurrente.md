@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / Python / 13- Hilos / Concurrencia
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/13- Hilos en Python – Programación Concurrente
 actualizado: 2026-05-28
 ---
 

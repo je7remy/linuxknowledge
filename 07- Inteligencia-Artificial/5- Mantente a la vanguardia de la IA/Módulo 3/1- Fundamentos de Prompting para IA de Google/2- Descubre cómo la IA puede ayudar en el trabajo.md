@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-vanguardia, modulo-3]
+tags: [ia, ia-vanguardia, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -132,9 +132,6 @@ Timothy anima a **experimentar y jugar** con la IA mientras se aprende:
 El objetivo del curso es que aprendas a **usar el prompting para mejorar tu trabajo**, ahorrar tiempo y potenciar tu creatividad mediante la IA generativa.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]

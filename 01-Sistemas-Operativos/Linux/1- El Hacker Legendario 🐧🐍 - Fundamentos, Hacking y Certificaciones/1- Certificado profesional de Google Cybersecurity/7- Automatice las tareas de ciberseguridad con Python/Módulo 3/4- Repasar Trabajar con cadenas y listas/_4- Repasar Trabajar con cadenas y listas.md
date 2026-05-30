@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 7- Automatice las tareas de ciberseguridad con Python / Módulo 3 / 4- Repasar Trabajar con cadenas y listas
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 3/4- Repasar Trabajar con cadenas y listas
 actualizado: 2026-05-28
 ---
 
@@ -14,3 +14,13 @@ actualizado: 2026-05-28
 - [[3- Términos del glosario del Módulo 3]]
 - [[4- Desafío del módulo 3]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[_1- Trabajar con cuerdas|Trabajar con cuerdas]]
+- [[_2- Trabajar con listas y desarrollar algoritmos|Trabajar con listas y desarrollar algoritmos]]
+- [[_3- Expresiones regulares|Expresiones regulares]]

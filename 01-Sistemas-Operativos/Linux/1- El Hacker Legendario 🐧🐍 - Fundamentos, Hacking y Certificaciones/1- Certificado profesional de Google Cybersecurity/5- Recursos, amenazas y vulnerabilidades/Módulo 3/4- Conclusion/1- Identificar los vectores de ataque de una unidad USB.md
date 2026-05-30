@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -83,9 +83,6 @@ En la fila Análisis de riesgos de la plantilla de actividades, escriba 3 ó 4 f
 |**Análisis de riesgos** _Escribe de 3 a 4 frases (60–80 palabras) que describan los controles técnicos, operativos o de gestión que podrían mitigar los ataques de cebo USB._|Este tipo de dispositivo podría contener malware como ransomware, troyanos o variantes de BadUSB capaces de comprometer un sistema en segundos. Si otro empleado lo conectara, podría exponer la red o robar información sensible. Los controles de gestión incluyen políticas claras de uso de dispositivos extraíbles y programas de concienciación. Los controles operativos implican escaneos rutinarios y procedimientos seguros en entornos virtuales. Los controles técnicos abarcan desactivar AutoPlay y aplicar soluciones de control de dispositivos para bloquear USB no autorizados.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

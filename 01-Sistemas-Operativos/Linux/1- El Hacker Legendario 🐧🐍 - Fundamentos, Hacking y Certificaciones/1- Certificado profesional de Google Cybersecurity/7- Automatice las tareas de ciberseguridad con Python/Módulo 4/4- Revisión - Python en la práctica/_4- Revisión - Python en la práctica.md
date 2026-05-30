@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 7- Automatice las tareas de ciberseguridad con Python / Módulo 4 / 4- Revisión - Python en la práctica
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 4/4- Revisión - Python en la práctica
 actualizado: 2026-05-28
 ---
 
@@ -14,3 +14,14 @@ actualizado: 2026-05-28
 - [[3- Términos del glosario del Módulo 4]]
 - [[4- Desafío del módulo 4]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[_1- Automatizar tareas de seguridad cibernética con Python|Automatizar tareas de seguridad cibernética con Python]]
+- [[_2- Trabajar con archivos en Python|Trabajar con archivos en Python]]
+- [[_3- Depuración de código Python|Depuración de código Python]]
+- [[_5- ¡Enhorabuena por haber completado el Curso 7!|¡Enhorabuena por haber completado el Curso 7!]]

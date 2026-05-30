@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, command-line, directory-search, ejptv2, el-hacker-legendario, file-management, file-search, find-command, linux]
 actualizado: 2026-05-28
 ---
 
 # Comando find y redirección de errores
-
----
-
-#Linux #FileSearch #FindCommand #DirectorySearch #FileManagement #SysAdmin #CommandLine
 
 ---
 ### Explicación paso a paso de los comandos `find`

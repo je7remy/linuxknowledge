@@ -1,14 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, hacking-etico, meterpreter, osmodule, pentesting, python, python-hacking]
 actualizado: 2026-05-28
 ---
 
 # Uso Básico del Módulo OS
 
 ---
-
-#PythonHacking #OSModule #Meterpreter #EthicalHacking  
 #CyberSecurity #ReverseShell #PayloadDevelopment  
 #LivingOffTheLand #RedTeam #PostExploitation  
 #WindowsSecurity #Pentesting #CommandInjection  

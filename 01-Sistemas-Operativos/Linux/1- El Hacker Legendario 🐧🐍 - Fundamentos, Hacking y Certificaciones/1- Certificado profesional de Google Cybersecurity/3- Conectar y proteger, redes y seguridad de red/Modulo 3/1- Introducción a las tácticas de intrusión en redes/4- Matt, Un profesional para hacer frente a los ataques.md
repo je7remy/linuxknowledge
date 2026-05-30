@@ -1,14 +1,10 @@
 ---
-
-## 👨‍🚒 Matt: Especialista en Caos en Google
-
-> “Nos permiten elegir nuestros propios títulos de trabajo para describir mejor lo que hacemos.”
-
-### 🔧 ¿En qué consiste su trabajo?
-
-Matt se dedica a **anticipar y resolver problemas críticos** que podrían surgir en la infraestructura de Google. Cuando algo falla, forma un equipo y actúa rápidamente para solucionarlo. Su enfoque es similar al de un socorrista: estar presente en los peores momentos de una organización.
-
+tipo: teoria
+tags: [sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Matt, Un profesional para hacer frente a los ataques
 
 ## 🚨 De socorrista a ingeniero en Google
 
@@ -78,9 +74,6 @@ Matt anima a personas **curiosas, apasionadas y comprometidas** con mejorar la s
 > “Queremos a personas que hagan preguntas, construyan mejor y se preocupen por la seguridad de los demás.”
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

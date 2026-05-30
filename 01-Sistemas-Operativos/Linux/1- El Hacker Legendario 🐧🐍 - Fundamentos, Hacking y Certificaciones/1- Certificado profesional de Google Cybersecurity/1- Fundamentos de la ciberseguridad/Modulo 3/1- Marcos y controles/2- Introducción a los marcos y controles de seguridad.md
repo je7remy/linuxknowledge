@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -51,9 +51,6 @@ Los marcos y controles de seguridad son vitales para gestionar la seguridad en c
 En los siguientes videos, se hablará sobre algunos marcos y principios ampliamente conocidos que los analistas deben conocer para minimizar riesgos y proteger datos y usuarios.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

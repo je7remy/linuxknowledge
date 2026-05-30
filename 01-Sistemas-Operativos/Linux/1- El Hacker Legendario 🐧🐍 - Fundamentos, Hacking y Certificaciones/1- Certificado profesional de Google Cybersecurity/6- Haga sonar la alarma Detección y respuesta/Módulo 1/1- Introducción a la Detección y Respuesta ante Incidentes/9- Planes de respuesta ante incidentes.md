@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -90,9 +90,6 @@ Los planes de seguridad se basan en tres elementos:
 El Plan de Respuesta ante Incidentes es un **documento vivo**, adaptado a cada organización, que guía paso a paso la actuación frente a incidentes. Su efectividad depende de **documentación clara, pruebas regulares y coordinación interfuncional**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

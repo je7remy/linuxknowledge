@@ -1,16 +1,10 @@
 ---
-
-## 📝 Actividad de Portafolio: Actualizar un Archivo Mediante un Algoritmo Python
-
-### **Resumen de la Actividad**
-
-En esta actividad, crearás un nuevo documento de portafolio para demostrar tu experiencia usando Python para desarrollar algoritmos que involucran abrir archivos y analizar su contenido. Puedes agregar este documento a tu portafolio de ciberseguridad, el cual puedes compartir con posibles empleadores o reclutadores. Para revisar la importancia de crear un portafolio profesional y las opciones para crear tu portafolio, lee _Crear un portafolio de ciberseguridad_.
-
-Para crear tu documento de portafolio, revisarás un escenario y seguirás una serie de pasos. Este escenario está relacionado con el laboratorio **Crea otro algoritmo** que acabas de completar. Explicarás el código que desarrollaste en ese laboratorio, y esto te ayudará a prepararte para futuras entrevistas de trabajo y otros pasos del proceso de contratación.
-
-**Asegúrese de completar esta actividad antes de continuar.** El siguiente punto del curso le proporcionará un ejemplo completado para comparar con su propio trabajo.
-
+tipo: teoria
+tags: [sistemas-operativos, trabajar-con-archivos-en-python]
+actualizado: 2026-05-30
 ---
+
+# Actividad de Portfolio - Actualizar un archivo mediante un algoritmo Python
 
 ### **🏥 Escenario**
 

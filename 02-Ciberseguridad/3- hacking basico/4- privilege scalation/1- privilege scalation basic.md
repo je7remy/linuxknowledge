@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [privilege-escalation, linux, windows, linpeas, sudo, suid, kernel-exploit, cron, ssh-keys]
+tags: [cron, kernel-exploit, linpeas, linux, privilege-escalation, ssh-keys, sudo, suid, windows]
 actualizado: 2026-05-28
 ---
 

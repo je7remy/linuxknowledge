@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -33,9 +33,6 @@ Como futuro profesional del área, adaptarte y mantenerte actualizado sobre tác
 Por último, entender cómo la seguridad afecta la vida de las personas es un recordatorio poderoso del impacto y la importancia de tu rol.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

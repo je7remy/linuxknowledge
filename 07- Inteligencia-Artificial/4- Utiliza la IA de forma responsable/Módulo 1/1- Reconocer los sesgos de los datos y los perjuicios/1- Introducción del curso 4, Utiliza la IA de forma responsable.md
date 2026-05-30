@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-responsable, modulo-1]
+tags: [ia, ia-responsable, modulo-1]
 actualizado: 2026-05-28
 ---
 

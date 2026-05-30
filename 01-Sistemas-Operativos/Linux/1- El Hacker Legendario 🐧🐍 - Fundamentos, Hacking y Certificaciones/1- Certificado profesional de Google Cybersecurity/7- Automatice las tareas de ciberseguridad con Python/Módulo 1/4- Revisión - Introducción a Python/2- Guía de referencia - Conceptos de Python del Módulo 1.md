@@ -1,10 +1,10 @@
 ---
-
-### 🧠 Guía de Referencia: Conceptos de Python (Módulo 1)
-
-Esta guía resume la sintaxis y los conceptos clave del Módulo 1 del Certificado de Ciberseguridad de Google.
-
+tipo: teoria
+tags: [revision-introduccion-a-python, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Guía de referencia - Conceptos de Python del Módulo 1
 
 ### 📘 Comentarios
 

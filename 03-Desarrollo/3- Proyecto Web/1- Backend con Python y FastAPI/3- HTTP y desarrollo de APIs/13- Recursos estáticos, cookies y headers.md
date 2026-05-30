@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, recursos-estaticos, cookies, headers, http-avanzado]
+tags: [cookies, fastapi, headers, http-avanzado, recursos-estaticos]
 actualizado: 2026-05-28
 ---
 

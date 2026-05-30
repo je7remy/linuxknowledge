@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 2
+seccion: 02-Ciberseguridad/4- Hacking Intermedio Teoria/Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración
 actualizado: 2026-05-28
 ---
 
@@ -32,4 +32,4 @@ laboratorios prácticos.
 - [[_Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración|Módulo 1]] — fundamentos previos.
 - [[_Módulo 3 Recopilación de información y análisis de vulnerabilidades|Módulo 3]] — siguiente fase (reconocimiento).
 - [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/4- Beneficios de las pruebas de penetración|HackTheBox → Beneficios]] — caso de negocio del pentest.
-- [[../../0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD/Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD|02 → Entrevista Técnica]] — perfil profesional del pentester ético.
+- [[_0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD|02 → Entrevista Técnica]] — perfil profesional del pentester ético.

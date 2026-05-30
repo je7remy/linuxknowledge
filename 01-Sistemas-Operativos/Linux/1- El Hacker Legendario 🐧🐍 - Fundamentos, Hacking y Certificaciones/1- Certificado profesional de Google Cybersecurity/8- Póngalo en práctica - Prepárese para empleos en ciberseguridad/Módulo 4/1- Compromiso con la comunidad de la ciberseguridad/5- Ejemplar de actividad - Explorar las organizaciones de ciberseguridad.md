@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -52,9 +52,6 @@ actualizado: 2026-05-28
 > **Mejor elección para mis intereses profesionales:** Investigaré cómo unirme a la **CSA** para ayudarme a mantenerme conectado con la comunidad de seguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_8- Póngalo en práctica - Prepárese para empleos en ciberseguridad|8- Póngalo en práctica - Prepárese para empleos en ciberseguridad]]

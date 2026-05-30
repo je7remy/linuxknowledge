@@ -1,0 +1,239 @@
+/* ============================================================
+   dashboard.css — Pantalla de inicio tipo "Notion premium"
+   Aplicar al archivo Home.md vía cssclasses: dashboard-home
+   ============================================================ */
+
+/* === Background image del dashboard === */
+/* Reemplaza 'assets/wallpaper.jpg' por tu ruta real */
+.markdown-source-view.is-readable-line-width.dashboard-home,
+.markdown-preview-view.dashboard-home {
+  background-image: url('app://local/C:/linuxknowledge/assets/wallpaper.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: relative;
+  min-height: 100vh;
+}
+
+/* Capa oscura encima del fondo para legibilidad del texto */
+.markdown-preview-view.dashboard-home::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0,0,0,0.55) 0%,
+    rgba(0,0,0,0.35) 50%,
+    rgba(0,0,0,0.65) 100%
+  );
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Asegurar que el contenido esté encima del overlay */
+.markdown-preview-view.dashboard-home > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* === Tipografía del dashboard === */
+.dashboard-home h1 {
+  color: #fff;
+  font-size: 2.2rem;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.7);
+  border: none;
+  margin-top: 2rem;
+}
+
+.dashboard-home h2 {
+  color: #e8e8e8;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: none;
+  margin-top: 1.5rem;
+}
+
+.dashboard-home p,
+.dashboard-home li {
+  color: #e0e0e0;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+}
+
+.dashboard-home a.internal-link {
+  color: #7fd1ff;
+  text-decoration: none;
+}
+.dashboard-home a.internal-link:hover {
+  color: #b8e3ff;
+  text-decoration: underline;
+}
+
+/* === Frase motivacional === */
+.dashboard-quote {
+  margin: 1rem 0 2rem 0;
+  padding: 1rem 1.5rem;
+  background: rgba(255,255,255,0.06);
+  border-left: 3px solid #7fd1ff;
+  border-radius: 4px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  max-width: 640px;
+}
+.dashboard-quote blockquote {
+  margin: 0;
+  border: none;
+  color: #f0f0f0;
+  font-style: italic;
+  font-size: 1.05rem;
+}
+
+/* === Atajos rápidos: bullets compactos === */
+.dashboard-shortcuts ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.6rem;
+  max-width: 720px;
+}
+.dashboard-shortcuts li {
+  background: rgba(255,255,255,0.08);
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.12);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: all 0.2s ease;
+}
+.dashboard-shortcuts li:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* ============================================================
+   CALENDARIO compacto — esquina superior derecha
+   ============================================================ */
+.dashboard-calendar {
+  position: fixed;
+  top: 50px;
+  right: 30px;
+  z-index: 100;
+  pointer-events: auto;
+}
+
+.cal-widget {
+  background: rgba(20, 25, 35, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 14px;
+  padding: 1rem 1.3rem;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  min-width: 130px;
+  font-family: -apple-system, "Segoe UI", sans-serif;
+}
+.cal-dayname {
+  color: #7fd1ff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  margin-bottom: 0.2rem;
+}
+.cal-daynum {
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0.3rem 0;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+}
+.cal-monthyear {
+  color: #d0d0d0;
+  font-size: 0.85rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  margin-top: 0.3rem;
+}
+
+/* ============================================================
+   HEATMAP — esquina inferior derecha
+   ============================================================ */
+.dashboard-heatmap {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 100;
+  background: rgba(20, 25, 35, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  max-width: 720px;
+  font-family: -apple-system, "Segoe UI", sans-serif;
+}
+
+/* Compactar el render del heatmap-tracker dentro del widget */
+.dashboard-heatmap .heatmap-tracker {
+  font-size: 0.7rem;
+  transform: scale(0.85);
+  transform-origin: bottom right;
+}
+
+/* Etiquetas del heatmap (meses, días) más sutiles */
+.dashboard-heatmap .heatmap-tracker-month-labels,
+.dashboard-heatmap .heatmap-tracker-weekday-labels {
+  color: #999;
+}
+
+/* === Footer con estadísticas === */
+.dashboard-footer {
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  z-index: 100;
+  background: rgba(20, 25, 35, 0.75);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: #b0b0b0;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+/* ============================================================
+   Responsive — móvil oculta heatmap y reduce calendario
+   ============================================================ */
+@media (max-width: 768px) {
+  .dashboard-calendar {
+    top: 20px;
+    right: 15px;
+    transform: scale(0.75);
+    transform-origin: top right;
+  }
+  .dashboard-heatmap {
+    display: none; /* heatmap no cabe en móvil */
+  }
+  .dashboard-footer {
+    display: none;
+  }
+}
+
+/* ============================================================
+   Ocultar UI ruido en el dashboard (opcional)
+   ============================================================ */
+.dashboard-home .frontmatter-container,
+.dashboard-home .metadata-container,
+.dashboard-home .markdown-embed-link {
+  display: none;
+}
+
+/* Ocultar título redundante (el H1 del archivo) si te molesta */
+/* .dashboard-home .inline-title { display: none; } */

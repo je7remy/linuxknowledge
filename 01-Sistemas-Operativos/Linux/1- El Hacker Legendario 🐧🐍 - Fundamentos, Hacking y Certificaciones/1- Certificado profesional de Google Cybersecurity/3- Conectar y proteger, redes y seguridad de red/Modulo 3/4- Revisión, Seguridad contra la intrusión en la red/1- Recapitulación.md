@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -72,9 +72,6 @@ actualizado: 2026-05-28
 En la siguiente sección, aprenderás sobre **técnicas de endurecimiento de seguridad**, fundamentales para **fortalecer los sistemas y redes** contra amenazas.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

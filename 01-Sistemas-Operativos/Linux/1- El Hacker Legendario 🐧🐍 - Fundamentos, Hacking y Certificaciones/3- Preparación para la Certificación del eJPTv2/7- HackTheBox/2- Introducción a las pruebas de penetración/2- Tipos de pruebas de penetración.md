@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [pentesting, black-box, white-box, grey-box, hacking-etico, ingenieria-social]
+tags: [black-box, ciberseguridad, grey-box, hacking-etico, ingenieria-social, pentesting, seguridad-financiera, seguridad-fisica, vulnerabilidades, white-box]
 actualizado: 2026-05-28
 ---
 
 # Tipos de Pruebas de Penetración
-
-#Ciberseguridad #Pentesting #BlackBox #WhiteBox #GreyBox #HackingÉtico #Vulnerabilidades #SeguridadFinanciera #IngenieríaSocial #SeguridadFísica
-
 ---
 # **📊 Tipos de Pruebas de Penetración**  
 **Clasificación según el conocimiento del evaluador**  

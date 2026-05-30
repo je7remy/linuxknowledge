@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [autenticacion-ftp, cierre-de-conexion, conexion-ftp, ejptv2, el-hacker-legendario, ftp, ftplib, manejo-de-excepciones, pentesting, python, subir-archivo]
 actualizado: 2026-05-28
 ---
 
 # Conexión y Subida de Archivos a Servidor FTP
 
 ---
-
-#FTP #Python #ftplib #ConexiónFTP #SubirArchivo #AutenticaciónFTP #ManejoDeExcepciones #CierreDeConexión
-
----
-
 ### **Primera Sección: Verificación de Conexión Básica**
 
 ```python
@@ -159,9 +154,6 @@ finally:
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_7- Gestión Automática de Servidores con Python|7- Gestión Automática de Servidores con Python]]

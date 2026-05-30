@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [android, amazon-fire, google-play, fire-tablet]
+tags: [amazon-fire, android, fire-tablet, google-play]
 actualizado: 2026-05-28
 ---
 

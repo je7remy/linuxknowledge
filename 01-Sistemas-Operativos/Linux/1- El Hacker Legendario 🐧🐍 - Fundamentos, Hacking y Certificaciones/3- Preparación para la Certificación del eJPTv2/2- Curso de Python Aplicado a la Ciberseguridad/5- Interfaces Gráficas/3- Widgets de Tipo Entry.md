@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [button, ejptv2, el-hacker-legendario, entry, gui, interfaz-grafica, label, pentesting, python, tkinter]
 actualizado: 2026-05-28
 ---
 
 # Widgets de Tipo Entry
 
 ---
-
-#Python #Tkinter #InterfazGrafica #GUI #Entry #Label #Button
-
----
-
 ### Paso a paso del código en Tkinter
 
 1. **Importación de Tkinter**  
@@ -94,9 +89,6 @@ ventana.mainloop()
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]

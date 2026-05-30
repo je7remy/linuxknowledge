@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 3- Conectar y proteger, redes y seguridad de red / Modulo 2 / 1- Conectar y proteger, redes y seguridad de red
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 2/1- Conectar y proteger, redes y seguridad de red
 actualizado: 2026-05-28
 ---
 
@@ -18,3 +18,12 @@ actualizado: 2026-05-28
 - [[7- La evolución de los protocolos de seguridad inalámbricos]]
 - [[8- Ponga a prueba sus Conocimientos, Reconoce diferentes protocolos de red]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 2|Modulo 2]]
+
+## Relacionadas
+
+- [[_2- Identificación del sistema|Identificación del sistema]]
+- [[_3- Revisión, Operaciones de red|Revisión, Operaciones de red]]

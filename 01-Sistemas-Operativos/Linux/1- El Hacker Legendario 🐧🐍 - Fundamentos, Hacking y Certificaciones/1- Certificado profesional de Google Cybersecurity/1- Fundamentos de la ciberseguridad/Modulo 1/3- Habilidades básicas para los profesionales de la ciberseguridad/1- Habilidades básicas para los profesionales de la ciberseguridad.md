@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -52,9 +52,6 @@ Personalmente, dedico tiempo de forma regular a aprender más habilidades de Pyt
 A medida que continúes este viaje, desarrollarás el conocimiento y las habilidades que necesitas para ingresar al campo de la seguridad.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

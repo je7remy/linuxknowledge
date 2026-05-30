@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-de-archivos, administracion-sistemas, bash, chmod, ciberseguridad, comandos-bash, ejptv2, el-hacker-legendario, gestion-de-permisos, linux, linux-commands, linux-security, linux-sys-admin, permisos-de-archivos, permisos-de-carpetas, permisos-linux, seguridad-linux, sistemas-unix, terminal-linux]
 actualizado: 2026-05-28
 ---
 
 # Gestión Básica, Detallada y con números de Permisos – Comando chmod
-
----
-
-#Linux #chmod #PermisosLinux #ComandosLinux #SeguridadLinux #AdministraciónDeSistemas #LinuxTips #SistemasUnix #AdministraciónDeArchivos #SeguridadInformática #ComandosBash #LinuxCommands #TerminalLinux #LinuxSysAdmin #PermisosDeArchivos #PermisosDeCarpetas #LinuxSecurity #GestiónDePermisos
 
 ---
 `chmod` es un comando en sistemas Unix/Linux que sirve para cambiar los **permisos** de archivos o carpetas. Define quién puede **leer (r)**, **escribir (w)** o **ejecutar (x)**.

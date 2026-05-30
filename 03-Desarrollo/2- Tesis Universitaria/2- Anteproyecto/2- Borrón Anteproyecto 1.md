@@ -1,13 +1,7 @@
 ---
-
-# Sistema Web de Gestión de Citas para el Hospital Traumatológico y Quirúrgico Prof. Juan Bosch, El Pino, La Vega, República Dominicana, Período 2025
-
-## Introducción
-
-El **Hospital Traumatológico y Quirúrgico Prof. Juan Bosch**, ubicado en El Pino, La Vega, República Dominicana, es un centro clave para la atención de servicios de salud especializados, particularmente en traumatología y cirugía. Este hospital atiende a un volumen significativo de pacientes, lo que hace imprescindible optimizar sus procesos internos para garantizar una atención médica eficiente y de calidad.
-
-Actualmente, la gestión de citas médicas se realiza mediante métodos manuales, como registros en papel, llamadas telefónicas y coordinación verbal. Este enfoque genera ineficiencias operativas, tales como demoras prolongadas para los pacientes, errores en la asignación de turnos, duplicación de esfuerzos y problemas de comunicación entre el personal administrativo y médico. Para abordar estas dificultades, se propone el desarrollo de un **Sistema Web de Gestión de Citas**, una herramienta tecnológica diseñada para optimizar la programación médica. Este sistema será utilizado exclusivamente por personal autorizado (secretarias y médicos) a través de la intranet del hospital, ofreciendo una plataforma centralizada y segura para gestionar citas, mejorar la organización de las agendas y optimizar el flujo de atención a los pacientes.
-
+tipo: teoria
+tags: [anteproyecto, desarrollo, tesis-universitaria]
+actualizado: 2026-05-30
 ---
 
 ## Planteamiento del Problema
@@ -186,9 +180,6 @@ Secretarias y médicos del hospital.
 9. **Anexos**
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Tesis Universitaria|2- Tesis Universitaria]]

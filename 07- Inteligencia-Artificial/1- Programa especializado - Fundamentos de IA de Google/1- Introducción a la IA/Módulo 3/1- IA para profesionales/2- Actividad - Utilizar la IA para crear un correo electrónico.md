@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, modulo-3]
+tags: [ia, modulo-3]
 actualizado: 2026-05-28
 ---
 

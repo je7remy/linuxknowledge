@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: eJPTv2 / Python / 10- Estética
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/10- Personalización y Estética a Nuestro Código
 actualizado: 2026-05-28
 ---
 

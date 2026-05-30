@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [archivos-textuales, automatizacion-en-linux, bash, comando-tr, comando-tr-en-linux, ejptv2, el-hacker-legendario, linux, linux-scripting, linux-tools, procesamiento-de-archivos, procesamiento-de-datos, scripting-bash, tr, traduccion-de-caracteres, transformacion-de-texto, unix-commands]
 actualizado: 2026-05-28
 ---
 
 # Procesador de Información – TR
 
 ---
-
-#ComandoTr #UnixCommands #LinuxScripting #AutomatizaciónEnLinux #TraducciónDeCaracteres #ShellScripting #ProcesamientoDeArchivos #ArchivosTextuales #TransformaciónDeTexto #LinuxTools #Tr #ComandoTrEnLinux #ScriptingBash #ProcesamientoDeDatos #UnixCommands
-
----
-
 Comandos `tr` 
 
 ---

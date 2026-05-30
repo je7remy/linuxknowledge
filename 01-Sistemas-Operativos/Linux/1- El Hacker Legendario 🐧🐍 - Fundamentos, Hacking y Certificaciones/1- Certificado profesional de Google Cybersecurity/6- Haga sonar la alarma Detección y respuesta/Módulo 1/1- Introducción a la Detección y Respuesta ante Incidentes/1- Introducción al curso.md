@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-1]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-1]
 actualizado: 2026-05-28
 ---
 
@@ -78,9 +78,6 @@ En este curso se aprenderá sobre:
 ✅ **Resultado esperado**: Al finalizar el curso, tendrás un conocimiento profundo en detección, análisis y respuesta ante incidentes, además de experiencia práctica con las herramientas más utilizadas en la industria.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Haga sonar la alarma Detección y respuesta|6- Haga sonar la alarma Detección y respuesta]]

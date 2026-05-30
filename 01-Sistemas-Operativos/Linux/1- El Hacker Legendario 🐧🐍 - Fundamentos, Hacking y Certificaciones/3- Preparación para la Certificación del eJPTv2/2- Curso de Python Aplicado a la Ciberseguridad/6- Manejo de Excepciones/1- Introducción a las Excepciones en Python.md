@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, errores-python, manejo-de-excepciones, pentesting, programacion, python, try-except]
 actualizado: 2026-05-28
 ---
 
 # Introducción a las Excepciones en Python
-
----
-
-#Python #ManejoDeExcepciones #TryExcept #ErroresPython #Programacion
 
 ---
 ### Explicación paso a paso:
@@ -164,9 +160,6 @@ except ImportError:
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_6- Manejo de Excepciones|6- Manejo de Excepciones]]

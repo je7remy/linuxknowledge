@@ -1,13 +1,10 @@
 ---
 tipo: cheatsheet
-tags: [active-directory, bloodhound, powerview, sharphound, impacket, mimikatz, kerberos, kerbrute, crackmapexec, ntlmrelayx, evil-winrm, hashcat, ldap, smb]
+tags: [active-directory, adsecurity, bloodhound, ciberseguridad, crackmapexec, crack-map-exec, evil-winrm, hacking-etico, hacking-tools, hashcat, impacket, kerberos, kerbrute, ldap, mimikatz, ntlmrelayx, osint, pen-testing, powerview, power-view, privilege-escalation, red-team, sharphound, sharp-view, smb, windows-security]
 actualizado: 2026-05-28
 ---
 
 # Active Directory — Catálogo de Herramientas
-
-#CyberSecurity #EthicalHacking #RedTeam #PenTesting #ActiveDirectory #ADSecurity #BloodHound #PowerView #SharpView #Kerberos #Hashcat #Impacket #CrackMapExec #LDAP #SMB #PrivilegeEscalation #WindowsSecurity #HackingTools #OSINT
-
 ---
 
 | Herramienta                                                                                                                                   | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

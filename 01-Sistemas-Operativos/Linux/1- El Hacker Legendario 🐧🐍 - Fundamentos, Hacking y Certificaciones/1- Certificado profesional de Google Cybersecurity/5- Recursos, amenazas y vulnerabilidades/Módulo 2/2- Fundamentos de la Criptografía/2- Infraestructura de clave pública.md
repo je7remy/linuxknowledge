@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -149,9 +149,6 @@ El proceso de **PKI** implica dos pasos:
 Estos certificados digitales vinculan la **clave pública** con la **identidad verificada** de un sitio web, organización, individuo, dispositivo o servidor, asegurando que la comunicación en línea sea confiable y segura.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

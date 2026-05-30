@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-vanguardia, modulo-3]
+tags: [ia, ia-vanguardia, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -110,9 +110,6 @@ Lo esencial es incluir todos los elementos que hagan tu instrucción clara y com
 Mientras **crees tácticamente, realmente, excelentes inputs**, tus **salidas serán geniales**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]

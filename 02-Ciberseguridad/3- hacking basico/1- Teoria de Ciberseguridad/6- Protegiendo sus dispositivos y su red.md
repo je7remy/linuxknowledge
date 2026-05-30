@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [defensa, firewall, antivirus, antiespia, hardening]
+tags: [antiespia, antivirus, defensa, firewall, hardening]
 actualizado: 2026-05-28
 ---
 

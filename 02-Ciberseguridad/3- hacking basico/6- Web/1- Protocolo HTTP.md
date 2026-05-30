@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [http, web, url, dns, webrequests, networking]
+tags: [administracion-sistemas, ciberseguridad, dev-sec-ops, dns, hacking-etico, hack-the-box, http, httpflow, networking, networking-basics, pentesting, redes, security, url, web, web-development, webrequests, web-requests, web-scraping, web-security]
 actualizado: 2026-05-28
 ---
 
 # Protocolo HTTP
-
-#HTTP #WebSecurity #CyberSecurity #Networking #InfoSec #Pentesting #EthicalHacking #Redes #WebDevelopment #URL #DNS #HackTheBox #WebRequests #HTTPFlow #Security #SysAdmin #DevSecOps #WebScraping #NetworkingBasics #HackingÉtico
-
 --------------
 
 

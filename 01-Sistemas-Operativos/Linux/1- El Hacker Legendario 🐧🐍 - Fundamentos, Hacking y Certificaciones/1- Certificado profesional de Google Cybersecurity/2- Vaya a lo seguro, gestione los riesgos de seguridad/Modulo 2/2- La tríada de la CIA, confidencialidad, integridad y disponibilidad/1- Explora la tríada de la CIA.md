@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -59,9 +59,6 @@ _Fill in the blank: The CIA triad is a model that helps inform how organizations
 La tríada ayuda a las organizaciones a **considerar y mitigar riesgos** al establecer sus sistemas de seguridad, no solo a proteger datos o controlar acceso.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

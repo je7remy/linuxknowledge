@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [fastapi, testing, postman, curl, herramientas-prueba]
+tags: [curl, fastapi, herramientas-prueba, postman, testing]
 actualizado: 2026-05-28
 ---
 
@@ -145,9 +145,6 @@ A la derecha verás varios datos importantes que como profesional debes saber le
 |**Curva de aprendizaje**|Media (muchas funciones)|Baja (muy intuitivo)|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

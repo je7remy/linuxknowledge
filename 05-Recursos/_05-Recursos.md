@@ -23,7 +23,7 @@ recurso externo recomendado.
 
 - [[_Git|Git]] — Comandos esenciales y flujos de trabajo.
 - [[_Blender|Blender]] — Comandos básicos de modelado 3D.
-- [[Excel]] — Trucos y fórmulas útiles.
+- [[_Excel|Excel]] — Trucos y fórmulas útiles.
 - [[_Android|Android]] — Guías específicas (ej. instalar Google Play en Amazon Fire).
 
 ## Contenido — Referencia conceptual
@@ -32,6 +32,11 @@ recurso externo recomendado.
 - [[_Términos y Definiciones de Ciberseguridad|Términos de ciberseguridad]] — Glosario del dominio.
 - [[_Ingenieria de Pront|Ingeniería de prompts]] — Técnicas para LLMs.
 - [[_Canales de YouTube de Ciberseguridad y Hacking Ético!|Canales de YouTube]] — Recomendaciones de creadores.
+
+## Navegación
+
+- 🏠 [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]
 
 ## Secciones relacionadas
 

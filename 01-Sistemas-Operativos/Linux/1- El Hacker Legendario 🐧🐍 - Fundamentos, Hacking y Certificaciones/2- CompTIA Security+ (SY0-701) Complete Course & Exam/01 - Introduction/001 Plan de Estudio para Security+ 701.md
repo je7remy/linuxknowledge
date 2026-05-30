@@ -206,9 +206,6 @@ Las tarjetas de memoria pueden ser una herramienta de aprendizaje muy efectiva s
 | Retomar 1 examen de práctica| Retomar 1 examen de práctica| Retomar 1 examen de práctica| Retomar 1 examen de práctica| Retomar 1 examen de práctica|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_01 - Introduction|01 - Introduction]]

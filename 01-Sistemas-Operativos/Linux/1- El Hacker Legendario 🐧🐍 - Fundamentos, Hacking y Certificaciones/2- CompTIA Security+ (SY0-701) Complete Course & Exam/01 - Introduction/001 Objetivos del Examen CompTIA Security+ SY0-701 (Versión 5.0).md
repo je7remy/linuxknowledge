@@ -1,14 +1,7 @@
 ---
-
-# CompTIA Security+  
-Examen de Certificación  
-Objetivos
-
-**NÚMERO DEL EXAMEN: SY0-701**
-
-**CompTIA Security+ SY0-701 Examen de Certificación: Objetivos del Examen Versión 5.0**  
-Derechos de autor © 2023 CompTIA, Inc. Todos los derechos reservados.
-
+tipo: teoria
+tags: [sistemas-operativos]
+actualizado: 2026-05-30
 ---
 
 ## Acerca del Examen
@@ -1495,9 +1488,6 @@ CompTIA ha incluido esta lista de muestra de hardware y software para ayudar a l
 © 2023 CompTIA, Inc., utilizado bajo licencia de CompTIA, Inc. Todos los derechos reservados. Todos los programas de certificación y la educación relacionada con dichos programas son operados exclusivamente por CompTIA, Inc. CompTIA es una marca registrada de CompTIA, Inc. en los EE. UU. e internacionalmente. Otras marcas y nombres de empresas mencionados aquí pueden ser marcas comerciales o marcas de servicio de CompTIA, Inc. o de sus respectivos propietarios. Prohibida la reproducción o difusión sin el consentimiento escrito de CompTIA, Inc. Impreso en los EE. UU. 10179-Ene2023
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_01 - Introduction|01 - Introduction]]

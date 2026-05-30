@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-de-archivos, automatizacion, automatizacion-bash, bash, ejptv2, el-hacker-legendario, gestion-de-archivos, linux, linux-scripts, manejo-de-archivos, organizacion-de-archivos, organizacion-de-datos, programacion-bash, scripting-para-linux, scripts-bash, trabajo-eficiente]
 actualizado: 2026-05-28
 ---
 
 # Ejercicio Práctico Bucle FOR – Script para Ordenar Archivos Automáticamente
 
 ---
-
-#OrganizaciónDeArchivos #AutomatizaciónBash #ScriptsBash #GestiónDeArchivos #ProgramaciónBash #LinuxScripts #ManejoDeArchivos #Automatización #AdministraciónDeArchivos #BashScripting #OrganizaciónDeDatos #TrabajoEficiente #ScriptingParaLinux
-
----
-
 ```bash
 #!/bin/bash
 

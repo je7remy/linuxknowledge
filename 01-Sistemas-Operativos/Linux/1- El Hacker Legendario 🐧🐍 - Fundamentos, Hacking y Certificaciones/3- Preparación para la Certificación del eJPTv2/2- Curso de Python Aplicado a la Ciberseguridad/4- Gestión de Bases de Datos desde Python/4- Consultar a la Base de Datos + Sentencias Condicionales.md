@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [base-de-datos, conexion-my-sql, ejptv2, el-hacker-legendario, my-sql, pentesting, programacion, python, sql]
 actualizado: 2026-05-28
 ---
 
 # Consultar a la Base de Datos + Sentencias Condicionales
 
 ---
-
-#Python #MySQL #BaseDeDatos #SQL #ConexiónMySQL #Programación
-
----
-
 ### Explicación paso a paso del código
 
 1. **Importación de la librería**

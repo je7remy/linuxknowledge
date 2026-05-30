@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, ia-responsable, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, ia-responsable, modulo-3]
 actualizado: 2026-05-28
 ---
 

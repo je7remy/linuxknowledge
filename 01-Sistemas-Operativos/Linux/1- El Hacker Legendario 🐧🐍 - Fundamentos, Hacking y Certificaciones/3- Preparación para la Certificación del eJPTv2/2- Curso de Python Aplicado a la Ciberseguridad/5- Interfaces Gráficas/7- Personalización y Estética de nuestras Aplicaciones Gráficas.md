@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [automation, coding, custom-tkinter, ejptv2, el-hacker-legendario, file-management, file-organization, gestion-de-archivos, gui, open-source, organizador-de-archivos, pentesting, productivity, programming, python]
 actualizado: 2026-05-28
 ---
 
 # Personalización y Estética de nuestras Aplicaciones Gráficas
 
 ---
-
-#Python #FileOrganization #CustomTkinter #GUI #Automation #FileManagement #Coding #Programming #OpenSource #Productivity #OrganizadorDeArchivos #GestiónDeArchivos
-
----
-
 **Explicación Paso a Paso del Código:**
 
 1. **Importación de Librerías:**
@@ -318,9 +313,6 @@ ventana.mainloop()
 ```
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Interfaces Gráficas|5- Interfaces Gráficas]]

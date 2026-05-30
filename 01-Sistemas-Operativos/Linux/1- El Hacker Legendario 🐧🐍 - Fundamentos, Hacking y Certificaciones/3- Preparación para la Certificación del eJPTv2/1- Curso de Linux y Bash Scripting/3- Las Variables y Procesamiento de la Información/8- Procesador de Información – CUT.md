@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion-linux, bash, comando-cut, comandos-de-texto, ejptv2, el-hacker-legendario, extraccion-de-datos, linux, linux-commands, linux-tools, manipulacion-de-datos, procesamiento-de-texto, terminal-commands, text-processing]
 actualizado: 2026-05-28
 ---
 
 # Procesador de Información – CUT
 
 ---
-
-#ComandoCut #BashScripting #LinuxCommands #ProcesamientoDeTexto #AdministraciónDeSistemas #ComandosLinux #ManipulaciónDeDatos #LinuxTips #ShellScripting #TextProcessing #LinuxTools #TerminalCommands #AutomatizaciónLinux #ExtracciónDeDatos #ComandosDeTexto
-
----
-
 CUT:
 
 ---

@@ -169,9 +169,6 @@ Al finalizar esta lección deberías comprender:
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Proyecto Web|3- Proyecto Web]]

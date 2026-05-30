@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [codigo, desarrollo-python, devops, ejptv2, el-hacker-legendario, gestor-de-dependencias, paquetes-python, pentesting, pip, pip3, programacion, py-pi, python, python3, software]
 actualizado: 2026-05-28
 ---
 
 # Instalación de Módulos Externos
-
----
-
-#Python #pip #pip3 #Python3 #DesarrolloPython #Programación #PaquetesPython #PyPI #GestorDeDependencias #DevOps #Software #Código
 
 ---
 # **Guía de Comandos Básicos de `pip3`**

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, pentesting, python]
 actualizado: 2026-05-28
 ---
 
@@ -93,9 +93,6 @@ with open("commits de hoy.txt", "r") as archivo:
 📖 _El código ahora recita las palabras inscritas en el archivo, como un bardo compartiendo un relato legendario._
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Manipulación de Ficheros e Interacción con el Sistema Operativo|3- Manipulación de Ficheros e Interacción con el Sistema Operativo]]

@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 4- Herramientas del oficio, Linux y SQL / Módulo 2 / 2- Distribuciones de Linux
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 2/2- Distribuciones de Linux
 actualizado: 2026-05-28
 ---
 
@@ -21,3 +21,13 @@ actualizado: 2026-05-28
 - [[8- Actividad, Instalar software en una distribución Linux 2]]
 - [[9- Laboratorio Practico]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 2|Módulo 2]]
+
+## Relacionadas
+
+- [[_1- Todo sobre Linux|Todo sobre Linux]]
+- [[_3- El shell|El shell]]
+- [[_4- Revisión, El sistema operativo Linux|Revisión, El sistema operativo Linux]]

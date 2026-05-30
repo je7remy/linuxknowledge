@@ -1,12 +1,10 @@
 ---
-
-## 🌐 Protocolos de Red: ¿Qué son y cómo funcionan?
-
-Las redes funcionan mejor con reglas claras. Estas reglas se conocen como **protocolos de red**:
-
-> 🔐 Conjunto de normas que definen cómo se estructuran y entregan los datos entre dispositivos en una red.
-
+tipo: teoria
+tags: [sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Protocolos de red
 
 ## 📌 Ejemplo práctico: Accediendo a [www.yummyrecipesforme.org](http://www.yummyrecipesforme.org/)
 

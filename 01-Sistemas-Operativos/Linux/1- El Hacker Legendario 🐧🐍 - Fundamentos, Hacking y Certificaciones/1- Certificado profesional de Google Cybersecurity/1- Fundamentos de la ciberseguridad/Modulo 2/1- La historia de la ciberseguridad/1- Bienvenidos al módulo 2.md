@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -47,9 +47,6 @@ En esta parte del curso:
 A continuación, viajaremos en el tiempo para descubrir algunos de los virus, filtraciones de datos y ataques de malware que **han moldeado la industria de la ciberseguridad tal y como la conocemos hoy**.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

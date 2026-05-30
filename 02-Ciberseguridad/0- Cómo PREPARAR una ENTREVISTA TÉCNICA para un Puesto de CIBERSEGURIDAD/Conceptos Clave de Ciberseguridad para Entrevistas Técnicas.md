@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [entrevista, siem, edr, kerberos, active-directory, apt, c2, mitre-attck, as-rep-roasting, splunk, wazuh]
+tags: [active-directory, apt, as-rep-roasting, c2, edr, entrevista, kerberos, mitre-attck, siem, splunk, wazuh]
 actualizado: 2026-05-28
 ---
 

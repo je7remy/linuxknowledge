@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 4- Herramientas del oficio, Linux y SQL / Módulo 1 / 3- El sistema operativo en funcionamiento
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/4- Herramientas del oficio, Linux y SQL/Módulo 1/3- El sistema operativo en funcionamiento
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,14 @@ actualizado: 2026-05-28
 - [[5- Tecnología de virtualización]]
 - [[6- Pon a prueba tus conocimientos, el sistema operativo en funcionamiento]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[_1- Introducción al curso 4|Introducción al curso 4]]
+- [[_2- El maravilloso mundo de los sistemas operativos|El maravilloso mundo de los sistemas operativos]]
+- [[_4- Interfaz de usuario|Interfaz de usuario]]
+- [[_5- Repaso, Introducción a los sistemas operativos|Repaso, Introducción a los sistemas operativos]]

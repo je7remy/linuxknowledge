@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [analisis-de-datos, ciberseguridad, coding, data-analysis, data-science, ejptv2, el-hacker-legendario, informatica, pandas-python, pentesting, programacion, python, tech]
 actualizado: 2026-05-28
 ---
 
 # Introducción a la Ciencia de Datos
-
----
-
-#Python #Ciberseguridad #AnálisisDeDatos #PandasPython #DataScience #Programación #Tech #Informática #SeguridadInformática #Coding #DataAnalysis
 
 ---
 ### **Paso 1: Instalación de la librería Pandas**

@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion-linux, bash, comando-find, ejptv2, el-hacker-legendario, gestion-de-archivos, gestion-de-directorios, linux, mover-archivos, renombrar-archivos, scripting-linux, terminal, unix-linux, xargs]
 actualizado: 2026-05-28
 ---
 
 # Comando XARGS
 
 ---
-
-#ComandoFind #Xargs #UnixLinux #ComandosLinux #RenombrarArchivos #MoverArchivos #GestiónDeArchivos #Bash #Terminal #AutomatizaciónLinux #ScriptingLinux #AdministraciónDeSistemas #ShellScripting #GestiónDeDirectorios
-
----
-
 **`xargs`** es un comando que toma la salida de otro comando y la utiliza como entrada para otro comando, permitiendo realizar operaciones sobre cada elemento de esa salida. Es útil cuando el número de elementos encontrados es muy grande, ya que evita los problemas con límites de longitud de comando.
 
 ### 1. **`find . -name "*.txt" | xargs rm`**

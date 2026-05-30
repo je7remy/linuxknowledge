@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, devops, ejptv2, el-hacker-legendario, linux, pipes, terminal, tuberias, unix]
 actualizado: 2026-05-28
 ---
 
 # Uso de Tuberías o Pipes
 
 ---
-
-#Linux #Unix #ComandosLinux #Tuberías #Pipes #ShellScripting #Bash #Terminal #SysAdmin #DevOps #LinuxTips
-
----
-
 Las **tuberías** o **pipes** son una funcionalidad poderosa en sistemas operativos tipo UNIX, como Linux, que permite **conectar la salida de un comando con la entrada de otro**. Esto facilita encadenar múltiples comandos para realizar operaciones complejas de forma sencilla y eficiente.
 
 ---

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [tos, terminos-servicio, contrato-legal, privacidad]
+tags: [contrato-legal, privacidad, terminos-servicio, tos]
 actualizado: 2026-05-28
 ---
 

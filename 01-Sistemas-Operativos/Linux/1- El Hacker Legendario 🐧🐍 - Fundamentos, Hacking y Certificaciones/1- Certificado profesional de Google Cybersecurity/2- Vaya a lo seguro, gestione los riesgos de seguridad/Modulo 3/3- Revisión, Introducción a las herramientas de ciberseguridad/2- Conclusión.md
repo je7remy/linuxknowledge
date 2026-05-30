@@ -1,12 +1,10 @@
 ---
-
-## ✅ **Resumen Final – Sección: Registros y Herramientas SIEM**
-
-### 📌 **Objetivo de la sección**
-
-Comprender el rol de los registros y las herramientas SIEM en la detección de amenazas, la supervisión de sistemas y la protección de las operaciones empresariales.
-
+tipo: teoria
+tags: [sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Conclusión
 
 ### 🔍 **Lo que aprendiste en esta sección:**
 
@@ -60,9 +58,6 @@ Pasarás a explorar **estrategias de respuesta**, donde aprenderás:
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_2- Vaya a lo seguro, gestione los riesgos de seguridad|2- Vaya a lo seguro, gestione los riesgos de seguridad]]

@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [bash, command-line, ejptv2, el-hacker-legendario, grep, linux, regex, scripting, terminal, unix]
 actualizado: 2026-05-28
 ---
 
 # Uso de Grep
 
 ---
-
-#grep #Linux #Unix #Regex #CommandLine #ShellScripting #Terminal #Bash #Scripting #ComandosLinux
-
----
-
 El comando **`grep`** es una herramienta poderosa en Linux/UNIX utilizada para buscar texto en archivos o en la salida de otros comandos, basándose en patrones. Aquí te detallo cómo usarlo y sus opciones más comunes:
 
 ---

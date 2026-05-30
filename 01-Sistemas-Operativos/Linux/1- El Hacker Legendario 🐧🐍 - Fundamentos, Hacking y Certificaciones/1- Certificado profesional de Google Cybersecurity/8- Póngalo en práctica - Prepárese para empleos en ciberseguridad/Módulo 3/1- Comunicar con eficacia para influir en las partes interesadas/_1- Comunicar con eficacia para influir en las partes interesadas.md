@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 8- Póngalo en práctica - Prepárese para empleos en ciberseguridad / Módulo 3 / 1- Comunicar con eficacia para influir en las partes interesadas
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/8- Póngalo en práctica - Prepárese para empleos en ciberseguridad/Módulo 3/1- Comunicar con eficacia para influir en las partes interesadas
 actualizado: 2026-05-28
 ---
 
@@ -24,3 +24,12 @@ actualizado: 2026-05-28
 - [[8- Cree cuadros de mando visuales para comunicaciones impactantes sobre ciberseguridad]]
 - [[9- Cómo crear un cuadro de mandos visual]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 3|Módulo 3]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [geolocalizacion, ghostrack, ipinfo, georrecon, kali, ping, isp, reputacion-ip]
+tags: [geolocalizacion, georrecon, ghostrack, ipinfo, isp, kali, ping, reputacion-ip]
 actualizado: 2026-05-28
 ---
 

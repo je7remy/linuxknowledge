@@ -1,14 +1,10 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [accesos-seguros, administracion-de-archivos, administracion-sistemas, bash, ciberseguridad, comandochmod, comandos-bash, directorios-compartidos, ejptv2, el-hacker-legendario, linux, linux-security, permisos-de-archivos, permisos-especiales, permisos-linux, seguridad-linux, sistema-de-archivos, sistemas-unix, sticky-bit, unix]
 actualizado: 2026-05-28
 ---
 
 # Permisos Especiales – Sticky Bit
-
----
-
-#StickyBit #PermisosLinux #SistemasUnix #SeguridadLinux #AdministraciónDeSistemas #ComandosLinux #SeguridadInformática #Linux #PermisosDeArchivos #Unix #ComandosBash #LinuxSecurity #AdministraciónDeArchivos #PermisosEspeciales #LinuxTips #SistemaDeArchivos #Comandochmod #DirectoriosCompartidos #AccesosSeguros
 
 ---
 El **Sticky Bit** es un permiso especial que se aplica a directorios en sistemas tipo Unix/Linux. Cuando se activa, asegura que solo el propietario de un archivo dentro del directorio (o el usuario root) pueda eliminar o modificar ese archivo, incluso si otros usuarios tienen permisos de escritura en el directorio.

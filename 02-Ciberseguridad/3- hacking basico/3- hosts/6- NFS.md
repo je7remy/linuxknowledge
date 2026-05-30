@@ -1,13 +1,10 @@
 ---
 tipo: teoria
-tags: [nfs, nfsv3, nfsv4, mount, showmount, file-sharing, hosts]
+tags: [comando, file-sharing, hosts, mount, nfs, nfsv3, nfsv4, showmount]
 actualizado: 2026-05-28
 ---
 
 # NFS — Network File System
-
-#nfs #comando #mount 
-
 ---------
 
 `Network File System` (`NFS`) es un sistema de archivos de red desarrollado por Sun Microsystems y tiene el mismo propósito que SMB. Su propósito es acceder a los sistemas de archivos a través de una red como si fueran locales. Sin embargo, utiliza un protocolo completamente diferente. [NFS](https://en.wikipedia.org/wiki/Network_File_System) se utiliza entre sistemas Linux y Unix. Esto significa que los clientes NFS no pueden comunicarse directamente con los servidores SMB. NFS es un estándar de Internet que gobierna los procedimientos en un sistema de archivos distribuido. Mientras que la versión 3.0 del protocolo NFS (), que ha estado en uso durante muchos años, autentica el equipo cliente, esto cambia con . Aquí, al igual que con el protocolo SMB de Windows, el usuario debe autenticarse.`NFSv3``NFSv4`

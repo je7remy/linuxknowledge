@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -75,9 +75,6 @@ actualizado: 2026-05-28
 > “La ansiedad al comenzar algo nuevo es normal. Pero con el tiempo, la experiencia y la práctica te dan confianza. La clave es: **aprende lo que necesitas hoy, y sigue creciendo mañana.**”
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_4- Herramientas del oficio, Linux y SQL|4- Herramientas del oficio, Linux y SQL]]

@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [osint, reconocimiento, pimeyes, facecheck, sherlock, mr-holmes, signalhire, truecaller, haveibeenpwned]
+tags: [cms, ctf, cybersecurity, exploit, facecheck, hacker, hacking, haveibeenpwned, kalilinux, metasploit, metasploitframework, mr-holmes, osint, parrotos, pentesting, pimeyes, reconocimiento, redteam, sherlock, signalhire, truecaller, tryhackme, vulnerability, wordpress, zunderrub]
 actualizado: 2026-05-28
 ---
 
@@ -9,11 +9,6 @@ actualizado: 2026-05-28
 **By:  Zunderrub**, Rubén Zaragoza Abad
 
 ---
-
-#ctf  #cybersecurity  #hacker  #tryhackme  #redteam  #pentesting  #hacking #wordpress  #metasploitframework  #metasploit  #parrotos  #kalilinux  #Zunderrub #exploit #vulnerability #cms
-
----
-
 ¡Hola a todos! Hoy voy a narrar cómo investigaría a una persona desde cero usando herramientas de OSINT (Open Source Intelligence).
 
 ---

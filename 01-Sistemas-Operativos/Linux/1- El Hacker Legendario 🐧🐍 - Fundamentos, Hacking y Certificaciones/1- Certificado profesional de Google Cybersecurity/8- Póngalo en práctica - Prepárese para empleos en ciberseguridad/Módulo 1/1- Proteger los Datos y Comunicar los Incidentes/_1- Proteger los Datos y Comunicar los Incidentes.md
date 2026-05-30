@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 8- Póngalo en práctica - Prepárese para empleos en ciberseguridad / Módulo 1 / 1- Proteger los Datos y Comunicar los Incidentes
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/8- Póngalo en práctica - Prepárese para empleos en ciberseguridad/Módulo 1/1- Proteger los Datos y Comunicar los Incidentes
 actualizado: 2026-05-28
 ---
 
@@ -22,3 +22,12 @@ actualizado: 2026-05-28
 - [[8- Historia de Juliana - Protección de los recursos]]
 - [[9- Ponga a prueba sus Conocimientos - Su impacto en la protección de Datos]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

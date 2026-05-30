@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [wifi, fuerza-bruta, ingenieria-social, sniffing, rastreo-red]
+tags: [fuerza-bruta, ingenieria-social, rastreo-red, sniffing, wi-fi]
 actualizado: 2026-05-28
 ---
 

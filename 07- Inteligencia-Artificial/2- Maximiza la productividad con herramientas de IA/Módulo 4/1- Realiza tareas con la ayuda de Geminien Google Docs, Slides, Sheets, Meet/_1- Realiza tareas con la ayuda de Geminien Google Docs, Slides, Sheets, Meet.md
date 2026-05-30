@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 07- Inteligencia-Artificial / 2- Maximiza la productividad con herramientas de IA / Módulo 4 / 1- Realiza tareas con la ayuda de Geminien Google Docs, Slides, Sheets, Meet
+seccion: 07- Inteligencia-Artificial/2- Maximiza la productividad con herramientas de IA/Módulo 4/1- Realiza tareas con la ayuda de Geminien Google Docs, Slides, Sheets, Meet
 actualizado: 2026-05-28
 ---
 
@@ -14,3 +14,12 @@ actualizado: 2026-05-28
 - [[3- Utilice Gemini en el espacio de trabajo para tomar notas de sus reuniones]]
 - [[4- Actividad, Aumente la productividad con la ayuda de Gemini para Google Workspace]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[🔒🐧Hub|Hub Principal del vault]]
+- [[index|Index general del vault]]

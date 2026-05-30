@@ -1,17 +1,12 @@
 ---
 tipo: laboratorio
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, automatizacion, bash, ciberseguridad, devops, ejptv2, el-hacker-legendario, gnu, hacking-etico, linux, scripting, usuarios-linux]
 actualizado: 2026-05-28
 ---
 
 # Automatizar la Gestión de Usuarios en Linux
 
 ---
-
-#Linux #Bash #ShellScripting #SysAdmin #Automatización #ComandosLinux #AdministraciónLinux #SeguridadInformática #DevOps #Scripting #IT #HackingÉtico #GNU #UsuariosLinux
-
----
-
 ### **Parte 1: Comandos Iniciales**
 
 #### **1️⃣ Comando `su jeremy`**

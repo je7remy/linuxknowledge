@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: Google Cybersecurity / 6- Detección y respuesta
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta
 actualizado: 2026-05-28
 ---
 

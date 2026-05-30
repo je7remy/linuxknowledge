@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, linux, bash]
+tags: [administracion-sistemas, bash, devops, ejptv2, el-hacker-legendario, httpserver, linux, networking, python, python3, servidor-web, web-development]
 actualizado: 2026-05-28
 ---
 
 # Transferencia de Archivos por la Red
 
 ---
-
-#Python #ServidorWeb #HTTPServer #Linux #Python3 #WebDevelopment #SysAdmin #Networking #Bash #DevOps
-
----
-
 ```python
 python3 -m http.server 80
 ```

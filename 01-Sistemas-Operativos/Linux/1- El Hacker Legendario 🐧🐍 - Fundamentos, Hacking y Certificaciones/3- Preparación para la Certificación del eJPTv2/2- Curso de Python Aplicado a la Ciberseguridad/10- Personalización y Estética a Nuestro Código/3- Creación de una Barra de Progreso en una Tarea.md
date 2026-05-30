@@ -1,17 +1,12 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [barras-de-progreso, bucles, ejptv2, el-hacker-legendario, importar-modulos, manejo-de-archivos, pentesting, pip-install, procesamiento-de-datos, python, retroalimentacion-visual, time-sleep, tqdm]
 actualizado: 2026-05-28
 ---
 
 # Creación de una Barra de Progreso en una Tarea
 
 ---
-
-#tqdm #Python #BarrasDeProgreso #ManejoDeArchivos #Bucles #TimeSleep #PipInstall #ImportarModulos #ProcesamientoDeDatos #RetroalimentacionVisual
-
----
-
 ## **Primer fragmento de código**
 
 ```python

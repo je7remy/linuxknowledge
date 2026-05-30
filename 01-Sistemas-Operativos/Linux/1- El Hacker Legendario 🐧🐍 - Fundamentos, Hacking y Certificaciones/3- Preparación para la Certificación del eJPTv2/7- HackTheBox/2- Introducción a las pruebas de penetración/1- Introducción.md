@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [pentesting, hackthebox, metodologia, hacking-etico, fases-pentest]
+tags: [fases-pentest, hacking-etico, hackthebox, metodologia, pentesting]
 actualizado: 2026-05-28
 ---
 

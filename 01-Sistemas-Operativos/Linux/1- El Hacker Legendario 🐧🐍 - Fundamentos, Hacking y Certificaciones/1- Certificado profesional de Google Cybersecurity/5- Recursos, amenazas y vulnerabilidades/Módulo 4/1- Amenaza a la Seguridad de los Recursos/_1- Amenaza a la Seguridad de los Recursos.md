@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 5- Recursos, amenazas y vulnerabilidades / Módulo 4 / 1- Amenaza a la Seguridad de los Recursos
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/5- Recursos, amenazas y vulnerabilidades/Módulo 4/1- Amenaza a la Seguridad de los Recursos
 actualizado: 2026-05-28
 ---
 
@@ -21,3 +21,11 @@ actualizado: 2026-05-28
 - [[8- Software malicioso]]
 - [[9- Una introducción al software malicioso]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 4|Módulo 4]]
+
+## Relacionadas
+
+- [[_2- Seguridad en Aplicaciones Web|Seguridad en Aplicaciones Web]]

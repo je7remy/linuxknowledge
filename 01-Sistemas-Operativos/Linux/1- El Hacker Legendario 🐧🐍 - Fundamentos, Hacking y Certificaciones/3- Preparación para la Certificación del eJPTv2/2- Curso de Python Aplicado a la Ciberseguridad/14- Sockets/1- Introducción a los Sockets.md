@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [ejptv2, el-hacker-legendario, python, pentesting]
+tags: [ejptv2, el-hacker-legendario, pentesting, python]
 actualizado: 2026-05-28
 ---
 
@@ -208,9 +208,6 @@ cliente.close()
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_14- Sockets|14- Sockets]]

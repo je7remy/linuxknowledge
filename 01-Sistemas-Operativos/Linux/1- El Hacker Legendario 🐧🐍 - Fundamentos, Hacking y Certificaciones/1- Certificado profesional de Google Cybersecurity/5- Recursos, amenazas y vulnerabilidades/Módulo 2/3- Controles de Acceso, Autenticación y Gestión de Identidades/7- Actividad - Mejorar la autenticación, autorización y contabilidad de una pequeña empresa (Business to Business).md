@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-2]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-2]
 actualizado: 2026-05-28
 ---
 
@@ -104,9 +104,6 @@ Se sugieren las siguientes acciones para fortalecer los controles de acceso:
 ||**Objetivo:** 1–2 notas de información que ayuden a identificar la amenaza: • El evento ocurrió el 03/10/2023. • El usuario registrado fue Legal/Administrator. • La dirección IP usada fue 152.207.255.255. • La cuenta pertenece a Robert Taylor Jr.|**Objetivo:** 1–2 problemas de autorización detectados: • Robert Taylor Jr. seguía siendo administrador a pesar de que su contrato terminó en 2019. • Su cuenta accedió a los sistemas de nómina en 2023, 4 años después de finalizar su relación laboral.|**Objetivo:** Al menos 2–3 recomendaciones que prevengan incidentes: • Implementar expiración automática de cuentas tras 30 días de inactividad. • Aplicar principio de privilegios mínimos: limitar permisos de contratistas y usuarios. • Obligar al uso de MFA en accesos críticos. • Establecer auditorías trimestrales de accesos y permisos.|
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

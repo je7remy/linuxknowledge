@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -83,9 +83,6 @@ hemos cubierto muchos temas complejos, muchos de los cuales son áreas de especi
 **estoy muy contenta de haber desempeñado un papel en este paso de tu viaje en el mundo de la seguridad, y te deseo todo lo mejor en lo que viene.** 🚀
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Recursos, amenazas y vulnerabilidades|5- Recursos, amenazas y vulnerabilidades]]

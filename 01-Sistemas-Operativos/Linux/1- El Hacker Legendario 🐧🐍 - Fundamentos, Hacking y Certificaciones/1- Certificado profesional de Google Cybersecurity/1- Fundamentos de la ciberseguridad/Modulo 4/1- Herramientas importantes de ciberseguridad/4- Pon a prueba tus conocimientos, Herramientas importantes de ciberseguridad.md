@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -66,9 +66,6 @@ Un **_____** es un manual que proporciona detalles sobre las acciones operativas
     
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 2- Vaya a lo seguro, gestione los riesgos de seguridad / Modulo 3 / 1- Paneles de control de información de seguridad y gestión de eventos (SIEM)
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/2- Vaya a lo seguro, gestione los riesgos de seguridad/Modulo 3/1- Paneles de control de información de seguridad y gestión de eventos (SIEM)
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,12 @@ actualizado: 2026-05-28
 - [[5- Parisa, Los paralelismos entre la accesibilidad y la seguridad]]
 - [[6- Pon a prueba tus conocimientos, Paneles de control de gestión de eventos e información de seguridad (SIEM)]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Modulo 3|Modulo 3]]
+
+## Relacionadas
+
+- [[_2- Herramientas de administración de eventos e información de seguridad (SIEM)|Herramientas de administración de eventos e información de seguridad (SIEM)]]
+- [[_3- Revisión, Introducción a las herramientas de ciberseguridad|Revisión, Introducción a las herramientas de ciberseguridad]]

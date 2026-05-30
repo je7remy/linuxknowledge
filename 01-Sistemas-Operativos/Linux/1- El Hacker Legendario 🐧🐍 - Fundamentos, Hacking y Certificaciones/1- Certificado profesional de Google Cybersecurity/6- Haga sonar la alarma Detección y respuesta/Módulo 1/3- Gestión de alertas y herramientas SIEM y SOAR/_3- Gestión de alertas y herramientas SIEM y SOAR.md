@@ -1,6 +1,6 @@
 ---
 tipo: indice
-seccion: 01-Sistemas-Operativos / Linux / 1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones / 1- Certificado profesional de Google Cybersecurity / 6- Haga sonar la alarma Detección y respuesta / Módulo 1 / 3- Gestión de alertas y herramientas SIEM y SOAR
+seccion: 01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 1/3- Gestión de alertas y herramientas SIEM y SOAR
 actualizado: 2026-05-28
 ---
 
@@ -16,3 +16,12 @@ actualizado: 2026-05-28
 - [[5- Términos del glosario del Módulo 1]]
 - [[6- Desafío del Módulo 1]]
 
+---
+## Navegación
+
+- ⬆️ Carpeta padre: [[_Módulo 1|Módulo 1]]
+
+## Relacionadas
+
+- [[_1- Introducción a la Detección y Respuesta ante Incidentes|Introducción a la Detección y Respuesta ante Incidentes]]
+- [[_2- Herramientas de respuesta ante incidentes|Herramientas de respuesta ante incidentes]]

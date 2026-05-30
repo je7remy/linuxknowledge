@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [inteligencia-artificial, ia-vanguardia, modulo-3]
+tags: [ia, ia-vanguardia, modulo-3]
 actualizado: 2026-05-28
 ---
 
@@ -85,9 +85,6 @@ El _prompting_ eficaz **no es una instrucción única**, sino una **colaboració
 A medida que das más contexto, ejemplos y claridad, **obtienes resultados más inteligentes y personalizados.**
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_5- Mantente a la vanguardia de la IA|5- Mantente a la vanguardia de la IA]]

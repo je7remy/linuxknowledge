@@ -1,6 +1,6 @@
 ---
 tipo: laboratorio
-tags: [google-cybersecurity, el-hacker-legendario, quiz, modulo-3]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-3, quiz]
 actualizado: 2026-05-28
 ---
 
@@ -36,9 +36,6 @@ Los equipos de seguridad utilizan el Marco de Ciberseguridad (CSF) del NIST como
 ✅ **Respuesta correcta:** _Verdadero_
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_1- Fundamentos de la ciberseguridad|1- Fundamentos de la ciberseguridad]]

@@ -1,13 +1,10 @@
 ---
-
-## ✅ **Resumen de Respuestas: Desafío del Módulo 1**
-
-### 1.
-
-**Una ___ es una red que abarca una zona geográfica extensa.**  
-✔️ **Respuesta:** `WAN`
-
+tipo: teoria
+tags: [revision-arquitectura-de-red, sistemas-operativos]
+actualizado: 2026-05-30
 ---
+
+# Desafío del módulo 1
 
 ### 2.
 
@@ -78,9 +75,6 @@
 ✔️ **Respuesta:** `IPv6`
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [google-cybersecurity, el-hacker-legendario, modulo-4]
+tags: [el-hacker-legendario, google-cybersecurity, modulo-4]
 actualizado: 2026-05-28
 ---
 
@@ -71,9 +71,6 @@ Las **redes en la nube** ofrecen a sus clientes servicios como:
 Esto permite a las empresas **no depender de infraestructura física propia** y **acceder a recursos según lo necesiten** a través de Internet.
 
 ---
-
----
-
 ## Navegación
 
 - ⬆️ Carpeta: [[_3- Conectar y proteger, redes y seguridad de red|3- Conectar y proteger, redes y seguridad de red]]

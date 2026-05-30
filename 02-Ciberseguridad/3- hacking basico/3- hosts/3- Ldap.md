@@ -1,14 +1,11 @@
 ---
 tipo: teoria
-tags: [ldap, active-directory, hosts, enumeration]
+tags: [active-directory, enumeration, hosts, ldap]
 actualizado: 2026-05-28
 estado: stub
 ---
 
 # LDAP — Lightweight Directory Access Protocol
-
-#ldap #hosts #enumeration 
-
 > _Nota: contenido pendiente de redactar (stub)._
 
 Puntos a cubrir cuando se redacte:

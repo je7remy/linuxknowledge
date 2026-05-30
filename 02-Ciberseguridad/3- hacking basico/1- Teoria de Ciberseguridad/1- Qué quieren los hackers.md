@@ -1,6 +1,6 @@
 ---
 tipo: teoria
-tags: [motivacion-hackers, credenciales, fraude-financiero, ingenieria-social]
+tags: [credenciales, fraude-financiero, ingenieria-social, motivacion-hackers]
 actualizado: 2026-05-28
 ---
 
