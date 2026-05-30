@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [actores-amenaza, crimen-organizado, hacktivistas, estado-nacion, amenazas-internas]
+actualizado: 2026-05-28
+---
+
+# Actores y amenazas
+
 Antes de poder entender cómo un hacker ético o un probador de penetración puede imitar a un **_actor de amenazas_** (o atacante malintencionado), debe comprender los diferentes tipos de actores de amenazas. Los siguientes son los tipos más comunes de atacantes maliciosos que vemos hoy en día. Seleccione cada uno para obtener más información.
 
 ****Crimen Organizado****
@@ -15,3 +23,16 @@ La guerra cibernética y el espionaje cibernético son dos términos que encajan
 ****Amenazas internas****
 
 Una amenaza interna es una amenaza que proviene del interior de una organización. Las motivaciones de estos tipos de actores suelen ser diferentes de las de muchos de los otros actores de amenazas comunes. Las amenazas internas suelen ser empleados normales a los que se engaña para que divulguen información confidencial o hagan clic por error en enlaces que permiten a los atacantes acceder a sus ordenadores. Sin embargo, también podrían ser personas malintencionadas que posiblemente estén motivadas por la venganza o el dinero.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬅️ Anterior: [[3- Por qué necesitamos hacer pruebas de penetración]]
+- ➡️ Siguiente: [[5- Por qué debemos seguir una metodología para las pruebas de penetración]]
+
+## Relacionadas
+
+- [[../../3- hacking basico/1- Teoria de Ciberseguridad/1- Qué quieren los hackers|Cisco → Qué quieren]] — motivación de los actores.
+- [[../../3- hacking basico/1- Teoria de Ciberseguridad/2- De qué color es mi sombrero|Cisco → Color del sombrero]] — amenazas internas mencionadas.

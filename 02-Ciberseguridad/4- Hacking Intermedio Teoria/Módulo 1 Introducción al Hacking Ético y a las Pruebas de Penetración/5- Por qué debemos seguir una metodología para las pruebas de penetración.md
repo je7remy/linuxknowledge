@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [metodologia, scope-creep, tipos-pentest, black-box, white-box, grey-box, cloud, web, movil]
+actualizado: 2026-05-28
+---
+
+# Por qué debemos seguir una metodología para las pruebas de penetración
+
 Como se acaba de mencionar, la corrupción del alcance es una de las razones para utilizar una metodología específica; Sin embargo, hay muchas otras razones. Por ejemplo, al realizar una prueba de penetración para un cliente, debe demostrar que los métodos que planea utilizar para las pruebas están probados y son verdaderos. Al utilizar una metodología conocida, puede proporcionar documentación de un procedimiento especializado que ha sido utilizado por muchas personas.
 
  ****Consideraciones medioambientales:****
@@ -43,5 +51,19 @@ En una prueba de penetración de entorno conocido, el evaluador comienza con una
 ****Prueba de entorno parcialmente conocido****
 
 Una prueba de penetración de entorno parcialmente conocida es algo así como un enfoque híbrido entre pruebas de entorno desconocido y conocido. Con las pruebas de entorno parcialmente conocidas, es posible que a los evaluadores se les proporcionen credenciales, pero no documentación completa de la infraestructura de red. Esto permitiría a los evaluadores seguir proporcionando los resultados de sus pruebas desde la perspectiva del punto de vista de un atacante externo. Teniendo en cuenta el hecho de que la mayoría de los compromisos comienzan en el cliente y se abren camino a través de la red, un buen enfoque sería un ámbito en el que los evaluadores comiencen en el interior de la red y tengan acceso a una máquina cliente.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬅️ Anterior: [[4- Actores y amenazas]]
+- ➡️ Siguiente: [[6- Levantamiento de diferentes normas y metodologías]]
+
+## Relacionadas
+
+- [[6- Levantamiento de diferentes normas y metodologías]] — metodologías que justifican usar.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/2- Tipos de pruebas de penetración|HackTheBox → Tipos]] — Black/Grey/White Box.
+- [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]] — alcance y planificación detallada.
 
 

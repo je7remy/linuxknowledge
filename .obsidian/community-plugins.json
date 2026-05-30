@@ -3,5 +3,6 @@
   "workspaces-plus",
   "homepage",
   "flowershow",
-  "heatmap-tracker"
+  "heatmap-tracker",
+  "templater-obsidian"
 ]

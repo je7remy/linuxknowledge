@@ -1,3 +1,9 @@
+---
+tipo: teoria
+tags: [entrevista, siem, edr, kerberos, active-directory, apt, c2, mitre-attck, as-rep-roasting, splunk, wazuh]
+actualizado: 2026-05-28
+---
+
 # 🚀 **Cómo Preparar una Entrevista Técnica para un Puesto de Ciberseguridad**
 
 ## 🎯 **Introducción**
@@ -130,3 +136,19 @@ Este es un resumen de los conceptos esenciales de ciberseguridad, explicados de 
    - **Definición**: Un ataque en Active Directory que extrae hashes de contraseñas de usuarios con configuraciones inseguras.  
    - **Proceso**: Solicita un Ticket Granting Service y, si el hash se obtiene, puede crackearse si la contraseña es débil.  
    - **Riesgo**: Tener el hash ya es una vulnerabilidad, aunque no siempre se descifre.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+
+## Relacionadas
+
+- [[../3- hacking basico/1- Teoria de Ciberseguridad/15- Enfoque de Cisco para la ciberseguridad|Cisco → IPS/IDS/SIEM]] — base teórica del SIEM.
+- [[../3- hacking basico/1- Teoria de Ciberseguridad/index|1- Teoría de Ciberseguridad]] — curso introductorio que cubre estos conceptos.
+- [[../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — Mimikatz, Rubeus, AS-REP Roasting con GetNPUsers.py.
+- [[../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — base de Kerberos y AD.
+- [[../1- Cracking/Hoja de Trucos HASHCAT|Hashcat]] — cracking de hashes obtenidos.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/index|Google → 6- Detección y respuesta]] — SIEM/EDR en profundidad.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/8- Póngalo en práctica - Prepárese para empleos en ciberseguridad/index|Google → 8- Prepárese para empleos]] — preparación profesional complementaria.

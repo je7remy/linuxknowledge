@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [nmap, reconocimiento, rendimiento, timing]
+actualizado: 2026-05-28
+---
 
---------------
+# Nmap — Tiempo y Rendimiento
 
 #nmap #enumeration 
 
@@ -15,7 +20,7 @@ Cuando Nmap envía un paquete, tarda algún tiempo ( - ) en recibir una respuest
 
 #### Análisis predeterminado
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F
@@ -26,7 +31,7 @@ Nmap done: 256 IP addresses (10 hosts up) scanned in 39.44 seconds
 
 #### RTT optimizado
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F --initial-rtt-timeout 50ms --max-rtt-timeout 100ms
@@ -52,7 +57,7 @@ Otra forma de aumentar la velocidad de los análisis es especificar la tasa de r
 
 #### Análisis predeterminado
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F | grep "/tcp" | wc -l
@@ -62,7 +67,7 @@ zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F | grep "/tcp" | wc -l
 
 #### Reducción de reintentos
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F --max-retries 0 | grep "/tcp" | wc -l
@@ -86,7 +91,7 @@ Durante una prueba de penetración de caja blanca, es posible que nos incluyan e
 
 #### Análisis predeterminado
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F -oN tnet.default
@@ -97,7 +102,7 @@ Nmap done: 256 IP addresses (10 hosts up) scanned in 29.83 seconds
 
 #### Escaneo optimizado
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F -oN tnet.minrate300 --min-rate 300
@@ -117,7 +122,7 @@ Nmap done: 256 IP addresses (10 hosts up) scanned in 8.67 seconds
 
 #### Escaneo predeterminado: puertos abiertos encontrados
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ cat tnet.default | grep "/tcp" | wc -l
@@ -127,7 +132,7 @@ zunderrubb@htb[/htb]$ cat tnet.default | grep "/tcp" | wc -l
 
 #### Escaneo optimizado: puertos abiertos encontrados
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ cat tnet.minrate300 | grep "/tcp" | wc -l
@@ -141,18 +146,18 @@ zunderrubb@htb[/htb]$ cat tnet.minrate300 | grep "/tcp" | wc -l
 
 Debido a que estos ajustes no siempre se pueden optimizar manualmente, como en una prueba de penetración de caja negra, ofrece seis plantillas de tiempo diferentes () para que las utilicemos. Estos valores () determinan la agresividad de nuestros escaneos. Esto también puede tener efectos negativos si el escaneo es demasiado agresivo, y los sistemas de seguridad pueden bloquearnos debido al tráfico de red producido. La plantilla de temporización predeterminada que se usa cuando no hemos definido nada más es la normal ().`Nmap``-T <0-5>``0-5``-T 3`
 
-- `-T 0` / `-T paranoid`
-- `-T 1` / `-T sneaky`
-- `-T 2` / `-T polite`
-- `-T 3` / `-T normal`
-- `-T 4` / `-T aggressive`
-- `-T 5` / `-T insane`
+- `-T 0` / `-T paranoid`
+- `-T 1` / `-T sneaky`
+- `-T 2` / `-T polite`
+- `-T 3` / `-T normal`
+- `-T 4` / `-T aggressive`
+- `-T 5` / `-T insane`
 
-Estas plantillas contienen opciones que también podemos configurar manualmente, y ya hemos visto algunas de ellas. Los desarrolladores determinaron los valores establecidos para estas plantillas de acuerdo con sus mejores resultados, lo que nos facilitó adaptar nuestros escaneos al entorno de red correspondiente. Las opciones exactas utilizadas con sus valores las podemos encontrar aquí: [https://nmap.org/book/performance-timing-templates.html](https://nmap.org/book/performance-timing-templates.html)
+Estas plantillas contienen opciones que también podemos configurar manualmente, y ya hemos visto algunas de ellas. Los desarrolladores determinaron los valores establecidos para estas plantillas de acuerdo con sus mejores resultados, lo que nos facilitó adaptar nuestros escaneos al entorno de red correspondiente. Las opciones exactas utilizadas con sus valores las podemos encontrar aquí: [https://nmap.org/book/performance-timing-templates.html](https://nmap.org/book/performance-timing-templates.html)
 
 #### Análisis predeterminado
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F -oN tnet.default 
@@ -163,7 +168,7 @@ Nmap done: 256 IP addresses (10 hosts up) scanned in 32.44 seconds
 
 #### Escaneo loco
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.2.0/24 -F -oN tnet.T5 -T 5
@@ -183,7 +188,7 @@ Nmap done: 256 IP addresses (10 hosts up) scanned in 18.07 seconds
 
 #### Escaneo predeterminado: puertos abiertos encontrados
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ cat tnet.default | grep "/tcp" | wc -l
@@ -193,10 +198,28 @@ zunderrubb@htb[/htb]$ cat tnet.default | grep "/tcp" | wc -l
 
 #### Escaneo loco - Puertos abiertos encontrados
 
-  Rendimiento
+  Rendimiento
 
 ```shell-session
 zunderrubb@htb[/htb]$ cat tnet.T5 | grep "/tcp" | wc -l
 
 23
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬅️ Anterior: [[5- nmap scripts]]
+
+## Relacionadas (Nmap)
+
+- [[1- Hoja de trucos NMAP]] — la tabla de `-T0..-T5` aparece allí en formato resumido.
+- [[2- nmap comands]] — opción `-T <0-5>` en la referencia rápida.
+- [[3- nmap firewall evasion]] — `-T0` (paranoid) y `-T1` (sneaky) son técnicas de evasión por tiempo.
+
+## Relacionadas (fuera de Nmap)
+
+- [[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]] — escaneos rápidos en ejercicios de laboratorio.
+- [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]] — cómo se ven estos escaneos en captura de paquetes.

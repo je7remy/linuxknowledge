@@ -1,3 +1,8 @@
+---
+tipo: cheatsheet
+tags: [javascript, fundamentos, referencia, lenguaje]
+actualizado: 2026-05-28
+---
 
 # Guía de Referencia de JavaScript
 

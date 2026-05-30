@@ -1,3 +1,9 @@
+---
+tipo: teoria
+tags: [pentesting, hackthebox, metodologia, hacking-etico, fases-pentest]
+actualizado: 2026-05-28
+---
+
 # **Introducción a las Pruebas de Penetración**
 
 ## **Introducción**
@@ -96,11 +102,11 @@ Los objetivos principales del _pentesting_ se dividen en tres grandes categoría
 
 Algunas herramientas comunes en las pruebas de penetración incluyen:
 
-- **Nmap**: Para escaneo de redes y detección de hosts.
+- **[[1- Hoja de trucos NMAP|Nmap]]**: Para escaneo de redes y detección de hosts.
 - **Metasploit**: Plataforma para pruebas de penetración automatizadas.
 - **Burp Suite**: Para análisis y pruebas de seguridad en aplicaciones web.
 - **Wireshark**: Para análisis de tráfico de red.
-- **John the Ripper**: Para pruebas de fuerza bruta en contraseñas.
+- **[[12- Herramienta para hacer cracking de contraseñas|John the Ripper]]**: Para pruebas de fuerza bruta en contraseñas.
 
 **Nota:** El _pentesting_ es una herramienta poderosa, pero solo proporciona una instantánea de la seguridad en un momento determinado. Para garantizar la protección continua, es fundamental realizar pruebas periódicas y combinarlo con prácticas de seguridad permanentes.
 
@@ -115,3 +121,15 @@ Este proceso no solo mejora la seguridad general, sino que también proporciona 
 Mantenerse al día con las amenazas emergentes y realizar pruebas regulares es esencial en el mundo de la ciberseguridad en constante evolución.
 
 ---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|2- Introducción a las pruebas de penetración]]
+- ➡️ Siguiente: [[2- Tipos de pruebas de penetración]] — clasificación Black/Grey/White Box.
+
+## Relacionadas
+
+- [[3- Áreas y dominios de prueba]] — dominios donde se aplican estas fases.
+- [[4- Beneficios de las pruebas de penetración]] — el "por qué" desde lado del negocio.
+- [[../../../../../../02-Ciberseguridad/5- Reconocimiento/1- Nmap/index|02 → Nmap]] — herramienta principal de la fase de Reconocimiento.
+- [[../../../../../../02-Ciberseguridad/4- Hacking Intermedio Teoria/index|02 → Hacking Intermedio Teoría]] — curso paralelo con módulos sobre planificación y alcance.

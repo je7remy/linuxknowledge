@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [nmap, reconocimiento, evasion, firewall, ids, ips]
+actualizado: 2026-05-28
+---
 
----------
+# Nmap — Evasión de Firewall e IDS/IPS
 
 #nmap #enumeration #firewall
 
@@ -299,11 +304,24 @@ Ncat: Connected to 10.129.2.28:50000.
 ```
 
 
-[[1- Comandos Basicos - Intermedio]]
-**[[4- Análisis de la Red con Bash – PARTE 2]]** 
-**[[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]**
-**[[1- Hoja de trucos NMAP]]**
-**[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]**
-**[[4- nmap output]]**
-[[2- nmap comands]]
-[[5- nmap scripts]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬅️ Anterior: [[2- nmap comands]]
+- ➡️ Siguiente: [[4- nmap output]] — formatos de salida para almacenar resultados.
+
+## Relacionadas (Nmap)
+
+- [[1- Hoja de trucos NMAP]] — flags `-sA`, `-D`, `--source-port` aparecen aquí.
+- [[2- nmap comands]] — referencia rápida de las mismas opciones de evasión.
+- [[6- nmap Time]] — `-T0`/`-T1` (paranoid/sneaky) son parte de la evasión por tiempo.
+- [[5- nmap scripts]] — algunos scripts NSE complementan reconocimiento sigiloso.
+
+## Relacionadas (fuera de Nmap)
+
+- [[1- Comandos Basicos - Intermedio]] — comandos Linux base (incluido `ncat`).
+- [[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]] — análisis de tráfico que detectaría estos escaneos.
+- [[4- Análisis de la Red con Bash – PARTE 2]] — continuación del análisis.
+- [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]] — capturar paquetes que estos escaneos generan.

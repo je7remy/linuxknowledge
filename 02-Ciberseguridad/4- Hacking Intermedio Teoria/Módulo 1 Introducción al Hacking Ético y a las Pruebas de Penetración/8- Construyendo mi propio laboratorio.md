@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [laboratorio, kali, parrot-os, blackarch, virtualbox, vmware, snapshots]
+actualizado: 2026-05-28
+---
+
+# Construyendo mi propio laboratorio
+
 Cuando se trata de pruebas de penetración, es muy importante un entorno de laboratorio adecuado. El aspecto de este entorno depende del tipo de prueba que se realice. Los tipos de herramientas utilizadas en un laboratorio también varían en función de diferentes factores. Discutimos las herramientas con más detalle en el Módulo 10, "Herramientas y análisis de código". Aquí solo mencionamos algunos de los tipos de herramientas utilizadas en las pruebas de penetración. Ya sea que esté realizando pruebas de penetración en la red de un cliente, en su propia red o en un dispositivo específico, siempre necesita algún tipo de entorno de laboratorio para usar para las pruebas. Por ejemplo, al probar una red de clientes, lo más probable es que realice la mayoría de las pruebas en los entornos de producción o ensayo del cliente, ya que estos son los entornos que a un cliente le suele preocupar proteger correctamente. Debido a que este podría ser un entorno de red crítico, debe estar seguro de que sus herramientas estén probadas y sean verdaderas, y aquí es donde entra en juego su entorno de pruebas de laboratorio. Siempre debe probar sus herramientas y técnicas en su entorno de laboratorio antes de ejecutarlas en una red de clientes. No hay garantía de que las herramientas que utilice no rompan algo. De hecho, muchas herramientas están diseñadas para romper cosas. Por lo tanto, debe saber qué esperar antes de dar rienda suelta a las herramientas en una red de clientes. Al probar un dispositivo o solución específica que solo se encuentra en un entorno de laboratorio, hay menos preocupación por romper cosas. Con este tipo de pruebas, normalmente se utiliza una red cerrada que se puede revertir fácilmente si es necesario.
 
 Hay muchas distribuciones de Linux diferentes que incluyen herramientas y recursos de pruebas de penetración, como Kali Linux (kali.org), Parrot OS (parrotsec.org) y BlackArch (blackarch.org). Estas distribuciones de Linux le brindan un entorno muy conveniente para comenzar a aprender sobre las diferentes herramientas y metodologías de seguridad utilizadas en las pruebas de penetración. Puede implementar un laboratorio básico de pruebas de penetración utilizando solo un par de máquinas virtuales en entornos de virtualización como Virtual Box (virtualbox.org) o VMware Workstation/Fusion (vmware.com).
@@ -42,3 +50,17 @@ Para probar las plataformas de servidor y cliente en un entorno, puede utilizar 
 Ser capaz de recuperar el entorno de laboratorio es importante por muchas razones. Como se mencionó anteriormente, al hacer pruebas de penetración, romperá cosas; A veces, cuando rompes cosas, no se recuperan por sí solas. Por ejemplo, cuando está probando aplicaciones web, algunos de los ataques que envía ingresarán datos falsos en los campos del formulario, y es probable que esos datos terminen en la base de datos, por lo que su base de datos se llenará con esos datos falsos. Obviamente, en un entorno de producción, esto no es algo bueno. Los datos que se introducen también pueden ser de naturaleza maliciosa, como scripting y ataques de inyección. Esto también puede causar daños en la base de datos. Por supuesto, sabe que esto sería un problema en un entorno de producción. También es un problema en un entorno de laboratorio si no tiene una manera fácil de recuperarse. Sin un método de recuperación rápida, es probable que se quede atascado reconstruyendo su sistema bajo prueba. Esto puede llevar mucho tiempo y, si lo haces para un cliente, puede afectar a tu cronograma general.
 
 Lo ideal es utilizar algún tipo de entorno virtual, ya que ofrece funciones de instantáneas y restauración del estado del sistema. Sin embargo, a veces esto no es posible. Por ejemplo, puede estar probando un sistema que no se puede virtualizar. En tal caso, es necesario tener una copia de seguridad completa del sistema o entorno. De esta manera, puede volver a ponerse en marcha rápidamente y probar si algo se rompe, porque lo más probable es que lo haga. Después de todo, estás haciendo pruebas de penetración.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬅️ Anterior: [[7- Comparar metodologías de pentesting]]
+- ➡️ Siguiente: [[Conclusiones]]
+
+## Relacionadas
+
+- [[../../../01-Sistemas-Operativos/Linux/0- Configuracion inicial/1- Configuración Básica de Máquina Virtual Kali Linux|Configuración Kali VM]] — paso a paso de Kali en VirtualBox.
+- [[../../../01-Sistemas-Operativos/Linux/0- Configuracion inicial/2- Configuración Básica de Máquina Virtual Parrot Os|Configuración Parrot OS]] — alternativa a Kali.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/8- Gestión de Servidores con Scripts de Bash/1- Instalación de Ubuntu Server – Laboratorio donde Automatizaremos su Uso|Ubuntu Server lab]] — servidor target para los laboratorios.

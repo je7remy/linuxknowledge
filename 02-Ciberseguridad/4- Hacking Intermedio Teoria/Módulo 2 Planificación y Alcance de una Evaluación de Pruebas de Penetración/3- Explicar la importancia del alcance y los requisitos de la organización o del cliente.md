@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [alcance, scope, requisitos-cliente, entorno-conocido, entorno-desconocido, entorno-parcial]
+actualizado: 2026-05-28
+---
+
+# Explicar la importancia del alcance y los requisitos de la organización o del cliente
+
 ### **Descripción general**
 
 Como sabes, la ciberseguridad es un tema importante en los negocios y la sociedad. Las regulaciones y los marcos de cumplimiento han evolucionado para guiar a las organizaciones en las medidas necesarias para minimizar el riesgo de pérdidas debido a los ataques cibernéticos. Algunas medidas son solo pautas, pero otras son legalmente obligatorias. En algunos casos, se requieren evaluaciones de seguridad independientes para que las organizaciones puedan ser aprobadas para manejar información protegida o transacciones financieras.
@@ -181,4 +189,17 @@ En este tipo de pruebas (anteriormente conocidas como pruebas de penetración de
 En este tipo de pruebas (anteriormente conocidas como pruebas de penetración de caja negra), el evaluador generalmente recibe solo una cantidad muy limitada de información. Por ejemplo, es posible que al evaluador solo se le proporcionen los nombres de dominio y las direcciones IP que están en el alcance de un objetivo en particular. La idea de este tipo de limitación es que el evaluador comience con la perspectiva que podría tener un atacante externo. Por lo general, un atacante primero determinaría un objetivo y luego comenzaría a recopilar información sobre el objetivo, utilizando información pública y obteniendo más y más información para usar en los ataques. El evaluador no tendría conocimiento previo de la organización y la infraestructura del objetivo. Otro aspecto de las pruebas en entornos desconocidos es que, a veces, el personal de soporte de red del objetivo puede no recibir información sobre cuándo exactamente se está llevando a cabo la prueba. Esto permite que se lleve a cabo un ejercicio de defensa, y también elimina el problema de que un objetivo se prepare para la prueba y no brinde una visión del mundo real de la postura de seguridad.
 
 En una prueba de entorno conocido, el ámbito podría ser solo identificar una ruta de acceso a la organización y detenerse allí. En el caso de las pruebas en entornos desconocidos, el alcance suele ser mucho más amplio e incluye la auditoría de la configuración de la red interna y el análisis de los equipos de sobremesa en busca de defectos. El tiempo y el dinero suelen ser factores decisivos en la determinación de qué tipo de prueba de penetración completar. Si una empresa tiene preocupaciones específicas sobre una aplicación, un servidor o un segmento de la infraestructura, puede proporcionar información sobre ese objetivo específico para disminuir el alcance y la cantidad de tiempo dedicado a la prueba, pero aún así descubrir los resultados deseados. Con la sofisticación y las capacidades de los adversarios de hoy en día, es probable que la mayoría de las redes se vean comprometidas en algún momento, y un enfoque de prueba de entorno desconocido suele ser una buena opción.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬅️ Anterior: [[2- Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento]]
+- ➡️ Siguiente: [[4- Laboratorio - Alcance y planificación previa al compromiso]]
+
+## Relacionadas
+
+- [[4- Laboratorio - Alcance y planificación previa al compromiso]] — laboratorio aplicado.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/2- Tipos de pruebas de penetración|HackTheBox → Tipos]] — Black/Grey/White Box scope.
 

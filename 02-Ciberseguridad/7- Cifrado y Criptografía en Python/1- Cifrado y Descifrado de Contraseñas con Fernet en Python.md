@@ -1,5 +1,10 @@
-
 ---
+tipo: laboratorio
+tags: [python, fernet, cryptography, cifrado-simetrico, password-storage]
+actualizado: 2026-05-28
+---
+
+# Cifrado y Descifrado de Contraseñas con Fernet en Python
 
 #Python #Cifrado #Descifrado #Seguridad #Fernet #Cryptography #ContraseñasSeguras
 
@@ -196,6 +201,16 @@ gAAAAABnzE_eSYvY2JrDZFb_EBC023c4huAn9Bu27YdqbCSkTzbsqW0F8r_gCBXe6z541aZA3LfCeQXW
 
 
 
-[[Hoja de Trucos HASHCAT]]
-[[Guía rápida de fundamentos en Python]]
-[[2- Laboratorios de Python]]
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+
+## Relacionadas
+
+- [[Hoja de Trucos HASHCAT]] — contraparte ofensiva: descifrar contraseñas.
+- [[Guía rápida de fundamentos en Python]] — base del lenguaje.
+- [[2- Laboratorios de Python]] — catálogo de laboratorios Python.
+- [[../3- hacking basico/1- Teoria de Ciberseguridad/5- Aprovechamiento de las vulnerabilidades de seguridad|Cisco → Vulnerabilidades]] — el módulo recomienda cifrar contraseñas.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/index|Python → 9- Defensiva]] — más técnicas defensivas con Python.

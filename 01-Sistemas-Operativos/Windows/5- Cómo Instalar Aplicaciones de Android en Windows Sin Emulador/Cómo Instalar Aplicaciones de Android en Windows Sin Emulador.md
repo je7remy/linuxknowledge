@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [android, wsa, windows-subsystem-android, virtualizacion, downloader, play-store]
+actualizado: 2026-05-28
+---
+
+# Cómo Instalar Aplicaciones de Android en Windows Sin Emulador
 
 ---
 
@@ -108,3 +115,15 @@ Con Downloader, puedes instalar cualquier app de Android con un código.
 3. Busca la app que instalaste (como la "magis tv").
 4. Si quieres un acceso directo, haz clic derecho en la app y selecciona **Agregar al escritorio** (o arrástrala al escritorio si puedes).
 5. ¡Listo! Haz doble clic en el ícono para abrirla.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|01 → Windows]]
+
+## Relacionadas
+
+- [[../../../05-Recursos/Android/index|05 → Android]] — guías relacionadas con Android.
+- [[../../../05-Recursos/Android/1- Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)/index|Play Store Amazon Fire]] — equivalente para tablets Amazon Fire.
+- [[../6- Evaluación e Instalación de Sistemas Alternativos en Chromebook/Evaluación e Instalación de Sistemas Alternativos en Chromebook|Chromebook PrimeOS]] — alternativa Android-x86 en Chromebook.

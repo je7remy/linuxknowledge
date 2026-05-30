@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [tmux, vim, nmap, gobuster, metasploit, shells, privesc, scp]
+actualizado: 2026-05-28
+---
+
+# Basic Tools — Cheatsheet HackTheBox
 
 #CyberSecurity #Pentesting #EthicalHacking #HackingTools #Nmap #Metasploit #ReverseShell #PrivilegeEscalation #WebEnumeration #LinuxSecurity #InfoSec #NetworkSecurity #BugBounty #CTF #RedTeam #ExploitDevelopment #ShellScripting #VulnerabilityScanning #SecurityTesting #OSINT
 
@@ -99,5 +104,19 @@
 
 
 
-**[[3- hoja de trucos de METASPLOIT]]**
-**[[4- Metasploit]]**
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|2- basico]]
+- ⬅️ Anterior: [[0- Comandos de Hacking]]
+- ➡️ Siguiente: [[2- escalada de privilegios]]
+
+## Relacionadas
+
+- [[3- hoja de trucos de METASPLOIT]] — Metasploit conceptos.
+- [[4- Metasploit]] — Metasploit comandos completos.
+- [[0- Comandos de Hacking]] — versión extendida con explicación de cada comando.
+- [[../4- privilege scalation/1- privilege scalation basic|Privesc detallado]] — sección "Privilege Escalation" de esta nota explicada.
+- [[../5- shells/1- basic shells|Basic shells]] — sección "Using Shells" detallada.
+- [[../../5- Reconocimiento/1- Nmap/1- Hoja de trucos NMAP|Nmap cheatsheet]] — sección "Service Scanning" detallada.

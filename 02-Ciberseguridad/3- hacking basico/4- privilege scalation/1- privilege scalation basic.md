@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [privilege-escalation, linux, windows, linpeas, sudo, suid, kernel-exploit, cron, ssh-keys]
+actualizado: 2026-05-28
+---
 
-----------
+# Privilege Escalation Basic
 
 #privilegeescalation  
 
@@ -235,5 +240,23 @@ root@remotehost#
 Como podemos ver, ahora podemos ssh en el usuario . Los módulos [Escalada de privilegios de Linux](https://academy.hackthebox.com/module/details/51) y Escalada de [privilegios de Windows](https://academy.hackthebox.com/module/details/67) ofrecen más detalles sobre cómo usar cada uno de estos métodos para la escalada de privilegios y muchos otros.`root`
 
 
-**[[2- escalada de privilegios]]**
-**[[2- python hijacking]]**
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|4- privilege scalation]]
+- ➡️ Siguiente: [[2- python hijacking]] — técnica específica de path hijacking.
+
+## Relacionadas (siguientes pasos y técnicas)
+
+- [[2- python hijacking]] — vector específico de privesc vía Python.
+- [[2- escalada de privilegios]] — notas adicionales de privesc en `2- basico`.
+
+## Relacionadas (cross-domain)
+
+- [[../3- hosts/6- NFS]] — escalada vía claves SSH expuestas en NFS shares.
+- [[../3- hosts/11- SSH]] — uso de claves robadas para login remoto.
+- [[../5- shells/index|5- Shells]] — el shell inverso del que partimos.
+- [[6- Gestión de Usuarios en Linux]] — usuarios, sudoers y permisos.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/2- Gestión de Permisos y Tratamiento de la Información/9- Permisos Especiales – BIt SUID|SUID]] — teoría del bit SUID.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/2- Gestión de Permisos y Tratamiento de la Información/8- Permisos Especiales – Sticky Bit|Sticky Bit]] — otro permiso especial.

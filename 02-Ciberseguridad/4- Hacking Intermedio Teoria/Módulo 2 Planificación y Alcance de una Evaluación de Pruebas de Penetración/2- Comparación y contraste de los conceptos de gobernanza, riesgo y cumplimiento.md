@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [gobernanza, riesgo, cumplimiento, grc, nda, msa, sow, hipaa, gdpr, pci-dss]
+actualizado: 2026-05-28
+---
+
+# Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento
+
 ### **Descripción general**
 
 Una de las fases más importantes (si no la más importante) de cualquier participación en las pruebas de penetración es la fase de planificación y preparación. Durante esta fase, tendrá un alcance claro de su compromiso. Si no tienes el alcance correcto, definitivamente tendrás problemas con tu cliente (si trabajas como consultor) o con tu jefe (si eres parte de un red team corporativo), e incluso podrías encontrar problemas legales.
@@ -295,4 +303,17 @@ También debe especificar que el informe de pruebas de penetración está destin
 Otra exención de responsabilidad estándar es que usted (o sus organizaciones) no proporcionan garantías, representaciones o certificaciones legales con respecto a las aplicaciones o sistemas que fueron o serán probados. Un descargo de responsabilidad podría decir que su informe de pruebas de penetración no representa ni garantiza que la aplicación probada sea adecuada para la tarea y esté libre de otras vulnerabilidades o defectos funcionales distintos de los informados. Además, es estándar incluir un descargo de responsabilidad que indique que dichos sistemas cumplen plenamente con cualquier estándar de la industria o son totalmente compatibles con cualquier sistema operativo, hardware u otra aplicación.
 
 Por supuesto, estas son ideas generales y mejores prácticas. También puede contratar a un abogado para que le ayude a crear y personalizar sus contratos, según sea necesario.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬅️ Anterior: [[1- Qué aprenderé en este curso]]
+- ➡️ Siguiente: [[3- Explicar la importancia del alcance y los requisitos de la organización o del cliente]]
+
+## Relacionadas
+
+- [[5- Laboratorio - Crear un acuerdo de pentesting]] — aplicación práctica de los contratos.
+- [[3- Explicar la importancia del alcance y los requisitos de la organización o del cliente]] — el alcance como pieza central del contrato.
 

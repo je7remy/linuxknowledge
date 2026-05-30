@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [osint, active-directory, asn, dns, social-media, breach-data, dehashed, haveibeenpwned]
+actualizado: 2026-05-28
+---
 
-------------
+# OSINT — Reconocimiento pasivo de Active Directory
 
 #osint #activeDirectory  
 
@@ -17,6 +22,19 @@ Nuestra lista de puntos de datos anterior se puede recopilar de muchas maneras d
 |`Cloud & Dev Storage Spaces`|[GitHub](https://github.com/), [buckets de AWS S3 y contenedores de almacenamiento de Azure Blog](https://grayhatwarfare.com/), [búsquedas de Google usando "Dorks"](https://www.exploit-db.com/google-hacking-database)|
 |`Breach Data Sources`|[HaveIBeenPwned](https://haveibeenpwned.com/) para determinar si alguna cuenta de correo electrónico corporativo aparece en los datos públicos de filtración, [Dehashed](https://www.dehashed.com/) para buscar correos electrónicos corporativos con contraseñas de texto sin cifrar o hashes que podemos intentar descifrar sin conexión. A continuación, podemos probar estas contraseñas en cualquier portal de inicio de sesión expuesto (Citrix, RDS, OWA, 0365, VPN, VMware Horizon, aplicaciones personalizadas, etc.) que pueda utilizar la autenticación AD.|
 
-**[[2- Tools]]**
-**[[5- nmap scripts]]** 
-**[[Extraer Metadatos]]**
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|7- Active Directory]]
+- ➡️ Siguiente: [[2- Tools]]
+
+## Relacionadas
+
+- [[2- Tools]] — siguiente paso: herramientas activas (BloodHound, PowerView, etc.).
+- [[3- OSINT, Cómo encontrar información pública de cualquier persona]] — guía práctica OSINT sobre personas.
+- [[5- nmap scripts]] — fase activa: NSE complementa el OSINT pasivo.
+- [[Extraer Metadatos]] — técnica OSINT específica de documentos.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/index|02 → hosts]] — enumeración activa de los servicios descubiertos.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/9- SMB|SMB]] — protocolo central en AD.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/3- Ldap|LDAP]] — protocolo central en AD.

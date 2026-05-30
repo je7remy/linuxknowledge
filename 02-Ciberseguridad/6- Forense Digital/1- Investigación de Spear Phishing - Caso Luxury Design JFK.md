@@ -1,5 +1,10 @@
-
 ---
+tipo: laboratorio
+tags: [forense, spear-phishing, hacker-mentor, sandbox, anyrun, ipinfo, caso-practico]
+actualizado: 2026-05-28
+---
+
+# Investigación de Spear Phishing — Caso Luxury Design JFK
 
 #ForenseDigital #SpearPhishing #Ciberseguridad #HackerMentor #CasoPráctico
 
@@ -82,3 +87,15 @@
   - Geolocalización: **IPinfo.io**.  
 
 ---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|6- Forense Digital]]
+- ➡️ Siguiente: [[2- Introducción Práctica y Demostración]]
+
+## Relacionadas
+
+- [[2- Introducción Práctica y Demostración]] — fundamentos del análisis forense aplicable a casos como éste.
+- [[4- Caso Practico, Un hacker entró a mi equipo]] — caso similar de respuesta a incidente.
+- [[../2- Extraer Metadatos de imagenes/1- Extraer Metadatos de las imagenes|Metadatos de imágenes]] — técnica usada en investigaciones de phishing.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/index|Google → 6- Detección y respuesta]] — marco teórico de respuesta a incidentes.

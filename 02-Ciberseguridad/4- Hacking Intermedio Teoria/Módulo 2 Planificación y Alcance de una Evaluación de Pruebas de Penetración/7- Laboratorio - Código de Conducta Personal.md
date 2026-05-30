@@ -1,12 +1,20 @@
+---
+tipo: laboratorio
+tags: [codigo-conducta, etica, toma-decisiones, escenarios, utilitarismo, derechos, bien-comun, cambridge-analytica]
+actualizado: 2026-05-28
+---
+
+# Laboratorio — Código de Conducta Personal
+
 # Instrucciones
 
-## Parte 1: Enfoques de investigación para la toma de decisiones éticas
+## Parte 1: Enfoques de investigación para la toma de decisiones éticas
 
 Existen varios enfoques o perspectivas sobre la toma de decisiones éticas, incluida la ética utilitarista, el enfoque de derechos y el enfoque del bien común. Otros modelos de decisión ética incluyen el enfoque de equidad o justicia, así como el enfoque de la virtud.
 
 En esta parte, utilizará Internet para investigar cada modelo o marco de decisión ética y luego formulará el principio subyacente a partir de ese enfoque.
 
-### Paso 1: Ética utilitarista de la investigación
+### Paso 1: Ética utilitarista de la investigación
 
 Definir el principio subyacente para el enfoque de la ética utilitarista.
 
@@ -14,7 +22,7 @@ El principio subyacente de la ética utilitarista es el **principio de utilidad*
 
 En el utilitarismo, la moralidad se evalúa en función de las consecuencias de las acciones, y estas se juzgan buenas o malas según el nivel de felicidad (o reducción de sufrimiento) que generen. Esto implica un enfoque práctico y cuantitativo para la ética, en el cual el objetivo es maximizar el bienestar general de la sociedad.
 
-### Paso 2: Investigue el enfoque de derechos para la toma de decisiones éticas.
+### Paso 2: Investigue el enfoque de derechos para la toma de decisiones éticas.
 
 Definir el principio subyacente del enfoque de derechos para la toma de decisiones éticas.
 
@@ -30,7 +38,7 @@ El principio subyacente del **enfoque del bien común** en la toma de decisiones
 
 En el enfoque del bien común, se considera que todos los miembros de una comunidad están interrelacionados y que el bienestar de cada persona está conectado al bienestar de los demás. Por lo tanto, se priorizan aquellas acciones y políticas que fomentan condiciones sociales, económicas y ambientales que beneficien a todos, facilitando así una convivencia justa, equitativa y colaborativa en la sociedad. Este enfoque valora principios como la justicia, la equidad, la solidaridad y el acceso equitativo a los recursos compartidos y oportunidades básicas.
 
-### Paso 4: Investiga el enfoque de equidad o justicia para la toma de decisiones éticas.
+### Paso 4: Investiga el enfoque de equidad o justicia para la toma de decisiones éticas.
 
 Definir el principio subyacente para el enfoque de equidad o justicia para la toma de decisiones éticas.
 
@@ -38,7 +46,7 @@ El principio subyacente del **enfoque de equidad o justicia** en la toma de deci
 
 Inspirado en teorías como la justicia distributiva de John Rawls, este enfoque sostiene que es ético actuar de manera que se minimicen las desigualdades y se promueva una sociedad donde todos los individuos, especialmente los menos privilegiados, tengan acceso equitativo a los recursos básicos y a oportunidades. La equidad implica tomar decisiones que respeten y protejan la dignidad de cada persona, ofreciendo apoyo adicional a quienes lo necesiten para lograr una igualdad efectiva en sus oportunidades y condiciones de vida.
 
-## Parte 2: Códigos de Ética de la Investigación
+## Parte 2: Códigos de Ética de la Investigación
 
 La mayoría de las organizaciones desarrollan su propio código de ética. Desarrollado por la gerencia, este documento se basa en valores y principios que promueven el negocio de la empresa con honestidad e integridad.
 
@@ -72,7 +80,7 @@ Para desarrollar un código de ética en el campo de la tecnología de la inform
 
 Estos elementos promueven un entorno de TI responsable y ético, estableciendo pautas que ayudan a los profesionales a actuar en beneficio tanto de los clientes como de la sociedad.
 
-## Parte 3: Desarrolle su propio código personal de conducta ética
+## Parte 3: Desarrolle su propio código personal de conducta ética
 
 Un código de conducta proporciona pautas para comportamientos específicos aceptables e inaceptables.
 
@@ -123,3 +131,17 @@ El elemento más desafiante de un código de ética en hacking ético es **mante
 El desafío radica en equilibrar la ética profesional con la responsabilidad de informar vulnerabilidades que podrían tener un impacto significativo en la seguridad general del cliente. Respetar los límites es esencial para evitar consecuencias legales y éticas, pero el interés en la seguridad total del sistema puede hacer que sea tentador investigar estas fallas. Además, el alcance suele definirse antes de que se conozcan todas las vulnerabilidades potenciales, lo que puede limitar la efectividad de la evaluación.
 
 Para abordar este desafío, es fundamental establecer una comunicación continua y clara con el cliente, informándole de cualquier hallazgo importante fuera del alcance y solicitando aprobación para investigar más.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬅️ Anterior: [[6- Demostrar una mentalidad de hacking ético manteniendo el profesionalismo y la integridad]]
+- ➡️ Siguiente: [[Conclusiones]]
+
+## Relacionadas
+
+- [[6- Demostrar una mentalidad de hacking ético manteniendo el profesionalismo y la integridad]] — base teórica de la ética profesional.
+- [[../../3- hacking basico/1- Teoria de Ciberseguridad/2- De qué color es mi sombrero|Cisco → Color del sombrero]] — taxonomía white/grey/black hat.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/1- Introducción|HackTheBox → Intro pentesting]] — marco general donde aplica esta ética.

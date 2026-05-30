@@ -1,3 +1,10 @@
+---
+tipo: teoria
+tags: [calidad, seguridad-ia, guardrails, evaluacion-llm, prompt-injection, python, ms-reactor]
+actualizado: 2026-05-28
+---
+
+# Sesión 6 — Python + IA, Calidad y seguridad
 
 # Sesión de Calidad y Seguridad en IA con Python
 

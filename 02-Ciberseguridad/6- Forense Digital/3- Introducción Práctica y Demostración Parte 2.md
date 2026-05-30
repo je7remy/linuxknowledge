@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [forense, espionaje-industrial, autopsy, tryhackme, openvpn, xfreerdp, siem]
+actualizado: 2026-05-28
+---
+
+# Introducción Práctica y Demostración (Parte 2)
 
 ---
 
@@ -122,6 +129,22 @@ Aquí detallo el procedimiento estándar para realizar un análisis forense, bas
 - **Aplicación en el caso**: Analizar logs del teléfono (e.g., registros de llamadas) y de la laptop (e.g., conexiones de red) para reconstruir la operación de "William Super Mlin".
 
 Esta metodología asegura que la investigación sea sistemática, reproducible y válida en contextos legales o corporativos.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|6- Forense Digital]]
+- ⬅️ Anterior: [[2- Introducción Práctica y Demostración]]
+- ➡️ Siguiente: [[4- Caso Practico, Un hacker entró a mi equipo]]
+
+## Relacionadas
+
+- [[2- Introducción Práctica y Demostración]] — parte 1 de esta serie.
+- [[4- Caso Practico, Un hacker entró a mi equipo]] — aplicación real con análisis de memoria.
+- [[1- Investigación de Spear Phishing - Caso Luxury Design JFK]] — otro caso con técnicas similares.
+- [[../3- hacking basico/3- hosts/12- Windows Hosts|12- Windows Hosts]] — xfreerdp aparece en ambos contextos.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/index|Python → 9- Ciberseguridad Defensiva]] — automatización de análisis defensivo.
 
 ---
 

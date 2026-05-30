@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [nmap, reconocimiento, pentesting, hackthebox]
+actualizado: 2026-05-28
+---
+
+# Nmap — Comandos (HackTheBox)
 
 #Pentesting #Hacking #CyberSecurity #RedTeam #BlueTeam #Nmap #PortScanning #NetworkSecurity #Reconnaissance #Metasploit #Exploits #PrivilegeEscalation #ReverseShell #LinuxTools #Tmux #Vim #SSH #FTP #Gobuster #SNMP #SMB #OSINT #ExifTool #Metadata #Forensics
 
@@ -56,9 +61,22 @@
 
 
 
-**[[Extraer Metadatos]]**
-**[[1- OSINT]]**
-**[[2- Tools]]**
-[[1- Hoja de trucos NMAP]]
-[[5- nmap scripts]]
-[[3- nmap firewall evasion]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬅️ Anterior: [[1- Hoja de trucos NMAP]]
+- ➡️ Siguiente: [[3- nmap firewall evasion]] — evasión de firewalls e IDS/IPS.
+
+## Relacionadas (Nmap)
+
+- [[1- Hoja de trucos NMAP]] — cheatsheet alternativa, formato tabla genérica.
+- [[5- nmap scripts]] — NSE y categorías de scripts (`-sC`, `--script`).
+- [[3- nmap firewall evasion]] — opciones `-D`, `-S`, `-g`, `--source-port` desde aquí.
+
+## Relacionadas (fuera de Nmap)
+
+- [[1- OSINT]] — fase pasiva de reconocimiento.
+- [[2- Tools]] — herramientas adicionales para AD/Windows.
+- [[Extraer Metadatos]] — técnica complementaria de recolección.

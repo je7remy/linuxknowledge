@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [nmap, reconocimiento, pentesting, redes]
+actualizado: 2026-05-28
+---
+
+# Hoja de trucos NMAP
 
 #Nmap #Pentesting #CyberSecurity #HackingÉtico #EthicalHacking #InfoSec #RedTeam #BlueTeam #SeguridadInformática #EscaneoDeRedes #OSINT #Networking #SysAdmin #DevSecOps #PortScanning #NetworkSecurity #CTF #Redes #Ciberseguridad
 
@@ -86,11 +91,24 @@
 
 
 
-[[1- Comandos Basicos - Intermedio]]
-**[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]**
-**[[4- Análisis de la Red con Bash – PARTE 2]]** 
-**[[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]**
-**[[3- nmap firewall evasion]]**
-**[[4- nmap output]]**
-[[2- nmap comands]]
-[[5- nmap scripts]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|1- Nmap]]
+- ➡️ Siguiente: [[2- nmap comands]] — cheatsheet alternativa con foco en HackTheBox.
+
+## Relacionadas (Nmap)
+
+- [[3- nmap firewall evasion]] — evasión de firewalls/IDS, extiende los temporizadores `T0`-`T5` vistos arriba.
+- [[4- nmap output]] — formatos `-oN`/`-oG`/`-oX` para guardar resultados.
+- [[5- nmap scripts]] — NSE: scripts predeterminados (`-sC`) y por categoría.
+- [[6- nmap Time]] — profundiza los modificadores de tiempo y rendimiento (`-T0..-T5`, `--min-rate`).
+
+## Relacionadas (fuera de Nmap)
+
+- [[2- Puertos Principales]] — referencia de puertos comunes que aparecen en escaneos.
+- [[1- Comandos Basicos - Intermedio]] — comandos Linux base.
+- [[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]] — uso aplicado en laboratorio Bash.
+- [[4- Análisis de la Red con Bash – PARTE 2]] — continuación del análisis.
+- [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]] — herramientas complementarias para tráfico.

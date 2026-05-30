@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [active-directory, bloodhound, powerview, sharphound, impacket, mimikatz, kerberos, kerbrute, crackmapexec, ntlmrelayx, evil-winrm, hashcat, ldap, smb]
+actualizado: 2026-05-28
+---
+
+# Active Directory — Catálogo de Herramientas
 
 #CyberSecurity #EthicalHacking #RedTeam #PenTesting #ActiveDirectory #ADSecurity #BloodHound #PowerView #SharpView #Kerberos #Hashcat #Impacket #CrackMapExec #LDAP #SMB #PrivilegeEscalation #WindowsSecurity #HackingTools #OSINT
 
@@ -110,6 +115,28 @@
 | [ADRecon](https://github.com/adrecon/ADRecon)                                                                                                 | A tool used to extract various data from a target AD environment. The data can be output in Microsoft Excel format with summary views and analysis to assist with analysis and paint a picture of the environment's overall security state.                                                                                                                                                                                                                                                                                                                                                             |
 
 
-**[[1- OSINT]]**
-**[[Extraer Metadatos]]**
-**[[2- nmap comands]]** 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|7- Active Directory]]
+- ⬅️ Anterior: [[1- OSINT]]
+- ➡️ Siguiente: [[3- OSINT, Cómo encontrar información pública de cualquier persona]]
+
+## Relacionadas (precursores: reconocimiento)
+
+- [[1- OSINT]] — fase pasiva previa al uso de estas herramientas.
+- [[Extraer Metadatos]] — metadata como vector OSINT.
+- [[2- nmap comands]] — escaneo activo de la red AD.
+- [[../../../02-Ciberseguridad/5- Reconocimiento/1- Nmap/index|02 → Nmap (cobertura completa)]]
+
+## Relacionadas (protocolos y servicios)
+
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/9- SMB]] — protocolo donde aplican Impacket, CrackMapExec, smbmap.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/3- Ldap]] — donde aplican ldapsearch, windapsearch.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/12- Windows Hosts]] — entornos donde aplican evil-winrm, wmiexec, mssqlclient.
+
+## Relacionadas (cracking)
+
+- [[../../../02-Ciberseguridad/1- Cracking/1- Cracking|02 → Cracking]] — Hashcat para hashes de Kerberoasting/ASREPRoasting.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/2- IPMI]] — Hashcat también para IPMI.

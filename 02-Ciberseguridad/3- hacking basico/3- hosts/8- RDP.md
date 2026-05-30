@@ -1,3 +1,10 @@
+---
+tipo: cheatsheet
+tags: [rdp, remote-desktop, windows, pass-the-hash, hijacking, brute-force, hosts]
+actualizado: 2026-05-28
+---
+
+# RDP — Cheatsheet de Ataques
 
 ## Attacking RDP
 
@@ -12,3 +19,16 @@
 |`xfreerdp /v:192.168.2.141 /u:admin /pth:A9FDFA038C4B75EBC76DC855DD74F0DA`|Use the Pass-The-Hash technique to login on the target host without a password.|
 
 ---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[7- Oracle TNS]]
+- ➡️ Siguiente: [[9- SMB]]
+
+## Relacionadas
+
+- [[12- Windows Hosts]] — versión extendida con teoría de RDP + WinRM + WMI.
+- [[9- SMB]] — combinación clásica con Pass-The-Hash desde SMB hashes.
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — RDP es vector estándar en pentest AD.
+- [[1- Hoja de trucos NMAP]] — scripts `rdp-enum-encryption`, `rdp-ntlm-info` NSE.

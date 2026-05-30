@@ -1,3 +1,9 @@
+---
+tipo: teoria
+tags: [pentesting, dominios, redes, web, movil, cloud, social, wireless, software]
+actualizado: 2026-05-28
+---
+
 # Áreas y Dominios de Pruebas en Ciberseguridad
 
 Además de los tres tipos fundamentales de pruebas (caja negra, caja gris y caja blanca), las **pruebas de penetración** también se clasifican según el entorno o dominio objetivo específico que se evalúa. Este enfoque permite una evaluación más enfocada y especializada, abordando los desafíos únicos de seguridad asociados con un ecosistema tecnológico o componente de infraestructura particular. A continuación, se detallan los principales dominios de pruebas:
@@ -107,3 +113,18 @@ Por lo tanto, las pruebas de seguridad exhaustivas requieren un enfoque holísti
 
 ## Conclusión
 Comprender estas áreas ayuda a los evaluadores a planificar y ejecutar pruebas de seguridad más efectivas, lo que permite a las organizaciones proteger mejor sus activos e información. Además, muchos profesionales de ciberseguridad desarrollan una afinidad por dominios específicos, lo que puede dar forma a su trayectoria profesional y ayudarles a convertirse en expertos en áreas particulares.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|2- Introducción a las pruebas de penetración]]
+- ⬅️ Anterior: [[2- Tipos de pruebas de penetración]]
+- ➡️ Siguiente: [[4- Beneficios de las pruebas de penetración]]
+
+## Relacionadas
+
+- [[../../../../../../02-Ciberseguridad/5- Reconocimiento/1- Nmap/index|02 → Nmap]] — herramienta núcleo del dominio "Infraestructura de Red".
+- [[../../../../../../02-Ciberseguridad/3- hacking basico/6- Web/index|02 → Web]] — vectores SQLi/XSS del dominio "Aplicaciones Web".
+- [[../../../../../../02-Ciberseguridad/3- hacking basico/3- hosts/index|02 → hosts]] — explotación de servicios sobre infraestructura de red.
+- [[../../1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/14- Man-in-the-Middle (MitM) con Bettercap en Kali Linux|MitM con Bettercap]] — ejemplo aplicado al dominio inalámbrico.

@@ -1,4 +1,7 @@
-
+---
+tipo: laboratorio
+tags: [windows, iso, descarga, microsoft, devtools]
+actualizado: 2026-05-28
 ---
 
 #Windows #ISO #Trucos #Descargas #Microsoft
@@ -27,4 +30,16 @@ Este método permite descargar la ISO de Windows 10 Pro (o Windows 11) directame
 
 - Este truco funciona porque la web de Microsoft detecta dispositivos móviles y ofrece la descarga directa de la ISO en lugar de la herramienta de actualización.
 - Se puede usar este método también para Windows 11.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|01 → Windows]]
+
+## Relacionadas
+
+- [[../2- Instalacion de Sistemas Operativos con Ventoy/index|Ventoy]] — siguiente paso: crear USB booteable con la ISO.
+- [[../2- Instalacion de Sistemas Operativos con Ventoy/1- 📌 Guía para Instalación de Sistemas Operativos con Ventoy|Guía Ventoy]] — instalación.
+- [[../2- Instalacion de Sistemas Operativos con Ventoy/2- Saltar conexión Wi-Fi Windows|Saltar Wi-Fi]] — workaround durante setup.
 

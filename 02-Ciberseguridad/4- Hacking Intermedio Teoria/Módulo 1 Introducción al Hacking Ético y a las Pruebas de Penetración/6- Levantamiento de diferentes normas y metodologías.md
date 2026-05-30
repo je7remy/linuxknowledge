@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [mitre-attck, owasp-wstg, osstmm, ptes, nist-800-115, issaf, metodologias]
+actualizado: 2026-05-28
+---
+
+# Levantamiento de diferentes normas y metodologías
+
 Hay una serie de metodologías de pruebas de penetración que han existido por un tiempo y continúan actualizándose a medida que surgen nuevas amenazas.
 
 La siguiente es una lista de algunas de las metodologías de pruebas de penetración más comunes y otros estándares:
@@ -48,3 +56,16 @@ El Marco de Evaluación de la Seguridad de los Sistemas de Información (ISSAF) 
 - Poner en peligro a usuarios/sitios remotos
 - Mantener el acceso
 - Cubriendo las vías
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬅️ Anterior: [[5- Por qué debemos seguir una metodología para las pruebas de penetración]]
+- ➡️ Siguiente: [[7- Comparar metodologías de pentesting]]
+
+## Relacionadas
+
+- [[7- Comparar metodologías de pentesting]] — comparativa de estas metodologías.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/1- Introducción|HackTheBox → Intro]] — fases (Reconocimiento → Reporting) similares.

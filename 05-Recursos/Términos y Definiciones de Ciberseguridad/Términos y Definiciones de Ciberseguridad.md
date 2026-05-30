@@ -1,3 +1,9 @@
+---
+tipo: cheatsheet
+tags: [glosario, ciberseguridad, terminos, referencia]
+actualizado: 2026-05-28
+---
+
 # Términos y Definiciones de Ciberseguridad
 
 ## A

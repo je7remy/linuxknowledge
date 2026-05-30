@@ -1,3 +1,11 @@
+---
+tipo: cheatsheet
+tags: [python, fundamentos, referencia, lenguaje, tipos-datos]
+actualizado: 2026-05-28
+---
+
+# Guía rápida de fundamentos en Python
+
 # Tipos de Datos Básicos en Python
 
 Los tipos de datos son la base de cualquier programa, ya que determinan cómo se almacenan y manipulan los valores. Existen tipos primitivos como enteros, flotantes, cadenas de texto y booleanos, y estructuras de datos más avanzadas como listas, tuplas, conjuntos y diccionarios. Conocerlos es fundamental para escribir código eficiente y bien estructurado.

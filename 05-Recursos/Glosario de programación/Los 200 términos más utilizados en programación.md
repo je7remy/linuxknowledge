@@ -1,3 +1,11 @@
+---
+tipo: cheatsheet
+tags: [glosario, programacion, terminos, referencia]
+actualizado: 2026-05-28
+---
+
+# Los 200 términos más utilizados en programación
+
 ### Glosario
 
 ---

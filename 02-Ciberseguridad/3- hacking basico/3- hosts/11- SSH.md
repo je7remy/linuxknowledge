@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [ssh, openssh, sshd_config, rsync, r-services, rlogin, rwho, hosts]
+actualizado: 2026-05-28
+---
 
-------------
+# SSH — Secure Shell + Rsync + R-Services
 
 #SSH #OpenSSH #sshd_config #X11Forwarding #ConfiguracionPeligrosa #SSHAudit #Rsync #TransferenciaDeArchivos #RemoteAdministration #RServices #RCommands #HostsEquiv #PenTesting #Ciberseguridad #InfoSec
 
@@ -321,8 +326,33 @@ Como podemos ver, los servicios R se utilizan con menos frecuencia hoy en día d
 
 
 
-**[[SQL]]**
-[[1- Instalar Base de datos MySQL]]
-[[2- Insertar Información a la Base de Datos desde Python]]
-[[3- Consultas a la Base de Datos]]
-[[4- Consultar a la Base de Datos + Sentencias Condicionales]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[10- SNMP]]
+- ➡️ Siguiente: [[12- Windows Hosts]]
+
+## Relacionadas (transferencia y admin remoto)
+
+- [[1- FTP]] — predecesor inseguro de SSH/SFTP.
+- [[6- NFS]] — alternativa de file-sharing en Linux.
+- [[8- RDP]] / [[12- Windows Hosts]] — equivalentes para Windows.
+
+## Relacionadas (Nmap y cracking)
+
+- [[1- Hoja de trucos NMAP]] — escaneo y huella SSH.
+- [[12- Herramienta para hacer cracking de contraseñas]] — brute-force de SSH con Hydra/Medusa.
+- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría.
+
+## Relacionadas (laboratorios SSH)
+
+- [[5- Cómo Crear un Servidor SSH con OPENSSH]] — Bash: setup SSH.
+- [[6- Acceso Automatizado SSH Importando Clave Pública]] — Bash: claves públicas.
+- [[7- Automatización de Copias de Seguridad en Servidor SSH]] — Bash: backups SSH.
+- [[4- Configuración de Servidor SSH en Linux]] — Python: setup SSH.
+- [[5- Automatizar conexión SSH y Ejecución de Comandos con Python]] — Python: ejecución remota.
+- [[6- Enviar Archivos por SCP desde Python]] — Python: SCP.
+- [[7- Descargar Archivos por SCP desde Python]] — Python: SCP descarga.
+- [[8- Automatizar Copias de Seguridad SSH con Python]] — Python: backups SSH.

@@ -1,5 +1,10 @@
-
 ---
+tipo: teoria
+tags: [hackthebox, vpn, openvpn, pwnbox]
+actualizado: 2026-05-28
+---
+
+# Conectarse a HTB Academy VPN
 
 ## **Conectarse a la VPN de Hack The Box Academy**
 
@@ -75,3 +80,14 @@ cat /var/log/openvpn/htb.log
 🔹 Si cambias de servidor VPN en Pwnbox, todas las instancias anteriores se cerrarán automáticamente.
 
 ---
+
+## Navegación
+
+- ⬆️ Carpeta padre: [[../index|7- HackTheBox]]
+- ➡️ Siguiente: [[../2- Introducción a las pruebas de penetración/1- Introducción]] — comenzar el curso teórico.
+
+## Relacionadas
+
+- [[../2- Introducción a las pruebas de penetración/index|Curso de Introducción al Pentesting]] — siguiente material en la academia.
+- [[../../1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/index|Linux/Bash → Uso básico]] — comandos para operar en la VM una vez conectada.
+- [[../../../0- Configuracion inicial/1- Configuración Básica de Máquina Virtual Kali Linux|Configuración Kali VM]] — alternativa a Pwnbox para usar VM propia.

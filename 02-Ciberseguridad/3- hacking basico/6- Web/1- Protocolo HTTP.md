@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [http, web, url, dns, webrequests, networking]
+actualizado: 2026-05-28
+---
 
-----------
+# Protocolo HTTP
 
 #HTTP #WebSecurity #CyberSecurity #Networking #InfoSec #Pentesting #EthicalHacking #Redes #WebDevelopment #URL #DNS #HackTheBox #WebRequests #HTTPFlow #Security #SysAdmin #DevSecOps #WebScraping #NetworkingBasics #HackingÉtico
 
@@ -48,10 +53,34 @@ En este caso, el contenido de es leído y devuelto por el servidor web como una 
 
 
 
-[[1- Modelo OSI]]
-[[2- Puertos Principales]]
-**[[4- Cómo Utilizar CURL con HTTP]]**
-**[[5- Cómo Utilizar WGET]]**
-**[[3- Securización de Servidores Web Apache – PARTE 1]]**
-**[[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]]**
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[../index|3- hacking basico]]
+- 🏠 Sección: [[../../index|02-Ciberseguridad]]
+
+## Relacionadas (web)
+
+- [[../5- shells/2- tipos de shell|Tipos de shell → Web Shell]] — explotación de HTTP vía webshell.
+- [[../4- privilege scalation/2- python hijacking|Python hijacking]] — usa GET params (`?cmd=`).
+- [[../3- hosts/12- Windows Hosts]] — WinRM funciona sobre HTTP en puertos 5985/5986.
+
+## Relacionadas (fundamentos de red)
+
+- [[1- Modelo OSI]] — HTTP es capa 7.
+- [[2- Puertos Principales]] — puerto 80/443.
+
+## Relacionadas (herramientas)
+
+- [[4- Cómo Utilizar CURL con HTTP]] — cliente HTTP desde Bash.
+- [[5- Cómo Utilizar WGET]] — descarga HTTP desde Bash.
+- [[1- Uso Básico de la Librería Requests]] — cliente HTTP desde Python.
+
+## Relacionadas (defensa y atacantes web)
+
+- [[3- Securización de Servidores Web Apache – PARTE 1]] — hardening Apache.
+- [[6- Securización de Servidores Web Apache – Evitar Ataques de Fuzzing Web – PARTE 4]] — defensa contra fuzzing.
+- [[2- Bash Scripting Aplicado a Ciberseguridad – Script para Hacer Fuzzing Web]] — vector ofensivo de fuzzing.
+- [[3- Ataques de Fuerza Bruta a Panel de Login Web con Python PARTE 1]] — brute-force web desde Python.
 

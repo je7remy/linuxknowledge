@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [geolocalizacion, ghostrack, ipinfo, georrecon, kali, ping, isp, reputacion-ip]
+actualizado: 2026-05-28
+---
+
+# Guía Completa para Rastrear y Geolocalizar una Dirección IP
 
 Esta guía está diseñada para estudiantes principiantes que deseen aprender cómo rastrear y geolocalizar una dirección IP de manera sencilla y práctica. Explicaremos paso a paso el proceso, desde obtener una IP hasta utilizar herramientas específicas para obtener información como la ubicación, el proveedor de servicios de internet (ISP) y la reputación de la IP. También incluiremos ejemplos prácticos y recomendaciones para entornos de aprendizaje seguros.
 
@@ -352,4 +359,21 @@ Rastrear y geolocalizar una dirección IP es una habilidad útil para aprender s
 - Practica en un entorno seguro como Kali Linux.
 - Usa IPs públicas de sitios conocidos para experimentar.
 - Aprende a interpretar los datos y respeta las leyes de privacidad.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta padre: [[../index|5- Reconocimiento]]
+- 🏠 Sección: [[../../index|02-Ciberseguridad]]
+
+## Relacionadas
+
+- [[../2- Shodan/1- Guía Completa - Cómo Usar Shodan para Explorar la Red|Shodan]] — descubrimiento de hosts complementario.
+- [[../1- Nmap/index|1- Nmap]] — la opción `-O` también identifica IPs (OS detection).
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/1- OSINT|01 → OSINT]] — fase pasiva donde aplica.
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/3- OSINT, Cómo encontrar información pública de cualquier persona|OSINT práctico]] — IPinfo.io aparece también aquí.
+- [[../../6- Forense Digital/4- Caso Practico, Un hacker entró a mi equipo|Caso DFIR]] — IPs sospechosas analizadas.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/2- Automatización de Análisis de IPs desde Python PARTE 1|Python → Análisis IPs]] — análisis automatizado.
+- [[../../0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD/Conceptos Clave de Ciberseguridad para Entrevistas Técnicas|Entrevista]] — "viaje imposible" usa geolocalización.
 

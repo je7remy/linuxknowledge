@@ -1,3 +1,8 @@
+---
+tipo: laboratorio
+tags: [forense, dfir, volatility, ransomware, rdp, memoria-ram, ioc, caso-practico]
+actualizado: 2026-05-28
+---
 
 # Informe Forense Digital: Caso "¿Un Hacker entró a mi equipo?"  
 
@@ -174,6 +179,20 @@ La conexión a **20.7.1.246** (Microsoft) se descarta como maliciosa.
    - Capacitar al personal en identificación de phishing.  
 
 ---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|6- Forense Digital]]
+- ⬅️ Anterior: [[3- Introducción Práctica y Demostración Parte 2]]
+
+## Relacionadas
+
+- [[3- Introducción Práctica y Demostración Parte 2]] — metodología que se aplica aquí.
+- [[1- Investigación de Spear Phishing - Caso Luxury Design JFK]] — caso de phishing similar.
+- [[../3- hacking basico/3- hosts/8- RDP]] — RDP como vector de entrada (clave del caso).
+- [[../3- hacking basico/3- hosts/12- Windows Hosts]] — admin remoto Windows.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/1- Análisis de Seguridad Automático de Archivos|Análisis automático de archivos]] — automatización del análisis.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/2- Automatización de Análisis de IPs desde Python PARTE 1|Análisis de IPs]] — análisis de las IPs sospechosas del caso.
 
 
 

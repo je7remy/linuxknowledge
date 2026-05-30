@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [sql, mysql, mssql, select, insert, update, delete, join, group-by]
+actualizado: 2026-05-28
+---
+
+# SQL — Comandos esenciales
 
 #bbdd #sql #comandos #tabla #SQL #ComandosSQL #BaseDeDatos #ConsultasSQL #FiltrarDatos #JOIN #GROUPBY #HAVING #ORDERBY #INSERT #UPDATE #DELETE #CREATE #INDEX #DISTINCT #WHERE #AND #OR #LIKE
   
@@ -24,13 +29,28 @@
 | **AND** / **OR** | `SELECT columna FROM tabla WHERE condición1 AND condición2;`                          | Combina múltiples condiciones en una consulta.                                       |
 | **LIKE**         | `SELECT columna FROM tabla WHERE columna LIKE 'patrón%';`                             | Filtra filas basadas en un patrón de texto.                                          |
 
- **[[5- MySQL]]**
- **[[4- MSSQL]]** 
- **[[7- Oracle TNS]]**
- **[[1- FTP]]**
- **[[9- SMB]]**
- **[[11- SSH]]**
-[[1- Instalar Base de datos MySQL]]
-[[2- Insertar Información a la Base de Datos desde Python]]
-[[3- Consultas a la Base de Datos]]
-[[4- Consultar a la Base de Datos + Sentencias Condicionales]]
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|03-Desarrollo]]
+
+## Relacionadas (motores de DB pentest)
+
+- [[5- MySQL]] — MySQL desde lado ofensivo.
+- [[4- MSSQL]] — MSSQL ofensivo (Impacket mssqlclient).
+- [[7- Oracle TNS]] — Oracle (odat, sqlplus).
+
+## Relacionadas (file sharing/protocols mencionados)
+
+- [[1- FTP]] — protocolo de transferencia.
+- [[9- SMB]] — Windows file sharing.
+- [[11- SSH]] — admin remoto seguro.
+
+## Relacionadas (Python + DB)
+
+- [[1- Instalar Base de datos MySQL]] — setup local.
+- [[2- Insertar Información a la Base de Datos desde Python]] — INSERT desde Python.
+- [[3- Consultas a la Base de Datos]] — SELECT desde Python.
+- [[4- Consultar a la Base de Datos + Sentencias Condicionales]] — lógica condicional.
+- [[../2- Tesis Universitaria/index|2- Tesis Universitaria]] — proyecto que usa MySQL.

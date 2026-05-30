@@ -1,5 +1,10 @@
-
 ---
+tipo: teoria
+tags: [pentesting, black-box, white-box, grey-box, hacking-etico, ingenieria-social]
+actualizado: 2026-05-28
+---
+
+# Tipos de Pruebas de Penetración
 
 #Ciberseguridad #Pentesting #BlackBox #WhiteBox #GreyBox #HackingÉtico #Vulnerabilidades #SeguridadFinanciera #IngenieríaSocial #SeguridadFísica
 
@@ -97,3 +102,16 @@ Las pruebas de penetración deben combinar:
 - Iconos y secciones claramente delimitadas.  
 - Ejemplos prácticos integrados.  
 
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|2- Introducción a las pruebas de penetración]]
+- ⬅️ Anterior: [[1- Introducción]]
+- ➡️ Siguiente: [[3- Áreas y dominios de prueba]] — dónde se aplican estos tipos.
+
+## Relacionadas
+
+- [[1- Introducción]] — las fases del pentesting que enmarcan estos tipos.
+- [[4- Beneficios de las pruebas de penetración]] — el caso financiero aparece como ejemplo aquí.
+- [[../../../../../../02-Ciberseguridad/3- hacking basico/6- Web/index|02 → Hacking básico → Web]] — SQLi mencionado en el ejemplo Black Box.

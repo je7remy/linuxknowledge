@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [resumen, modulo-2, conclusiones, grc, alcance, etica]
+actualizado: 2026-05-28
+---
+
+# Conclusiones — Módulo 2
+
 ### **¿Qué aprendí en este módulo?**
 
 ### **Comparación y contraste de los conceptos de gobernanza, riesgo y cumplimiento**
@@ -241,5 +249,18 @@ Una empresa contrata a un consultor de ciberseguridad para realizar pruebas de p
 Una empresa está colaborando con un consultor de ciberseguridad para realizar pruebas de penetración. El consultor de seguridad utiliza inteligencia de código abierto para investigar los sistemas de la empresa. ¿Qué término se utiliza para describir la recopilación de información de inteligencia de código abierto?
 
 - **Respuesta**: **OSINT (Open Source Intelligence)**
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬅️ Anterior: [[7- Laboratorio - Código de Conducta Personal]]
+- ➡️ Siguiente: [[../Módulo 3 Recopilación de información y análisis de vulnerabilidades/index|Módulo 3]]
+
+## Relacionadas
+
+- [[../Módulo 3 Recopilación de información y análisis de vulnerabilidades/index|Módulo 3]] — siguiente módulo: OSINT en práctica.
+- [[../Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/index|Módulo 1]] — módulo previo.
 
 --- 

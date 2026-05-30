@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [resumen, modulo-1, conclusiones, hacking-etico, metodologias, laboratorio]
+actualizado: 2026-05-28
+---
+
+# Conclusiones — Módulo 1
+
 ### ***Entendiendo el Hacking Ético y las Pruebas de Penetración***
 
 Este tema cubre el hacking ético y las pruebas de penetración, explicando que un hacker ético es alguien que utiliza las mismas herramientas que los hackers no éticos para encontrar vulnerabilidades en la infraestructura de una red o sistema, pero informa de sus hallazgos al proveedor o cliente para ayudar a que el sistema sea más seguro. El propósito de las pruebas de penetración es identificar posibles vías de compromiso antes de que lo hagan los atacantes malintencionados. Es importante evaluar y probar la eficacia de las técnicas defensivas utilizadas para asegurar y defender las redes y los sistemas, y aquí es donde entran en juego las pruebas de penetración. El tema también describe diferentes tipos de actores de amenazas, incluidos el crimen organizado, los hacktivistas, los atacantes patrocinados por el estado y las amenazas internas.
@@ -9,3 +17,16 @@ En este tema se analiza la importancia de usar una metodología para las pruebas
 ### ***Construyendo tu propio laboratorio***
 
 En este tema se analiza la importancia de un entorno de laboratorio adecuado para las pruebas de penetración y los diferentes tipos de herramientas que se utilizan en el proceso de pruebas. Enfatiza la necesidad de probar las herramientas y técnicas en un entorno de laboratorio antes de ejecutarlas contra una red de clientes para evitar romper nada. Se analizan los requisitos para un laboratorio de pruebas de penetración típico, incluida una red cerrada, un entorno informático virtualizado, un entorno realista, supervisión del estado, recursos de hardware suficientes, múltiples sistemas operativos, herramientas duplicadas y objetivos de práctica. Los tipos de herramientas utilizadas en las pruebas de penetración dependen del tipo de pruebas que se realicen, como las herramientas basadas en infraestructura de red, las herramientas de prueba de aplicaciones web, las herramientas de análisis de vulnerabilidades automatizadas y las herramientas de prueba de aplicaciones móviles. Es importante tener un método de recuperación en caso de que algo se rompa durante las pruebas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬅️ Anterior: [[8- Construyendo mi propio laboratorio]]
+- ➡️ Siguiente: [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]]
+
+## Relacionadas
+
+- [[../Módulo 2 Planificación y Alcance de una Evaluación de Pruebas de Penetración/index|Módulo 2]] — siguiente módulo del curso.
+- [[../Módulo 3 Recopilación de información y análisis de vulnerabilidades/index|Módulo 3]] — módulo posterior.

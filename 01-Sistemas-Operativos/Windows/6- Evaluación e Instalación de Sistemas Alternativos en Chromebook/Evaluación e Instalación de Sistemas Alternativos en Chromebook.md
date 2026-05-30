@@ -1,3 +1,8 @@
+---
+tipo: laboratorio
+tags: [chromebook, dell-p22t, fydeos, primeos, antix, mrchromebox, uefi, write-protect, flashrom]
+actualizado: 2026-05-28
+---
 
 # 📑 Informe Paso a Paso – Modificación e Instalaciones en Chromebook Dell P22T
 
@@ -256,6 +261,18 @@ sudo bash firmware-util.sh
 - **PrimeOS** entrega la **experiencia Android con Play Store** que el cliente quería.
     
 - La **limitación estructural** es el **driver de audio interno**.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|01 → Windows]]
+
+## Relacionadas
+
+- [[../5- Cómo Instalar Aplicaciones de Android en Windows Sin Emulador/Cómo Instalar Aplicaciones de Android en Windows Sin Emulador|Android en Windows]] — alternativa en hardware Windows.
+- [[../2- Instalacion de Sistemas Operativos con Ventoy/index|Ventoy]] — preparación de USB booteables (mencionado).
+- [[../../Linux/0- Configuracion inicial/index|Configuración inicial Linux]] — base para antiX.
     
 
 ---

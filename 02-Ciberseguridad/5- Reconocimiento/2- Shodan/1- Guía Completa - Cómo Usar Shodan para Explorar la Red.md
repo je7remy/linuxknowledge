@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [shodan, dorks, webcams, eternalblue, ms17-010, ftp-anonymous, smb, reconocimiento-pasivo]
+actualizado: 2026-05-28
+---
+
+# Guía Completa — Cómo Usar Shodan para Explorar la Red
 
 ## Introducción: ¿Qué es Shodan?
 
@@ -135,3 +142,18 @@ Un **dork** es una consulta específica que filtra resultados en Shodan. Vamos c
 - **Seguridad**: Si tienes dispositivos en la red, ¡protégelos! Usa contraseñas fuertes y actualiza el software.
 
 ---
+
+## Navegación
+
+- ⬆️ Carpeta padre: [[../index|5- Reconocimiento]]
+- 🏠 Sección: [[../../index|02-Ciberseguridad]]
+
+## Relacionadas
+
+- [[../1- Nmap/index|1- Nmap]] — reconocimiento activo complementario.
+- [[../1- Nmap/3- nmap firewall evasion|Nmap → Evasión]] — combinar Shodan con escaneos sigilosos.
+- [[../3- Geolocalización de IPs/1- Guía Completa para Rastrear y Geolocalizar una Dirección IP|Geolocalización IPs]] — siguiente paso tras descubrir hosts.
+- [[../../3- hacking basico/3- hosts/9- SMB|02 → SMB]] — EternalBlue (MS17-010) en SMB explotado vía Shodan + Metasploit.
+- [[../../3- hacking basico/3- hosts/1- FTP|02 → FTP]] — FTP anonymous descubierto vía Shodan.
+- [[../../3- hacking basico/2- basico/4- Metasploit|02 → Metasploit]] — uso para explotar lo encontrado.
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/1- OSINT|01 → OSINT]] — Shodan como herramienta OSINT.

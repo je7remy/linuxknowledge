@@ -1,5 +1,12 @@
+---
+tipo: laboratorio
+tags: [osint, reconocimiento, pimeyes, facecheck, sherlock, mr-holmes, signalhire, truecaller, haveibeenpwned]
+actualizado: 2026-05-28
+---
 
-**By:  Zunderrub**, Rubén Zaragoza Abad
+# OSINT — Cómo encontrar información pública de cualquier persona
+
+**By:  Zunderrub**, Rubén Zaragoza Abad
 
 ---
 
@@ -65,3 +72,18 @@ Finalmente, quiero saber si ese correo inventado (o uno real que tuviera) ha sid
 
 ### **Conclusión**
 ¡Y ahí lo tienes! Partiendo de una simple foto, descubrí que este señor es Mariano Rajoy, un político español. Averigüé dónde vive, dónde estudió, qué ha trabajado, conseguí un número y un correo (hipotéticos), y hasta revisé si sus datos han sido filtrados. Todo esto con herramientas públicas y un poco de curiosidad. Me encanta el OSINT porque demuestra cuánto se puede encontrar sin cruzar líneas éticas. Si te ha gustado, prueba estas herramientas tú mismo. ¡Nos vemos en la próxima aventura de investigación!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|7- Active Directory]]
+- ⬅️ Anterior: [[2- Tools]]
+
+## Relacionadas
+
+- [[1- OSINT]] — fundamentos teóricos del OSINT aplicado a AD.
+- [[2- Tools]] — herramientas técnicas que complementan el OSINT manual.
+- [[Extraer Metadatos]] — metadata como vector OSINT.
+- [[../../../02-Ciberseguridad/6- Forense Digital/1- Investigación de Spear Phishing - Caso Luxury Design JFK|Caso de Spear Phishing]] — investigación OSINT en un caso real de phishing.
+- [[../../../06-Publicaciones-Linkedin/index|06 → LinkedIn]] — publicaciones derivadas (este tipo de contenido es buen post).

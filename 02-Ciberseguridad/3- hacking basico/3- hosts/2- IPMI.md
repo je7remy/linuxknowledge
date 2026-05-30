@@ -1,5 +1,11 @@
+---
+tipo: teoria
+tags: [ipmi, bmc, hp-ilo, dell-idrac, supermicro, hashcat, rakp, hosts]
+actualizado: 2026-05-28
+---
 
--------------
+# IPMI — Intelligent Platform Management Interface
+
 #hosts #ipmi #servicios 
 
 ---------------
@@ -112,3 +118,19 @@ msf6 auxiliary(scanner/ipmi/ipmi_dumphashes) > run
 [*] Scanned 1 of 1 hosts (100% complete)
 [*] Auxiliary module execution completed
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[1- FTP]]
+- ➡️ Siguiente: [[3- Ldap]]
+
+## Relacionadas
+
+- [[1- Hoja de trucos NMAP]] — script `ipmi-version` mencionado.
+- [[5- nmap scripts]] — NSE para identificar BMC.
+- [[12- Herramienta para hacer cracking de contraseñas]] — Hashcat con modo 7300 para descifrar hashes IPMI RAKP.
+- [[13- Automatización de Cracking de Contraseñas]] — automatización del proceso de cracking.
+- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría general de ataques a hashes.

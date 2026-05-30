@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [metasploit, msfconsole, meterpreter, exploitation, payload, sessions]
+actualizado: 2026-05-28
+---
+
+# Metasploit — MSFConsole + Meterpreter
 
 #Metasploit #MSFConsole #EthicalHacking #CyberSecurity #Pentesting #InfoSec #RedTeam #ExploitDevelopment #VulnerabilityScanning #NetworkSecurity #CyberAttack #Meterpreter #PrivilegeEscalation #ReverseShell #PenetrationTesting #BugBounty #SecurityTesting #Exploit #RCE #HackingTools #OSINT #CyberSecCommunity #CTF #ThreatHunting #BlackBoxTesting #SecurityResearch #HackThePlanet #BruteForce #ShellAccess
 
@@ -94,5 +99,18 @@
 
 
 
-**[[3- hoja de trucos de METASPLOIT]]**
-**[[1- basic tools]]**
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|2- basico]]
+- ⬅️ Anterior: [[3- hoja de trucos de METASPLOIT]]
+
+## Relacionadas
+
+- [[3- hoja de trucos de METASPLOIT]] — conceptos base de Metasploit.
+- [[1- basic tools]] — referencia compacta general.
+- [[../5- shells/2- tipos de shell|Tipos de shell]] — Meterpreter es upgrade desde reverse shells.
+- [[../3- hosts/9- SMB]] — `exploit/windows/smb/ms17_010_psexec` aparece aquí.
+- [[../3- hosts/12- Windows Hosts]] — Meterpreter + WinRM/WMI vectores.
+- [[../4- privilege scalation/1- privilege scalation basic|Privesc]] — `getsystem` y `migrate` son comandos Meterpreter de privesc.

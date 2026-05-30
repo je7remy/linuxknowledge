@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [mysql, mariadb, sql, databases, hosts, brute-force]
+actualizado: 2026-05-28
+---
 
------------
+# MySQL
 
 #sql #servicios #databases
 
@@ -184,8 +189,28 @@ Algunos de los comandos que debemos recordar y anotar para trabajar con bases de
 Debemos saber interactuar con diferentes bases de datos. Por lo tanto, recomendamos instalar y configurar un servidor MySQL en una de nuestras máquinas virtuales para experimentar. También hay una sección de [problemas de seguridad](https://dev.mysql.com/doc/refman/8.0/en/general-security-issues.html) ampliamente cubierta en el manual de referencia que cubre las mejores prácticas para proteger los servidores MySQL. Deberíamos usar esto al configurar nuestro servidor MySQL para comprender mejor por qué algo podría no funcionar.
 
 
-**[[SQL]]**
-[[1- Instalar Base de datos MySQL]]
-[[2- Insertar Información a la Base de Datos desde Python]]
-[[3- Consultas a la Base de Datos]]
-[[4- Consultar a la Base de Datos + Sentencias Condicionales]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[4- MSSQL]]
+- ➡️ Siguiente: [[6- NFS]]
+
+## Relacionadas (DBs)
+
+- [[4- MSSQL]] — DB equivalente en stack Microsoft.
+- [[7- Oracle TNS]] — DB equivalente en stack Oracle.
+
+## Relacionadas (Nmap)
+
+- [[1- Hoja de trucos NMAP]] — `--script mysql*` permite enumeración automática.
+- [[5- nmap scripts]] — NSE para brute-force y enum de MySQL.
+
+## Relacionadas (Python y BBDD)
+
+- [[1- Instalar Base de datos MySQL]] — setup local de MySQL.
+- [[2- Insertar Información a la Base de Datos desde Python]] — `mysql.connector` o `pymysql`.
+- [[3- Consultas a la Base de Datos]] — `SELECT` desde Python.
+- [[4- Consultar a la Base de Datos + Sentencias Condicionales]] — lógica de filtrado.
+- [[../../../03-Desarrollo/1- Bases de Datos/1- ¿Qué son las Bases de Datos en MySQL Workbench y Cómo se Crean!|03 → MySQL Workbench]] — entorno gráfico para esta DB.

@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [oracle, oracle-tns, odat, sqlplus, sid, hydra, databases, hosts]
+actualizado: 2026-05-28
+---
 
-------------
+# Oracle TNS
 
 #databases #oracle #sql #Oracle #ODAT #SQL #TNS #SID #Nmap #Metasploit #SQLplus #Hydra #SQLInjection #PrivilegeEscalation #BaseDeDatos #OracleRDBMS #SeguridadInformática #EthicalHacking #Ciberseguridad #Pentesting #Exploits #WebShell #PasswordHashing 
 
@@ -290,8 +295,26 @@ zunderrubb@htb[/htb]$ ./odat.py utlfile -s 10.129.204.235 -d XE -U scott -P tige
 Finalmente, podemos probar si el enfoque de carga de archivos funcionó con . Por lo tanto, utilizaremos una solicitud, o podemos visitar a través del navegador.`curl``GET http://<IP>`
 
 
-**[[SQL]]**
-[[1- Instalar Base de datos MySQL]]
-[[2- Insertar Información a la Base de Datos desde Python]]
-[[3- Consultas a la Base de Datos]]
-[[4- Consultar a la Base de Datos + Sentencias Condicionales]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[6- NFS]]
+- ➡️ Siguiente: [[8- RDP]]
+
+## Relacionadas (DBs)
+
+- [[4- MSSQL]] — DB equivalente en stack Microsoft.
+- [[5- MySQL]] — DB sibling de código abierto.
+
+## Relacionadas (cracking)
+
+- [[12- Herramienta para hacer cracking de contraseñas]] — hashes extraídos de `sys.user$` van a Hashcat/John.
+- [[13- Automatización de Cracking de Contraseñas]] — pipeline automatizado.
+- [[../../1- Cracking/1- Cracking|02 → Cracking]] — teoría general.
+
+## Relacionadas (Python y BBDD)
+
+- [[1- Instalar Base de datos MySQL]] — setup local de DB para experimentación.
+- [[../../../03-Desarrollo/1- Bases de Datos/1- ¿Qué son las Bases de Datos en MySQL Workbench y Cómo se Crean!|03 → Bases de Datos]] — teoría.

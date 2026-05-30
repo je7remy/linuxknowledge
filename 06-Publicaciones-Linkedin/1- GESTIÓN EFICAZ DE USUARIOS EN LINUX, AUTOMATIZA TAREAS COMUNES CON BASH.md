@@ -1,3 +1,10 @@
+---
+tipo: publicacion
+tags: [linkedin, bash, usuarios-linux, adduser, usermod, deluser, sudoers, script]
+actualizado: 2026-05-28
+---
+
+# GESTIÓN EFICAZ DE USUARIOS EN LINUX — Automatiza Tareas Comunes con Bash
 
 ## 🖥️ **GUÍA GESTIÓN DE USUARIOS EN LINUX**
 
@@ -347,4 +354,17 @@ El script utiliza un bucle `while true` para mostrar un menú de opciones y espe
 ### **Conclusión**
 
 Este script y los comandos básicos proporcionan una forma eficiente y segura de gestionar usuarios en sistemas Linux. Al automatizar estas tareas, puedes reducir errores y ahorrar tiempo, especialmente en entornos de producción o cuando manejas múltiples usuarios. Además, al seguir las mejores prácticas de seguridad, garantizas que las operaciones se realicen de manera controlada y sin comprometer la integridad del sistema.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|06-Publicaciones-Linkedin]]
+
+## Relacionadas (fuente técnica)
+
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/1- Uso Básico de Linux/6- Gestión de Usuarios en Linux|Bash → Gestión de Usuarios]] — fundamento teórico.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/11- Automatizar la Gestión de Usuarios en Linux|Automatizar Gestión Usuarios]] — laboratorio del script.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/4- Sentencias Condicionales/index|Bash → Condicionales]] — `case` y `if` usados aquí.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/5- Bucles/index|Bash → Bucles]] — `while true` del menú.
 

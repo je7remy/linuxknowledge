@@ -1,3 +1,10 @@
+---
+tipo: referencia
+tags: [youtube, ciberseguridad, hacking, red-team, recursos-educativos, 64-canales]
+actualizado: 2026-05-28
+---
+
+# 64 Canales de YouTube de Ciberseguridad y Hacking Ético
 
 ---
 

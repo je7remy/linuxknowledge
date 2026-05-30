@@ -1,5 +1,10 @@
-
 ---
+tipo: laboratorio
+tags: [windows, uac, bypass, fodhelper, runasinvoker, living-off-the-land, privilege-escalation]
+actualizado: 2026-05-28
+---
+
+# BYPASS del UAC de Windows
 
 #windows #uac #ciberseguridad
 
@@ -95,3 +100,15 @@ Esto iniciará el programa sin que Windows solicite permisos de administrador.
 ### **🌟 Conclusión**
 
 Este método es útil para ejecutar programas sin activar el **Control de Cuentas de Usuario (UAC)**, especialmente cuando estamos en un entorno donde no tenemos privilegios administrativos. Sin embargo, siempre hay que considerar las limitaciones de no ejecutar el programa con permisos elevados.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|01 → Windows]]
+
+## Relacionadas
+
+- [[../../../02-Ciberseguridad/3- hacking basico/4- privilege scalation/index|02 → Escalación de privilegios]] — UAC bypass es vector clásico de privesc en Windows.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/12- Windows Hosts|02 → Windows Hosts]] — combinación con WinRM/WMI.
+- [[../7- Activie Directory/2- Tools|AD → Tools]] — herramientas relacionadas (Mimikatz, evil-winrm).

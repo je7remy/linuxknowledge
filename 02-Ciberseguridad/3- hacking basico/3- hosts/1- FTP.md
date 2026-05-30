@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [ftp, tftp, vsftpd, anonymous-login, hosts, hackthebox]
+actualizado: 2026-05-28
+---
 
-------------
+# FTP — File Transfer Protocol
 
 #ftp #FTP #TFTP #vsFTPd #FTPServer #FTPConfig #FileTransfer #Ciberseguridad #Pentesting #Nmap #NSE #Enumeracion #AnonymousFTP #NetworkSecurity #Vulnerabilidades #OpenSSL #Telnet #Netcat
 
@@ -564,8 +569,29 @@ MIIENTCCAx2gAwIBAgIUD+SlFZAWzX5yLs2q3ZcfdsRQqMYwDQYJKoZIhvcNAQEL
 Esto se debe a que el certificado SSL nos permite reconocer el , por ejemplo, y en la mayoría de los casos también un para la organización o empresa. Además, si la empresa tiene varias ubicaciones en todo el mundo, también se pueden crear certificados para ubicaciones específicas, que también se pueden identificar mediante el certificado SSL.`hostname``email address`
 
 
-**[[SQL]]**
-[[1- Instalar Base de datos MySQL]]
-[[2- Insertar Información a la Base de Datos desde Python]]
-[[3- Consultas a la Base de Datos]]
-[[4- Consultar a la Base de Datos + Sentencias Condicionales]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: _(primero del catálogo)_
+- ➡️ Siguiente: [[2- IPMI]]
+
+## Relacionadas (hosts/protocolos)
+
+- [[11- SSH]] — alternativa segura a FTP (también con Rsync over SSH).
+- [[9- SMB]] — compartición de archivos en redes Windows.
+- [[6- NFS]] — compartición de archivos en Unix/Linux.
+
+## Relacionadas (Nmap y herramientas)
+
+- [[1- Hoja de trucos NMAP]] — escaneo y scripts NSE como `ftp-anon`, `ftp-vsftpd-backdoor`, `ftp-brute`.
+- [[5- nmap scripts]] — categorías de scripts NSE para FTP.
+
+## Relacionadas (laboratorios)
+
+- [[2- Cómo Crear un Servidor FTP con VSFTPD]] — montar un FTP propio.
+- [[3- Gestión y Automatización de Servidores FTP – PARTE 1]] — automatización Bash.
+- [[7- Automatización de Copias de Seguridad en Servidor SSH]] — backup alternativo seguro.
+- [[1- Configuración de Servidor FTP en Linux]] — Python: setup del servidor.
+- [[2- Conexión y Subida de Archivos a Servidor FTP]] — Python: cliente FTP.

@@ -1,11 +1,34 @@
 
 ---
 
+---
+tipo: cheatsheet
+tags: [exiftool, metadata, forense, osint, exif, image-analysis]
+actualizado: 2026-05-28
+---
+
+# Extraer Metadatos de imágenes con ExifTool
+
 #Metadata #ExifTool #CyberSecurity #Forensics #OSINT #ImageAnalysis #Pentesting #EthicalHacking #InfoSec #DataExtraction #Privacy
 
 ---
 - `exiftool image.jpg` : Extrae los metadatos.
 - - `exiftool *` : Extrae los metadatos de todas las imágenes dentro de una carpeta.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+
+## Relacionadas
+
+- [[1- OSINT]] — fundamento OSINT donde se usa esta técnica.
+- [[2- Tools]] — herramientas relacionadas en Active Directory.
+- [[2- nmap comands]] — siguiente herramienta del flujo de reconocimiento.
+- [[../6- Forense Digital/1- Investigación de Spear Phishing - Caso Luxury Design JFK|Caso Spear Phishing]] — técnica usada en investigación forense.
+- [[../6- Forense Digital/index|6- Forense Digital]] — dominio de aplicación.
+- [[../../01-Sistemas-Operativos/Windows/7- Activie Directory/3- OSINT, Cómo encontrar información pública de cualquier persona|OSINT práctico]] — relacionado con OSINT sobre personas.
 
 
 

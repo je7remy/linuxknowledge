@@ -1,9 +1,12 @@
-
+---
+tipo: cheatsheet
+tags: [git, comandos, version-control]
+actualizado: 2026-05-28
 ---
 
-  #git
-  #tabla
-  #comandos 
+# Comandos Git
+
+#git #tabla #comandos 
   
 ---
 
@@ -30,4 +33,17 @@
 |`git fetch`|`git fetch origin`|Descarga información sobre ramas y commits desde un repositorio remoto.|
 |`git pull`|`git pull origin rama`|Descarga cambios desde un repositorio remoto a tu rama local y fusiona automáticamente.|
 |`git push`|`git push origin rama`|Envía cambios locales a un repositorio remoto en la rama especificada.|
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Git]]
+- ➡️ Siguiente: [[2- Cómo Editar un Commit que ya se Subio a GitHub]]
+
+## Relacionadas
+
+- [[2- Cómo Editar un Commit que ya se Subio a GitHub]] — `commit --amend`, rebase, push --force.
+- [[3- Como Borrar Commit]] — `rebase -i drop`, reset hard.
+- [[../../03-Desarrollo/index|03-Desarrollo]] — proyectos donde se usa Git a diario.
 

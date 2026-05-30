@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [mssql, sql-server, impacket, metasploit, t-sql, hosts]
+actualizado: 2026-05-28
+---
 
-------------
+# MSSQL — Microsoft SQL Server
 
 #MSSQL #Networking #Nmap #Metasploit #SQLInjection #DatabaseSecurity #Pentesting #SQLServer #TSQL #Impacket #MSSQLPing #NamedPipes #MSSQLInfo #Scanning #HuellasDeServicio #VulnerabilidadesSQL #SeguridadInformática #EthicalHacking #RedTeam
 
@@ -117,8 +122,28 @@ Transactions
 ```
 
 
-**[[SQL]]**
-[[1- Instalar Base de datos MySQL]]
-[[2- Insertar Información a la Base de Datos desde Python]]
-[[3- Consultas a la Base de Datos]]
-[[4- Consultar a la Base de Datos + Sentencias Condicionales]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[3- Ldap]]
+- ➡️ Siguiente: [[5- MySQL]]
+
+## Relacionadas (DBs)
+
+- [[5- MySQL]] — DB sibling, puerto 3306.
+- [[7- Oracle TNS]] — DB sibling, puerto 1521.
+
+## Relacionadas (Nmap)
+
+- [[1- Hoja de trucos NMAP]] — scripts `ms-sql-*` NSE mencionados arriba.
+- [[5- nmap scripts]] — categorías NSE para DB enumeration.
+
+## Relacionadas (Python y BBDD)
+
+- [[1- Instalar Base de datos MySQL]] — instalación de DB local para experimentar.
+- [[2- Insertar Información a la Base de Datos desde Python]] — `pymssql` / `pyodbc` equivalente.
+- [[3- Consultas a la Base de Datos]] — consultas SQL desde Python.
+- [[4- Consultar a la Base de Datos + Sentencias Condicionales]] — lógica condicional sobre consultas.
+- [[../../../03-Desarrollo/1- Bases de Datos/1- ¿Qué son las Bases de Datos en MySQL Workbench y Cómo se Crean!|03 → Bases de Datos]] — teoría de BD.

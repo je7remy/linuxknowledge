@@ -1,4 +1,7 @@
-
+---
+tipo: laboratorio
+tags: [git, commit-amend, rebase-interactivo, push-force, vim, version-control]
+actualizado: 2026-05-28
 ---
 
 #Git #GitCommit #EditarCommit #Rebase #Amend #GitRebase #GitPush #GitForce #GitHistorial #VersionControl
@@ -158,4 +161,17 @@ git push --force
 
 - ⚡ **Si trabajas en equipo**, evita `git push --force` sin antes avisar, ya que sobrescribirá commits en el remoto.
 - 🔄 Si solo quieres deshacer un commit sin alterar el historial, usa `git revert` en lugar de `rebase`.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Git]]
+- ⬅️ Anterior: [[1- Comandos Git]]
+- ➡️ Siguiente: [[3- Como Borrar Commit]]
+
+## Relacionadas
+
+- [[1- Comandos Git]] — comandos básicos.
+- [[3- Como Borrar Commit]] — eliminación con `drop` y `reset --hard`.
 

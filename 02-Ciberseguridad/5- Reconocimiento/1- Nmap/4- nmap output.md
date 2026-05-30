@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [nmap, reconocimiento, output, reportes]
+actualizado: 2026-05-28
+---
 
------------
+# Nmap — Formatos de Salida
 
 #nmap
 
@@ -135,9 +140,23 @@ Si ahora abrimos el archivo HTML en nuestro navegador, vemos una presentación c
 
 Puede encontrar más información sobre los formatos de salida en: [https://nmap.org/book/output.html](https://nmap.org/book/output.html)
 
-[[1- Comandos Basicos - Intermedio]]
-**[[4- Análisis de la Red con Bash – PARTE 2]]** 
-**[[6- Análisis de Red con TCPdump y WireShark – PARTE 1]]**
-**[[1- Hoja de trucos NMAP]]**
-**[[3- nmap firewall evasion]]**
-**[[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]]**
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬅️ Anterior: [[3- nmap firewall evasion]]
+- ➡️ Siguiente: [[5- nmap scripts]] — NSE y categorías de scripts.
+
+## Relacionadas (Nmap)
+
+- [[1- Hoja de trucos NMAP]] — referencia general de las opciones `-oA`/`-oN`/`-oG`/`-oX`.
+- [[3- nmap firewall evasion]] — escaneos que conviene guardar para comparar.
+- [[5- nmap scripts]] — la salida XML es útil para parsear resultados NSE.
+
+## Relacionadas (fuera de Nmap)
+
+- [[1- Comandos Basicos - Intermedio]] — `cat`, `grep`, `xsltproc` mencionados en el flujo.
+- [[3- Análisis De La Red Desde Linux – Comandos Básicos Parte 1]] — análisis aplicado.
+- [[4- Análisis de la Red con Bash – PARTE 2]] — procesamiento de salidas en Bash.
+- [[6- Análisis de Red con TCPdump y WireShark – PARTE 1]] — captura complementaria.

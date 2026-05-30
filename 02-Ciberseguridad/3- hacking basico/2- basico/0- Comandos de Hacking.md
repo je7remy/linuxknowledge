@@ -1,3 +1,8 @@
+---
+tipo: cheatsheet
+tags: [hacking-commands, nmap, hping3, masscan, tcpdump, gobuster, metasploit, netcat]
+actualizado: 2026-05-28
+---
 
 # 🏴‍☠️ **Hoja de Referencia de Comandos de Hacking**
 
@@ -619,3 +624,24 @@
 65. **nc simple chat server**
     - `nc -lvp 1234`: Configura un listener en el puerto `1234` que podría actuar como un servidor de chat simple. Esto demuestra la versatilidad de `netcat` para crear servicios de red rápidos y temporales.
     - `nc -v <ipaddress> 1234`: Se conecta al servidor de chat alojado en `<ipaddress>` en el puerto `1234`. Esto muestra la capacidad de `netcat` para ser utilizado en configuraciones de comunicación cliente-servidor simples.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|2- basico]]
+- ➡️ Siguiente: [[1- basic tools]] — cheatsheet más compacto.
+
+## Relacionadas (cheatsheets equivalentes)
+
+- [[1- basic tools]] — versión tabla compacta de muchos de estos comandos.
+- [[3- hoja de trucos de METASPLOIT]] — referencia de Metasploit.
+- [[4- Metasploit]] — comandos completos MSF.
+
+## Relacionadas (notas profundas por dominio)
+
+- [[../../5- Reconocimiento/1- Nmap/index|Nmap (profundo)]] — para todo lo de Nmap.
+- [[../3- hosts/9- SMB]] — para SMB enumeration y ataques.
+- [[../3- hosts/10- SNMP]] — para SNMP enum.
+- [[../3- hosts/11- SSH]] — para SSH y túneles.
+- [[../5- shells/2- tipos de shell|Tipos de shell]] — bind/reverse/web shells.

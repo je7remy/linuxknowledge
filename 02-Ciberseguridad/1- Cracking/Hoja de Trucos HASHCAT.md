@@ -1,5 +1,10 @@
-
 ---
+tipo: cheatsheet
+tags: [hashcat, password-cracking, md5, ntlm, dictionary-attack, brute-force]
+actualizado: 2026-05-28
+---
+
+# Hoja de Trucos HASHCAT
 
 #Hashcat #CyberSecurity #PasswordCracking #EthicalHacking #InfoSec #Pentesting #HackingÉtico #MD5 #NTLM #BruteForce #DictionaryAttack #CyberDefense #SecurityTools #CrackingHashes #RedTeam #CyberAttack #Forensics #Linux #SysAdmin #SecurityTesting #HackThePlanet
 
@@ -19,6 +24,21 @@
 - `--show`: Esta opción indica a hashcat que muestre los hashes descifrados.
 - `../password-hashes`: Es la ruta al archivo que contiene los hashes que quieres descifrar.
 - `../wordlist-intro.txt`: Es la ruta al archivo de la lista de palabras que hashcat utilizará como diccionario para intentar descifrar las contraseñas.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+
+## Relacionadas
+
+- [[12- Herramienta para hacer cracking de contraseñas]] — laboratorio aplicado en Bash.
+- [[13- Automatización de Cracking de Contraseñas]] — pipeline automatizado.
+- [[../3- hacking basico/1- Teoria de Ciberseguridad/4- Tiempos de craqueo|Cisco → Tiempos craqueo]] — teoría del cracking.
+- [[../3- hacking basico/3- hosts/2- IPMI|02 → IPMI]] — Hashcat modo 7300 para hashes IPMI RAKP.
+- [[../3- hacking basico/3- hosts/9- SMB|02 → SMB]] — Hashcat para hashes NTLM extraídos por impacket-ntlmrelayx.
+- [[../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — Kerberoasting/ASREPRoasting + Hashcat.
 
 
 

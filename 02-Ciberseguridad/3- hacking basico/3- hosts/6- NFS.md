@@ -1,10 +1,16 @@
+---
+tipo: teoria
+tags: [nfs, nfsv3, nfsv4, mount, showmount, file-sharing, hosts]
+actualizado: 2026-05-28
+---
 
----------
+# NFS — Network File System
+
 #nfs #comando #mount 
 
 ---------
 
-`Network File System` (`NFS`) es un sistema de archivos de red desarrollado por Sun Microsystems y tiene el mismo propósito que SMB. Su propósito es acceder a los sistemas de archivos a través de una red como si fueran locales. Sin embargo, utiliza un protocolo completamente diferente. [NFS](https://en.wikipedia.org/wiki/Network_File_System) se utiliza entre sistemas Linux y Unix. Esto significa que los clientes NFS no pueden comunicarse directamente con los servidores SMB. NFS es un estándar de Internet que gobierna los procedimientos en un sistema de archivos distribuido. Mientras que la versión 3.0 del protocolo NFS (), que ha estado en uso durante muchos años, autentica el equipo cliente, esto cambia con . Aquí, al igual que con el protocolo SMB de Windows, el usuario debe autenticarse.`NFSv3``NFSv4`
+`Network File System` (`NFS`) es un sistema de archivos de red desarrollado por Sun Microsystems y tiene el mismo propósito que SMB. Su propósito es acceder a los sistemas de archivos a través de una red como si fueran locales. Sin embargo, utiliza un protocolo completamente diferente. [NFS](https://en.wikipedia.org/wiki/Network_File_System) se utiliza entre sistemas Linux y Unix. Esto significa que los clientes NFS no pueden comunicarse directamente con los servidores SMB. NFS es un estándar de Internet que gobierna los procedimientos en un sistema de archivos distribuido. Mientras que la versión 3.0 del protocolo NFS (), que ha estado en uso durante muchos años, autentica el equipo cliente, esto cambia con . Aquí, al igual que con el protocolo SMB de Windows, el usuario debe autenticarse.`NFSv3``NFSv4`
 
 
 
@@ -13,7 +19,7 @@ Al ocupar NFS, los puertos TCP son esenciales. También podemos obtener informac
 
 #### Nmap
 
-  NFS
+  NFS
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap 10.129.14.128 -p111,2049 -sV -sC
@@ -55,7 +61,7 @@ Nmap done: 1 IP address (1 host up) scanned in 6.58 seconds
 
 El script NSE recupera una lista de todos los servicios RPC que se están ejecutando actualmente, sus nombres y descripciones, y los puertos que usan. Esto nos permite comprobar si el recurso compartido de destino está conectado a la red en todos los puertos necesarios. Además, para NFS, Nmap tiene algunos scripts NSE que se pueden usar para los escaneos. Estos pueden mostrarnos, por ejemplo, el de la acción y su .`rpcinfo``contents``stats`
 
-  NFS
+  NFS
 
 ```shell-session
 zunderrubb@htb[/htb]$ sudo nmap --script nfs* 10.129.14.128 -sV -p111,2049
@@ -113,7 +119,7 @@ Una vez que hemos descubierto un servicio NFS de este tipo, podemos montarlo en 
 
 #### Mostrar recursos compartidos NFS disponibles
 
-  NFS
+  NFS
 
 ```shell-session
 zunderrubb@htb[/htb]$ showmount -e 10.129.14.128
@@ -124,7 +130,7 @@ Export list for 10.129.14.128:
 
 #### Montaje de NFS Share
 
-  NFS
+  NFS
 
 ```shell-session
 zunderrubb@htb[/htb]$ mkdir target-NFS
@@ -146,7 +152,7 @@ Allí tendremos la oportunidad de acceder a los derechos y a los nombres de usua
 
 #### Listar contenidos con nombres de usuario y nombres de grupo
 
-  NFS
+  NFS
 
 ```shell-session
 zunderrubb@htb[/htb]$ ls -l mnt/nfs/
@@ -161,7 +167,7 @@ total 16
 
 #### Contenido de la lista con UID y GUID
 
-  NFS
+  NFS
 
 ```shell-session
 zunderrubb@htb[/htb]$ ls -n mnt/nfs/
@@ -183,9 +189,33 @@ Una vez que hayamos realizado todos los pasos necesarios y obtenido la informaci
 
 #### Desmontar
 
-  NFS
+  NFS
 
 ```shell-session
 zunderrubb@htb[/htb]$ cd ..
 zunderrubb@htb[/htb]$ sudo umount ./target-NFS
 ```
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[5- MySQL]]
+- ➡️ Siguiente: [[7- Oracle TNS]]
+
+## Relacionadas (file sharing)
+
+- [[9- SMB]] — equivalente en entornos Windows.
+- [[1- FTP]] — transferencia clásica de archivos.
+- [[11- SSH]] — Rsync sobre SSH como alternativa segura.
+
+## Relacionadas (Nmap)
+
+- [[5- nmap scripts]] — `nfs-ls`, `nfs-showmount`, `nfs-statfs` NSE.
+- [[1- Hoja de trucos NMAP]] — escaneo de puertos 111/2049.
+
+## Relacionadas (privesc)
+
+- [[1- privilege scalation basic]] — escalada a partir de claves SSH expuestas en NFS.
+- [[../../4- privilege scalation/index|4- Escalación de privilegios]] — vectores como cargar binarios SUID al share NFS.

@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [hacker-etico, nist-csrc, vulnerabilidad, alcance, divulgacion-responsable]
+actualizado: 2026-05-28
+---
+
+# Descripción General
+
 ![[2.1- Descripción General.png]] 
 
 Como recordatorio, el término **_hacker ético_** describe a una persona que actúa como atacante y evalúa la postura de seguridad de una red informática con el fin de minimizar el riesgo. El Centro de Recursos de Seguridad Informática del NIST (CSRC, por sus siglas en inglés) define a un _hacker_ como un "usuario no autorizado que intenta o obtiene acceso a un sistema de información". Ahora bien, todos sabemos que el término _hacker_ se ha utilizado de muchas maneras diferentes y tiene muchas definiciones diferentes. La mayoría de las personas en el campo de la tecnología informática se considerarían piratas informáticos por el simple hecho de que les gusta jugar. Obviamente, esto no es algo malicioso. Por lo tanto, el factor clave aquí para definir el hacking ético frente al no ético es que este último implica una intención maliciosa. ¡El _permiso para atacar_ o el permiso para probar es crucial y lo que lo mantendrá fuera de problemas! Este permiso para atacar a menudo se denomina "el alcance" de la prueba (lo que se le permite y lo que no se le permite probar). Más sobre esto más adelante en este módulo.
@@ -9,3 +17,16 @@ La verdad es que, como hacker ético, utilizas las mismas herramientas para enco
 El objetivo de un hacker ético es analizar la postura de seguridad de la infraestructura de una red o sistema en un esfuerzo por identificar y posiblemente explotar cualquier debilidad de seguridad encontrada y luego determinar si es posible un compromiso. Este proceso se denomina **_pruebas de penetración de_** _seguridad_ o _hacking_ _ético_.
 
 **PROPINA** Hacking is NOT a Crime ( [_hackingisnotacrime.org_](https://www.hackingisnotacrime.org/) ) es una organización sin fines de lucro que intenta crear conciencia sobre el uso peyorativo del término _hacker_. Históricamente, _los piratas informáticos_ han sido retratados como malvados o ilegales. Por suerte, mucha gente ya sabe que los hackers son personas curiosas que quieren entender cómo funcionan las cosas y cómo hacerlas más seguras.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 1]]
+- ⬅️ Anterior: [[1- Qué aprenderé en este curso]]
+- ➡️ Siguiente: [[3- Por qué necesitamos hacer pruebas de penetración]]
+
+## Relacionadas
+
+- [[../../3- hacking basico/1- Teoria de Ciberseguridad/2- De qué color es mi sombrero|Cisco → Color del sombrero]] — taxonomía de hackers (ético vs no ético).
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/7- HackTheBox/2- Introducción a las pruebas de penetración/1- Introducción|HackTheBox → Intro]] — definición paralela.

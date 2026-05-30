@@ -1,3 +1,11 @@
+---
+tipo: laboratorio
+tags: [pre-engagement, alcance, reglas-compromiso, requisitos-cliente]
+actualizado: 2026-05-28
+---
+
+# Laboratorio — Alcance y planificación previa al compromiso
+
 Antes de ofrecer un contrato a un cliente potencial, debemos aclarar cuáles son las condiciones y requisitos para el posible compromiso de pruebas de penetración. El cliente nos proporciona detalles sobre lo que quiere, lo cual es un buen punto de partida. A continuación, nos reunimos con el cliente para aclarar las necesidades y, en algunos casos, proponerle aspectos adicionales del compromiso en los que el cliente no había pensado.
 
 Necesitamos saber qué sistemas y personal deben ser atacados y cuáles están fuera de los límites. También necesitamos conocer los problemas de cumplimiento que se van a evaluar y qué información se nos proporcionará sobre la red del cliente, las instalaciones y las aplicaciones.
@@ -324,3 +332,16 @@ Aquí te ayudo a completar la tabla de **Elementos de las Reglas de Compromiso**
 | **Contactos de clientes**                                             | Los contactos principales son el **director de TI**, el **gerente de almacén** y el **gerente de operaciones**.                                                                                                                                                                                        |
 
 ![[4.4- Elementos de las Reglas de Compromiso.png]]
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬅️ Anterior: [[3- Explicar la importancia del alcance y los requisitos de la organización o del cliente]]
+- ➡️ Siguiente: [[5- Laboratorio - Crear un acuerdo de pentesting]]
+
+## Relacionadas
+
+- [[3- Explicar la importancia del alcance y los requisitos de la organización o del cliente]] — base teórica.
+- [[5- Laboratorio - Crear un acuerdo de pentesting]] — laboratorio siguiente (contrato).

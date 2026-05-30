@@ -1,5 +1,10 @@
-
 ---
+tipo: laboratorio
+tags: [powershell, mas, microsoft-activation-scripts, hwid, kms38, irm, iex]
+actualizado: 2026-05-28
+---
+
+# Microsoft Activation Scripts (MAS)
 
 #PowerShell ⚡ #WindowsActivation 🖥️ #MicrosoftActivationScripts 🔑 #MAS #KMS38 #HWID #Windows #Office #SysAdmin 🛠️ #CyberSecurity 🔒 #SecurityAwareness ⚠️ #Scripting #InvokeRestMethod #InvokeExpression #EthicalHacking #Infosec #WindowsTips #TechSecurity 🚀
 
@@ -47,4 +52,15 @@ notepad script.ps1
 
 Si el script es malicioso, **no lo ejecutes** en tu máquina principal. Usa una máquina virtual o un entorno aislado para pruebas.
 
-**[[12- Windows Hosts]]**
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|01 → Windows]]
+
+## Relacionadas
+
+- [[12- Windows Hosts]] — admin remoto Windows.
+- [[../3- Guía de Instalación Office Lite 2016/Guía de Instalación Office Lite 2016|Office Lite]] — instalación que requiere activación.
+- [[../../../02-Ciberseguridad/3- hacking basico/3- hosts/12- Windows Hosts|02 → Windows Hosts]] — WinRM/WMI con `irm`/`iex` también.
+- [[../../../02-Ciberseguridad/3- hacking basico/4- privilege scalation/2- python hijacking|Python hijacking]] — patrón análogo: ejecutar código remoto sin verificar.

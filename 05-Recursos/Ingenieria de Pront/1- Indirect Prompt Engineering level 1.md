@@ -1,3 +1,10 @@
+---
+tipo: laboratorio
+tags: [prompt-engineering, gandalf, ai-jailbreak, indirect-prompt, lakera]
+actualizado: 2026-05-28
+---
+
+# Indirect Prompt Engineering — Level 1 (Gandalf de Lakera)
 
 # Informe Detallado
 
@@ -81,5 +88,18 @@ Ante la negativa, se diseñó una nueva estrategia basada en la **ingeniería de
 *   **Conoce a tu Objetivo:** Entender la personalidad del modelo (en este caso, el arquetipo de "mago sabio") es crucial para diseñar un prompt efectivo que resuene con su programación.
 *   **Enmarcar la Solicitud:** Reformular la petición como una **prueba de valía**, un **juego intelectual** o una **búsqueda de conocimiento** puede eludir restricciones percibidas.
 *   **Explotar Formatos Creativos:** Pedir que la información se oculte en un formato creativo (historia, poema, acertijo, código, etc.) es una de las técnicas más efectivas en la ingeniería de prompts para eludir filtros de contenido.
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|05-Recursos]]
+
+## Relacionadas
+
+- [[../../07- Inteligencia-Artificial/3- Descubra el arte de la instrucción/index|07 → Arte de la instrucción]] — curso de prompting (versión "defensiva"/correcta).
+- [[../../07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/index|07 → IA responsable]] — uso ético.
+- [[../../02-Ciberseguridad/8- Amenazas de CIberataques Impulsados por IA/CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas|02 → Amenazas IA]] — IA al servicio del cibercrimen.
+- [[../Microsoft Reactor Python + IA/index|MS Reactor → Python + IA]] — uso programático de LLMs.
 
 ---

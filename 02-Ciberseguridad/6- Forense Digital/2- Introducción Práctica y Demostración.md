@@ -1,5 +1,10 @@
-
 ---
+tipo: teoria
+tags: [forense, autopsy, ftk-imager, dumpit, cadena-custodia, chfi, gcfe]
+actualizado: 2026-05-28
+---
+
+# Introducción Práctica y Demostración — Informática Forense (Parte 1)
 
 #DigitalForensics #EthicalHacking #CyberSecurity #CyberSecurityTraining #ForensicTools #FreeCourse #HackerMentor
 
@@ -75,3 +80,19 @@ Aquí tienes las herramientas más útiles que se usan en el análisis forense, 
 
 ## **Conclusión para Estudiantes**
 La informática forense es una mezcla de tecnología, método y leyes que te permite investigar ciberdelitos y proteger datos. Aprender a usar herramientas como Autopsy o FTK Imager, seguir la cadena de custodia y practicar constantemente te preparará para una carrera emocionante y bien pagada en ciberseguridad. ¡Empieza con casos simples, sé paciente y sigue aprendiendo!
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|6- Forense Digital]]
+- ⬅️ Anterior: [[1- Investigación de Spear Phishing - Caso Luxury Design JFK]]
+- ➡️ Siguiente: [[3- Introducción Práctica y Demostración Parte 2]]
+
+## Relacionadas
+
+- [[3- Introducción Práctica y Demostración Parte 2]] — continuación con metodología y técnicas anti-forenses.
+- [[1- Investigación de Spear Phishing - Caso Luxury Design JFK]] — aplicación de estos conceptos en caso real.
+- [[4- Caso Practico, Un hacker entró a mi equipo]] — caso práctico de DFIR.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/index|Google → 6- Detección y respuesta]] — marco teórico SIEM/SOC.
+- [[../2- Extraer Metadatos de imagenes/1- Extraer Metadatos de las imagenes|Extraer Metadatos]] — técnica forense básica.

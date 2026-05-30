@@ -1,3 +1,11 @@
+---
+tipo: teoria
+tags: [etica, profesionalismo, integridad, insiders, confidencialidad]
+actualizado: 2026-05-28
+---
+
+# Demostrar una mentalidad de hacking ético manteniendo el profesionalismo y la integridad
+
 La piratería es ilegal. El hacking ético es el uso de herramientas y técnicas ilegales con fines legales. Es la ética lo que diferencia a los dos. Usted como pentester, debe asegurar a nuestros clientes que sus datos, redes y aplicaciones están seguros. Ese es el propósito de nuestro compromiso con ellos.
 
 Se estima que los insiders malintencionados causan el 60% de las violaciones de datos. Las empresas de pruebas de penetración deben tomar medidas adicionales para asegurarse de que sus empleados puedan confiar los secretos de sus clientes.
@@ -83,4 +91,17 @@ A diferencia del utilitarismo, que se centra en las consecuencias y en el bienes
 ### Paso 3: Investigar el enfoque del bien común para la toma de decisiones éticas.
 
 Definir el principio subyacente para el enfoque del bien común en la toma de decisiones éticas.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Módulo 2]]
+- ⬅️ Anterior: [[5- Laboratorio - Crear un acuerdo de pentesting]]
+- ➡️ Siguiente: [[7- Laboratorio - Código de Conducta Personal]]
+
+## Relacionadas
+
+- [[7- Laboratorio - Código de Conducta Personal]] — aplicación práctica: desarrollar tu código ético.
+- [[../../3- hacking basico/1- Teoria de Ciberseguridad/2- De qué color es mi sombrero|Cisco → Color del sombrero]] — taxonomía de hackers basada en ética.
 

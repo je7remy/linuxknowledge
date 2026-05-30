@@ -1,3 +1,11 @@
+---
+tipo: laboratorio
+tags: [git, rebase, reset-hard, drop, push-force, historial]
+actualizado: 2026-05-28
+---
+
+# Cómo Borrar un Commit
+
 Para borrar el **antepenúltimo commit** de tu historial en Git, sigue estos pasos:
 
 ---
@@ -82,3 +90,15 @@ git push --force origin main
 
 - **Si quieres borrar solo ese commit y dejar los demás intactos**, usa `git rebase -i`.
 - **Si quieres borrar ese commit y todo lo que vino después**, usa `git reset --hard`.
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|Git]]
+- ⬅️ Anterior: [[2- Cómo Editar un Commit que ya se Subio a GitHub]]
+
+## Relacionadas
+
+- [[1- Comandos Git]] — comandos básicos.
+- [[2- Cómo Editar un Commit que ya se Subio a GitHub]] — alternativa: editar en lugar de borrar.

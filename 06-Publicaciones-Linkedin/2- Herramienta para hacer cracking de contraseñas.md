@@ -1,3 +1,11 @@
+---
+tipo: publicacion
+tags: [linkedin, cracking, john-the-ripper, zip2john, keepass2john, rar2john, rockyou]
+actualizado: 2026-05-28
+---
+
+# Herramienta para hacer cracking de contraseñas (publicación LinkedIn)
+
 ![[ChatGPT Image 9 jun 2025, 08_59_52 p.m..png]]
 
 
@@ -131,5 +139,18 @@ Este proceso es útil para recuperar contraseñas olvidadas de archivos protegid
 ## Recursos Adicionales
 
 - Repositorio con ejemplos: [github.com/je7remy/linuxknowledge](https://github.com/je7remy/linuxknowledge/blob/main/01-Sistemas-Operativos/Linux/1-%20El%20Hacker%20Legendario%20%F0%9F%90%A7%F0%9F%90%8D%20-%20Fundamentos%2C%20Hacking%20y%20Certificaciones/3-%20Preparaci%C3%B3n%20para%20la%20Certificaci%C3%B3n%20del%20eJPTv2/1-%20Curso%20de%20Linux%20y%20Bash%20Scripting/9-%20Ejercicios%20Pr%C3%A1cticos/12-%20Herramienta%20para%20hacer%20cracking%20de%20contrase%C3%B1as.md)
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|06-Publicaciones-Linkedin]]
+
+## Relacionadas (fuente técnica)
+
+- [[../../02-Ciberseguridad/1- Cracking/Hoja de Trucos HASHCAT|Hashcat cheatsheet]] — herramienta alternativa.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/12- Herramienta para hacer cracking de contraseñas|Bash → Herramienta cracking]] — laboratorio práctico fuente.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/1- Curso de Linux y Bash Scripting/9- Ejercicios Prácticos/13- Automatización de Cracking de Contraseñas|Automatización Cracking]] — pipeline automatizado.
+- [[../../02-Ciberseguridad/3- hacking basico/1- Teoria de Ciberseguridad/4- Tiempos de craqueo|Cisco → Tiempos craqueo]] — teoría de John the Ripper.
 
 ---

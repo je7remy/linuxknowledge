@@ -1,3 +1,11 @@
+---
+tipo: cheatsheet
+tags: [blender, 3d, modelado, atajos-teclado]
+actualizado: 2026-05-28
+---
+
+# Blender — Comandos Básicos
+
 1. Mover un objecto sobre si mismo = presionando el botón medio del mouse.
 2. Mover un objecto en el espacio = presionando (shift) + el botón medio del mouse.
 3. Mover objecto de lugar = seleccionando la herramienta mover + la letra G.
@@ -49,3 +57,13 @@
 49. Seleccionar = letra c.
 50. Seleccionar con la herramienta lazo = Ctrl + click derecho.
 51. Renderizar = F12
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|05-Recursos]]
+
+## Relacionadas
+
+- [[../index|05-Recursos]] — catálogo de guías rápidas.

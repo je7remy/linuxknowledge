@@ -1,5 +1,10 @@
-
 ---
+tipo: teoria
+tags: [rdp, winrm, wmi, wmic, evil-winrm, xfreerdp, windows, remote-admin, hosts]
+actualizado: 2026-05-28
+---
+
+# Windows Hosts — RDP + WinRM + WMI
 
 #RDP #RemoteDesktop #Ciberseguridad #Pentesting #HackingEtico #SeguridadInformática #Nmap #EscaneoRDP #AdministraciónRemota #SeguridadWindows #Redes #Hacking #CiberAtaques #PruebasDePenetración #EthicalHacking
 
@@ -331,4 +336,26 @@ ILF-SQL-01
 ```
 
 
-**[[Microsoft Activation Scripts master]]**
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|3- hosts]]
+- ⬅️ Anterior: [[11- SSH]]
+- ➡️ Siguiente: _(último del catálogo)_
+
+## Relacionadas (Windows admin remoto)
+
+- [[8- RDP]] — cheatsheet rápido enfocado en ataques al protocolo RDP.
+- [[9- SMB]] — protocolo complementario en Windows.
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/index|01 → Active Directory]] — entorno donde se aplican estos protocolos en conjunto.
+- [[../../../01-Sistemas-Operativos/Windows/7- Activie Directory/2- Tools|AD → Tools]] — herramientas adicionales (Impacket, evil-winrm).
+
+## Relacionadas (Nmap y cracking)
+
+- [[1- Hoja de trucos NMAP]] — scripts `rdp-*`, escaneo de puertos 3389, 5985-5986, 135.
+- [[12- Herramienta para hacer cracking de contraseñas]] — RDP/WinRM brute-force con Hydra/CrackMapExec.
+
+## Otros enlaces relacionados
+
+- [[Microsoft Activation Scripts master]]

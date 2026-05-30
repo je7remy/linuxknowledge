@@ -1,3 +1,9 @@
+---
+tipo: teoria
+tags: [fortinet, cncs, ia-ofensiva, deepseek, soc, sun-tzu, phishing-ia]
+actualizado: 2026-05-28
+---
+
 # 🛡️ Ciberseguridad 2025: Estrategias para Enfrentar las Ciberamenazas
 **Presentado por:** Víctor Morel – Systems Engineer  
 **Organizado por:** Fortinet & CNCS (Centro Nacional de Ciberseguridad – República Dominicana)
@@ -168,3 +174,15 @@ Una base de datos de DeepSeek expuesta públicamente permitió control total sob
 - El incidente se **resuelve rápidamente**
 
 ---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|02-Ciberseguridad]]
+
+## Relacionadas
+
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/index|Google → 6- Detección y respuesta]] — SOC y SIEM en profundidad.
+- [[../3- hacking basico/1- Teoria de Ciberseguridad/15- Enfoque de Cisco para la ciberseguridad|Cisco → IPS/IDS/SIEM]] — base teórica.
+- [[../../07- Inteligencia-Artificial/4- Utiliza la IA de forma responsable/index|07 → IA responsable]] — uso ético de IA.
+- [[../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/9- Ciberseguridad Defensiva/index|Python → 9- Defensiva]] — automatización defensiva.
+- [[../4- Hacking Intermedio Teoria/Módulo 1 Introducción al Hacking Ético y a las Pruebas de Penetración/7- Comparar metodologías de pentesting|Módulo 1 → Comparativas]] — Grupo Lazarus (estado-nación).

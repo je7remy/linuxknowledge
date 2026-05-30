@@ -1,5 +1,10 @@
+---
+tipo: teoria
+tags: [nmap, reconocimiento, nse, scripts, enumeracion]
+actualizado: 2026-05-28
+---
 
----------
+# Nmap — NSE Scripts
 
 #nmap #enumeration #scripts
 
@@ -167,7 +172,23 @@ PORT   STATE SERVICE VERSION
 Los scripts utilizados para el último escaneo interactúan con el servidor web y su aplicación web para obtener más información sobre sus versiones y verificar varias bases de datos para ver si hay vulnerabilidades conocidas. Más información sobre los scripts NSE y las categorías correspondientes la podemos encontrar en: [https://nmap.org/nsedoc/index.html](https://nmap.org/nsedoc/index.html)
 
 
-**[[1- OSINT]]**
-[[1- Hoja de trucos NMAP]]
-[[2- nmap comands]]
-[[3- nmap firewall evasion]]
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|1- Nmap]]
+- ⬅️ Anterior: [[4- nmap output]]
+- ➡️ Siguiente: [[6- nmap Time]] — modificadores de tiempo y rendimiento.
+
+## Relacionadas (Nmap)
+
+- [[1- Hoja de trucos NMAP]] — opciones `-sC` y `--script` resumidas.
+- [[2- nmap comands]] — referencia rápida del mismo material.
+- [[3- nmap firewall evasion]] — combinación de NSE con técnicas de evasión.
+
+## Relacionadas (fuera de Nmap)
+
+- [[1- OSINT]] — recopilación pasiva previa al uso de NSE.
+- [[6- Inicio de Sesión en WordPress desde Python]] — los scripts `http-wordpress-*` aquí mostrados se combinan luego con explotación desde Python.
+- [[7- Explicación XMLRPC en WordPress]] — vector XMLRPC mencionado en `--script vuln`.
+- [[9- SMB]] — los scripts SMB de NSE encajan en este dominio.

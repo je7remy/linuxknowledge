@@ -1,3 +1,11 @@
+---
+tipo: laboratorio
+tags: [android, amazon-fire, google-play, fire-tablet]
+actualizado: 2026-05-28
+---
+
+# Cómo instalar GOOGLE PLAY STORE en tablets Amazon FIRE 7, 8 y 10 (2021)
+
 # ⭐️ ORDEN DE INSTALACIÓN ⭐️
 
 Para instalar correctamente los servicios de Google en tu tablet Fire, debes seguir este orden:

