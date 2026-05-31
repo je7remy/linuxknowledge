@@ -39,6 +39,11 @@ Para instrucciones operativas del LLM, ver [[CLAUDE]].
 - `CODE_OF_CONDUCT.md` — Código de conducta del repo.
 - `LICENSE` — Licencia MIT.
 
+## 📁 Vista Curada — carpeta agrupada
+
+Los siguientes están todos dentro de [[_Vista Curada|_Vista Curada/]]
+para no llenar la raíz del explorador.
+
 ## MOCs (Maps of Content) — vistas cross-dominio
 
 Páginas curadas que organizan información **por tema**, no por jerarquía
@@ -50,6 +55,18 @@ de carpeta:
   con notas del vault por fase.
 - [[MOC - Python para Ciberseguridad]] — Python cross-dominio: fundamentos,
   scripts ofensivos, criptografía, forense.
+- [[MOC - Forense Digital end-to-end]] — DFIR: las 5 fases de un proceso
+  forense con herramientas y certificaciones.
+- [[MOC - Web Pentesting OWASP]] — OWASP Top 10 2021 + herramientas por
+  categoría + certificaciones web.
+- [[MOC - Active Directory Pentesting]] — Pentesting en entornos AD:
+  Kerberos, BloodHound, Pass-the-Hash, Kerberoasting.
+- [[MOC - Networking del Pentester]] — Networking aplicado: modelo OSI,
+  protocolos, subnetting, ataques por capa.
+- [[MOC - Wireless Pentesting]] — Wi-Fi pentesting: 802.11, WPA2/3, PMKID,
+  Evil Twin, KRACK, Dragonblood.
+- [[MOC - Cloud Security]] — AWS/Azure/GCP: IAM, buckets públicos,
+  metadata service abuse, CSPM/CWPP/CIEM.
 
 ## Notas-concepto maestras (Entity pages)
 
@@ -58,15 +75,38 @@ Definiciones unificadoras de los conceptos centrales del dominio:
 - [[Pentesting]] — Qué es, tipos, metodologías, fases, certificaciones.
 - [[OSINT]] — Open Source Intelligence: definición, herramientas, ética.
 - [[Hacking Etico]] — Marco ético-legal, los tres sombreros, bug bounty.
+- [[Networking]] — Fundamentos teóricos de redes para pentester.
+- [[Cryptography]] — Cifrado simétrico/asimétrico, hashing, TLS, JWT, PKI.
+- [[SIEM EDR y SOC]] — El trío defensivo del Blue Team.
+- [[Malware]] — Taxonomía, vectores, análisis estático/dinámico.
+- [[APT]] — Advanced Persistent Threats: actores, TTPs, defensa.
+- [[DNS]] — Domain Name System: registros, jerarquía, ataques (spoofing,
+  tunneling, DGA).
+- [[Authentication]] — Autenticación: factores, MFA, Kerberos, FIDO2,
+  passkeys.
+- [[VPN]] — Virtual Private Networks: WireGuard, OpenVPN, IPsec, ZTNA.
+- [[Wireshark]] — Packet analyzer: filtros, casos forenses, alternativas.
 
 ## Notas de síntesis cross-dominio
 
 Conexiones entre dominios distintos del vault:
 
-- [[Sintesis - Python vs Bash en pentesting]] — Comparativa por fase.
+- [[Sintesis - Python vs Bash en pentesting]] — Comparativa por fase
+  (ofensivo).
+- [[Sintesis - Bash y Python en DFIR]] — Las mismas herramientas
+  aplicadas en defensa (Volatility, plaso, triage scripts).
 - [[Sintesis - IA y Ciberseguridad]] — IA como arma y defensa.
 - [[Sintesis - Linux como sistema base del pentester]] — Por qué Linux y
   la pila completa.
+- [[Sintesis - Forense vs Pentesting]] — Las dos disciplinas opuestas
+  pero complementarias.
+- [[Sintesis - Tesis Universitaria como aplicacion del vault]] — Cómo la
+  tesis aplica todo lo aprendido en el vault.
+
+## Dashboard de inicio
+
+- [[🔒🐧Hub|Hub Principal]] — Pantalla de inicio con calendario, heatmap y atajos.
+- [[DASHBOARD-INSTALL|Guía de instalación del Dashboard]] — Setup paso a paso.
 
 ## Sección 01 — Sistemas Operativos (núcleo del vault)
 

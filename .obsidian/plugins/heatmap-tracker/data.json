@@ -1,0 +1,28 @@
+{
+  "palettes": {
+    "default": [
+      "#c6e48b",
+      "#7bc96f",
+      "#49af5d",
+      "#2e8840",
+      "#196127"
+    ],
+    "danger": [
+      "#fff33b",
+      "#fdc70c",
+      "#f3903f",
+      "#ed683c",
+      "#e93e3a"
+    ]
+  },
+  "weekStartDay": 1,
+  "weekDisplayMode": "even",
+  "separateMonths": true,
+  "language": "es",
+  "viewTabsVisibility": {
+    "documentation": true,
+    "heatmap-tracker": true,
+    "heatmap-tracker-statistics": true,
+    "legend": true
+  }
+}

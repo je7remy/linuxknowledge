@@ -2,9 +2,8 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "Tabloid",
-    "landscape": true,
+    "pageSize": "Letter",
+    "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   }

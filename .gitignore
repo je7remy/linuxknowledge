@@ -1,0 +1,110 @@
+# ============================================================
+# .gitignore para vault Obsidian (linuxknowledge)
+# Filosofía: subir la CONFIG del vault (plugins, snippets, themes),
+# excluir el ESTADO VOLÁTIL (caches, workspace temporal, backups del SO).
+# ============================================================
+
+# ─── Obsidian: estado volátil (NO subir) ───────────────────
+# El workspace actual cambia cada vez que abres una nota,
+# scrolleas, o redimensionas. Mejor regenerar en cada máquina.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Caches internos de plugins (se regeneran solos)
+.obsidian/plugins/*/cache/
+.obsidian/plugins/*/.cache/
+.obsidian/plugins/*/*.cache
+.obsidian/plugins/*/data-cache.json
+
+# Backups automáticos
+.obsidian/*.bak
+.obsidian/*/*.bak
+.obsidian/plugins/*/*.backup
+.obsidian/plugins/*/*.bak
+
+# Index file de búsqueda (regenerable)
+.obsidian/types.json
+
+# ─── Plugins específicos: datos volátiles ──────────────────
+
+# Dataview: cache
+.obsidian/plugins/dataview/cache/
+
+# RSS Dashboard: feeds descargados, no la config
+.obsidian/plugins/rss-dashboard/data.json
+.obsidian/plugins/rss-dashboard/*.opml.backup
+.rss-dashboard-data/
+
+# Beautitab: wallpapers en base64 hacen el JSON enorme
+.obsidian/plugins/beautitab/data.json
+
+# Heatmap Tracker: data persistente local
+.obsidian/plugins/heatmap-tracker/data.json
+
+# ─── Archivos del SO ───────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── IDEs ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── Temporales de Obsidian al guardar ────────────────────
+*.tmp
+*.tmp.*
+.tmp/
+
+# ─── Logs ──────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# ─── Node (por si Flowershow plugin compila) ───────────────
+node_modules/
+.flowershow/
+
+# ─── Privado (notas que NO quieres en GitHub) ──────────────
+# Descomenta si tienes notas privadas en estas carpetas:
+# 📥 Inbox/private/
+# 🔒 Privado/
+# *.private.md
+
+# ─── PERMITIR explícitamente lo importante ─────────────────
+# Estos archivos SÍ se suben (overrides para .obsidian/)
+!.obsidian/
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/core-plugins-migration.json
+!.obsidian/hotkeys.json
+!.obsidian/graph.json
+!.obsidian/workspaces.json
+!.obsidian/types.json
+
+# Snippets de CSS (custom)
+!.obsidian/snippets/
+!.obsidian/snippets/*.css
+
+# Themes
+!.obsidian/themes/
+!.obsidian/themes/**
+
+# Plugins: solo manifests y config (NO main.js que es código compilado)
+!.obsidian/plugins/
+!.obsidian/plugins/*/
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/data.json
+!.obsidian/plugins/*/styles.css
+
+# Excepciones específicas para RSS Dashboard (feeds.opml SÍ se sube)
+!.obsidian/plugins/rss-dashboard/feeds.opml

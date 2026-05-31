@@ -1,239 +1,988 @@
 /* ============================================================
-   dashboard.css — Pantalla de inicio tipo "Notion premium"
-   Aplicar al archivo Home.md vía cssclasses: dashboard-home
+   dashboard.css — Polish premium
+   Inspiración: Linear · Arc Browser · Raycast · Notion · Apple
+   Refinamiento, NO redesign. Mantiene selectores existentes.
    ============================================================ */
 
-/* === Background image del dashboard === */
-/* Reemplaza 'assets/wallpaper.jpg' por tu ruta real */
-.markdown-source-view.is-readable-line-width.dashboard-home,
-.markdown-preview-view.dashboard-home {
-  background-image: url('app://local/C:/linuxknowledge/assets/wallpaper.jpg');
-  background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  position: relative;
-  min-height: 100vh;
+/* ============================================================
+   DESIGN TOKENS — paleta sobria, spacing generoso, shadows reales
+   ============================================================ */
+.dashboard-home {
+  /* Backgrounds — más profundos y neutros */
+  --bg-0: #0b0d12;
+  --bg-1: #11141b;
+  --bg-2: #161922;
+  --bg-3: #1a1d28;
+
+  /* Surfaces — opacidad reducida para glassmorphism sutil */
+  --surface-1: rgba(22, 25, 34, 0.45);
+  --surface-2: rgba(28, 32, 42, 0.6);
+  --surface-3: rgba(34, 38, 50, 0.75);
+
+  /* Borders — más finos */
+  --border-soft: rgba(255, 255, 255, 0.04);
+  --border-mid:  rgba(255, 255, 255, 0.07);
+  --border-strong: rgba(125, 211, 252, 0.18);
+
+  /* Text — mejor contraste y jerarquía */
+  --text-primary:   #f5f7fa;
+  --text-secondary: #c9d0dc;
+  --text-tertiary:  #8b94a8;
+  --text-muted:     #5d6680;
+
+  /* Accents — más sobrios (sky + violet Tailwind muted) */
+  --accent-cyan:    #7dd3fc;   /* sky-300, más sutil que #7fd1ff */
+  --accent-cyan-2:  #38bdf8;   /* sky-400 */
+  --accent-purple:  #a78bfa;   /* violet-400, más muted */
+  --accent-purple-2:#8b5cf6;   /* violet-500 */
+  --accent-teal:    #5eead4;
+  --accent-green:   #22c55e;
+  --accent-amber:   #f59e0b;
+  --accent-red:     #ef4444;
+
+  /* Spacing — escala más generosa (premium = breathing room) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 40px;
+  --space-8: 48px;
+  --space-10: 56px;
+  --space-12: 72px;
+
+  /* Radii — más conservadores */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 14px;
+  --r-xl: 18px;
+  --r-2xl: 24px;
+  --r-pill: 999px;
+
+  /* Shadows multi-layer (Apple-style) */
+  --shadow-xs:
+    0 1px 1px rgba(0, 0, 0, 0.06);
+  --shadow-sm:
+    0 1px 2px rgba(0, 0, 0, 0.06),
+    0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md:
+    0 2px 4px rgba(0, 0, 0, 0.06),
+    0 4px 12px rgba(0, 0, 0, 0.12);
+  --shadow-lg:
+    0 4px 8px rgba(0, 0, 0, 0.08),
+    0 12px 24px rgba(0, 0, 0, 0.16),
+    0 24px 48px rgba(0, 0, 0, 0.18);
+  --shadow-glow:
+    0 0 0 1px rgba(125, 211, 252, 0.15),
+    0 0 24px rgba(125, 211, 252, 0.12);
+  --shadow-inset:
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+
+  /* Easing curves */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Type */
+  --font-display: -apple-system, "SF Pro Display", "Inter", "Segoe UI",
+                  system-ui, sans-serif;
+  --font-mono: "SF Mono", "JetBrains Mono", "Consolas", monospace;
+  --font-feat: "ss01", "kern", "liga", "calt";
 }
 
-/* Capa oscura encima del fondo para legibilidad del texto */
-.markdown-preview-view.dashboard-home::before {
-  content: "";
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
+/* ============================================================
+   BASE — backdrop más sutil
+   ============================================================ */
+.markdown-preview-view.dashboard-home {
+  max-width: none !important;
+  padding: 0 !important;
+  background:
+    radial-gradient(ellipse 1000px 700px at 20% -10%, rgba(125, 211, 252, 0.05) 0%, transparent 60%),
+    radial-gradient(ellipse 800px 600px at 80% 110%, rgba(167, 139, 250, 0.05) 0%, transparent 60%),
+    linear-gradient(180deg, var(--bg-0) 0%, var(--bg-1) 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  font-feature-settings: var(--font-feat);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dashboard-home .markdown-preview-section {
+  padding: var(--space-7) var(--space-8) !important;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.dashboard-home .inline-title,
+.dashboard-home .frontmatter-container,
+.dashboard-home .metadata-container,
+.dashboard-home .mod-header {
+  display: none !important;
+}
+
+/* ============================================================
+   HERO — más sutil, menos dominante
+   ============================================================ */
+.dashboard-hero {
+  position: relative;
+  width: 100%;
+  height: 260px;
+  overflow: hidden;
+  border-radius: var(--r-2xl);
+  margin-bottom: var(--space-7);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border-soft);
+  background: linear-gradient(135deg, #1a2032 0%, #252b3e 50%, #1a2032 100%);
+}
+
+.dashboard-hero .dashboard-hero-img,
+.dashboard-hero img {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  object-fit: cover;
+  z-index: 0;
+  display: block;
+}
+
+.dashboard-hero-overlay {
+  position: absolute;
+  inset: 0;
   background: linear-gradient(
     180deg,
-    rgba(0,0,0,0.55) 0%,
-    rgba(0,0,0,0.35) 50%,
-    rgba(0,0,0,0.65) 100%
+    rgba(11, 13, 18, 0.05) 0%,
+    rgba(11, 13, 18, 0.25) 50%,
+    rgba(11, 13, 18, 0.85) 100%
   );
-  z-index: 0;
-  pointer-events: none;
-}
-
-/* Asegurar que el contenido esté encima del overlay */
-.markdown-preview-view.dashboard-home > * {
-  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--space-6) var(--space-7);
   z-index: 1;
 }
 
-/* === Tipografía del dashboard === */
-.dashboard-home h1 {
-  color: #fff;
-  font-size: 2.2rem;
-  text-shadow: 0 2px 12px rgba(0,0,0,0.7);
-  border: none;
-  margin-top: 2rem;
+.dashboard-hero-meta {
+  position: absolute;
+  top: var(--space-5);
+  left: var(--space-7);
+  right: var(--space-7);
+  z-index: 2;
 }
 
-.dashboard-home h2 {
-  color: #e8e8e8;
-  font-size: 1.1rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  border: none;
-  margin-top: 1.5rem;
-}
-
-.dashboard-home p,
-.dashboard-home li {
-  color: #e0e0e0;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.5);
-}
-
-.dashboard-home a.internal-link {
-  color: #7fd1ff;
-  text-decoration: none;
-}
-.dashboard-home a.internal-link:hover {
-  color: #b8e3ff;
-  text-decoration: underline;
-}
-
-/* === Frase motivacional === */
-.dashboard-quote {
-  margin: 1rem 0 2rem 0;
-  padding: 1rem 1.5rem;
-  background: rgba(255,255,255,0.06);
-  border-left: 3px solid #7fd1ff;
-  border-radius: 4px;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  max-width: 640px;
-}
-.dashboard-quote blockquote {
-  margin: 0;
-  border: none;
-  color: #f0f0f0;
-  font-style: italic;
-  font-size: 1.05rem;
-}
-
-/* === Atajos rápidos: bullets compactos === */
-.dashboard-shortcuts ul {
-  list-style: none;
-  padding: 0;
-  margin: 0.5rem 0 1.5rem 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 0.6rem;
-  max-width: 720px;
-}
-.dashboard-shortcuts li {
-  background: rgba(255,255,255,0.08);
-  padding: 0.7rem 1rem;
-  border-radius: 8px;
-  border: 1px solid rgba(255,255,255,0.12);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  transition: all 0.2s ease;
-}
-.dashboard-shortcuts li:hover {
-  background: rgba(255,255,255,0.15);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-}
-
-/* ============================================================
-   CALENDARIO compacto — esquina superior derecha
-   ============================================================ */
-.dashboard-calendar {
-  position: fixed;
-  top: 50px;
-  right: 30px;
-  z-index: 100;
-  pointer-events: auto;
-}
-
-.cal-widget {
-  background: rgba(20, 25, 35, 0.85);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 14px;
-  padding: 1rem 1.3rem;
-  text-align: center;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
-  min-width: 130px;
-  font-family: -apple-system, "Segoe UI", sans-serif;
-}
-.cal-dayname {
-  color: #7fd1ff;
+.hero-line {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
   font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.hero-greeting {
+  background: rgba(125, 211, 252, 0.1);
+  border: 1px solid rgba(125, 211, 252, 0.25);
+  color: var(--accent-cyan);
+  padding: 4px 11px;
+  border-radius: var(--r-pill);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   font-weight: 600;
-  letter-spacing: 1.5px;
-  margin-bottom: 0.2rem;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  font-size: 0.68rem;
 }
-.cal-daynum {
-  color: #fff;
-  font-size: 3rem;
-  font-weight: 700;
-  line-height: 1;
-  margin: 0.3rem 0;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
-}
-.cal-monthyear {
-  color: #d0d0d0;
-  font-size: 0.85rem;
+
+.hero-date {
+  color: rgba(255, 255, 255, 0.55);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
   font-weight: 400;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  letter-spacing: 0.2px;
+}
+
+/* Título más sobrio: 3rem en lugar de 4rem */
+.dashboard-title {
+  font-family: var(--font-display);
+  font-size: 3rem !important;
+  font-weight: 800 !important;
+  margin: 0 !important;
+  line-height: 1.02 !important;
+  color: var(--text-primary);
+  letter-spacing: -2px;
+  background: linear-gradient(120deg, #ffffff 0%, var(--accent-cyan) 60%, var(--accent-purple) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 12px rgba(0, 0, 0, 0.4));
+  border: none !important;
+  padding: 0 !important;
+}
+
+.dashboard-subtitle {
+  color: rgba(255, 255, 255, 0.65) !important;
+  font-size: 0.92rem;
+  font-weight: 400;
+  margin: var(--space-2) 0 0 0 !important;
+  letter-spacing: 0.1px;
+}
+
+.dashboard-subtitle p { margin: 0; color: inherit; }
+
+.dashboard-subtitle strong {
+  color: var(--accent-cyan);
+  font-weight: 600;
+}
+
+/* ============================================================
+   HEADINGS — más sutiles, sin línea decorativa
+   ============================================================ */
+.dashboard-home h2 {
+  font-size: 0.72rem !important;
+  font-weight: 600 !important;
+  color: var(--text-tertiary) !important;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  border: none !important;
+  margin: var(--space-7) 0 var(--space-4) 0 !important;
+  padding: 0 !important;
+}
+
+.dashboard-home h2::after { content: none; }
+
+/* ============================================================
+   QUICK ACCESS — cards más limpias, iconos centered
+   ============================================================ */
+.quick-access-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: var(--space-3);
+  margin: 0 0 var(--space-7) 0;
+}
+
+.qa-card {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: var(--surface-1);
+  backdrop-filter: blur(40px) saturate(120%);
+  -webkit-backdrop-filter: blur(40px) saturate(120%);
+  border: 1px solid var(--border-soft);
+  border-radius: var(--r-md);
+  padding: var(--space-4) var(--space-2);
+  text-align: center;
+  transition: all 220ms var(--ease-out);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: var(--text-primary) !important;
+  min-height: 88px;
+}
+
+.qa-card:hover {
+  background: var(--surface-2);
+  border-color: var(--border-strong);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md), var(--shadow-glow);
+}
+
+.qa-card::before { content: none; }
+
+.qa-icon {
+  font-size: 1.5rem;
+  line-height: 1;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
+}
+
+.qa-label {
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--text-secondary) !important;
+  letter-spacing: 0.1px;
+  transition: color 200ms var(--ease-out);
+}
+
+.qa-card:hover .qa-label {
+  color: var(--text-primary) !important;
+}
+
+/* Defensive overrides para internal-link */
+.qa-card.internal-link,
+.qa-card.internal-link.is-unresolved,
+.qa-card.is-unresolved {
+  color: var(--text-primary) !important;
+  text-decoration: none !important;
+  border-color: var(--border-soft) !important;
+}
+
+.qa-card .qa-icon,
+.qa-card .qa-label,
+.qa-card span {
+  text-decoration: none !important;
+}
+
+.dashboard-home a.internal-link.is-unresolved,
+.dashboard-home a.is-unresolved {
+  color: var(--text-secondary) !important;
+  text-decoration: none !important;
+}
+
+/* ============================================================
+   BENTO GRID — proporciones más interesantes
+   ============================================================ */
+.bento-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: var(--space-5);
+  margin-bottom: var(--space-5);
+}
+
+.bento-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+
+/* ============================================================
+   BENTO CARDS — glassmorphism sutil + sombras multi-layer
+   ============================================================ */
+.bento-card {
+  background: var(--surface-1);
+  backdrop-filter: blur(40px) saturate(110%);
+  -webkit-backdrop-filter: blur(40px) saturate(110%);
+  border: 1px solid var(--border-soft);
+  border-radius: var(--r-xl);
+  padding: var(--space-5);
+  box-shadow: var(--shadow-sm), var(--shadow-inset);
+  transition: all 240ms var(--ease-out);
+  position: relative;
+  overflow: hidden;
+}
+
+.bento-card:hover {
+  border-color: var(--border-mid);
+  box-shadow: var(--shadow-md), var(--shadow-inset);
+  transform: translateY(-1px);
+}
+
+.bento-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.bento-icon {
+  font-size: 0.92rem;
+  opacity: 0.85;
+}
+
+.bento-title {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: -0.1px;
+}
+
+.bento-sub {
+  margin-left: auto;
+  font-size: 0.66rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.bento-yeartracker {
+  margin-bottom: var(--space-6);
+}
+
+/* ============================================================
+   CALENDARIO MENSUAL — más fino
+   ============================================================ */
+.cal-wrapper { width: 100%; }
+
+.cal-mensual {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.cal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cal-month-name {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text-primary);
   text-transform: capitalize;
-  margin-top: 0.3rem;
+  letter-spacing: -0.1px;
+}
+
+.cal-today-pill {
+  background: linear-gradient(120deg, var(--accent-cyan) 0%, var(--accent-purple) 100%);
+  color: var(--bg-0);
+  font-weight: 700;
+  font-size: 0.66rem;
+  padding: 3px 10px;
+  border-radius: var(--r-pill);
+  box-shadow: 0 1px 6px rgba(125, 211, 252, 0.35);
+  letter-spacing: 0.3px;
+}
+
+.cal-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: var(--space-1);
+  text-align: center;
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.cal-weekdays span {
+  font-size: 0.62rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  letter-spacing: 1px;
+}
+
+.cal-days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: var(--space-1);
+}
+
+.cal-link {
+  text-decoration: none !important;
+}
+
+.cal-day {
+  position: relative;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  border-radius: 6px;
+  background: transparent;
+  transition: all 150ms var(--ease-out);
+}
+
+.cal-day.cal-blank {
+  background: transparent;
+}
+
+.cal-link:hover .cal-day:not(.cal-today):not(.cal-blank) {
+  background: rgba(125, 211, 252, 0.08);
+  color: var(--text-primary);
+}
+
+.cal-day.cal-active {
+  color: var(--text-primary);
+  background: rgba(34, 197, 94, 0.1);
+  font-weight: 500;
+}
+
+.cal-day.cal-active .cal-dot {
+  position: absolute;
+  bottom: 2px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: var(--accent-green);
+}
+
+.cal-day.cal-has-note {
+  outline: 1px solid rgba(125, 211, 252, 0.4);
+  outline-offset: -1px;
+}
+
+/* Día actual: sutil, sin scale exagerado */
+.cal-day.cal-today {
+  background: linear-gradient(120deg, var(--accent-cyan) 0%, var(--accent-purple) 100%);
+  color: var(--bg-0) !important;
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(125, 211, 252, 0.3);
+}
+
+.cal-day.cal-today.cal-active .cal-dot {
+  background: var(--bg-0);
 }
 
 /* ============================================================
-   HEATMAP — esquina inferior derecha
+   DAILY TASKS — más limpio
    ============================================================ */
-.dashboard-heatmap {
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
-  z-index: 100;
-  background: rgba(20, 25, 35, 0.85);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 14px;
-  padding: 1rem;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
-  max-width: 720px;
-  font-family: -apple-system, "Segoe UI", sans-serif;
+.bento-tasks ul.contains-task-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
-/* Compactar el render del heatmap-tracker dentro del widget */
-.dashboard-heatmap .heatmap-tracker {
-  font-size: 0.7rem;
-  transform: scale(0.85);
-  transform-origin: bottom right;
+.bento-tasks ul.contains-task-list li.task-list-item {
+  padding: var(--space-2) var(--space-3);
+  margin: 0 0 4px 0;
+  border-radius: 6px;
+  background: transparent;
+  border-left: 2px solid var(--accent-amber);
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  transition: all 180ms var(--ease-out);
 }
 
-/* Etiquetas del heatmap (meses, días) más sutiles */
-.dashboard-heatmap .heatmap-tracker-month-labels,
-.dashboard-heatmap .heatmap-tracker-weekday-labels {
-  color: #999;
+.bento-tasks ul.contains-task-list li.task-list-item::before { content: none !important; }
+
+.bento-tasks ul.contains-task-list li.task-list-item:hover {
+  background: rgba(245, 158, 11, 0.06);
+  transform: translateX(2px);
 }
 
-/* === Footer con estadísticas === */
+.bento-tasks ul.contains-task-list li.task-list-item[data-task="x"],
+.bento-tasks ul.contains-task-list li.task-list-item[data-task="X"] {
+  border-left-color: var(--accent-green);
+  opacity: 0.55;
+}
+
+.bento-tasks input.task-list-item-checkbox {
+  margin-right: var(--space-2);
+  accent-color: var(--accent-cyan);
+}
+
+/* ============================================================
+   STATS GRID — más tipográfico
+   ============================================================ */
+.stats-wrapper { width: 100%; }
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-2);
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid var(--border-soft);
+  border-radius: var(--r-md);
+  padding: var(--space-3) var(--space-2);
+  text-align: center;
+  transition: all 200ms var(--ease-out);
+  position: relative;
+  overflow: hidden;
+}
+
+.stat::before { content: none; }
+
+.stat:hover {
+  background: rgba(125, 211, 252, 0.04);
+  border-color: var(--border-mid);
+  transform: translateY(-1px);
+}
+
+.stat-num {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.8px;
+  line-height: 1;
+  font-family: var(--font-display);
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-label {
+  font-size: 0.58rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-top: 6px;
+  font-weight: 600;
+}
+
+/* ============================================================
+   ACTIVE PROJECTS — más sutil
+   ============================================================ */
+.proj-wrapper { width: 100%; }
+
+.proj-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.proj-item {
+  padding: var(--space-3);
+  margin: 0 0 var(--space-2) 0;
+  background: transparent;
+  border-radius: var(--r-md);
+  border: 1px solid var(--border-soft);
+  border-left: 2px solid var(--accent-purple);
+  transition: all 180ms var(--ease-out);
+}
+
+.proj-item::before { content: none !important; }
+
+.proj-item:hover {
+  background: rgba(167, 139, 250, 0.05);
+  border-color: var(--border-mid);
+  border-left-color: var(--accent-purple);
+  transform: translateX(2px);
+}
+
+.proj-name {
+  display: block;
+  color: var(--text-primary) !important;
+  font-weight: 600;
+  font-size: 0.84rem;
+  text-decoration: none !important;
+  margin-bottom: 4px;
+  letter-spacing: -0.1px;
+}
+
+.proj-meta {
+  display: flex;
+  gap: var(--space-3);
+  font-size: 0.66rem;
+  color: var(--text-muted);
+  margin-bottom: var(--space-2);
+  font-family: var(--font-mono);
+  letter-spacing: 0.2px;
+}
+
+.proj-bar {
+  height: 3px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: var(--r-pill);
+  overflow: hidden;
+}
+
+.proj-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-cyan), var(--accent-purple));
+  border-radius: var(--r-pill);
+  transition: width 600ms var(--ease-out);
+}
+
+.proj-name.internal-link,
+.proj-name.internal-link.is-unresolved {
+  color: var(--text-primary) !important;
+}
+
+/* ============================================================
+   YEAR TRACKER — más fino, GitHub real
+   ============================================================ */
+.heatmap-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.heatmap-custom {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding-top: var(--space-2);
+}
+
+.heatmap-months {
+  display: grid;
+  grid-template-columns: 30px repeat(53, 12px);
+  gap: 3px;
+  align-items: end;
+  height: 16px;
+  margin-bottom: var(--space-1);
+}
+
+.heatmap-corner { width: 30px; }
+
+.heatmap-month-label {
+  font-size: 0.66rem;
+  color: var(--text-tertiary);
+  font-weight: 500;
+  text-align: left;
+  letter-spacing: 0.1px;
+}
+
+.heatmap-body {
+  display: flex;
+  gap: var(--space-2);
+  align-items: flex-start;
+}
+
+.heatmap-weekdays {
+  display: grid;
+  grid-template-rows: repeat(7, 12px);
+  gap: 3px;
+  width: 22px;
+}
+
+.heatmap-weekdays span {
+  font-size: 0.6rem;
+  color: var(--text-tertiary);
+  line-height: 12px;
+}
+
+.heatmap-grid {
+  display: grid;
+  grid-template-rows: repeat(7, 12px);
+  grid-auto-flow: column;
+  gap: 3px;
+}
+
+.heatmap-cell {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  transition: transform 180ms var(--ease-out), box-shadow 180ms var(--ease-out);
+  cursor: pointer;
+}
+
+.heatmap-cell:hover {
+  transform: scale(1.4);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.5);
+  z-index: 10;
+  position: relative;
+}
+
+.heatmap-legend {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: var(--space-3);
+  font-size: 0.66rem;
+  color: var(--text-tertiary);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border-soft);
+}
+
+.heatmap-legend .heatmap-cell {
+  width: 10px;
+  height: 10px;
+}
+
+.heatmap-legend .heatmap-total {
+  margin-left: auto;
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1px;
+}
+
+/* ============================================================
+   FOOTER — más minimal, sin card background
+   ============================================================ */
 .dashboard-footer {
-  position: fixed;
-  bottom: 30px;
-  left: 30px;
-  z-index: 100;
-  background: rgba(20, 25, 35, 0.75);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  padding: 0.5rem 1rem;
-  border-radius: 8px;
-  font-size: 0.85rem;
-  color: #b0b0b0;
-  border: 1px solid rgba(255,255,255,0.1);
+  margin-top: var(--space-7);
+  padding: var(--space-4) 0 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-5);
+  background: transparent;
+  border: none;
+  border-top: 1px solid var(--border-soft);
+  border-radius: 0;
+  backdrop-filter: none;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  letter-spacing: 0.1px;
+}
+
+.footer-section {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  opacity: 0.85;
+  transition: opacity 180ms var(--ease-out);
+}
+
+.footer-section:hover {
+  opacity: 1;
+}
+
+.dashboard-footer a.internal-link,
+.dashboard-footer a.internal-link.is-unresolved {
+  color: var(--text-secondary) !important;
+  text-decoration: none !important;
+  transition: color 180ms var(--ease-out);
+}
+
+.dashboard-footer a.internal-link:hover {
+  color: var(--accent-cyan) !important;
 }
 
 /* ============================================================
-   Responsive — móvil oculta heatmap y reduce calendario
+   RSS DASHBOARD — overrides premium para el plugin
    ============================================================ */
-@media (max-width: 768px) {
-  .dashboard-calendar {
-    top: 20px;
-    right: 15px;
-    transform: scale(0.75);
-    transform-origin: top right;
-  }
-  .dashboard-heatmap {
-    display: none; /* heatmap no cabe en móvil */
-  }
-  .dashboard-footer {
-    display: none;
-  }
+.rss-dashboard-sidebar {
+  background: var(--surface-1) !important;
+  backdrop-filter: blur(40px) saturate(120%);
+  border-right: 1px solid var(--border-soft);
+}
+
+.rss-dashboard-sidebar .feed-item {
+  border-radius: 6px;
+  transition: background 180ms var(--ease-out);
+}
+
+.rss-dashboard-sidebar .feed-item:hover {
+  background: rgba(125, 211, 252, 0.06) !important;
+}
+
+.rss-dashboard-sidebar .feed-item.is-active {
+  background: rgba(125, 211, 252, 0.12) !important;
+  border-left: 2px solid var(--accent-cyan);
+}
+
+.rss-dashboard-card,
+.rss-card {
+  background: var(--surface-1) !important;
+  backdrop-filter: blur(40px) saturate(110%);
+  -webkit-backdrop-filter: blur(40px) saturate(110%);
+  border: 1px solid var(--border-soft) !important;
+  border-radius: var(--r-lg) !important;
+  overflow: hidden;
+  transition: all 240ms var(--ease-out);
+  box-shadow: var(--shadow-sm);
+}
+
+.rss-dashboard-card:hover,
+.rss-card:hover {
+  border-color: var(--border-mid) !important;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.rss-card-title,
+.rss-dashboard-card-title {
+  font-weight: 600 !important;
+  letter-spacing: -0.2px;
+  color: var(--text-primary) !important;
+}
+
+.rss-card-summary,
+.rss-dashboard-card-summary {
+  color: var(--text-secondary) !important;
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.rss-card-meta,
+.rss-dashboard-card-meta {
+  color: var(--text-muted) !important;
+  font-size: 0.68rem;
+  font-family: var(--font-mono);
+}
+
+.rss-card-thumbnail,
+.rss-dashboard-card-thumbnail {
+  border-radius: var(--r-lg) var(--r-lg) 0 0 !important;
+}
+
+.rss-dashboard-toolbar {
+  background: var(--surface-1) !important;
+  border-bottom: 1px solid var(--border-soft);
+  backdrop-filter: blur(12px);
+}
+
+.rss-dashboard-badge,
+.unread-badge {
+  border-radius: var(--r-pill) !important;
+  font-weight: 600;
+  font-size: 0.65rem;
+  padding: 2px 7px !important;
+  box-shadow: 0 1px 4px rgba(125, 211, 252, 0.25);
+}
+
+.rss-highlight,
+.highlighted-word {
+  background: rgba(125, 211, 252, 0.12) !important;
+  color: var(--accent-cyan) !important;
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+.rss-dashboard-reader,
+.rss-reader-view {
+  background: linear-gradient(180deg, var(--bg-0) 0%, var(--bg-1) 100%);
+}
+
+.rss-dashboard-reader article,
+.rss-reader-content {
+  max-width: 680px;
+  margin: 0 auto;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.rss-filter-button {
+  background: var(--surface-1);
+  border: 1px solid var(--border-soft);
+  border-radius: var(--r-pill);
+  padding: 4px 11px;
+  font-size: 0.74rem;
+  transition: all 180ms var(--ease-out);
+}
+
+.rss-filter-button:hover {
+  border-color: var(--border-mid);
+  background: var(--surface-2);
+}
+
+.rss-filter-button.is-active {
+  background: linear-gradient(120deg, var(--accent-cyan), var(--accent-purple));
+  color: var(--bg-0);
+  font-weight: 600;
+  border-color: transparent;
 }
 
 /* ============================================================
-   Ocultar UI ruido en el dashboard (opcional)
+   RESPONSIVE
    ============================================================ */
-.dashboard-home .frontmatter-container,
-.dashboard-home .metadata-container,
-.dashboard-home .markdown-embed-link {
-  display: none;
+@media (max-width: 1300px) {
+  .quick-access-grid { grid-template-columns: repeat(5, 1fr); }
+  .bento-grid { grid-template-columns: 1fr; }
+  .bento-sidebar { flex-direction: row; flex-wrap: wrap; }
+  .bento-sidebar > .bento-card { flex: 1 1 280px; }
 }
 
-/* Ocultar título redundante (el H1 del archivo) si te molesta */
-/* .dashboard-home .inline-title { display: none; } */
+@media (max-width: 900px) {
+  .dashboard-home .markdown-preview-section {
+    padding: var(--space-5) var(--space-5) !important;
+  }
+  .quick-access-grid { grid-template-columns: repeat(5, 1fr); gap: var(--space-2); }
+  .dashboard-title { font-size: 2.4rem !important; }
+  .dashboard-hero { height: 220px; }
+  .stats-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 600px) {
+  .dashboard-home .markdown-preview-section {
+    padding: var(--space-4) !important;
+  }
+  .quick-access-grid { grid-template-columns: repeat(3, 1fr); }
+  .bento-sidebar { flex-direction: column; }
+  .dashboard-title { font-size: 2rem !important; }
+  .dashboard-hero { height: 180px; }
+  .dashboard-hero-overlay { padding: var(--space-4) var(--space-5); }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  .dashboard-footer { gap: var(--space-3); font-size: 0.66rem; }
+}

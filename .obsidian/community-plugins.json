@@ -1,8 +1,9 @@
 [
-  "beautitab",
-  "workspaces-plus",
   "homepage",
+  "dataview",
+  "templater-obsidian",
+  "rss-dashboard",
+  "workspaces-plus",
   "flowershow",
-  "heatmap-tracker",
-  "templater-obsidian"
+  "heatmap-tracker"
 ]

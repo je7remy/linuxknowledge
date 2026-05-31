@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>linuxknowledge RSS feeds</title>
+    <dateCreated>Sun, 31 May 2026 04:00:48 GMT</dateCreated>
+    <ownerName>je7remy</ownerName>
+  </head>
+  <body>
+
+    <outline text="📰 Threat Intel &amp; News" title="📰 Threat Intel &amp; News">
+      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/"/>
+      <outline text="Bleeping Computer" title="Bleeping Computer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+      <outline text="KrebsOnSecurity" title="KrebsOnSecurity" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
+      <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom/" htmlUrl="https://www.schneier.com/"/>
+      <outline text="Dark Reading" title="Dark Reading" type="rss" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com/"/>
+      <outline text="SecurityWeek" title="SecurityWeek" type="rss" xmlUrl="https://www.securityweek.com/feed/" htmlUrl="https://www.securityweek.com/"/>
+      <outline text="CISA Alerts" title="CISA Alerts" type="rss" xmlUrl="https://www.cisa.gov/news.xml" htmlUrl="https://www.cisa.gov/"/>
+      <outline text="Threatpost" title="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com/"/>
+    </outline>
+
+    <outline text="🛡️ Pentesting &amp; Red Team" title="🛡️ Pentesting &amp; Red Team">
+      <outline text="HackTricks" title="HackTricks" type="rss" xmlUrl="https://book.hacktricks.xyz/rss.xml" htmlUrl="https://book.hacktricks.xyz/"/>
+      <outline text="PortSwigger Daily Swig" title="PortSwigger Daily Swig" type="rss" xmlUrl="https://portswigger.net/daily-swig/rss" htmlUrl="https://portswigger.net/daily-swig"/>
+      <outline text="Pentester Land" title="Pentester Land" type="rss" xmlUrl="https://pentester.land/feed.xml" htmlUrl="https://pentester.land/"/>
+      <outline text="Exploit-DB" title="Exploit-DB Latest" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com/"/>
+      <outline text="HackTheBox Blog" title="HackTheBox Blog" type="rss" xmlUrl="https://www.hackthebox.com/rss/blog" htmlUrl="https://www.hackthebox.com/blog"/>
+    </outline>
+
+    <outline text="🐧 Linux &amp; Open Source" title="🐧 Linux &amp; Open Source">
+      <outline text="LWN.net Headlines" title="LWN.net Headlines" type="rss" xmlUrl="https://lwn.net/headlines/rss" htmlUrl="https://lwn.net/"/>
+      <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="https://www.phoronix.com/"/>
+      <outline text="It's FOSS" title="It's FOSS" type="rss" xmlUrl="https://itsfoss.com/feed/" htmlUrl="https://itsfoss.com/"/>
+      <outline text="LinuxSecurity News" title="LinuxSecurity News" type="rss" xmlUrl="https://linuxsecurity.com/news/feed" htmlUrl="https://linuxsecurity.com/"/>
+    </outline>
+
+    <outline text="☁️ Cloud &amp; DevSecOps" title="☁️ Cloud &amp; DevSecOps">
+      <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/security/feed/" htmlUrl="https://aws.amazon.com/blogs/security/"/>
+      <outline text="Cloud Security Alliance" title="Cloud Security Alliance" type="rss" xmlUrl="https://cloudsecurityalliance.org/blog/feed/" htmlUrl="https://cloudsecurityalliance.org/"/>
+      <outline text="Microsoft Security Blog" title="Microsoft Security Blog" type="rss" xmlUrl="https://www.microsoft.com/en-us/security/blog/feed/" htmlUrl="https://www.microsoft.com/security/blog"/>
+    </outline>
+
+    <outline text="💻 Dev &amp; Tech" title="💻 Dev &amp; Tech">
+      <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="Lobsters" title="Lobsters" type="rss" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
+    </outline>
+
+    <outline text="🇪🇸 Español — Ciberseguridad" title="🇪🇸 Español — Ciberseguridad">
+      <outline text="Una al día (Hispasec)" title="Una al día (Hispasec)" type="rss" xmlUrl="https://unaaldia.hispasec.com/feed" htmlUrl="https://unaaldia.hispasec.com/"/>
+      <outline text="Hackplayers" title="Hackplayers" type="rss" xmlUrl="https://www.hackplayers.com/feeds/posts/default" htmlUrl="https://www.hackplayers.com/"/>
+      <outline text="Security By Default" title="Security By Default" type="rss" xmlUrl="https://www.securitybydefault.com/feeds/posts/default" htmlUrl="https://www.securitybydefault.com/"/>
+      <outline text="INCIBE-CERT" title="INCIBE-CERT" type="rss" xmlUrl="https://www.incibe.es/incibe-cert/rss" htmlUrl="https://www.incibe.es/incibe-cert"/>
+    </outline>
+
+    <outline text="🎥 YouTube — Cybersecurity" title="🎥 YouTube — Cybersecurity">
+      <outline text="IppSec" title="IppSec (HackTheBox walkthroughs)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA" htmlUrl="https://www.youtube.com/@ippsec"/>
+      <outline text="John Hammond" title="John Hammond" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw" htmlUrl="https://www.youtube.com/@_JohnHammond"/>
+      <outline text="LiveOverflow" title="LiveOverflow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" htmlUrl="https://www.youtube.com/@LiveOverflow"/>
+      <outline text="The Cyber Mentor" title="The Cyber Mentor (TCM)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw" htmlUrl="https://www.youtube.com/@TCMSecurityAcademy"/>
+      <outline text="NetworkChuck" title="NetworkChuck" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0lT3pRWcGm8c0YbRwvDtbg" htmlUrl="https://www.youtube.com/@NetworkChuck"/>
+      <outline text="DEF CON" title="DEF CON Conference" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw" htmlUrl="https://www.youtube.com/@DEFCONConference"/>
+    </outline>
+
+    <outline text="🎙️ Podcasts" title="🎙️ Podcasts">
+      <outline text="Darknet Diaries" title="Darknet Diaries" type="rss" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" htmlUrl="https://darknetdiaries.com/"/>
+      <outline text="Risky Business" title="Risky Business" type="rss" xmlUrl="https://risky.biz/feeds/risky-business" htmlUrl="https://risky.biz/"/>
+      <outline text="Smashing Security" title="Smashing Security" type="rss" xmlUrl="https://www.smashingsecurity.com/rss" htmlUrl="https://www.smashingsecurity.com/"/>
+    </outline>
+
+  </body>
+</opml>

@@ -1,24 +1,26 @@
 {
   "main": {
-    "id": "965375fb93a52f62",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "d6f8c12ec88fe490",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d49f1a0b73715c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DASHBOARD-INSTALL.md",
-                "mode": "source",
+                "file": "🔒🐧Hub.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "DASHBOARD-INSTALL"
+              "title": "🔒🐧Hub"
             }
           }
         ]
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
+                "file": "🔒🐧Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1- Manipulación de Ficheros con Python"
+              "title": "Enlaces entrantes de 🔒🐧Hub"
             }
           },
           {
@@ -164,13 +166,27 @@
               "icon": "lucide-archive",
               "title": "Todas las propiedades"
             }
+          },
+          {
+            "id": "8c68570ccffc44f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "🔒🐧Hub.md"
+              },
+              "pinned": true,
+              "icon": "lucide-info",
+              "title": "Propiedades de los archivos para 🔒🐧Hub"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,48 +201,49 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "flowershow:Publish with Flowershow": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "rss-dashboard:RSS dashboard": false
     }
   },
-  "active": "b3d49f1a0b73715c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Sintesis - Linux como sistema base del pentester.md",
-    "SIEM EDR y SOC.md",
-    "Home.md",
-    "Home.md.tmp.13920.7d324cb7647e",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/1- Primeros pasos con el curso/_1- Primeros pasos con el curso.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/Modulo 1/_Modulo 1.md",
+    "🔒🐧Hub.md",
+    "📥 Inbox/_📥 Inbox.md",
+    "index.md",
     "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/3- Conectar y proteger, redes y seguridad de red/_3- Conectar y proteger, redes y seguridad de red.md",
-    "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Módulo 1/1- Te damos la bienvenida al apasionantemundo de la IA/3- La IA y el futuro del trabajo.md",
-    "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Módulo 1/1- Te damos la bienvenida al apasionantemundo de la IA/2- Descripción general de Fundamentos de IA de Google.md",
-    "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Módulo 1/1- Te damos la bienvenida al apasionantemundo de la IA/1- Introducción a Fundamentos de IA de Google.md",
-    "07- Inteligencia-Artificial/1- Programa especializado - Fundamentos de IA de Google/1- Introducción a la IA/Módulo 1/1- Te damos la bienvenida al apasionantemundo de la IA/_1- Te damos la bienvenida al apasionantemundo de la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 2/1- Continúa tu recorrido por la IA/3- Actividad, Planifica futuras oportunidades con la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 2/1- Continúa tu recorrido por la IA/2- Greg, Sigue explorando con la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 2/1- Continúa tu recorrido por la IA/1- Inspírate en la innovación de la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/1- Mantente informado sobre la IA/3- Actividad, Evalúa una nueva herramienta de IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/1- Mantente informado sobre la IA/2- Mantente al día con la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/1- Mantente informado sobre la IA/1- Introducción al curso 5, Mantente a la vanguardia de la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/1- Mantente informado sobre la IA/_1- Mantente informado sobre la IA.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/Módulo 1/_Módulo 1.md",
-    "07- Inteligencia-Artificial/5- Mantente a la vanguardia de la IA/_5- Mantente a la vanguardia de la IA.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/0- Comenzar el curso/_0- Comenzar el curso.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/Módulo 1/_Módulo 1.md",
-    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/7- Automatice las tareas de ciberseguridad con Python/_7- Automatice las tareas de ciberseguridad con Python.md",
-    "CLAUDE.md",
-    "Sintesis - Python vs Bash en pentesting.md",
-    "Sintesis - IA y Ciberseguridad.md",
-    "schema.md",
+    "📡 RSS Feeds.md",
+    "06-Publicaciones-Linkedin/3- Glosario de Ciberseguridad.pdf",
+    "06-Publicaciones-Linkedin/2- Herramienta para hacer cracking de contraseñas.md",
+    "06-Publicaciones-Linkedin/1- GESTIÓN EFICAZ DE USUARIOS EN LINUX, AUTOMATIZA TAREAS COMUNES CON BASH.md",
+    "assets/linuxknowledge-feeds.opml",
+    "Sin título.base",
+    "🎯 Areas/_🎯 Areas.md",
+    "_Vista Curada/Sintesis - Bash y Python en DFIR.md",
+    "_Vista Curada/Sintesis - Bash y Python en DFIR.md.tmp.13920.8c2f340b3fbb",
+    "_Vista Curada/MOC - Cloud Security.md",
+    "_Vista Curada/MOC - Cloud Security.md.tmp.13920.7cdbf86faf0a",
+    "_Vista Curada/MOC - Wireless Pentesting.md",
+    "_Vista Curada/MOC - Wireless Pentesting.md.tmp.13920.b4a91de92b00",
+    "_Vista Curada/Wireshark.md",
+    "_Vista Curada/Wireshark.md.tmp.13920.5052731be2e6",
+    "_Vista Curada/VPN.md",
+    "_Vista Curada/VPN.md.tmp.13920.7a10058e47cf",
+    "_Vista Curada/Authentication.md",
+    "_Vista Curada/Authentication.md.tmp.13920.5afb0dc008f1",
+    "_Vista Curada/DNS.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/1- Certificado profesional de Google Cybersecurity/6- Haga sonar la alarma Detección y respuesta/Módulo 2/2- Paquetes y Capturas de Paquetes – Análisis de Tráfico de Red/6- Analice su primer paquete.md",
+    "🚀 Projects/_🚀 Projects.md",
+    "🔒🐧Hub.md.tmp.13920.194e37b0ccdc",
+    "00 - Dashboard Guide.md",
+    "📅 Daily Notes/_📅 Daily Notes.md",
+    "📋 All Tasks.md",
+    "Home.md",
+    "templates/nota-nueva.md",
+    "templates/indice-carpeta.md",
+    "templates/_templates.md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- CompTIA Security+ (SY0-701) Complete Course & Exam/Proximamente....md",
+    "01-Sistemas-Operativos/Linux/1- El Hacker Legendario 🐧🐍 - Fundamentos, Hacking y Certificaciones/2- CompTIA Security+ (SY0-701) Complete Course & Exam/_2- CompTIA Security+ (SY0-701) Complete Course & Exam.md",
     "linuxknowledge.png",
-    "schema.md.tmp.13920.2f07c34d664f",
-    "log.md.tmp.13920.b4d3b55791ba",
-    "schema.md.tmp.13920.f092b6a9177d",
-    "schema.md.tmp.13920.629d04b5f00e",
-    "README.md.tmp.13920.6b94596c9564",
-    "README.md.tmp.13920.863fe704adf4",
-    "07- Inteligencia-Artificial/_07- Inteligencia-Artificial.md.tmp.13920.866c1e667a77",
-    "06-Publicaciones-Linkedin/_06-Publicaciones-Linkedin.md.tmp.13920.f7e25281ea68",
-    "log.md.tmp.13920.8df3199b4e8c",
     "03-Desarrollo/2- Tesis Universitaria/7- Cambios/ChatGPT Image 25 feb 2026, 07_13_57 p.m..png",
     "03-Desarrollo/2- Tesis Universitaria/7- Cambios/metodologia figura.png",
     "03-Desarrollo/2- Tesis Universitaria/7- Cambios/ChatGPT Image 25 feb 2026, 06_57_11 p.m..png",

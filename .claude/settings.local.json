@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem *)",
+      "Bash(mkdir -p \"_Vista Curada\")",
+      "Bash(mv \"MOC - Camino al eJPTv2.md\" \"_Vista Curada/\")",
+      "Bash(mv \"MOC - Pentesting end-to-end.md\" \"_Vista Curada/\")",
+      "Bash(mv \"MOC - Python para Ciberseguridad.md\" \"_Vista Curada/\")",
+      "Bash(mv \"MOC - Forense Digital end-to-end.md\" \"_Vista Curada/\")",
+      "Bash(mkdir -p \"📥 Inbox\")",
+      "Bash(mkdir -p \"📅 Daily Notes\")",
+      "Bash(mkdir -p \"🚀 Projects\")",
+      "Bash(mkdir -p \"🎯 Areas\")",
+      "Bash(mkdir -p \"🗄️ Archives\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\('main',{}\\).get\\('children',[{}]\\)[0].get\\('children',[{}]\\)[0].get\\('state',{}\\), indent=2\\)\\)\")"
+    ]
+  }
+}

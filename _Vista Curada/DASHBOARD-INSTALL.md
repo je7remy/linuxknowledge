@@ -131,7 +131,7 @@ colors: {
 ## Navegación
 
 - 🏠 [[🔒🐧Hub|Hub Principal del vault]]
-- [[Home|Volver al Dashboard]]
+- [[🔒🐧Hub|Volver al Dashboard]]
 - [[CLAUDE|Instrucciones operativas LLM]]
 
 ## Relacionadas

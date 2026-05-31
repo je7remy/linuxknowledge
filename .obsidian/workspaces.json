@@ -2,20 +2,27 @@
   "workspaces": {
     "Bienvenida": {
       "main": {
-        "id": "965375fb93a52f62",
+        "id": "5324373015726ba8",
         "type": "split",
         "children": [
           {
-            "id": "d6f8c12ec88fe490",
+            "id": "4509724f8bf84da7",
             "type": "tabs",
             "children": [
               {
-                "id": "b3d49f1a0b73715c",
+                "id": "e7a7b303c61786dc",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "beautitab-react-view",
-                  "state": {},
-                  "title": "New tab"
+                  "type": "markdown",
+                  "state": {
+                    "file": "🔒🐧Hub.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "🔒🐧Hub"
                 }
               }
             ]
@@ -41,7 +48,7 @@
                     "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
-                  "title": "Files"
+                  "title": "Explorador de archivos"
                 }
               },
               {
@@ -75,8 +82,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 647.5,
-        "collapsed": true
+        "width": 647.5
       },
       "right": {
         "id": "81c1016573cc3f98",
@@ -92,7 +98,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "01-Sistemas-Operativos/Linux/1- El Compendio del Hacker Legendario 📖🏆/2- Curso de Python Aplicado a la Ciberseguridad/3- Manipulación de Ficheros e Interacción con el Sistema Operativo/1- Manipulación de Ficheros con Python.md",
+                    "file": "🔒🐧Hub.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Enlaces entrantes de 1- Manipulación de Ficheros con Python"
+                  "title": "Enlaces entrantes de 🔒🐧Hub"
                 }
               },
               {
@@ -162,31 +168,50 @@
                   "icon": "lucide-archive",
                   "title": "Todas las propiedades"
                 }
+              },
+              {
+                "id": "8c68570ccffc44f3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "🔒🐧Hub.md"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-info",
+                  "title": "Propiedades de los archivos para 🔒🐧Hub"
+                }
               }
             ],
             "currentTab": 4
           }
         ],
         "direction": "horizontal",
-        "width": 300,
+        "width": 200,
         "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false,
-          "homepage:Open homepage": false
+          "bases:Crear nueva base": false,
+          "switcher:Abrir selector rápido": false,
+          "graph:Abrir vista gráfica": false,
+          "canvas:Crear nuevo lienzo": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+          "flowershow:Publish with Flowershow": false,
+          "templater-obsidian:Templater": false,
+          "homepage:Open homepage": false,
+          "rss-dashboard:RSS dashboard": false
         }
       },
-      "active": "b3d49f1a0b73715c",
-      "mtime": "2025-02-25T18:51:41-04:00",
+      "active": "e7a7b303c61786dc",
+      "mtime": "2026-05-31T19:17:00-04:00",
       "workspaces-plus:settings-v1": {
-        "explorerFoldState": []
+        "explorerFoldState": [],
+        "mode": null
       }
     }
   },

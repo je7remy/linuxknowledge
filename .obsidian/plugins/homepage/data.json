@@ -2,22 +2,22 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "Bienvenida",
-      "kind": "Workspace",
+      "value": "🔒🐧Hub",
+      "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
-      "view": "Default view",
+      "view": "Reading view",
       "revertView": true,
-      "openWhenEmpty": false,
-      "refreshDataview": false,
-      "autoCreate": false,
-      "autoScroll": false,
-      "pin": false,
+      "openWhenEmpty": true,
+      "refreshDataview": true,
+      "autoCreate": true,
+      "autoScroll": true,
+      "pin": true,
       "commands": [],
-      "alwaysApply": false,
-      "hideReleaseNotes": false
+      "alwaysApply": true,
+      "hideReleaseNotes": true
     }
   },
-  "separateMobile": false
+  "separateMobile": true
 }

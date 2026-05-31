@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" preserveAspectRatio="xMidYMid slice" width="1600" height="500">
+  <defs>
+    <!-- Sky gradient: deep night → teal twilight -->
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a1a2e"/>
+      <stop offset="40%" stop-color="#1a3a4e"/>
+      <stop offset="75%" stop-color="#2d5a6e"/>
+      <stop offset="100%" stop-color="#3a7a8c"/>
+    </linearGradient>
+
+    <!-- Moon glow gradient -->
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff8e0" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#ffe9a8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ffe9a8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Moon surface -->
+    <radialGradient id="moon" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#fffef0"/>
+      <stop offset="100%" stop-color="#f0e4b8"/>
+    </radialGradient>
+
+    <!-- Mountain gradient back -->
+    <linearGradient id="mountBack" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a4858"/>
+      <stop offset="100%" stop-color="#1a2838"/>
+    </linearGradient>
+
+    <!-- Mountain gradient mid -->
+    <linearGradient id="mountMid" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a3848"/>
+      <stop offset="100%" stop-color="#0a1828"/>
+    </linearGradient>
+
+    <!-- Fog / mist gradient -->
+    <linearGradient id="fog" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5a8a9e" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5a8a9e" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#5a8a9e" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Water reflection -->
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a3848"/>
+      <stop offset="100%" stop-color="#0a1828"/>
+    </linearGradient>
+
+    <!-- Moon glow filter -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="1600" height="500" fill="url(#sky)"/>
+
+  <!-- Stars (tiny circles) -->
+  <g fill="#fff" opacity="0.6">
+    <circle cx="150" cy="50" r="0.8"/>
+    <circle cx="320" cy="80" r="1"/>
+    <circle cx="480" cy="40" r="0.6"/>
+    <circle cx="620" cy="90" r="0.8"/>
+    <circle cx="750" cy="60" r="1"/>
+    <circle cx="900" cy="35" r="0.7"/>
+    <circle cx="1050" cy="85" r="0.9"/>
+    <circle cx="1200" cy="50" r="0.6"/>
+    <circle cx="1380" cy="100" r="0.8"/>
+    <circle cx="220" cy="120" r="0.7"/>
+    <circle cx="540" cy="140" r="0.5"/>
+    <circle cx="820" cy="130" r="0.6"/>
+    <circle cx="1130" cy="160" r="0.7"/>
+    <circle cx="1450" cy="140" r="0.5"/>
+    <circle cx="80" cy="180" r="0.6"/>
+  </g>
+
+  <!-- Moon glow (large halo) -->
+  <circle cx="1180" cy="160" r="180" fill="url(#moonGlow)"/>
+
+  <!-- Moon -->
+  <circle cx="1180" cy="160" r="85" fill="url(#moon)" filter="url(#softGlow)"/>
+
+  <!-- Moon craters (subtle) -->
+  <g fill="#d4c890" opacity="0.4">
+    <circle cx="1160" cy="140" r="8"/>
+    <circle cx="1200" cy="170" r="5"/>
+    <circle cx="1190" cy="130" r="4"/>
+    <circle cx="1170" cy="180" r="6"/>
+  </g>
+
+  <!-- Distant mountains (back layer) -->
+  <path d="M 0,320 L 100,280 L 220,300 L 340,260 L 460,290 L 580,250 L 700,280 L 820,255 L 940,285 L 1060,260 L 1180,295 L 1300,270 L 1420,290 L 1540,265 L 1600,275 L 1600,500 L 0,500 Z"
+        fill="url(#mountBack)" opacity="0.7"/>
+
+  <!-- Fog over distant mountains -->
+  <rect y="290" width="1600" height="60" fill="url(#fog)" opacity="0.4"/>
+
+  <!-- Mid mountains -->
+  <path d="M 0,360 L 90,330 L 180,350 L 290,310 L 410,340 L 520,320 L 640,355 L 760,325 L 880,360 L 1000,330 L 1130,365 L 1250,335 L 1380,370 L 1500,340 L 1600,355 L 1600,500 L 0,500 Z"
+        fill="url(#mountMid)" opacity="0.85"/>
+
+  <!-- Trees silhouettes (front-left forest) -->
+  <g fill="#0a1418">
+    <!-- Tree 1 -->
+    <path d="M 60,400 L 50,360 L 40,380 L 30,355 L 20,385 L 5,365 L 0,395 L 0,500 L 80,500 Z"/>
+    <!-- Tree 2 -->
+    <path d="M 130,395 L 120,355 L 105,375 L 90,345 L 75,380 L 60,370 L 50,395 L 50,500 L 145,500 Z"/>
+    <!-- Tree 3 -->
+    <path d="M 200,390 L 185,350 L 170,370 L 150,340 L 130,375 L 115,365 L 105,390 L 105,500 L 215,500 Z"/>
+    <!-- Tree 4 -->
+    <path d="M 280,400 L 265,355 L 245,375 L 225,345 L 205,380 L 185,370 L 175,400 L 175,500 L 295,500 Z"/>
+    <!-- Tree 5 -->
+    <path d="M 360,395 L 345,350 L 320,375 L 300,340 L 275,375 L 250,365 L 240,395 L 240,500 L 380,500 Z"/>
+  </g>
+
+  <!-- Japanese pagoda temple (center-right) -->
+  <g transform="translate(720, 295)">
+    <!-- Base platform -->
+    <rect x="-90" y="155" width="180" height="12" fill="#1a1818"/>
+    <rect x="-100" y="167" width="200" height="6" fill="#0a0808"/>
+
+    <!-- Body (vertical column) -->
+    <rect x="-30" y="80" width="60" height="80" fill="#3a2828"/>
+
+    <!-- Top floor 1 -->
+    <polygon points="-65,80 65,80 50,65 -50,65" fill="#5a3838"/>
+    <polygon points="-70,65 70,65 50,40 -50,40" fill="#1a0a0a"/>
+
+    <!-- Top floor 2 -->
+    <rect x="-22" y="0" width="44" height="40" fill="#3a2828"/>
+    <polygon points="-50,0 50,0 38,-15 -38,-15" fill="#5a3838"/>
+    <polygon points="-55,-15 55,-15 35,-40 -35,-40" fill="#1a0a0a"/>
+
+    <!-- Spire on top -->
+    <line x1="0" y1="-40" x2="0" y2="-65" stroke="#3a2828" stroke-width="2"/>
+    <circle cx="0" cy="-65" r="3" fill="#d4a850"/>
+    <circle cx="0" cy="-72" r="2" fill="#d4a850"/>
+
+    <!-- Windows lit (warm glow) -->
+    <rect x="-15" y="105" width="8" height="15" fill="#f5a050" opacity="0.7"/>
+    <rect x="7" y="105" width="8" height="15" fill="#f5a050" opacity="0.7"/>
+    <rect x="-5" y="15" width="6" height="10" fill="#f5a050" opacity="0.7"/>
+  </g>
+
+  <!-- Trees silhouettes (front-right) -->
+  <g fill="#0a1418">
+    <!-- Tree -->
+    <path d="M 900,400 L 890,360 L 875,380 L 855,350 L 835,385 L 815,370 L 805,400 L 805,500 L 915,500 Z"/>
+    <path d="M 980,395 L 970,355 L 955,375 L 935,345 L 915,380 L 895,370 L 885,395 L 885,500 L 995,500 Z"/>
+    <path d="M 1070,400 L 1055,355 L 1035,380 L 1015,345 L 990,385 L 965,375 L 955,400 L 955,500 L 1085,500 Z"/>
+    <!-- Branchy tree on far right -->
+    <path d="M 1500,400 L 1490,350 L 1470,375 L 1450,340 L 1425,380 L 1400,365 L 1390,400 L 1390,500 L 1515,500 Z"/>
+    <path d="M 1580,395 L 1565,350 L 1545,375 L 1525,345 L 1505,380 L 1495,395 L 1495,500 L 1595,500 Z"/>
+  </g>
+
+  <!-- Crooked branches (foreground decoration) -->
+  <g stroke="#0a1418" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M 1280,500 Q 1310,450 1330,420 Q 1360,380 1370,340"/>
+    <path d="M 1330,420 Q 1350,400 1380,395"/>
+    <path d="M 1370,340 Q 1390,320 1410,315"/>
+    <path d="M 1300,470 Q 1280,440 1265,420"/>
+  </g>
+
+  <!-- Birds (small) -->
+  <g stroke="#1a2838" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <path d="M 950,150 q 5,-4 10,0 q 5,-4 10,0"/>
+    <path d="M 1000,180 q 4,-3 8,0 q 4,-3 8,0"/>
+    <path d="M 1050,140 q 3,-2 6,0 q 3,-2 6,0"/>
+  </g>
+
+  <!-- Subtle horizon line -->
+  <rect y="375" width="1600" height="1" fill="#5a8a9e" opacity="0.15"/>
+
+  <!-- Vignette -->
+  <radialGradient id="vignette" cx="50%" cy="50%" r="80%">
+    <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000" stop-opacity="0.45"/>
+  </radialGradient>
+  <rect width="1600" height="500" fill="url(#vignette)"/>
+</svg>

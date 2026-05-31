@@ -3,7 +3,8 @@
   "cssTheme": "GitHub Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "dashboard"
   ],
   "nativeMenus": true
 }
