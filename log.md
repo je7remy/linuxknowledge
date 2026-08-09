@@ -21,6 +21,29 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-09] ingest | Sección CTF — primeros retos web resueltos
+
+Creada la sección [[_9- CTF|9- CTF]] dentro de [[_02-Ciberseguridad|02-Ciberseguridad]]
+como entrenamiento para el **CTF Interuniversitario Pentraze 2026**
+(clasificatoria individual 18–20 sep, final por equipos 14–16 oct).
+Estructura en dos ramas: [[_1- Metodologia|1- Metodología]] (marcos
+reutilizables) y [[_2- Writeups|2- Writeups]] (retos resueltos por
+plataforma).
+
+**Metodología:** [[Marco de ataque web - tres movimientos]] (marco
+mental de 3 pasos + regla anti-rabbit-hole), [[Archivos y rutas ocultas en retos web]]
+(cheatsheet de rutas conocidas: `robots.txt`, `.git/`, `.env`, etc.) y
+[[Identificar codificaciones, cifrados y hashes]] (codificación vs.
+cifrado vs. hash, longitudes de referencia).
+
+**Writeups (picoCTF → Web Exploitation):** [[WebDecode]] (Base64 en
+página secundaria, resuelto 8 ago) y [[Scavenger Hunt]] (flag partida en
+5 pedazos por la superficie del sitio, resuelto 9 ago) — esta última con
+sección de errores cometidos documentada explícitamente.
+
+Actualizados también [[_02-Ciberseguridad]] e [[index|index.md]] para
+incluir la nueva sección en sus catálogos.
+
 ## [2026-05-31] setup | Sistema de persistencia para subir vault a GitHub
 
 Usuario preguntó cómo guardar el estado del workspace para que al subir

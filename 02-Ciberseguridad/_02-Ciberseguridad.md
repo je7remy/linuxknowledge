@@ -15,6 +15,7 @@ criptografía. También incluye amenazas emergentes con IA.
 
 ## Contenido
 
+- [[_9- CTF|9- CTF]]
 - [[_8- Amenazas de CIberataques Impulsados por IA|8- Amenazas de CIberataques Impulsados por IA]]
 - [[_7- Cifrado y Criptografía en Python|7- Cifrado y Criptografía en Python]]
 - [[_2- Extraer Metadatos de imagenes|2- Extraer Metadatos de imagenes]]
@@ -31,6 +32,7 @@ Las subcarpetas están numeradas por orden sugerido de lectura/uso:
 - [[_6- Forense Digital|6- Forense digital]] — Análisis post-incidente.
 - [[7- Cifrado y Criptografía en Python/1- Cifrado y Descifrado de Contraseñas con Fernet en Python|7- Cifrado en Python]] — Fernet, cifrado simétrico.
 - [[8- Amenazas de CIberataques Impulsados por IA/CNCS - Fortinet Estrategias para Enfrentar el Futuro de las Ciber amenazas|8- Ciberataques con IA — Fortinet]] — Amenazas emergentes (DeepSeek, IA generativa, Sun Tzu).
+- [[_9- CTF|9- CTF]] — Entrenamiento para Pentraze 2026: metodología y writeups de picoCTF.
 
 ## Navegación
 

@@ -127,6 +127,7 @@ Subdivisiones principales:
 - [[_6- Forense Digital|Forense digital]] · [[_7- Cifrado y Criptografía en Python|Criptografía Python]]
 - [[_8- Amenazas de CIberataques Impulsados por IA|Amenazas IA]]
 - [[_0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD|Entrevista técnica]]
+- [[_9- CTF|CTF (Pentraze 2026)]] — metodología y writeups de picoCTF.
 
 ## Sección 03 — Desarrollo
 

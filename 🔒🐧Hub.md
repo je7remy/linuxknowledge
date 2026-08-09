@@ -41,6 +41,7 @@ dv.el("div", `
 <a class="internal-link qa-card" data-href="index" href="index"><span class="qa-icon">📚</span><span class="qa-label">Knowledge</span></a>
 <a class="internal-link qa-card" data-href="_🎯 Areas" href="_🎯 Areas"><span class="qa-icon">🎯</span><span class="qa-label">Areas</span></a>
 <a class="internal-link qa-card" data-href="_05-Recursos" href="_05-Recursos"><span class="qa-icon">💎</span><span class="qa-label">Resources</span></a>
+<a class="internal-link qa-card" data-href="_9- CTF" href="_9- CTF"><span class="qa-icon">🚩</span><span class="qa-label">CTF</span></a>
 <a class="internal-link qa-card" data-href="_🗄️ Archives" href="_🗄️ Archives"><span class="qa-icon">🗄️</span><span class="qa-label">Archives</span></a>
 <a class="internal-link qa-card" data-href="_Vista Curada" href="_Vista Curada"><span class="qa-icon">🧭</span><span class="qa-label">MOCs</span></a>
 </div>
