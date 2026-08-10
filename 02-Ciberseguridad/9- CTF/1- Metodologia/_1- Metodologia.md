@@ -17,6 +17,7 @@ en [[_2- Writeups|2- Writeups]] y se consultan durante la resolución.
 - [[Marco de ataque web - tres movimientos]] — los tres movimientos para abordar cualquier reto web desde cero.
 - [[Archivos y rutas ocultas en retos web]] — rutas conocidas a probar manualmente (`robots.txt`, `.git/`, `.env`, etc.).
 - [[Identificar codificaciones, cifrados y hashes]] — distinguir codificación reversible, cifrado y hash irreversible.
+- [[Barrer un parámetro - bucle, Burp Intruder y Caido]] — comparar bucle/script, Burp Intruder y Caido Automate para barrer un rango de valores.
 
 ## Navegación
 

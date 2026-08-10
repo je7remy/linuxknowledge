@@ -48,6 +48,7 @@ es un hash irreversible.
 
 - ⬆️ Carpeta padre: [[_1- Metodologia|1- Metodologia]]
 - ⬅️ Anterior: [[Archivos y rutas ocultas en retos web]]
+- ➡️ Siguiente: [[Barrer un parámetro - bucle, Burp Intruder y Caido]]
 
 ## Relacionadas
 

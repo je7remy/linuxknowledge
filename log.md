@@ -21,6 +21,24 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-10] ingest | Cookies (picoCTF) + metodología de barrido de parámetros
+
+Resuelto y registrado [[Cookies]] (picoCTF, Web Exploitation, fácil):
+cookie `name` con índice numérico manipulable por el cliente, flag
+detectada como la respuesta que no encajaba en ninguno de los dos
+bloques de longitud esperados. Abre el movimiento 2 del
+[[Marco de ataque web - tres movimientos]].
+
+Nueva nota de metodología
+[[Barrer un parámetro - bucle, Burp Intruder y Caido]]: compara bucle/
+script, Burp Suite Intruder (Community, throttled) y Caido Automate
+(tier Basic sin throttling) para recorrer un rango de valores.
+
+Añadidos los campos `dificultad` y `fecha` al frontmatter de
+[[WebDecode]] y [[Scavenger Hunt]] para homogeneizar los tres writeups
+de la sección. Actualizados [[_Web Exploitation|_Web Exploitation.md]] y
+[[_1- Metodologia|_1- Metodologia.md]] con las entradas nuevas.
+
 ## [2026-08-09] ingest | Sección CTF — primeros retos web resueltos
 
 Creada la sección [[_9- CTF|9- CTF]] dentro de [[_02-Ciberseguridad|02-Ciberseguridad]]
