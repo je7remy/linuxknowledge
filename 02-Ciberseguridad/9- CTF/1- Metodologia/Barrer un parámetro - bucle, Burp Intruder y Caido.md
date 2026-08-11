@@ -1,7 +1,7 @@
 ---
 tipo: teoria
 tags: [ctf, web-exploitation, metodologia, herramientas, burp-suite, caido, pentraze]
-actualizado: 2026-08-10
+actualizado: 2026-08-11
 ---
 
 # Barrer un parámetro — bucle, Burp Intruder y Caido
@@ -94,6 +94,7 @@ en [[Cookies]].
 
 - ⬆️ Carpeta padre: [[_1- Metodologia|1- Metodologia]]
 - ⬅️ Anterior: [[Identificar codificaciones, cifrados y hashes]]
+- ➡️ Siguiente: [[Triaje de archivos - file, strings y exiftool]]
 
 ## Relacionadas
 

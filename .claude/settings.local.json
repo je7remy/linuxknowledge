@@ -14,10 +14,12 @@
       "Bash(mkdir -p \"🗄️ Archives\")",
       "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\('main',{}\\).get\\('children',[{}]\\)[0].get\\('children',[{}]\\)[0].get\\('state',{}\\), indent=2\\)\\)\")",
       "Bash(mkdir -p \"02-Ciberseguridad/9- CTF/1- Metodologia\" \"02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Web Exploitation\" && echo OK)",
-      "Bash(mkdir -p \"/tmp/claude-1000/-home-je7remy-linuxknowledge/0117c2ce-549d-4c47-9295-846320faa5bc/scratchpad\")"
+      "Bash(mkdir -p \"/tmp/claude-1000/-home-je7remy-linuxknowledge/0117c2ce-549d-4c47-9295-846320faa5bc/scratchpad\")",
+      "Bash(mkdir -p \"/home/je7remy/linuxknowledge/02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Forensics\")"
     ],
     "additionalDirectories": [
-      "/home/je7remy/linuxknowledge/02-Ciberseguridad/9- CTF"
+      "/home/je7remy/linuxknowledge/02-Ciberseguridad/9- CTF",
+      "/home/je7remy/linuxknowledge/02-Ciberseguridad/9- CTF/2- Writeups/picoCTF"
     ]
   }
 }

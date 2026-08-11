@@ -21,6 +21,33 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-11] ingest | Information (picoCTF, Forensics) + metodología de triaje de archivos
+
+Resuelto y registrado [[Information]] (picoCTF, **Forensics**, fácil):
+primer reto de forense de la sección. `file` confirmó el tipo real del
+JPEG entregado, `strings` dio solo un rastro parcial de "picoCTF" como
+señal, y `exiftool` reveló el campo de metadatos (*License*) con la
+cadena que resultó estar codificada en Base64.
+
+Creada la categoría [[_Forensics|Forensics]] dentro de
+[[_picoCTF|picoCTF]], con su índice `_Forensics.md`, hermana de
+[[_Web Exploitation|Web Exploitation]].
+
+Nueva nota de metodología
+[[Triaje de archivos - file, strings y exiftool]]: resume el flujo
+`file` → `strings` → `exiftool` → identificar/decodificar, con foco en
+revisar primero los campos de metadatos con nombre propio (License,
+Copyright, Comment, Artist).
+
+Actualizados [[_picoCTF|_picoCTF.md]] (nueva categoría en el catálogo,
+más una corrección del contador de writeups de Web Exploitation, que
+estaba desactualizado en 2 cuando ya eran 3) y
+[[_1- Metodologia|_1- Metodologia.md]] (nueva entrada). Tejida navegación
+bidireccional: [[Barrer un parámetro - bucle, Burp Intruder y Caido]]
+gana un `➡️ Siguiente` hacia la nota de triaje, y
+[[Extraer Metadatos]] (nota preexistente de la sección OSINT) gana
+backlinks hacia [[Information]] y hacia la nueva metodología.
+
 ## [2026-08-10] ingest | Cookies (picoCTF) + metodología de barrido de parámetros
 
 Resuelto y registrado [[Cookies]] (picoCTF, Web Exploitation, fácil):

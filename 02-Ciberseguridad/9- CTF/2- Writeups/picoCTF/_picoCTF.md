@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups/picoCTF
-actualizado: 2026-08-09
+actualizado: 2026-08-11
 ---
 
 # picoCTF
@@ -9,16 +9,17 @@ actualizado: 2026-08-09
 🏠 [[🔒🐧Hub|Hub Principal del vault]]
 
 Writeups de retos resueltos en la plataforma **picoCTF**, organizados por
-categoría. Por ahora solo hay contenido en Web Exploitation; el resto de
-categorías del Pentraze 2026 (Explotación Móvil, Forense Digital, Análisis
-de Malware, Explotación Binaria, Ingeniería Inversa) se irán agregando
-como subcarpetas hermanas a medida que se resuelvan retos.
+categoría. Por ahora hay contenido en Web Exploitation y Forensics; el
+resto de categorías del Pentraze 2026 (Explotación Móvil, Análisis de
+Malware, Explotación Binaria, Ingeniería Inversa) se irán agregando como
+subcarpetas hermanas a medida que se resuelvan retos.
 
 ## Contenido
 
-- [[_Web Exploitation|Web Exploitation]] — retos de explotación web (2 resueltos).
+- [[_Web Exploitation|Web Exploitation]] — retos de explotación web (3 resueltos).
+- [[_Forensics|Forensics]] — retos de forense de archivos (1 resuelto).
 
-<!-- PENDIENTE: Explotación Móvil, Forense Digital, Análisis de Malware, Explotación Binaria, Ingeniería Inversa -->
+<!-- PENDIENTE: Explotación Móvil, Análisis de Malware, Explotación Binaria, Ingeniería Inversa -->
 
 ## Navegación
 
