@@ -82,6 +82,7 @@ o con CyberChef si se prefiere una herramienta visual.
 
 - ⬆️ Carpeta padre: [[_1- Metodologia|1- Metodologia]]
 - ⬅️ Anterior: [[Barrer un parámetro - bucle, Burp Intruder y Caido]]
+- ➡️ Siguiente: [[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]]
 
 ## Relacionadas
 
@@ -89,3 +90,4 @@ o con CyberChef si se prefiere una herramienta visual.
 - [[Identificar codificaciones, cifrados y hashes]] — paso de reconocimiento de Base64 dentro de este flujo.
 - [[Extraer Metadatos]] — nota existente del vault sobre extracción de metadatos con `exiftool`.
 - [[_6- Forense Digital|6- Forense Digital]] — dominio de forense más amplio donde encaja este triaje.
+- [[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]] — siguiente paso metodológico cuando lo anexado no es un metadato sino un archivo completo pegado tras el fin del original.

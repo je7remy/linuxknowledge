@@ -61,6 +61,7 @@ sobre extracción de metadatos con `exiftool`.
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_Forensics|Forensics]]
+- ➡️ Siguiente: [[hideme]]
 
 ## Relacionadas
 

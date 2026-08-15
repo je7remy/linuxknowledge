@@ -21,6 +21,33 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-11] ingest | hideme (picoCTF, Forensics) + metodología de archivos embebidos
+
+Resuelto y registrado [[hideme]] (picoCTF, **Forensics**, fácil):
+segundo reto de forense de la sección, siguiente en la cadena tras
+[[Information]]. Se entregó un PNG (`flag.png`); `strings` mostró rutas
+de texto (`secret/`, `secret/flag.png`) **después** del marcador `IEND`,
+señal de que había un ZIP anexado tras el fin del archivo. `unzip
+flag.png` extrajo el ZIP directamente (localiza su índice central desde
+el final, sin necesidad de recortar el PNG por delante). La flag venía
+renderizada como píxeles en la imagen extraída, no como texto: hubo que
+abrir la imagen en vez de usar `strings`/`grep`.
+
+Nueva nota de metodología
+[[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]]:
+por qué el fin de un formato no es el fin del archivo, cómo detectarlo
+con `strings` tras el marcador de fin, y cómo extraerlo con `unzip`
+(ZIP) o `binwalk -e` (caso general).
+
+Actualizados [[_Forensics|_Forensics.md]] (nueva entrada [[hideme]]),
+[[_1- Metodologia|_1- Metodologia.md]] (nueva entrada de metodología) y
+[[_picoCTF|_picoCTF.md]] (contador de Forensics: 1 → 2 resueltos).
+Tejida navegación bidireccional: [[Information]] gana un
+`➡️ Siguiente` hacia [[hideme]], y
+[[Triaje de archivos - file, strings y exiftool]] gana un
+`➡️ Siguiente` hacia la nueva nota de archivos embebidos (además de un
+backlink en Relacionadas).
+
 ## [2026-08-11] ingest | Information (picoCTF, Forensics) + metodología de triaje de archivos
 
 Resuelto y registrado [[Information]] (picoCTF, **Forensics**, fácil):

@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/1- Metodologia
-actualizado: 2026-08-11
+actualizado: 2026-08-15
 ---
 
 # 1 — Metodología
@@ -19,6 +19,7 @@ en [[_2- Writeups|2- Writeups]] y se consultan durante la resolución.
 - [[Identificar codificaciones, cifrados y hashes]] — distinguir codificación reversible, cifrado y hash irreversible.
 - [[Barrer un parámetro - bucle, Burp Intruder y Caido]] — comparar bucle/script, Burp Intruder y Caido Automate para barrer un rango de valores.
 - [[Triaje de archivos - file, strings y exiftool]] — primer barrido sobre un archivo de forense: tipo real, texto embebido y metadatos.
+- [[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]] — detectar y extraer datos anexados tras el marcador de fin de un archivo (`unzip`, `binwalk -e`).
 
 ## Navegación
 

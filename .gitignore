@@ -34,12 +34,20 @@
 .obsidian/plugins/rss-dashboard/data.json
 .obsidian/plugins/rss-dashboard/*.opml.backup
 .rss-dashboard-data/
+# El archivo real de estado en este plugin se llama userdata.json
+# (no data.json): visto al auditar, se añade explícitamente.
+.obsidian/plugins/rss-dashboard/userdata.json
+.obsidian/plugins/rss-dashboard/userdata.json.backup
 
 # Beautitab: wallpapers en base64 hacen el JSON enorme
 .obsidian/plugins/beautitab/data.json
 
 # Heatmap Tracker: data persistente local
 .obsidian/plugins/heatmap-tracker/data.json
+
+# ─── Papelera de Obsidian ───────────────────────────────────
+# Notas borradas dentro de la app van aquí antes de borrarse de verdad.
+.trash/
 
 # ─── Archivos del SO ───────────────────────────────────────
 .DS_Store
@@ -50,6 +58,9 @@
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+# Archivos de bloqueo temporal de Office (Word/Excel/PowerPoint)
+~$*
 
 # ─── IDEs ──────────────────────────────────────────────────
 .vscode/

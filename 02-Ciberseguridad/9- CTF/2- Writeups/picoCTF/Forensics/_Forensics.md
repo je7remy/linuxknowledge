@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Forensics
-actualizado: 2026-08-11
+actualizado: 2026-08-15
 ---
 
 # picoCTF — Forensics
@@ -16,6 +16,7 @@ poder repetir el ejercicio, no solo guardar la flag.
 ## Contenido
 
 - [[Information]] — flag escondida en un campo de metadatos codificado en Base64. Resuelto 11 ago 2026.
+- [[hideme]] — flag oculta en un ZIP anexado tras el fin (`IEND`) de un PNG. Resuelto 11 ago 2026.
 
 ## Navegación
 
