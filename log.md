@@ -21,6 +21,20 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-15] setup | Activar grafo de conocimiento en config.json (Flowershow)
+
+La URL vieja de publicación (`flowershow.app/@je7remy/linuxknowledge`) quedó
+en `410 Gone`: Flowershow migró a un modelo hosteado nuevo (dashboard en
+`cloud.flowershow.app`, plugin de Obsidian, CLI `fl`). Investigada la doc
+oficial vigente, se confirmó que el grafo de conocimiento (wikilinks
+`[[...]]`, embeds `![[...]]` y links markdown) viene **desactivado por
+defecto** y se activa con `showKnowledgeGraph: true` en `config.json`.
+Aplicado — único cambio de archivo confirmado de esa investigación.
+
+**Pendiente de decisión del usuario:** método de republicación (conectar
+repo GitHub vs. plugin de Obsidian), home page (`index.md` vs `README.md`),
+`contentExclude` (`.obsidian/`, `.claude/`) y plan gratis vs. Premium.
+
 ## [2026-08-11] ingest | hideme (picoCTF, Forensics) + metodología de archivos embebidos
 
 Resuelto y registrado [[hideme]] (picoCTF, **Forensics**, fácil):
