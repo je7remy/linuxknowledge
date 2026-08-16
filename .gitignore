@@ -22,6 +22,9 @@
 .obsidian/plugins/*/*.backup
 .obsidian/plugins/*/*.bak
 
+# Código compilado de plugins (reinstalable desde community-plugins.json)
+.obsidian/plugins/*/main.js
+
 # Index file de búsqueda (regenerable)
 .obsidian/types.json
 
@@ -44,6 +47,11 @@
 
 # Heatmap Tracker: data persistente local
 .obsidian/plugins/heatmap-tracker/data.json
+
+# ─── Imágenes de estética personal ─────────────────────────
+# Wallpapers/fondos sin referencia en ninguna nota del vault (verificado por
+# grep recursivo). Si algún día se usan en una nota, sacarlas de acá.
+/.obsidian/images/
 
 # ─── Papelera de Obsidian ───────────────────────────────────
 # Notas borradas dentro de la app van aquí antes de borrarse de verdad.
@@ -68,6 +76,10 @@ desktop.ini
 *.swp
 *.swo
 *~
+
+# ─── Claude Code: config local ─────────────────────────────
+# Config local de Claude Code (permisos y rutas de la máquina, no compartir)
+.claude/
 
 # ─── Temporales de Obsidian al guardar ────────────────────
 *.tmp
@@ -114,7 +126,10 @@ node_modules/
 !.obsidian/plugins/
 !.obsidian/plugins/*/
 !.obsidian/plugins/*/manifest.json
-!.obsidian/plugins/*/data.json
+# (antes había "!.obsidian/plugins/*/data.json" acá: sobraba. Los data.json
+# ya se suben por defecto porque .obsidian/ no se excluye como carpeta; este
+# override solo reactivaba por error los data.json pesados que se excluyen
+# arriba — beautitab, heatmap-tracker.)
 !.obsidian/plugins/*/styles.css
 
 # Excepciones específicas para RSS Dashboard (feeds.opml SÍ se sube)

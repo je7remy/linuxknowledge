@@ -21,6 +21,28 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-15] lint | Depuración .gitignore + desrastreo de archivos no esenciales
+
+Auditoría del `.gitignore` del vault: sus propios comentarios decían "NO
+main.js" y "excluir estado volátil", pero el índice de git seguía subiendo
+código compilado de plugins y datos pesados porque el `.gitignore` solo
+frena archivos *nuevos*, no desrastrea lo ya trackeado. Cuatro cambios al
+`.gitignore`: **(1)** eliminado el override `!.obsidian/plugins/*/data.json`,
+que reactivaba por error los `data.json` pesados de beautitab y
+heatmap-tracker; **(2)** añadido `.obsidian/plugins/*/main.js` (código
+compilado, reinstalable desde `community-plugins.json`); **(3)** añadido
+`.claude/` (config local de agente, no compartible); **(4)** añadido
+`/.obsidian/images/` tras confirmar por grep recursivo (todo el vault, no
+solo `.md`) que `wallhaven-vgzygl.jpg` e `IMG_20240416_213854_777.png`
+(9.6MB + 2.7MB) no están referenciadas en ninguna nota.
+
+**Pendiente de ejecución manual** (lista de `git rm --cached` entregada,
+no ejecutada — 11 archivos: 2 `data.json`, 8 `main.js`, `.claude/`,
+`.obsidian/images/`). **Pendiente de decisión del usuario, sin tocar:**
+`bookmarks.json`, `workspaces.json`, `core-plugins-migration.json`,
+`page-preview.json`, y los `data.json` livianos de dataview/flowershow/
+homepage/workspaces-plus.
+
 ## [2026-08-15] setup | Activar grafo de conocimiento en config.json (Flowershow)
 
 La URL vieja de publicación (`flowershow.app/@je7remy/linuxknowledge`) quedó

@@ -1,9 +1,16 @@
 ---
 tipo: laboratorio
-tags: [ctf, picoctf, forensics, archivos-embebidos, zip, binwalk, writeup]
+tags:
+  - ctf
+  - picoctf
+  - forensics
+  - archivos-embebidos
+  - zip
+  - binwalk
+  - writeup
 actualizado: 2026-08-15
 dificultad: fácil
-fecha: 2026-08-11
+fecha: 2026-08-15
 ---
 
 # hideme
