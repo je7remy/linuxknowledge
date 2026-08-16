@@ -21,6 +21,33 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-16] ingest | Writeup vault-door-training + estreno de Reverse Engineering
+
+Nuevo reto de picoCTF/picoGym resuelto: **vault-door-training** (Reverse
+Engineering, dificultad fácil, 50 puntos — el más bajo de la categoría,
+diseñado como rampa de entrada). **Estrena la categoría Reverse
+Engineering** en el vault: hasta ahora solo había Web Exploitation y
+Forensics. Se creó la carpeta
+`02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Reverse Engineering/` con
+su índice [[_Reverse Engineering|Reverse Engineering]] replicando la
+estructura de [[_Web Exploitation|Web Exploitation]] y
+[[_Forensics|Forensics]], y el writeup [[vault-door-training]] dentro.
+El reto entregaba el **código fuente en Java**, no un binario compilado
+— la flag vivía directamente en la comparación de validación, sin
+ofuscación. Se registró el cambio de mentalidad frente al forense
+("¿qué *es*?" → "¿qué *hace*?") y el reflejo central de reversing:
+localizar la lógica de validación y leer contra qué compara la entrada.
+Se creó la nota de metodología
+[[Reversing - de leer código fuente a desensamblar binarios]] en
+[[_1- Metodologia|1- Metodologia]], encadenada tras
+[[Leer el código fuente - view-source, desminificado y señuelos]], con
+el marco de progresión completo: código fuente legible → lógica
+ofuscada → binario donde `strings` saca texto → binario donde hace
+falta un desensamblador como Ghidra. Cross-references actualizadas:
+[[_picoCTF|picoCTF]] ahora lista tres categorías (Web Exploitation,
+Forensics, Reverse Engineering) y retira Ingeniería Inversa de la lista
+de pendientes. No se registró la flag en ninguna nota.
+
 ## [2026-08-16] ingest | Writeup Unminify (desminificado + descarte de señuelos)
 
 Nuevo reto de picoCTF/picoGym resuelto: **Unminify** (Web Exploitation,

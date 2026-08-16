@@ -9,17 +9,18 @@ actualizado: 2026-08-16
 🏠 [[🔒🐧Hub|Hub Principal del vault]]
 
 Writeups de retos resueltos en la plataforma **picoCTF**, organizados por
-categoría. Por ahora hay contenido en Web Exploitation y Forensics; el
-resto de categorías del Pentraze 2026 (Explotación Móvil, Análisis de
-Malware, Explotación Binaria, Ingeniería Inversa) se irán agregando como
-subcarpetas hermanas a medida que se resuelvan retos.
+categoría. Por ahora hay contenido en Web Exploitation, Forensics y
+Reverse Engineering; el resto de categorías del Pentraze 2026
+(Explotación Móvil, Análisis de Malware, Explotación Binaria) se irán
+agregando como subcarpetas hermanas a medida que se resuelvan retos.
 
 ## Contenido
 
 - [[_Web Exploitation|Web Exploitation]] — retos de explotación web (5 resueltos).
 - [[_Forensics|Forensics]] — retos de forense de archivos (2 resueltos).
+- [[_Reverse Engineering|Reverse Engineering]] — retos de ingeniería inversa (1 resuelto).
 
-<!-- PENDIENTE: Explotación Móvil, Análisis de Malware, Explotación Binaria, Ingeniería Inversa -->
+<!-- PENDIENTE: Explotación Móvil, Análisis de Malware, Explotación Binaria -->
 
 ## Navegación
 

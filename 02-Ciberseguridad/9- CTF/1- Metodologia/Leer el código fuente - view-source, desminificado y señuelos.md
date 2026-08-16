@@ -48,6 +48,7 @@ Ver [[Unminify]] para un caso aplicado completo.
 
 - ⬆️ Carpeta padre: [[_1- Metodologia|1- Metodologia]]
 - ⬅️ Anterior: [[SSTI - de la detección al RCE en Jinja2]]
+- ➡️ Siguiente: [[Reversing - de leer código fuente a desensamblar binarios]]
 
 ## Relacionadas
 
