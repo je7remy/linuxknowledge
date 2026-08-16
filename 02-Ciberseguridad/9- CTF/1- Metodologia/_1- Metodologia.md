@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/1- Metodologia
-actualizado: 2026-08-15
+actualizado: 2026-08-16
 ---
 
 # 1 — Metodología
@@ -20,6 +20,7 @@ en [[_2- Writeups|2- Writeups]] y se consultan durante la resolución.
 - [[Barrer un parámetro - bucle, Burp Intruder y Caido]] — comparar bucle/script, Burp Intruder y Caido Automate para barrer un rango de valores.
 - [[Triaje de archivos - file, strings y exiftool]] — primer barrido sobre un archivo de forense: tipo real, texto embebido y metadatos.
 - [[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]] — detectar y extraer datos anexados tras el marcador de fin de un archivo (`unzip`, `binwalk -e`).
+- [[SSTI - de la detección al RCE en Jinja2]] — de la detección de una plantilla evaluada al escape del sandbox y RCE en Jinja2/Flask.
 
 ## Navegación
 

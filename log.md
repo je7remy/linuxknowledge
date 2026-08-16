@@ -1,6 +1,6 @@
 ---
 tipo: log
-actualizado: 2026-05-30
+actualizado: 2026-08-16
 ---
 
 # Bitácora del Vault — linuxknowledge
@@ -20,6 +20,26 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 ```powershell
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
+
+## [2026-08-16] ingest | Writeup SSTI1 + metodologia SSTI (Jinja2 RCE)
+
+Nuevo reto de picoCTF resuelto: **SSTI1** (Web Exploitation, dificultad
+fácil según la plataforma, catalogado a veces como intermedio según la
+fuente). Writeup en [[SSTI1]], dentro de
+[[_Web Exploitation|Web Exploitation]] — cuarto reto de esa categoría,
+siguiente a [[Cookies]] en la cadena de Navegación. Se extrajo el flujo
+general a una nota de metodología nueva,
+[[SSTI - de la detección al RCE en Jinja2]], en
+[[_1- Metodologia|1- Metodologia]]: detección con `{{ 7*7 }}` →
+fingerprint del motor vía comportamiento de Python (`7*'7'` →
+`7777777`) → escape del sandbox de Jinja2 con `lipsum.__globals__`
+(alternativas: `cycler`, cadena de subclases) → RCE con
+`os.popen(...).read()`. Cross-references actualizadas: cadena de
+Navegación en [[Cookies]] y en
+[[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]],
+conteo de retos en [[_picoCTF|picoCTF]], y la mención suelta de SSTI en
+[[MOC - Web Pentesting OWASP]] convertida en wikilink hacia la nueva
+metodología. No se registró la flag en ninguna nota.
 
 ## [2026-08-15] lint | Depuración .gitignore + desrastreo de archivos no esenciales
 

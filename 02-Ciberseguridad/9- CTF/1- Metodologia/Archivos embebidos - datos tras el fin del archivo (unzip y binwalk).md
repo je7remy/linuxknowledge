@@ -80,6 +80,7 @@ contenía otra imagen con la flag renderizada como píxeles.
 
 - ⬆️ Carpeta padre: [[_1- Metodologia|1- Metodologia]]
 - ⬅️ Anterior: [[Triaje de archivos - file, strings y exiftool]]
+- ➡️ Siguiente: [[SSTI - de la detección al RCE en Jinja2]]
 
 ## Relacionadas
 

@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups/picoCTF
-actualizado: 2026-08-15
+actualizado: 2026-08-16
 ---
 
 # picoCTF
@@ -16,7 +16,7 @@ subcarpetas hermanas a medida que se resuelvan retos.
 
 ## Contenido
 
-- [[_Web Exploitation|Web Exploitation]] — retos de explotación web (3 resueltos).
+- [[_Web Exploitation|Web Exploitation]] — retos de explotación web (4 resueltos).
 - [[_Forensics|Forensics]] — retos de forense de archivos (2 resueltos).
 
 <!-- PENDIENTE: Explotación Móvil, Análisis de Malware, Explotación Binaria, Ingeniería Inversa -->
