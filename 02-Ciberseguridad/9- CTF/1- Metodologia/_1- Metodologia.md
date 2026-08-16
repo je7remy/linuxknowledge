@@ -21,6 +21,7 @@ en [[_2- Writeups|2- Writeups]] y se consultan durante la resolución.
 - [[Triaje de archivos - file, strings y exiftool]] — primer barrido sobre un archivo de forense: tipo real, texto embebido y metadatos.
 - [[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]] — detectar y extraer datos anexados tras el marcador de fin de un archivo (`unzip`, `binwalk -e`).
 - [[SSTI - de la detección al RCE en Jinja2]] — de la detección de una plantilla evaluada al escape del sandbox y RCE en Jinja2/Flask.
+- [[Leer el código fuente - view-source, desminificado y señuelos]] — código fuente vs. página renderizada, desminificado/beautify y patrón de descarte de señuelos casi idénticos.
 
 ## Navegación
 

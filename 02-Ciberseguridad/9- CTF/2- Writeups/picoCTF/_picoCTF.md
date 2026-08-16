@@ -16,7 +16,7 @@ subcarpetas hermanas a medida que se resuelvan retos.
 
 ## Contenido
 
-- [[_Web Exploitation|Web Exploitation]] — retos de explotación web (4 resueltos).
+- [[_Web Exploitation|Web Exploitation]] — retos de explotación web (5 resueltos).
 - [[_Forensics|Forensics]] — retos de forense de archivos (2 resueltos).
 
 <!-- PENDIENTE: Explotación Móvil, Análisis de Malware, Explotación Binaria, Ingeniería Inversa -->

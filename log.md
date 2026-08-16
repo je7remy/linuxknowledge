@@ -21,6 +21,28 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
 
+## [2026-08-16] ingest | Writeup Unminify (desminificado + descarte de señuelos)
+
+Nuevo reto de picoCTF/picoGym resuelto: **Unminify** (Web Exploitation,
+dificultad fácil/introductoria). Writeup en [[Unminify]], dentro de
+[[_Web Exploitation|Web Exploitation]] — quinto reto de esa categoría,
+siguiente a [[SSTI1]] en la cadena de Navegación. **Cierra la capa de
+fáciles de Web Exploitation: 5/5** (WebDecode, Scavenger Hunt, Cookies,
+SSTI1, Unminify). La flag vivía en el atributo `class` de un `<p>` vacío
+— invisible en la página renderizada, solo visible leyendo el código
+fuente — entre una avalancha de señuelos `class="picoctf{}"` vacíos en
+minúscula; la real se distinguía por capitalización correcta
+(`picoCTF{`) y por tener contenido. Se verificó que no existía nota de
+metodología sobre inspección de código fuente/desminificado y se creó
+[[Leer el código fuente - view-source, desminificado y señuelos]] en
+[[_1- Metodologia|1- Metodologia]], encadenada tras
+[[SSTI - de la detección al RCE en Jinja2]]. Cross-references
+actualizadas: conteo de retos en [[_picoCTF|picoCTF]] (4→5) y en el
+propio [[_Web Exploitation|Web Exploitation]], cadena de Navegación en
+[[SSTI1]] (se le añadió `➡️ Siguiente`). Enlazada la idea transversal con
+[[Cookies]] (descartar señuelos por la diferencia sutil que rompe el
+patrón). No se registró la flag en ninguna nota.
+
 ## [2026-08-16] ingest | Writeup SSTI1 + metodologia SSTI (Jinja2 RCE)
 
 Nuevo reto de picoCTF resuelto: **SSTI1** (Web Exploitation, dificultad

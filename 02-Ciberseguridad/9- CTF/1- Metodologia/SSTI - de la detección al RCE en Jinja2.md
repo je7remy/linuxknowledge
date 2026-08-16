@@ -121,6 +121,7 @@ de este flujo contra Jinja2/Flask.
 
 - ⬆️ Carpeta padre: [[_1- Metodologia|1- Metodologia]]
 - ⬅️ Anterior: [[Archivos embebidos - datos tras el fin del archivo (unzip y binwalk)]]
+- ➡️ Siguiente: [[Leer el código fuente - view-source, desminificado y señuelos]]
 
 ## Relacionadas
 
