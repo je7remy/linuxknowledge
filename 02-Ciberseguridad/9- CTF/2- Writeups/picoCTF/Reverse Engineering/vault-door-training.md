@@ -64,6 +64,7 @@ binario donde `strings` no basta y toca un desensamblador como Ghidra.
 ## Navegación
 
 - ⬆️ Carpeta padre: [[_Reverse Engineering|Reverse Engineering]]
+- ➡️ Siguiente: [[GDB baby step 1]]
 
 ## Relacionadas
 

@@ -1,6 +1,6 @@
 ---
 tipo: log
-actualizado: 2026-08-16
+actualizado: 2026-08-22
 ---
 
 # Bitácora del Vault — linuxknowledge
@@ -20,6 +20,34 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 ```powershell
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
+
+## [2026-08-22] ingest | Writeup GDB baby step 1 (análisis estático + trampa del exit code truncado)
+
+Nuevo reto de picoCTF/picoGym resuelto: **GDB baby step 1** (Reverse
+Engineering, dificultad **Medium** según la etiqueta de la plataforma —
+no fácil, pese al nombre). Segundo reto de la categoría, tras
+[[vault-door-training]], y el primero sin código fuente: hay que
+desensamblar un binario compilado con gdb (`disassemble main`) y localizar
+el `mov $0x...,%eax` que carga el valor de retorno justo antes del `ret`.
+Se documentó con detalle la **trampa conceptual central**: el atajo
+`echo $?` parece razonable por la ABI de System V (el valor de retorno de
+`main` va en `eax`), pero el exit status de Linux está **truncado a 8
+bits** (`eax & 0xFF`), así que oculta los bytes altos si el valor real
+supera 255 — solo `disassemble` da el valor crudo y completo. Se amplió
+la nota de metodología
+[[Reversing - de leer código fuente a desensamblar binarios]] con una
+sección nueva "Análisis estático con gdb" (peldaño 4 en su versión
+ligera, sin necesitar Ghidra), cubriendo `disassemble`, el reflejo de
+localizar la última escritura sobre `eax` antes del `ret`, `print` como
+conversor hex→decimal, notación AT&T y la trampa del exit status
+truncado. Cross-references actualizadas: [[_Reverse Engineering|Reverse
+Engineering]] pasa a 2 retos (marcando la dificultad Medium de este),
+[[_picoCTF|picoCTF]] actualiza el conteo de la categoría, y se cosió la
+navegación secuencial ([[vault-door-training]] → [[GDB baby step 1]]).
+**No se registró ningún valor real de la flag** (ni el inmediato
+hexadecimal ni su decimal): la nota usa `0x<REDACTADO>` y un ejemplo
+hipotético (`0x1F042`) para explicar el truncamiento sin filtrar la
+solución — este vault es público y picoCTF pide no publicar soluciones.
 
 ## [2026-08-16] ingest | Writeup vault-door-training + estreno de Reverse Engineering
 

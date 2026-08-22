@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Reverse Engineering
-actualizado: 2026-08-16
+actualizado: 2026-08-22
 ---
 
 # picoCTF — Reverse Engineering
@@ -15,7 +15,8 @@ poder repetir el ejercicio, no solo guardar la flag.
 
 ## Contenido
 
-- [[vault-door-training]] — código fuente en Java con la flag directamente en la comparación de validación. Resuelto 16 ago 2026.
+- [[vault-door-training]] — código fuente en Java con la flag directamente en la comparación de validación. Dificultad fácil. Resuelto 16 ago 2026.
+- [[GDB baby step 1]] — binario compilado, análisis estático con `disassemble` y la trampa del exit status truncado a 8 bits. Dificultad **Medium**. Resuelto 22 ago 2026.
 
 ## Navegación
 
