@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF
-actualizado: 2026-08-09
+actualizado: 2026-09-24
 ---
 
 # 9 — CTF
@@ -10,15 +10,16 @@ actualizado: 2026-08-09
 
 Entrenamiento para el **CTF Interuniversitario Pentraze 2026**
 (clasificatoria individual online 18–20 de septiembre; final por equipos
-presencial 14–16 de octubre). Categorías del evento: Explotación Web,
-Explotación Móvil, Forense Digital, Análisis de Malware, Explotación
-Binaria, Ingeniería Inversa. Esta carpeta separa la **metodología**
-reutilizable de los **writeups** concretos por reto.
+presencial 14–16 de octubre). La clasificación usada en este vault
+incluye Web, Crypto, Misc, Reversing, GamePwn, Binary Exploitation y
+Forensics. Esta carpeta separa la **metodología** reutilizable de los
+**writeups** concretos por reto.
 
 ## Contenido
 
 - [[_1- Metodologia|1- Metodología]] — marcos mentales y cheatsheets independientes de un reto concreto.
 - [[_2- Writeups|2- Writeups]] — retos resueltos, organizados por plataforma y categoría.
+- [[PentraZE CTF 2026 - MOC]] — índice de los retos completados de PentraZE 2026.
 
 ## Navegación
 

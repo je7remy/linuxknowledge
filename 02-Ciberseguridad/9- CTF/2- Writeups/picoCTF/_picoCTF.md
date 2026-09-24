@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups/picoCTF
-actualizado: 2026-08-22
+actualizado: 2026-09-24
 ---
 
 # picoCTF
@@ -10,9 +10,8 @@ actualizado: 2026-08-22
 
 Writeups de retos resueltos en la plataforma **picoCTF**, organizados por
 categoría. Por ahora hay contenido en Web Exploitation, Forensics y
-Reverse Engineering; el resto de categorías del Pentraze 2026
-(Explotación Móvil, Análisis de Malware, Explotación Binaria) se irán
-agregando como subcarpetas hermanas a medida que se resuelvan retos.
+Reverse Engineering. El MOC del evento PentraZE 2026 y sus índices por
+categoría y dificultad están en [[PentraZE CTF 2026 - MOC]].
 
 ## Contenido
 

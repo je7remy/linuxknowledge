@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups
-actualizado: 2026-08-09
+actualizado: 2026-09-24
 ---
 
 # 2 — Writeups
@@ -10,11 +10,12 @@ actualizado: 2026-08-09
 
 Writeups de retos de CTF resueltos, organizados por plataforma. Cada
 writeup documenta técnica, recorrido y errores cometidos — pensados para
-repetir el reto en frío, no para tener la flag a mano.
+repetir el reto en frío, no para tener la flag a mano. El índice de PentraZE 2026 conserva únicamente los retos completados.
 
 ## Contenido
 
 - [[_picoCTF|picoCTF]] — retos de la plataforma picoCTF, por categoría.
+- [[_PentraZE 2026|PentraZE CTF 2026]] — MOC y write-ups de los retos completados.
 
 ## Navegación
 

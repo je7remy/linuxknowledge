@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: vault-root
-actualizado: 2026-05-30
+actualizado: 2026-09-24
 ---
 
 # Index — Catálogo del Vault
@@ -25,7 +25,7 @@ Para instrucciones operativas del LLM, ver [[CLAUDE]].
 | [[_06-Publicaciones-Linkedin\|06 — Publicaciones LinkedIn]] | 2 | Posts redactados para divulgación |
 | [[_07- Inteligencia-Artificial\|07 — Inteligencia Artificial]] | 47 | Cursos IA Google + Microsoft Reactor |
 
-**Totales:** 1470 archivos `.md` · 318 indexes · 5704 wikilinks · 0 huérfanas.
+**Totales (conteo local):** 1566 archivos `.md` · 350 indexes · 8243 wikilinks · huérfanas: pendientes de lint.
 
 ## Archivos sistema (raíz del vault)
 
@@ -127,7 +127,7 @@ Subdivisiones principales:
 - [[_6- Forense Digital|Forense digital]] · [[_7- Cifrado y Criptografía en Python|Criptografía Python]]
 - [[_8- Amenazas de CIberataques Impulsados por IA|Amenazas IA]]
 - [[_0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD|Entrevista técnica]]
-- [[_9- CTF|CTF (Pentraze 2026)]] — metodología y writeups de picoCTF.
+- [[_9- CTF|CTF (Pentraze 2026)]] — metodología, write-ups de picoCTF y [[PentraZE CTF 2026 - MOC|MOC del evento PentraZE]].
 
 ## Sección 03 — Desarrollo
 

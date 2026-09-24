@@ -1,6 +1,6 @@
 ---
 tipo: log
-actualizado: 2026-08-22
+actualizado: 2026-09-24
 ---
 
 # Bitácora del Vault — linuxknowledge
@@ -20,6 +20,26 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 ```powershell
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
+
+## [2026-09-24] refactor | Limpieza de retos pendientes de PentraZE 2026
+
+Se eliminaron los 35 stubs de retos no completados y se retiraron sus enlaces
+del MOC, de los índices de categoría y de los índices de dificultad. La carpeta
+[[_PentraZE 2026]] conserva únicamente los 9 write-ups resueltos; las vistas
+vacías permanecen como índices de navegación sin enlaces a retos pendientes.
+
+## [2026-09-24] ingest | PentraZE CTF 2026: MOC, 9 write-ups y 35 stubs
+
+Se creó la carpeta `02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/` con
+58 notas Markdown: [[PentraZE CTF 2026 - MOC]], el índice de carpeta, siete
+índices de categoría, cinco índices de dificultad, nueve write-ups resueltos y
+35 stubs pendientes. El MOC centraliza los 44 retos del evento (9/44 completados)
+y ofrece vistas por categoría y dificultad con estadísticas consistentes.
+Se normalizaron las dificultades usando la lista final del documento: HooKitty,
+Eco Persistente, MATRIOSKA y SoftDat Technology quedan como Easy; [[Writeup - MATRIOSKA]]
+conserva una nota sobre la discrepancia de la ficha original. También se
+actualizaron [[_2- Writeups|2- Writeups]], [[_9- CTF|9- CTF]], el índice de
+[[_picoCTF|picoCTF]] y el catálogo [[index]].
 
 ## [2026-08-22] ingest | Writeup GDB baby step 1 (análisis estático + trampa del exit code truncado)
 
