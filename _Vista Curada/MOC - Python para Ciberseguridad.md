@@ -1,7 +1,7 @@
 ---
 tipo: teoria
 tags: [moc, python, ciberseguridad, scripting]
-actualizado: 2026-05-30
+actualizado: 2026-10-18
 ---
 
 # MOC — Python para Ciberseguridad
@@ -95,6 +95,14 @@ Cada uno como ejercicio dentro del curso o como lab independiente:
 | GUIs | no aplica | ✅ PyQt |
 | Procesamiento estructurado (JSON/XML) | difícil | ✅ ideal |
 | Portabilidad cross-OS | unix only | ✅ multiplataforma |
+
+## Casos de automatización en PentraZE
+
+- [[Writeup - Factura Fantasma]] — sesión `requests` y consultas SQLi con parsing JSON.
+- [[Writeup - Nozama Store]] — reutilizar cookies y solapar peticiones con `ThreadPoolExecutor`; comprobar saldo y orden tras la carrera.
+- [[Writeup - Eco Persistente]] y [[Writeup - Data Del Más Allá]] — dos bibliotecas diferentes para [[WebSocket]], mensajes de autenticación y respuestas de aplicación.
+- [[Writeup - SMBiablo]] — `struct` y pwntools para paquetes binarios; el código de la fuente está incompleto y se conserva como fragmento.
+- [[Writeup - Lives 9, Backups 0]] — ordenado y decodificación de fragmentos DNS; el script concreto no está en el Word.
 
 ## Navegación
 

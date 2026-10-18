@@ -1,7 +1,7 @@
 ---
 tipo: teoria
 tags: [dns, networking, entity-page, redes]
-actualizado: 2026-05-30
+actualizado: 2026-10-18
 ---
 
 # DNS — Domain Name System
@@ -173,6 +173,13 @@ empresas con múltiples Active Directories.
 - [[Networking|Networking (entity page)]] — DNS como capa L7.
 - [[MOC - Networking del Pentester|MOC - Networking]] — DNS en pentesting.
 - [[OSINT]] — DNS en reconocimiento.
+
+## Casos aplicados de PentraZE
+
+- [[Writeup - HooKitty]] — dos resoluciones separan validación y uso: una IP pública supera el filtro y la segunda apunta a loopback. Conectar con [[Race Condition|el patrón de comprobación y uso]].
+- [[Writeup - Lives 9, Backups 0]] — los nombres consultados transportan fragmentos Base32 hacia `exfil.cthulhu.net`. Los rastros se recuperaron de memoria con [[Volatility 3]], no de una nueva captura de tráfico.
+
+Ambos casos exigen interpretar el nombre y su contexto. En HooKitty importa el destino resuelto; en Lives, los datos incluidos en las etiquetas del nombre. No son el mismo ataque DNS.
 
 ## CVEs notables relacionados con DNS
 

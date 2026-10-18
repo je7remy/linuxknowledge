@@ -1,7 +1,8 @@
 ---
 tipo: indice
+tags: [bases-de-datos, sql]
 seccion: 03-Desarrollo/1- Bases de Datos
-actualizado: 2026-05-28
+actualizado: 2026-10-18
 ---
 
 # 1- Bases de Datos
@@ -10,6 +11,7 @@ actualizado: 2026-05-28
 ## Notas en esta carpeta
 
 - [[SQL]]
+- [[PostgreSQL]] — privilegios por operación y seguridad de identidades; caso La Receta.
 
 ---
 

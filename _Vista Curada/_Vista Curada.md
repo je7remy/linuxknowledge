@@ -1,7 +1,8 @@
 ---
 tipo: indice
+tags: [moc, conocimientos, navegacion]
 seccion: _Vista Curada
-actualizado: 2026-05-30
+actualizado: 2026-10-18
 ---
 
 # Vista Curada — MOCs, Entity Pages y Síntesis
@@ -37,7 +38,7 @@ de trabajo, no por carpeta:
 - [[MOC - Cloud Security]] — AWS/Azure/GCP: IAM, buckets, metadata
   service, CSPM/CWPP/CIEM.
 
-## Entity Pages — 12
+## Entity Pages — 15
 
 Definiciones unificadoras de los conceptos centrales del dominio:
 
@@ -53,6 +54,9 @@ Definiciones unificadoras de los conceptos centrales del dominio:
 - [[Authentication]] — Autenticación: factores, MFA, Kerberos, OAuth, FIDO2.
 - [[VPN]] — Virtual Private Networks: WireGuard, OpenVPN, IPsec, ZTNA.
 - [[Wireshark]] — Packet analyzer: filtros, statistics, casos forenses.
+- [[SQL Injection]] — UNION, stacked queries y permisos: Factura Fantasma y La Receta.
+- [[Race Condition]] — concurrencia, atomicidad y comparación de Nozama con HooKitty.
+- [[WebSocket]] — protocolo, mensajes y autorización: Eco Persistente y Data Del Más Allá.
 
 ## Síntesis cross-dominio — 6
 

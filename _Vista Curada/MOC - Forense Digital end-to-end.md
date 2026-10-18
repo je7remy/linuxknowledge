@@ -1,7 +1,7 @@
 ---
 tipo: teoria
 tags: [moc, forense-digital, dfir, defensa]
-actualizado: 2026-05-30
+actualizado: 2026-10-18
 ---
 
 # MOC — Forense Digital end-to-end
@@ -68,7 +68,9 @@ Reporte forense para abogados, ejecutivos, autoridades.
 - [[_6- Forense Digital|6- Forense Digital]] — sección completa con:
   - [[1- Investigación de Spear Phishing - Caso Luxury Design JFK|Caso Spear Phishing JFK]]
   - [[2- Introducción Práctica y Demostración|Introducción práctica forense]]
-  - [[_3- Caso Practico, Un hacker entró a mi equipo|Caso: Hacker en mi equipo]]
+  - [[4- Caso Practico, Un hacker entró a mi equipo|Caso: Hacker en mi equipo]]
+  - [[Volatility 3]] — referencia de análisis de memoria Windows.
+  - [[Writeup - Lives 9, Backups 0]] — ransomware, exfiltración DNS y secreto residual en RAM; cuatro preguntas completadas.
 - [[_2- Extraer Metadatos de imagenes|2- Extraer Metadatos de imágenes]] —
   ExifTool para metadata forensics.
 

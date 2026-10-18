@@ -1,14 +1,15 @@
 ---
 tipo: indice
+tags: [ctf, metodologia]
 seccion: 02-Ciberseguridad/9- CTF/1- Metodologia
-actualizado: 2026-08-22
+actualizado: 2026-10-18
 ---
 
 # 1 — Metodología
 
 🏠 [[🔒🐧Hub|Hub Principal del vault]]
 
-Marcos mentales y cheatsheets reutilizables para abordar retos de CTF web,
+Marcos mentales y cheatsheets reutilizables para abordar retos de CTF web, forense y binarios,
 independientes de un reto concreto. Se leen antes de entrar a un writeup
 en [[_2- Writeups|2- Writeups]] y se consultan durante la resolución.
 
@@ -23,6 +24,15 @@ en [[_2- Writeups|2- Writeups]] y se consultan durante la resolución.
 - [[SSTI - de la detección al RCE en Jinja2]] — de la detección de una plantilla evaluada al escape del sandbox y RCE en Jinja2/Flask.
 - [[Leer el código fuente - view-source, desminificado y señuelos]] — código fuente vs. página renderizada, desminificado/beautify y patrón de descarte de señuelos casi idénticos.
 - [[Reversing - de leer código fuente a desensamblar binarios]] — la escalera de ingeniería inversa, del código fuente legible al binario que exige un desensamblador (Ghidra o gdb), incluida la trampa del exit status truncado a 8 bits.
+- [[Stack Buffer Overflow y ret2libc]] — desbordamiento, leak, GOT, libc, ASLR/NX y cadena ROP en SMBiablo.
+
+## Conocimientos aplicados en la segunda ronda
+
+- [[SQL Injection]] y [[PostgreSQL]] — enumeración y permisos de escritura.
+- [[Race Condition]] — atomicidad y pruebas concurrentes.
+- [[Volatility 3]] — reconstrucción de procesos y datos desde RAM.
+- [[WebSocket]] — mensajes de aplicación y autorización por sesión.
+- [[PentraZE CTF 2026 - Ronda 2]] — casos y conexiones con la primera ronda.
 
 ## Navegación
 

@@ -1,7 +1,7 @@
 ---
 tipo: cheatsheet
 tags: [ctf, picoctf, reverse-engineering, java, ghidra, gdb, strings, metodologia]
-actualizado: 2026-08-22
+actualizado: 2026-10-18
 ---
 
 # Reversing — de leer código fuente a desensamblar binarios
@@ -102,6 +102,12 @@ cuando hace falta el valor exacto.
 - [[GDB baby step 1]] — ejemplo del peldaño 4 en su versión ligera: sin
   código fuente, valor de retorno hardcodeado localizado con
   `disassemble` y `print`, y la trampa del exit status truncado a 8 bits.
+- [[Writeup - SMBiablo]] — ELF x86-64 con símbolos: `objdump` muestra cómo el contador de dialectos controla `memcpy`; se combina una filtración GOT con [[Stack Buffer Overflow y ret2libc]].
+- [[Writeup - Data Del Más Allá]] — PE32+ x86-64: `strings` revela [[WebSocket]] y mensajes, mientras el desensamblado permite reconocer SHA-256 y una clave XOR. Se reconstruye autenticación, sin demostrar explotación de heap.
+
+## Elegir la evidencia según el objetivo
+
+En SMBiablo interesa demostrar control de flujo y ejecución; en Data interesa reconstruir exactamente los bytes de entrada al hash y la autorización del comando. Las cadenas de depuración, una longitud sospechosa o una descripción que menciona heap son pistas, no una prueba de corrupción de memoria. Los dos scripts del Word tienen fragmentos incompletos señalados en sus notas.
 
 ---
 
@@ -109,6 +115,7 @@ cuando hace falta el valor exacto.
 
 - ⬆️ Carpeta padre: [[_1- Metodologia|1- Metodologia]]
 - ⬅️ Anterior: [[Leer el código fuente - view-source, desminificado y señuelos]]
+- ➡️ Siguiente: [[Stack Buffer Overflow y ret2libc]]
 
 ## Relacionadas
 

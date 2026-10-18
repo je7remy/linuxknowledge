@@ -1,7 +1,7 @@
 ---
 tipo: teoria
 tags: [authentication, autenticacion, entity-page, identidad, iam]
-actualizado: 2026-05-30
+actualizado: 2026-10-18
 ---
 
 # Authentication — Autenticación
@@ -192,6 +192,18 @@ from argon2 import PasswordHasher
 ph = PasswordHasher()
 pw_hash = ph.hash(password)
 ```
+
+## Casos aplicados de PentraZE
+
+| Caso | Qué se reutiliza | Frontera que falló |
+|---|---|---|
+| [[Writeup - Pentra CMS]] | Seguir origen y exposición de credenciales | Backup accesible con secretos administrativos |
+| [[Writeup - SoftDat Technology]] | Reconocer cómo se transporta el token | JWT administrativo distribuido en JavaScript |
+| [[Writeup - La Receta]] | Separar firma válida de rol confiable | INSERT en la tabla de identidad permitió emitir un JWT admin legítimo |
+| [[Writeup - Eco Persistente]] | Validar tipos de credenciales y cada mensaje | Operador NoSQL en una entrada de autenticación |
+| [[Writeup - Data Del Más Allá]] | Reconstruir derivación de tokens y datos de sesión | Secreto recuperable del cliente PE mediante XOR |
+
+La comparación permite distinguir credenciales expuestas, consultas vulnerables y diseños de autorización reproducibles por el cliente. [[SQL Injection]] y [[WebSocket]] reúnen las técnicas compartidas.
 
 ## Navegación
 

@@ -4,7 +4,7 @@ tags: [ctf, pentraze, dificultad, easy]
 Plataforma: "Pentraze CTF"
 Estado: "Solo completados"
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026
-actualizado: 2026-09-24
+actualizado: 2026-10-18
 ---
 # CTF - Easy
 
@@ -13,22 +13,25 @@ actualizado: 2026-09-24
 
 ## Progreso
 
-- **Total:** 6
-- **Completados:** 6
+- **Total:** 7
+- **Completados:** 7
 - **Pendientes:** 0
-- **Progreso:** 6/6
+- **Progreso:** 7/7
 
 ## Retos completados
 
 
 | Reto | Categoría | Puntos | Nota |
 |---|---|---:|---|
-| [[Writeup - Pentra CMS|Pentra CMS]] | [[CTF - Web|Web]] | 25 | [[Writeup - Pentra CMS|Pentra CMS]] |
-| [[Writeup - SoftDat Technology|SoftDat Technology]] | [[CTF - Web|Web]] | 25 | [[Writeup - SoftDat Technology|SoftDat Technology]] |
-| [[Writeup - HooKitty|HooKitty]] | [[CTF - Web|Web]] | 50 | [[Writeup - HooKitty|HooKitty]] |
-| [[Writeup - Eco Persistente|Eco Persistente]] | [[CTF - Web|Web]] | 25 | [[Writeup - Eco Persistente|Eco Persistente]] |
-| [[Writeup - Xouroboros|Xouroboros]] | [[CTF - Crypto|Crypto]] | 25 | [[Writeup - Xouroboros|Xouroboros]] |
-| [[Writeup - MATRIOSKA|MATRIOSKA]] | [[CTF - Crypto|Crypto]] | 50 | [[Writeup - MATRIOSKA|MATRIOSKA]] |
+| [[Writeup - Pentra CMS\|Pentra CMS]] | [[CTF - Web\|Web]] | 25 | [[Writeup - Pentra CMS\|Pentra CMS]] |
+| [[Writeup - SoftDat Technology\|SoftDat Technology]] | [[CTF - Web\|Web]] | 25 | [[Writeup - SoftDat Technology\|SoftDat Technology]] |
+| [[Writeup - HooKitty\|HooKitty]] | [[CTF - Web\|Web]] | 50 | [[Writeup - HooKitty\|HooKitty]] |
+| [[Writeup - Eco Persistente\|Eco Persistente]] | [[CTF - Web\|Web]] | 25 | [[Writeup - Eco Persistente\|Eco Persistente]] |
+| [[Writeup - Xouroboros\|Xouroboros]] | [[CTF - Crypto\|Crypto]] | 25 | [[Writeup - Xouroboros\|Xouroboros]] |
+| [[Writeup - MATRIOSKA\|MATRIOSKA]] | [[CTF - Crypto\|Crypto]] | 50 | [[Writeup - MATRIOSKA\|MATRIOSKA]] |
+| [[Writeup - La Receta\|La Receta]] | [[CTF - Web\|Web]] | No documentados | [[Writeup - La Receta]] |
+
+La Receta pertenece a [[PentraZE CTF 2026 - Ronda 2]]; «Fácil» en la fuente se normaliza a Easy, como en la primera ronda.
 
 ## Navegación
 

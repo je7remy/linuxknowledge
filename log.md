@@ -1,6 +1,7 @@
 ---
 tipo: log
-actualizado: 2026-09-24
+tags: [bitacora]
+actualizado: 2026-10-18
 ---
 
 # Bitácora del Vault — linuxknowledge
@@ -20,6 +21,27 @@ Donde `op` es una de: `ingest` (nueva fuente), `query` (pregunta respondida),
 ```powershell
 Select-String "^## \[" log.md | Select-Object -Last 5
 ```
+
+## [2026-10-18] ingest | PentraZE 2026 — segunda ronda desde ctf.docx
+
+Integrados [[Writeup - La Receta]], [[Writeup - Lives 9, Backups 0]],
+[[Writeup - Nozama Store]], [[Writeup - SMBiablo]] y [[Writeup - Data Del Más Allá]]
+en la carpeta existente del evento, con [[PentraZE CTF 2026 - Ronda 2]] y
+seis notas técnicas conectadas a la primera ronda. Los nueve write-ups anteriores
+conservan sus bytes. Lives mantiene sus cuatro preguntas completadas; la flag
+final queda por incorporar. Los fragmentos incompletos de SMBiablo y Data están
+señalados. Fuente original preservada en `assets/PentraZE-2026-ronda-2/ctf.docx`.
+
+## [2026-10-18] lint | Verificación de integración PentraZE ronda 2
+
+Verificados YAML, destinos y encabezados de wikilinks, cinco write-ups sin
+duplicados, bloques Python mediante AST, cobertura de 78 bloques y seis tablas,
+flags literales y conectividad CTF. Un componente conectado, sin notas aisladas.
+Las referencias históricas sin nota quedan detalladas en
+[[Informe de integración - PentraZE 2026 Ronda 2]]. La carpeta de publicación
+`/home/je7remy/repos/linuxknowledge` mantiene su inventario, hashes, permisos y
+fechas de modificación. Respaldo completo e inventarios en
+`/home/je7remy/Documentos/Respaldos-Obsidian/pentraze-ronda2-20261018-110032`.
 
 ## [2026-09-24] refactor | Limpieza de retos pendientes de PentraZE 2026
 

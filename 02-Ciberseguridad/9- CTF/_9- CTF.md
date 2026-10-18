@@ -1,7 +1,8 @@
 ---
 tipo: indice
+tags: [ctf, metodologia, writeups]
 seccion: 02-Ciberseguridad/9- CTF
-actualizado: 2026-09-24
+actualizado: 2026-10-18
 ---
 
 # 9 — CTF
@@ -20,6 +21,7 @@ Forensics. Esta carpeta separa la **metodología** reutilizable de los
 - [[_1- Metodologia|1- Metodología]] — marcos mentales y cheatsheets independientes de un reto concreto.
 - [[_2- Writeups|2- Writeups]] — retos resueltos, organizados por plataforma y categoría.
 - [[PentraZE CTF 2026 - MOC]] — índice de los retos completados de PentraZE 2026.
+- [[PentraZE CTF 2026 - Ronda 2]] — cinco nuevos write-ups; cuatro flags documentadas y Lives con 4/4 preguntas completadas, a falta de incorporar su flag.
 
 ## Navegación
 
@@ -28,5 +30,5 @@ Forensics. Esta carpeta separa la **metodología** reutilizable de los
 ## Relacionadas
 
 - [[MOC - Web Pentesting OWASP]] — marco profesional de pentesting web que complementa el enfoque CTF.
-- [[_6- Forense Digital|6- Forense Digital]] — categoría del vault que se conectará con retos de Forense Digital de Pentraze.
+- [[_6- Forense Digital|6- Forense Digital]] — investigación de RAM aplicada en [[Writeup - Lives 9, Backups 0]].
 - [[_1- Cracking|1- Cracking]] — cracking de hashes con Hashcat, técnica transversal a varias categorías del evento.

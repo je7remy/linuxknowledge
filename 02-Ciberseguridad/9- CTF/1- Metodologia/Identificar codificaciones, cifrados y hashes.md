@@ -1,7 +1,7 @@
 ---
 tipo: cheatsheet
 tags: [ctf, criptografia, codificacion, hashing, cheatsheet, pentraze]
-actualizado: 2026-08-09
+actualizado: 2026-10-18
 ---
 
 # Identificar codificaciones, cifrados y hashes
@@ -41,6 +41,12 @@ es un hash irreversible.
   Ver [[Scavenger Hunt]].
 
 <!-- PEGAR AQUÍ TABLAS DE EJEMPLOS -->
+
+## Casos conectados de PentraZE
+
+- [[Writeup - Lives 9, Backups 0]]: Base32 reconstruyó 83 fragmentos de datos DNS, pero no volvió legible el binario recuperado. El secreto se encontró en RAM; la plataforma aceptó el hexadecimal original, no su traducción ASCII. Decodificar no equivale a descifrar ni a respetar el formato de respuesta.
+- [[Writeup - Data Del Más Allá]]: XOR con `0x5A` desofuscó una clave; después SHA-256 produjo un digest cuyo hexadecimal se truncó a 16 caracteres. El truncamiento explica por qué un token basado en SHA-256 no tenía 64 caracteres: la longitud es una pista, no una identificación concluyente.
+- [[Writeup - Xouroboros]]: XOR permitió recuperar un keystream reutilizado. Comparar ese ataque criptográfico con una ofuscación fija evita atribuir la misma causa raíz a ambas operaciones.
 
 ---
 

@@ -24,20 +24,21 @@
             }
           },
           {
-            "id": "e1115bb53cd2af19",
+            "id": "c950730e6a4070ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - HooKitty.md",
+                "file": "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - Data Del Más Allá.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writeup - HooKitty"
+              "title": "Writeup - Data Del Más Allá"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,16 +222,24 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c950730e6a4070ae",
   "lastOpenFiles": [
-    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - HooKitty.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - Eco Persistente.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/PentraZE CTF 2026 - MOC.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - Data Del Más Allá.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - SMBiablo.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - SoftDat Technology.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - VaultBridge.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - Xouroboros.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - Pentra CMS.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - HooKitty.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - Escaperoom.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Introductory.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Medium.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Web.md",
+    "🔒🐧Hub.md",
+    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/PentraZE CTF 2026 - MOC.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Reversing.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Misc.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Medium.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Introductory.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Hard.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - GamePwn.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Forensics.md",
@@ -238,17 +247,9 @@
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Easy.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Crypto.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/CTF - Binary Exploitation.md",
-    "🔒🐧Hub.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Lexnova Associates.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Inferno Messenger.md",
     "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Firmware Calamar #1.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Rescate Ransom.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Writeup - Factura Fantasma.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026/Mi Amigo El Calamar.md",
-    "02-Ciberseguridad/9- CTF/1- Metodologia/Barrer un parámetro - bucle, Burp Intruder y Caido.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Web Exploitation/Cookies.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Web Exploitation/Scavenger Hunt.md",
-    "02-Ciberseguridad/9- CTF/2- Writeups/picoCTF/Reverse Engineering/GDB baby step 1.md",
     "linuxknowledge.png",
     "06-Publicaciones-Linkedin/3- Glosario de Ciberseguridad.pdf",
     "assets/linuxknowledge-feeds.opml",

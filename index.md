@@ -1,7 +1,8 @@
 ---
 tipo: indice
+tags: [indice, navegacion]
 seccion: vault-root
-actualizado: 2026-09-24
+actualizado: 2026-10-18
 ---
 
 # Index — Catálogo del Vault
@@ -25,7 +26,7 @@ Para instrucciones operativas del LLM, ver [[CLAUDE]].
 | [[_06-Publicaciones-Linkedin\|06 — Publicaciones LinkedIn]] | 2 | Posts redactados para divulgación |
 | [[_07- Inteligencia-Artificial\|07 — Inteligencia Artificial]] | 47 | Cursos IA Google + Microsoft Reactor |
 
-**Totales (conteo local):** 1566 archivos `.md` · 350 indexes · 8243 wikilinks · huérfanas: pendientes de lint.
+**Conteo histórico anterior a la integración del 2026-10-18:** 1566 archivos `.md` · 350 indexes · 8243 wikilinks. La auditoría del conjunto CTF actualizado está en [[Informe de integración - PentraZE 2026 Ronda 2]].
 
 ## Archivos sistema (raíz del vault)
 
@@ -86,6 +87,7 @@ Definiciones unificadoras de los conceptos centrales del dominio:
   passkeys.
 - [[VPN]] — Virtual Private Networks: WireGuard, OpenVPN, IPsec, ZTNA.
 - [[Wireshark]] — Packet analyzer: filtros, casos forenses, alternativas.
+- [[SQL Injection]] · [[Race Condition]] · [[WebSocket]] — conceptos que conectan las rondas de PentraZE.
 
 ## Notas de síntesis cross-dominio
 
@@ -128,10 +130,13 @@ Subdivisiones principales:
 - [[_8- Amenazas de CIberataques Impulsados por IA|Amenazas IA]]
 - [[_0- Cómo PREPARAR una ENTREVISTA TÉCNICA para un Puesto de CIBERSEGURIDAD|Entrevista técnica]]
 - [[_9- CTF|CTF (Pentraze 2026)]] — metodología, write-ups de picoCTF y [[PentraZE CTF 2026 - MOC|MOC del evento PentraZE]].
+- [[PentraZE CTF 2026 - Ronda 2]] — [[Writeup - La Receta]], [[Writeup - Lives 9, Backups 0]], [[Writeup - Nozama Store]], [[Writeup - SMBiablo]] y [[Writeup - Data Del Más Allá]].
+- [[Volatility 3]] · [[Stack Buffer Overflow y ret2libc]] — referencias nuevas de análisis de memoria y explotación binaria.
 
 ## Sección 03 — Desarrollo
 
 - [[_1- Bases de Datos|Bases de Datos (MySQL Workbench)]]
+- [[PostgreSQL]] — permisos y protección de tablas de identidad, conectado con La Receta.
 - [[_2- Tesis Universitaria|Tesis Universitaria]] — Sistema de Gestión de Citas Médicas (SGCM).
 - [[_3- Proyecto Web|Proyecto Web]] — Backend Python + FastAPI.
 

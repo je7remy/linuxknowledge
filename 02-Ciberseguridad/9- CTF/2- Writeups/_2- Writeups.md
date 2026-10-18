@@ -1,7 +1,8 @@
 ---
 tipo: indice
+tags: [ctf, writeups]
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups
-actualizado: 2026-09-24
+actualizado: 2026-10-18
 ---
 
 # 2 — Writeups
@@ -16,6 +17,7 @@ repetir el reto en frío, no para tener la flag a mano. El índice de PentraZE 2
 
 - [[_picoCTF|picoCTF]] — retos de la plataforma picoCTF, por categoría.
 - [[_PentraZE 2026|PentraZE CTF 2026]] — MOC y write-ups de los retos completados.
+- [[PentraZE CTF 2026 - Ronda 2]] — SQLi, forense de RAM, concurrencia y dos retos PWN; Lives conserva sus 4/4 preguntas completadas y su flag documental pendiente.
 
 ## Navegación
 
@@ -24,5 +26,5 @@ repetir el reto en frío, no para tener la flag a mano. El índice de PentraZE 2
 ## Relacionadas
 
 - [[_1- Metodologia|1- Metodologia]] — marcos y cheatsheets que se aplican en estos writeups.
-- [[_6- Forense Digital|6- Forense Digital]] — categoría del vault relacionada con futuros writeups de forense.
+- [[_6- Forense Digital|6- Forense Digital]] — casos de memoria conectados con [[Volatility 3]] y Lives.
 - [[_1- Cracking|1- Cracking]] — cracking de hashes, técnica recurrente en retos web y forense.

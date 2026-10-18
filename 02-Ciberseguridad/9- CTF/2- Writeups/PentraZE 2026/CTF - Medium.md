@@ -4,7 +4,7 @@ tags: [ctf, pentraze, dificultad, medium]
 Plataforma: "Pentraze CTF"
 Estado: "Solo completados"
 seccion: 02-Ciberseguridad/9- CTF/2- Writeups/PentraZE 2026
-actualizado: 2026-09-24
+actualizado: 2026-10-18
 ---
 # CTF - Medium
 
@@ -13,18 +13,21 @@ actualizado: 2026-09-24
 
 ## Progreso
 
-- **Total:** 2
-- **Completados:** 2
+- **Total:** 3
+- **Completados:** 3
 - **Pendientes:** 0
-- **Progreso:** 2/2
+- **Progreso:** 3/3
 
 ## Retos completados
 
 
 | Reto | Categoría | Puntos | Nota |
 |---|---|---:|---|
-| [[Writeup - VaultBridge|VaultBridge]] | [[CTF - Web|Web]] | 50 | [[Writeup - VaultBridge|VaultBridge]] |
-| [[Writeup - Factura Fantasma|Factura Fantasma]] | [[CTF - Web|Web]] | 100 | [[Writeup - Factura Fantasma|Factura Fantasma]] |
+| [[Writeup - VaultBridge\|VaultBridge]] | [[CTF - Web\|Web]] | 50 | [[Writeup - VaultBridge\|VaultBridge]] |
+| [[Writeup - Factura Fantasma\|Factura Fantasma]] | [[CTF - Web\|Web]] | 100 | [[Writeup - Factura Fantasma\|Factura Fantasma]] |
+| [[Writeup - Nozama Store\|Nozama Store]] | [[CTF - Web\|Web]] | 100 | [[Writeup - Nozama Store]] |
+
+Nozama Store pertenece a [[PentraZE CTF 2026 - Ronda 2]].
 
 ## Navegación
 
